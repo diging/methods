@@ -1,0 +1,1 @@
+AB In this paper, we review some fundamental aspects, as well as some new developments, in the emerging field of network biology. The focus of attention is placed on mathematical approaches to conceptual modeling of biomolecular networks with special emphasis on dynamic stability, stochasticity and evolution. Published by Elsevier Ltd.

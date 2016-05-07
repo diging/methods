@@ -1,0 +1,1 @@
+AB Simulations of the effects of DNA polymorphisms, transcriptional noise, and epigenetic differences within and among populations suggest highly divergent responses to drug dosage, resulting in considerable risk of adverse effects. These findings highlight the need for personalized calibration of drug dosage.

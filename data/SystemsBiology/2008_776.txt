@@ -1,0 +1,1 @@
+AB Valid models are the foundation of systems biology. However, even well-established models may warrant reassessment. A testable feature of the currently accepted vacuolar model for fructan biosynthesis is its independence from metabolic energy at substrate level. The effects of limiting energy provision on fructan biosynthesis in grass leaves were determined.

@@ -1,0 +1,1 @@
+AB Background: We consider cells as biological systems that process information by means of molecular codes. Many studies analyze cellular information processing exclusively in syntactic terms (e.g., by measuring Shannon entropy of sets of macromolecules), and abstract completely from semantic aspects that are related to the meaning of molecular information.

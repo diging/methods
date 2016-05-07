@@ -1,0 +1,1 @@
+AB This paper, addressed primarily to engineers and mathematicians with an interest in control theory, argues that entirely new theoretical problems arise naturally when addressing questions in the field of systems biology. Examples fromthe author's recent work are used to illustrate this point.

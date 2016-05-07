@@ -1,0 +1,1 @@
+AB A methodological argument for a language oriented research frame-work is presented. The framework supports the transparent and explicit expert-mentation with model fragments from systems biology on one hand and from computer science and engineering on the other hand. It allows to effectively combine theoretical and experimental approaches to systems biology.

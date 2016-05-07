@@ -1,0 +1,1 @@
+AB Motivation: Biochemical networks often yield interesting behavior such as switching, oscillation and chaotic dynamics. This article describes a tool that is capable of searching for bifurcation points in arbitrary ODE-based reaction networks by directing the user to regions in the parameter space, where such interesting dynamical behavior can be observed.

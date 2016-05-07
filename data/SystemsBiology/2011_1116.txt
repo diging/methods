@@ -1,0 +1,1 @@
+AB Two metaheuristic methods for solving the p-ary transitive reduction (TR(p)) problem are proposed: a genetic algorithm and a reduced variable neighborhood search method. Experiments were performed on a set of randomly generated instances. Presented results are the first experimental results in the literature so far for values p > 2.

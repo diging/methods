@@ -1,0 +1,1 @@
+AB Motivation: Experimental and predicted data concerning gene transcriptional regulation are distributed among many heterogeneous sources. However, there are no resources to integrate these data automatically or to provide a 'one-stop shop' experience for users seeking information essential for deciphering and modeling gene regulatory networks.

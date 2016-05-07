@@ -1,0 +1,1 @@
+AB Synthetic biology aims to make the engineering of biology faster and more predictable. In contrast, systems biology focuses on the interaction of myriad components and how these give rise to the dynamic and complex behavior of biological systems. Here, we examine the synergies between these two fields.

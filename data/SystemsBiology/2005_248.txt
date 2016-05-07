@@ -1,0 +1,1 @@
+AB Motivation: As a first step toward the elucidation of the systems biology of complex biological systems, it was our goal to mathematically model common enzyme catalytic and regulatory mechanisms that repeatedly appear in biological processes such as signal transduction and metabolic pathways.

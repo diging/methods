@@ -1,0 +1,1 @@
+AB Background: Recent advances in molecular biology techniques provide an opportunity for developing detailed mathematical models of biological processes. An iterative scheme is introduced for model identification using available system knowledge and experimental measurements.

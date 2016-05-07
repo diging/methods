@@ -1,0 +1,1 @@
+AB The mathematical structures known as Petri Nets have recently become the focus of much research effort in both the structural and quantitative analysis of all kinds of biological networks. This review provides a very brief summary of these interesting new research directions.

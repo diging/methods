@@ -1,0 +1,1 @@
+AB Background: To elucidate the biological processes affected by changes in growth rate and nutrient availability, we have performed a comprehensive analysis of the transcriptome, proteome and metabolome responses of chemostat cultures of the yeast, Saccharomyces cerevisiae, growing at a range of growth rates and in four different nutrient-limiting conditions.

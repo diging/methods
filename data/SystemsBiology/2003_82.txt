@@ -1,0 +1,1 @@
+AB Positive and negative feedback loops are used throughout engineering to tradeoff between amplification and robustness. We shots how the social amoebae Dictyostelium discoideum uses these same principles to aggregate during starvation, allowing it to survive difficult environmental conditions.

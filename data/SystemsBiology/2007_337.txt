@@ -1,0 +1,1 @@
+AB Researchers at Cornell University have built an open source software system to model biomolecular reaction networks. SloppyCell is written in Python and uses third-party libraries extensively, but it also does some fun things with on-the-fly code generation and parallel programming.

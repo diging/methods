@@ -1,0 +1,1 @@
+AB Background: High throughput microarray technologies have afforded the investigation of genomes, epigenomes, and transcriptomes at unprecedented resolution. However, software packages to handle, analyze, and visualize data from these multiple 'omics disciplines have not been adequately developed.
