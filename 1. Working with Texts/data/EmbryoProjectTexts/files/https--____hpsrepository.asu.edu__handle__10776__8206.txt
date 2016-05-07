@@ -1,0 +1,256 @@
+By Valerie Racine
+Published: 2014-09-29
+Keywords: bricolage
+ Francois Jacob (1920-2013)François Jacob studied 
+	bacteria and bacteriophages at the Institut Pasteur in Paris, France,
+	in the second half of the twentieth century. In 1965, Jacob won the
+	Nobel Prize in Physiology or Medicine with André M. Lwoff and
+	Jacques L. Monod for their work on the genetic control of enzyme
+	synthesis. Jacob studied how genes control and regulate  metabolic
+	enzymes in the bacterium Escherichia
+	coli (E. coli) and in lysogenic
+	bacterial systems. He contributed to theories of transcriptional gene
+	regulation, the operon model, and the distinction between structural
+	and regulatory genes. Jacob also introduced the concept of
+	bricolage (tinkering) in evolutionary biology.
+Jacob
+	was born on 17 June 1920 in Nancy, France. He was the only child of
+	Thérèse Franck and Simon Jacob, a businessman. At the
+	age of three, Jacob and his family moved to Paris, where he attended
+	primary and secondary school at the Lycée Carnot in Paris
+	from 1927 to 1937. His mother and his maternal grandfather, a
+	decorated general whom Jacob later said he admired, were both
+	secular Jews, but Jacob said that he became an atheist after his bar
+	mitzvah. He later noted that he did not enjoy his time in school as he
+	felt continually stressed by his peers' competitive attitudes. After
+	his graduation from the Lycée, Jacob studied medicine at the
+	Université de Paris Pierre et Marie Curie in Paris, France.
+	He said that he was inspired to become a surgeon after observing the
+	remarkable precision of a surgery performed by one of his uncle's
+	friends.
+Jacob had completed two years in medical school
+	when, in June 1940, he left France to join the Free French Forces in
+	England. The Free French Forces were a collection of military units
+	organized by Charles de Gaulle in London, England, intended to
+	liberate France from German occupation during World War II. The
+	Forces participated in many campaigns during the World War II,
+	including some in North Africa and in the Middle East, as well as
+	the invasion of Normandy in 1944. Jacob's departure from
+	France coincided with the death of his mother, who died on 2 June
+	1940 from Hodgkin's disease. Jacob claimed that his mother's death
+	and the impending German occupation of France marked the end of his
+	childhood and the beginning of his adult life.
+During
+	World War II, Jacob served in North Africa, including Libya and
+	Tunisia, as a medical officer in the Forces. In August 1944, Jacob
+	was wounded in Normandy during his return to France. Jacob received
+	the highest military award in France, called Croix de la
+	Libération, for his service. However, because of his
+	wartime injuries, Jacob would no longer be a surgeon. Nonetheless,
+	he completed his medical studies and submitted a doctoral thesis in
+	medicine in 1947, focused on the effectiveness of the antibiotic
+	Tyrothricin. In the same year, Jacob married Lysiane Bloch, a
+	pianist, with whom he would have four children.
+The following
+	three years were a difficult time, according to Jacob. No longer
+	having surgery as a career option, Jacob was uncertain about his
+	next pursuits. He took a position at the Cabanel Center, a former
+	gunpowder factory converted into an antibiotics factory after the war. Jacob said that this was a futile project, as the
+	large vats in the factory used to manufacture gunpowder were never
+	suited to produce viable antibiotics as the vats had never been
+	sterilized. Instead of continuing to work in the antibiotics
+	industry, Jacob sought to move into a research setting. After he
+	requested to work in Lwoff's laboratory at the Institut Pasteur in
+	Paris, Jacob attained a research position in that laboratory in
+	1950. Four years later, he defended his doctorate degree in science on
+	lysogenic bacteria at the Sorbonne in Paris. In 1956, he
+	became laboratory director and was later selected as head of the
+	Department of Cell Genetics in 1960. In 1964, Jacob became pofessor
+	at the Collège de France in Paris.
+Jacob
+	collaborated with Élie L. Wollman beginning in 1954, a
+	partnership that resulted in their 1961 publication La
+		Sexualité des Bactéries (Sexuality and
+	the Genetics of Bacteria). The work presented their study on the
+	genetic mechanisms and properties of lysogenic bacteria, which are
+	bacteria that carry a viral genome within their own genomes.
+During the 1950s, while Jacob and Wollman researched in Lwoff's
+	laboratory on the viral properties in E. coli bacteria,
+	down the hall Monod's group
+	studied the properties of metabolic enzymes, or enzymes that
+	catalyse specific reactions in the cell, with the same species of bacteria. In
+	the summer of 1958, Jacob noted an analogy connecting the two
+	mechanisms studied at the opposite ends of the
+	institute. Both groups had constructed mechanistic models of gene expression
+	guiding the synthesis of particular structural proteins, and in both models there
+	existed an adjacent regulatory gene modulating the activity. In
+	1959, Jacob and Monod published "Gènes de structure et
+	gènes de regulation dans la biosynthèse des proteins"
+	(Structural Genes and Regulatory Genes in the Biosynthesis of
+	Proteins), in which they distinguished structural genes from
+	regulatory genes. Jacob's student, Michel Morange, later argued that
+	this distinction created a conceptual hierarchy among genes, which
+	enabled researchers to categorize genes and genetic elements
+	according to the different functional roles they play in the
+	cell.
+In 1961, Jacob and Monod published "Genetic Regulatory
+	Mechanisms in the Synthesis of Proteins," and through their discovery of enzyme
+	induction in E. coli, they introduced a logic
+	of gene regulation and expression. Jacob and Monod investigated how these
+	bacteria trigger the production of the enzymes that can metabolize
+	different sugars, such as the complex sugar lactose. E. coli
+	produce the enzyme, beta-galactosidase (β-gal), required to break
+	down lactose, only when lactose is present in their environment.
+Jacob and Monod discovered that a protein, which they called lac
+	repressor, binds to the gene that produces the required metabolic
+	enzyme and suppresses the gene's transcription and translation when
+	lactose is not present in the environment. When lactose is present,
+	the lac repressor protein detaches from the gene, and the gene's
+	transcription and translation are activated to produce the metabolic
+	enzyme, β-gal. Jacob and Monod concluded that these regulatory
+	proteins act as on/off switches in gene expression, controlling cell
+	physiology at different times and under different environmental
+	conditions during the cell's life cycle. Jacob and Monod named this
+	kind of structural-regulatory gene an operon, and they hypothesized
+	that this kind of ensemble represents a fundamental mechanism that
+	would be discovered in the cells of all living beings. They won the
+	Nobel Prize in 1965 for this discovery.
+Jacob continued to
+	work on gene regulation in the 1960s and 1970s, and in 1977 he
+	published "Evolution and Tinkering." In this essay, Jacob argued
+	that the process of evolution by natural selection is more akin to
+	bricolage (tinkering) than to engineering, an analogy he said was most
+	apparent at the molecular level where the diversity and the
+	underlying unity of life are most evident. Jacob argued that the
+	action of selection does not operate in the same manner as an
+	engineer accomplishes his designs. An engineer begins with a
+	preconceived plan, or a blueprint, and proceeds by choosing or
+	designing the required parts with the end product or function in
+	mind. A tinkerer, like natural selection, must rely on the
+	structurally and functionally imperfect parts of the world to
+	reconfigure viable systems into novel ones. The tinkerer's parts, as
+	opposed to the engineer's materials, have no pre-defined function.
+	Moreover, the tinkerer can and often does find appropriate existing
+	structures to add to other ones. For example, Jacob noted, the human
+	brain is the result of an imperfect patchwork of a structure
+	controlling visceral or emotional drives, the rhinencephalon, and a
+	structure controlling more sophisticated cognitive abilities, the
+	neo-cortex.
+Jacob stressed the consequence of this
+	dis-analogy between engineering and natural selection: evolution
+	does not produce new forms from scratch. Instead, it usually
+	transforms systems by reorganizing their components. Jacob argued
+	that this process has been ubiquitous in evolutionary history,
+	accounting for even major transitions such as the passage from
+	unicellular to multicellular organisms. Thus, the lesson for
+	biologists was to refrain from conceiving of natural selection as an
+	omnipotent, optimizing force, and to pay more attention to the
+	constraints of evolutionary history, including the molecular
+	machinery underlying all of life.
+In his autobiography, La
+	Statue Intérieure (The Statue Within), published in 1987, as
+	well as in a series of interviews conducted in the early
+	twenty-first century, Jacob reflected on his career as a scientist.
+	He claimed that Erwin Schrödinger's 1944 book What is Life?
+	had the most influence on his transition from a student and
+	practitioner of medicine to a scientific researcher in biology. He
+	also mentioned that Julian Huxley's 1940s work on Charles Darwin's
+	theory of evolution spurred his later interest in evolution.
+	Moreover, he was influenced by the Lysenko affair in the USSR, in which the soviet
+	director of biological research Trofim Lysenko rejected genetics as
+	it had developed from Gregor Mendel's 1866 theories and forbid any
+	scientists to study Mendelian genetics in the USSR.
+	Jacob said that it irked him that someone in power would manipulate or
+	distort science for political ends.
+In addition to his 1965
+	Nobel Prize, Jacob received the Charles Léopold Mayer prize from the Académie des Sciences in France in 1962, and he was also awarded
+	a seat in the Académie Française in 1996. Jacob became a
+	foreign member of the American Academy of Arts and Science and the
+	American Philosophical Society. He also received honorary degrees
+	from nineteen universities throughout the world. Jacob died on 19
+	April 2013. 
+ Sources Académie
+		Française. "François Jacob-Biographie" 
+		http://www.academie-francaise.fr/les-immortels/francois-jacob?
+		fauteuil=38&election=19-12-1996 (Accessed 27,
+		2013).
+Carroll, Sean B. Endless Forms Most Beautiful.
+		New York & London: W.W. Norton & Co., 2005.
+Darwin, Charles. On the Origin of Species by Means of
+		Natural Selection. London: John Murray, 1859. http://dx.doi.org/10.5962/bhl.title.68064
+		(Accessed September 25, 2014).
+Huxley, Julian. Evolution:
+		The Modern Synthesis. New York: Harper & Brothers,
+		1942.
+Jacob, François. La Logique du vivant, une
+		histoire de l'hérédité. (The Logic of Life:
+		A History of Heredity.) Pairs: Gallimard, 1970.
+Jacob, François. "Evolution and Tinkering." Science 196
+		(1977): 1161–1166.
+Jacob, François. The Possible and
+		the Actual. Seattle & London: University of Washington
+		Press, 1982.
+Jacob, François. La Statue
+		Intérieure. (The Statue Within: An Autobiography.) Paris:
+		Éditions Odile Jacob, 1987.
+Jacob, François. La
+		Souris, la Mouche et l'Homme. (On Flies, Mice, and Men.) Paris:
+		Éditions Odile Jacob, 1997.
+Jacob, François.
+		"The Birth of the Operon." Science 332 (2011): 767.
+Jacob, François, and Jacques Monod. "Gènes de
+		structure et gènes de regulation dans la
+		biosynthèse des proteins." (Genes of Structure and Genes
+		of Regulation in the 	Biosynthesis of Proteins.) Comptes
+		rendus hebdomadaires des séances de l'Académie des
+		sciences 249 (1959):1282–4.
+Jacob, François, and
+		Jacques Monod. "Genetic Regulatory Mechanisms in the Synthesis
+		of 	Proteins." Journal of Molecular Biology 3 (1961):
+		318–56.
+Jacob, François, and Élie L. Wollman. La
+		Sexualité des Bactéries. (Sexuality and the
+		Genetics of Bacteria.) Librairies de L'Académie de
+		Médecine, 1959.
+"Jacob, François (1920– )."
+		World of Microbiology and Immunology. Eds. Brenda Wilmoth Lerner
+		and K. Lee Lerner. Vol. 1. Detroit: Gale, 2003, 317–9.
+Laubichler, Manfred. "Tinkering: a Conceptual and Historical
+		Evaluation," in Tinkering: The Microevolution of Development,
+		Novartis Foundation Symposium 284.   New York: John Wiley,
+		2007, 29––34.
+Mendel, Gregor Johann. "Versuche über
+		Pflanzen-Hybriden" [Experiments Concerning Plant Hybrids]."
+		Verhandlungen des naturforschenden Vereines in Brünn
+		[Proceedings of the Natural History Society of Brünn] IV
+		(1865): 329–34.47. Reprinted in Fundamenta Genetica, ed. Jaroslav
+		Kříženecký, 1529–34.56. Prague: Czech Academy of
+		Sciences, 1966. http://www.mendelweb.org/Mendel.html (Accessed January 30, 2014).
+Morange, Michel. "Evolutionary development biology: its
+		roots and characteristics." Developmental Biology 357 (2011):
+		1329–34.6. 
+Nobel Foundation. "The Nobel Prize in Physiology or
+		Medicine 1965." http://www.nobelprize.org/nobel_prizes/medicine/
+		laureates/1965/ press.html  (Accessed January 27,
+		2013).
+Nobel Foundation. "François Jacob-Biography" http://www.nobelprize.org/nobel_prizes/medicine/
+		laureates/1965/ jacob.html# (Accessed January 27,
+		2013).
+Schrödinger, Erwin. What is life?. Cambridge &
+		New York: Cambridge University Press, 1944.  
+
+How to cite
+Racine, Valerie, "Francois Jacob (1920-2013)". Embryo Project Encyclopedia (2014-09-29). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/8206.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+Copyright Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Monday, September 29, 2014 - 23:06
+ Topic
+Subject
+ Jacob, Francois, 1920-2013; Statue interieure; Logique du vivant; Monod, Jacques; Institut Pasteur (Paris, France); Bacteria; Operons; Lac operon; Genetic regulation; Escherichia coli--Genetics; Nobel Prizes; Free French Forces; France libre; People

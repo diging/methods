@@ -1,0 +1,88 @@
+By Nicole Newkirk
+Published: 2007-11-13
+Keywords: Nuclear transplantation, Transplantation, Frogs
+ “Transplantation of Living Nuclei from Blastula Cells into Enucleated Frogs’ Eggs”In 1952 
+		Robert Briggs and 
+		Thomas J. King published their article, “Transplantation of Living Nuclei from Blastula Cells into Enucleated Frogs’ Eggs,” in the Proceedings of the National Academy of Sciences, the culmination of a series of experiments conducted at the 
+		Institute for Cancer Research and Lankenau Hospital Research Institute in Philadelphia, Pennsylvania.  In this paper 
+		Briggs and 
+		King examined whether nuclei of embryonic cells are differentiated, and by doing so, were the first to conduct a successful nuclear transplantation with 
+		amphibian embryos.  Previously nuclear transplantation had only been performed using amoebae cells.  
+		Briggs and 
+		King believed that by removing the egg nucleus and replacing it with a differentiated cell, they could study nuclear differentiation.  During the experiment, they used two different species of 
+		frogs, Rana pipiens and Rana catesbeiana, to study and test whether the nucleus is differentiated.  The 
+		nuclear transplantations performed in the experiment would later be referred to as 
+		cloning.
+Although nuclei are equivalent during the early phases of development, previous studies regarding whether nuclei in various blastomeres continue to be alike or become differentiated did not exist.  
+		Thomas Hunt Morgan hypothesized that nuclei might differentiate according to their location in the cytoplasm, and that nuclear changes might achieve different consequences in the cytoplasm during cell differentiation.  
+		Briggs and 
+		King began searching for the answer by establishing a method to test whether nuclei or dividing embryonic cells are the cause of differentiation.  It had been suggested to them by Jack Schultz that the answer could be obtained if it was possible to develop a method to successfully transplant nuclei.  Following this advice, 
+		Briggs and 
+		King established a method of transplanting a nucleus from a differentiated cell into an enucleated 
+		frog egg.  If they observed complete differentiation, 
+		Briggs and 
+		King could conclude that the nucleus is not differentiated.  However, partial differentiation would demonstrate that irreversible nuclear differentiation had occurred.  
+		Amphibian embryos were used in this experiment, and have been primary experimental tools in 
+		embryology, due to their size and detectable features.  Previous studies of 
+		frog embryos offered information that allowed 
+		Briggs and 
+		King to compare the data they obtained about the nuclei to the literature of the known properties of the 
+		amphibian embryo.
+
+		Briggs and 
+		King first worked with undifferentiated cells to ensure that both the nuclear transplant and the recipient egg cytoplasm were intact.  When the transplant and recipient are undamaged, normal embryos develop.  
+		Briggs and 
+		King used 
+		amphibian cells from the late blastula, which are similar in size to differentiated cells of embryos that are a little older.  These cells are small, and consequently harder to work with.  However, these cells were used because they are undetermined and as a result, their nuclei cannot be differentiated.  In order to transplant the nucleus, the recipient egg was punctured with a glass needle to activate the egg so that it rotated causing the animal pole to migrate to the top.  The nucleus was then removed with a needle by Porter’s technique.  A blastula or early gastrula was opened and a single animal pole cell was obtained with a micropipette.  The cell surface was broken when the cell was drawn up into the needle.  
+		Briggs and 
+		King then injected the contents into the enucleated egg.
+When 
+		Briggs and 
+		King punctured eggs of Rana pipiens, they observed rotation and abnormal cleavage or blastula formation.  When eggs were both punctured and enucleated, 
+		Briggs and 
+		King observed no signs of cleavage at all.  In an attempt to further test the success of the method, 
+		Briggs and 
+		King enucleated some normally inseminated eggs.  From this, they obtained 
+		androgenetic haploids which proved that punctured and enucleated eggs will rarely maintain the egg nucleus by mistake and will not develop.  
+		Briggs and 
+		King then obtained cytological evidence that the egg nucleus was successfully removed.  Therefore, their experiment showed that living nuclei could be transplanted from blastula or early gastrula cells into enucleated eggs.
+
+		Briggs and 
+		King wanted to further prove their technique by transplanting Rana catesbeiana nuclei into R. pipiens enucleated eggs.  The hybridization of these two species is lethal.  Therefore, if the transplantation was successful, 
+		Briggs and 
+		King would see a halt in development and shortly thereafter, embryo death.  This part of the experiment was performed by inseminating R. pipiens eggs with R. catesbeiana sperm to create donor blastulae.  In some eggs the nuclei were removed while the rest were allowed to develop.  
+		Briggs and 
+		King obtained results which showed that development ceased in a uniform manner followed by embryo death.  This proved the successful transplantation of blastula cell nuclei into enucleated 
+		frogs’ eggs which resulted in nucleated embryos that undergo normal differentiation.
+The technique that 
+		Briggs and 
+		King developed was valuable for the study of nuclear differentiation as well as evaluating whether altered nuclei retain the ability to undergo mitosis.  
+		Briggs and 
+		King found that when both the donor nucleus and the recipient egg are from the same species, cleavage occurred and the embryo developed normally.  When R. pipiens and R. catesbeiana were used, development slowed and embryo death followed.  The hybridization of these two species is lethal in nature.  Therefore, 
+		Briggs and 
+		King demonstrated that blastula cell nuclei can be transplanted undamaged.  In the experiment, they proved that their technique was successful and could be used in further studies.  
+		Briggs and 
+		King created what was later recognized as the first animal clone, which essentially led to future research on somatic cell nuclear transfer. 
+
+Sources
+Briggs, R. and King, T. J.  “Transplantation of Living Nuclei from Blastula Cells into Enucleated Frogs’ Eggs.”  Proceedings of the National Academy of Sciences 38 (1952): 455–463.
+Comandon, J. and Fonbrune, P. de.  “Greffe Nucleaire Totale, Simple ou Multiple, chez une Amibe.”  C.r. Séanc. Soc. Biol. 130 (1939): 744–748.
+Lorch, I. J. and Danielli, J. F.  “Transplantation of Nuclei from Cell to Cell.”  Nature 166 (1950): 329–330.
+Porter, K. R.  “Androgenetic Development of the Egg of Rana pipiens.”  Biological Bulletin 77 (1930): 233–257.
+
+
+How to cite
+Newkirk, Nicole, ""Transplantation of Living Nuclei from Blastula Cells into Enucleated Frogs' Eggs" (1952), by Robert Briggs and Thomas J. King". Embryo Project Encyclopedia (2007-11-13). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/1722.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, March 18, 2015 - 20:05
+ Topic
+Subject
+Nuclear Transfer Techniques; Cell nuclei--Transplantation; Experiment

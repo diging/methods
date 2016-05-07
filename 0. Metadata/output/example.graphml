@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="predicate" attr.type="string" for="edge" id="d0" />
+  <graph edgedefault="directed">
+    <node id="Damerow" />
+    <node id="http://xmlns.com/foaf/0.1/Person" />
+    <node id="thesis" />
+    <node id="A Quadruple-Based Text Analysis System for History and Philosophy of Science" />
+    <node id="N236ed108cad441d48d16bd7c97400b72" />
+    <node id="Julia" />
+    <node id="data.isiscb.org" />
+    <node id="file:///Users/erickpeirson/methods/0.%20Metadata/data/example_corrected_.rdf#item_9878" />
+    <node id="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq" />
+    <node id="2014" />
+    <node id="http://purl.org/net/biblio#Thesis" />
+    <node id="N0575a151be1c4e7d83ad07ea7385e3d6" />
+    <edge source="N236ed108cad441d48d16bd7c97400b72" target="Damerow">
+      <data key="d0">http://xmlns.com/foaf/0.1/surname</data>
+    </edge>
+    <edge source="N236ed108cad441d48d16bd7c97400b72" target="http://xmlns.com/foaf/0.1/Person">
+      <data key="d0">http://www.w3.org/1999/02/22-rdf-syntax-ns#type</data>
+    </edge>
+    <edge source="N236ed108cad441d48d16bd7c97400b72" target="Julia">
+      <data key="d0">http://xmlns.com/foaf/0.1/givenname</data>
+    </edge>
+    <edge source="file:///Users/erickpeirson/methods/0.%20Metadata/data/example_corrected_.rdf#item_9878" target="A Quadruple-Based Text Analysis System for History and Philosophy of Science">
+      <data key="d0">http://purl.org/dc/elements/1.1/title</data>
+    </edge>
+    <edge source="file:///Users/erickpeirson/methods/0.%20Metadata/data/example_corrected_.rdf#item_9878" target="data.isiscb.org">
+      <data key="d0">http://www.zotero.org/namespaces/export#libraryCatalog</data>
+    </edge>
+    <edge source="file:///Users/erickpeirson/methods/0.%20Metadata/data/example_corrected_.rdf#item_9878" target="thesis">
+      <data key="d0">http://www.zotero.org/namespaces/export#itemType</data>
+    </edge>
+    <edge source="file:///Users/erickpeirson/methods/0.%20Metadata/data/example_corrected_.rdf#item_9878" target="2014">
+      <data key="d0">http://purl.org/dc/elements/1.1/date</data>
+    </edge>
+    <edge source="file:///Users/erickpeirson/methods/0.%20Metadata/data/example_corrected_.rdf#item_9878" target="http://purl.org/net/biblio#Thesis">
+      <data key="d0">http://www.w3.org/1999/02/22-rdf-syntax-ns#type</data>
+    </edge>
+    <edge source="file:///Users/erickpeirson/methods/0.%20Metadata/data/example_corrected_.rdf#item_9878" target="N0575a151be1c4e7d83ad07ea7385e3d6">
+      <data key="d0">http://purl.org/net/biblio#authors</data>
+    </edge>
+    <edge source="N0575a151be1c4e7d83ad07ea7385e3d6" target="N236ed108cad441d48d16bd7c97400b72">
+      <data key="d0">http://www.w3.org/1999/02/22-rdf-syntax-ns#_1</data>
+    </edge>
+    <edge source="N0575a151be1c4e7d83ad07ea7385e3d6" target="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq">
+      <data key="d0">http://www.w3.org/1999/02/22-rdf-syntax-ns#type</data>
+    </edge>
+  </graph>
+</graphml>

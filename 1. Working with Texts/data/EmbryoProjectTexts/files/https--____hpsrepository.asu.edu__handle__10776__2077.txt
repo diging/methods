@@ -1,0 +1,45 @@
+By Brad Jacobson
+Published: 2010-09-12
+Keywords: Mammals, Circulation
+ Circulatory Changes at BirthWhen placental mammals are born their circulatory systems undergo radical changes as the newborns are prepared for independent life. The lungs are engaged, becoming the primary source of fresh oxygen, replacing the placental barrier as a means for blood-gas exchange.
+The first quantitative experiment on fetal gas exchange was carried out by 
+		Arthur St. George Joseph McCarthy Huggett in 1927. Using goats as his experimental animal, Huggett measured the partial pressures of the blood gases (mainly carbon dioxide and oxygen) in both the mother and fetus during pregnancy. At the time goats were model organisms for such work, as they were larger than rabbits and cats, thus easier to work on, and one-fifth the cost of sheep. In 1944 
+		Alfred E. Barclay and his close collaborators published a paper describing fetal circulation in baby lambs and the anatomical changes that occur during birth; their method of choice was 
+		angiocardiograph technology. Ten years later, in 1954, 
+		John Lind and 
+		Carl Wegelius became the first scientists to publish a paper outlining human fetal circulation changes; it appeared in the Cold Spring Harbor Symposia on Quantitative Biology. Quantification of the physiological components involved during birth, and their complex interactions, has been crucial for embryologists and medical practitioners alike. 
+A description of the transitory processes involved at birth starts with the original components and functions of fetal circulation. Just before labor, the 
+		fetus exists within a womb that is connected by an 
+		umbilical cord to a 
+		placenta across which diffuse gases, nutrients, antibodies, electrolytes, hormones, drugs, waste products, infectious agents, protein and steroid hormones, in fact almost everything except cells and large proteins. This exchange surface between the mother and child is called the 
+		placental membrane  or placental “barrier.” After gas exchange has taken place, via osmotic or partial pressure gradients, the newly oxygenated blood is carried through the fetal capillaries and into the 
+		umbilical vein. Most of this blood bypasses the liver (although some does flow through it and its adjacent organs) and heads straight into the inferior vena cava. The oxygenated blood then enters the right atrium where it mixes with low-oxygenated blood returning from the brain via the superior vena cava. Most of this admixture of blood bypasses the right ventricle and goes directly into the left atrium through a temporary fixture called the foramen ovale. The blood from the left atrium then flows up through the aorta and is distributed to the rest of the developing fetus. The small amounts of blood that make it into the right ventricle (from the right atrium) are then shunted away from the pulmonary beds, through a temporary bypass tube called the ductus arteriosis. From here the blood returns to the aortic arch and is subsequently distributed to the brain and downwards through the rest of the body. The waste blood from the fetus is then sent back through the umbilical cord, via the umbilical arteries, and the process repeats. The deoxygenated blood from the fetal brain is returned through the superior vena cava, and mixed again in the right atrium.
+When the mother begins to experience labor, the fetal system begins to prepare for independent living. The contractions of the uterus decrease placental blood flow, but do not stop it completely. After the fetus is born, two major transformations take place. First, the umbilical cord is clamped. This severs blood flow to the umbilical vein and subsequently pressure drops in the right atrium, causing a rise in relative pressure in the left atrium. This change in pressure causes a reversal of blood pressure between the two cavities and the one-way valve of the foramen ovale is held closed. Second, the lungs deflate due to the relative positive pressure between the lungs and the surrounding air. The infant then takes its first breaths using its diaphragm to expand the thoracic cavity. This creates a negative pressure within the pleural cavity causing air to come rushing into the lungs. As the infant begins to breathe, the pulmonary beds expand allowing for more blood flow. This in turn triggers a release of 
+		bradykinin, a signaling molecule from the expanding lungs, which causes the ductus arteriosis to close. Because both the foramen ovale and the ductus arteriosis are now closed, blood is able to flow from the right atrium into the right ventricle, through the pulmonary arteries, and eventually into lung, thus taking over the role of gas exchange with the blood stream.
+The postnatal changes in circulation can be radical and shocking to the newborn’s system. For the next few months of post-birth development, the veins and arteries associated with the umbilical cord begin to disintegrate as their lumens fill with fibrous tissue. Within two to three months, permanent ligaments are formed in their respective locations. The temporary valve structure between the right and left atrium, the foramen ovale, is usually sealed completely within a year after birth. In 20–25% percent of the population, however, absolute closure never happens, resulting in a probe patent foramen ovale, a condition that is rarely serious. The lumen of the ductus arterosis is eventually replaced by the ligamentum arteriosum, a band of fibrous tissue that runs from the center of the pulmonary arteries to the bottom of the aortic arch.
+Changes to the circulatory system at birth are the manifestation of many different developmental, embryological, and evolutionary facets, all of which are fundamental to the natural goal of independent existence outside the womb. The necessary exchange of nutrients and gases between mother and child via the placental membrane is an evolutionary novelty which gives insight into placental mammalian and even marsupial embryology.
+
+Sources
+Carlson, Bruce M, ed. Human Embryology and Developmental Biology, 2nd ed. St. Louis, MO: Mosby, 1999, 464–65.
+Harding, Richard, and Alan D. Bocking, eds. Fetal Growth and Development. Cambridge: Cambridge University Press, 2001, 132–33.
+Huggett, Arthur. St G. “Foetal Blood-Gas Tensions and Gas Transfusion through the Placenta of the Goat.” Journal of Physiology 62 (1927): 374–84.
+Jirasek, Jan E., ed. An Atlas of Human Prenatal Developmental Mechanics: Anatomy and Staging. London: Taylor & Francis, 2004, 30.
+Moore, Keith L, ed. The Developing Human: Clinically Oriented Embryology, 4th ed. Philadelphia, PA: W. B. Saunders, 1988, 110–17.
+Sadler, T. W., ed. Langman’s Medical Embryology, 8th ed. Baltimore, MD: Lippincott Williams & Wilkins, 2000, 264–65.
+
+
+How to cite
+Jacobson, Brad, "Circulatory Changes at Birth". Embryo Project Encyclopedia (2010-09-12). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/2077.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 25, 2013 - 15:53
+ Topic
+Subject
+Blood Circulation;  Concept

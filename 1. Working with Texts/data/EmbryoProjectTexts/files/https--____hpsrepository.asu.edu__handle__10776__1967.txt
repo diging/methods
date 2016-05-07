@@ -1,0 +1,95 @@
+By Karen Wellner
+Published: 2009-07-22
+Keywords: Biography, Amphibians, Transplantation
+ Gustav Jacob Born (1851-1900)Gustav Jacob Born was an experimental embryologist whose original work with 
+		amphibians served as the platform for his 
+		wax-plate method of embryo modeling, heteroblastic (different tissues) and xenoplastic (similar species) transplantation methods, environmental influences on sex ratio studies, and proposed function of the 
+		corpus luteum. He was born 22 April 1851 in Kempen, Prussia, but his family moved to the larger city of Görlitz within a year after Born’s birth. His father was Marcus Born, a physician and public health officer who practiced in the town of Görlitz. Born began his formal education at the Gymnasium in Görlitz and later attended the universities of 
+		Breslau, 
+		Bonn, 
+		Strassburg, and 
+		Berlin.  During the Franco-Prussian War (1870–1871), Born enlisted and served as an orderly and physician’s assistant. He returned to the University of Breslau at war’s end and graduated with a MD in 1874.  In 1877 Born became a Privatdozent at the 
+		University of Breslau. In 1886 he was made assistant professor and in 1898 he became professor of histology and comparative anatomy. During his tenure at 
+		Breslau, Born worked with 
+		Karl Hasse and reported being under constant scrutiny by 
+		Hasse who held widely known anti-semitic views.
+In 1881 Born married Margarethe Kauffmann whose family had acquired considerable wealth by establishing Prussia’s first textile factories.  Their first child, Maxel (who would later become a Nobel prize-winning physicist) was born in 1882. A daughter, Kathe was born in 1884. The marriage was not long however, since Margarethe died in 1886 from a gallstone attack. Born married into another wealthy family in 1892. Bertha Lipstein and Born had one son, Wolfgang, born in 1893. Marrying Lipstein gave Born enough financial independence to devote more time to his research, which he did with intensity and resourcefulness.
+While describing the morphology of 
+		amphibian nasal cavities Born developed a modeling technique in the mid-1870s that would change the way 
+		embryo wax models were made. Born sectioned the nasal skeletons of 
+		frogs and 
+		newts, traced the enlarged sections on a thick wax plate that had been rolled with a rolling pin, cut away the excess wax, and stacked the wax cutouts on top of each other. This method represented a shift from the methodical freehand approach perfected by German embryo modeler 
+		Adolf Ziegler to that of a faster, and as some might argue, more mechanical way to manufacture three dimensional models. While 
+		Ziegler was involved with his hand-made models from start to finish, Born was only involved with the labor intensive section drawing. He then passed off the tracing, cutting, stacking, and painting of the models to less skilled laborers. Born first published the technical details of this modeling process as 
+die Plattenmodelliermethode in 1876 in the 
+Morphologisches Jahrbuch.  This was followed by pictures of models made with his wax plate method published in 1879 in the same journal. Born further utilized his model making prowess to document mammalian heart development. During this time Born also invented the hot plate to help fix paraffin-embedded embryo sections to microscope slides.
+Further improvements to his wax modeling process were published in 1898 in 
+		Zeitschrift für Wissenschaftliche Mikroskopie und für mikroskopische Technik.  By then, Born had done away with the rolling pin and made his wax sheets consistent in thickness.  By knowing the specific gravity of his wax (a combination of paraffin, bee’s wax, and turpentine) Born could calculate the weight of wax needed to produce a sheet of solid wax of a certain thickness. Not a stranger to embryo modeling himself, 
+		Wilhelm His embraced Born’s method enthusiastically. While studying in Germany, 
+		Franklin P. Mall was introduced to Born’s model making method and brought the technique back with him to the 
+		Carnegie Institution of Washington Department of Embryology. Noted 
+		Carnegie embryo modeler 
+		Osborne O. Heard used Born’s method to produce his many embryo models. 
+Born did research in addition to making embryo models and much of his investigation was underpinned by 
+		epigenetic thinking. That is, he and other embryologists believed that external factors in the embryo’s environment determined whether the embryo would develop into a male or a female, rather than an internalist approach that maintained that sex determination is inherited. To provide support for 
+		epigenesis, Born varied the food supply to male and female 
+		frogs (Rana fusca) and methodically tallied the number of male and female offspring. He showed that a diet consisting of only vegetable matter resulted in more female offspring. Born also found that water temperature and parental size altered sex ratios. He later shifted his view, stating that it was unclear if higher organisms followed the same 
+		epigenetic plan. Perhaps diets and parental age did not play as important a factor in sex determination of humans as it did in frogs.
+Born also perfected the technique of artificial insemination in frogs.  He was able to cross eight different species resulting in viable offspring. For example, he used the sperm of Bufo variabilis to fertilize eggs of Bufo cincereus and obtained albino offspring.    
+For many years embryologists experimented to identify the factors that determined bilaterality in the vertebrate 
+		egg. Amphibians provided the key to this answer and Born used an embryo compression technique in his cleavage studies.  With this, the 
+		frog egg was placed between two obliquely-held glass plates and slight pressure was applied while the plates were under a microscope lens. Born found that the first cleavage was not caused solely by pressure, as 
+		Eduard Pflüger had written, but resulted from the movement of differently-massed materials within the egg. Born was able to show that the media plane of the embryo was actually determined by the position of the streaming of yolk material.  He also documented that the viscosity of the inside of an ovum decreases after the 
+		egg is fertilized.
+Another of Born's interests involved transplanting pieces of tissue from one embryo to another to determine the respective contributions of each of the two parts to the hybrid developing embryo. From 1894 to 1896 Born busied himself with his work on creating hybrid monstrosities. His curiosity led him to study the regeneration of amphibian embryos. He cut tadpoles of 
+		Rana esculenta almost entirely in half, only allowing the two severed halves to remain attached by a sliver of epidermis. He placed the tadpoles in saline and within a short period of time noted that the halves had reattached. The severed internal organs also reunited and the tadpole continued normal development.
+Born kept experimenting. He found that two pieces of tadpoles belonging to the same genus but different species would unite if the neural groove was closed and the tail was present. The united tadpoles would develop until the yolk sac was depleted, upon which time the tadpoles died. If, however, the tadpoles united with a complete digestive system present, viability was enhanced. 
+Born believed that amphibian embryos were able to artificially unite due to some type of 
+		chemotaxis that drew embryos together. This proved extremely influential on later research and ultimately inspired 
+		Ross Harrison and 
+		Hans Spemann in their own successful work on tissue culture and embryonic transplantation. 
+		Spemann acknowledged Born’s pioneering work in his Nobel Prize lecture in 1935, giving credit to Born and his observation that parts of larval amphibians united when their freshly cut edges came into contact with each other.
+In 1887 Born was awarded the 
+		Sömmerring Prize from the Senckenberg Society of Natural History for his embryological work with amphibians. In 1889 he succeeded 
+		Wilhelm Roux as the Director of the Embryology Division of the Anatomical Institute at 
+		Breslau. Born’s research work as director centered on the function of the 
+		mammalian ovary’s corpus luteum. Considered one of Born’s most important undertakings, he had long noted how a prominent 
+		corpus luteum developed in tandem with a thickening of the endometrium before a fertilized egg reached the uterus. Histologically the 
+		corpus luteum resembled other endocrine glands and it seemed obvious that the enlargement of the corpus luteum during early pregnancy proved that it was not a functionless gland. Born believed that the 
+		corpus luteum released a chemical that helped prepare the uterus for egg attachment. Although he died before publishing his studies, Born discussed his work with many embryologists at 
+		Breslau, including 
+		Ludwig Fraenkel and 
+		Franz Cohn who continued Born’s work. The two researchers used 
+		rabbits to show that if the 
+		ovaries were removed within six days after ovulation, the rabbits never became pregnant. Born’s idea that the 
+		corpus luteum was an endocrine gland was proven correct thirty years later with the discovery of the hormone
+progesterone.
+Born died on 6 July 1900 of an apparent heart attack.  He was only forty-nine years old but had already written over fifty articles pertaining to his specialty area of amphibian embryology. His laboratory research and embryo model-making techniques made Born a leading practitioner in both experimental and descriptive methods of late eighteenth-century embryology. 
+
+Sources
+Bardeen, Charles B. “Born’s Method of Reconstruction by Means of Wax Plates as used in the Anatomical Laboratory of the Johns Hopkins University.” Bulletin of the Johns Hopkins Hospital 12 (1901): 148–51.
+Born, Gustav V. R. “The Wide-Ranging Family History of Max Born.” Notes and Records of the Royal Society 56 (2002): 219–62.
+Born, Max, Walter Brandt, and Gustav Born. “In Memorium Gustav Born, Experimental Embryologist.” Acta Anatomica 10 (1950): 466–75.
+Gaunt, P. N and Walter A. Gaunt. Three Dimensional Reconstruction in Biology. Turbridge Wells, England: Pitman Medical Publishing, 1978.
+Hopwood, Nick. Embryos in Wax: Models from the Ziegler Studio. Cambridge and Bern: Whipple Museum of the History of Science, University of Cambridge, and Institute of the History of Medicine, University of Bern, 2002.
+Hopwood, Nick. “‘Giving Body’ to Embryos. Modeling, Mechanism, and the Microtome in Late Nineteenth-Century Anatomy.” Isis 90 (1999): 462–96.
+Maienschein, Jane. “What Determines Sex? A Study of Converging Approaches.” Isis 75 (Sept. 1984): 457–80.
+Maienschein, Jane. “Experimental Biology in Transition: Harrison’s Embryology, 1895–1910.” Studies in History of Biology (1983)7: 107–25.
+Maienschein, Jane. “Shifting Assumptions in American Biology.” Journal of the History of Biology 14 (1981): 89–113.
+
+
+How to cite
+Wellner, Karen, "Gustav Jacob Born (1851-1900)". Embryo Project Encyclopedia (2009-07-22). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/1967.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 25, 2013 - 15:53
+ Topic
+Subject
+Transplantation; Born, Gustav, 1851-1900; People

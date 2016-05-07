@@ -1,0 +1,159 @@
+By M. Elizabeth Barnes
+Published: 2014-07-24
+Keywords: orthogensis
+ Edward Drinker Cope's Law of Acceleration of GrowthThe Law of Acceleration of Growth is a theory proposed by
+Edward Drinker Cope in the US during the nineteenth century. Cope developed it in an attempt to explain
+the evolution of genera by appealing to changes in the developmental
+timelines of organisms. Cope proposed this law as an additional theory
+to natural selection. He argued that the evolution of genera, the more
+general groups within which biologists group species, occurs when the
+individuals in a species move through developmental stages faster than
+did their ancestors, but within the same fixed period of gestation, and
+thus can undergo new developmental stages and develop new traits. The
+Law of Acceleration compliments Cope's Law of Retardation of Growth. He
+described the later law as the process by which organisms revert to an
+ancestral stage. In these cases, forces suppress the most recent traits
+or stages common to the development of individuals from different
+species within the same genus. Cope described evolution as progressive and following a predetermined path, a perspective about evolution sometimes called orthogenetic. Cope's was
+one among many orthogenic theories in the second half of the nineteenth
+century. Furthermore, the theory was part of a trend in the nineteenth
+century in which some biologists claimed that the changes in developmental timing of
+organisms could explain large changes in biological forms throughout
+natural history.
+Cope worked in the US
+studying a range of subjects including reptiles, fossils, and the
+processes by which evolution occurs. He lived from 1840 to 1897 in
+Pennsylvania, where he was a professor 
+at the University of Pennsylvania in Philadelphia. Upon publication in 1859 of Charles Darwin's On the Origin of Species by Means of Natural Selection,
+many scientists found the evidence for evolution and common ancestry of
+animals compelling, but they debated Darwin's proposed mechanism by which
+evolution occurs: natural selection. Additionally, scientists debated
+whether or not evolution was progressive or undirected. Many scientists
+noted a parallel between the development of an organism and the
+evolution of their species, called the law of parallelism, and some
+attempted to explain this phenomenon. Cope aimed to address these issues
+with the Law of Acceleration. He claimed that the mechanism of evolution
+was predetermined and progressive.
+Cope first proposed the Law of
+Acceleration in "On the Origin of Genera" published in 1868. He defended
+the theory that species evolved, but rejected the mechanism of natural
+selection as the sole process by which the larger, genus level changes
+occurred. He claimed that natural selection can only eliminate the
+unfit, but cannot create more fit individuals. He argued that there was
+no satisfactory theory of how variation arises. The theory of natural
+selection presupposes that variation of individuals arises
+randomly, but the Law of Acceleration, as described in "On the Origin of
+Genera," claims that the variations of individuals on which natural
+selection acts are those traits added to the end of the each
+individual's development in an entire species. According to Cope's Law,
+development of fetal and infant individuals within a species can speed
+up with evolution, so that the individual moves through developmental
+stages more rapidly and there is time for new traits to be added at the
+end of the development process. Cope argued that a creator determined
+which genera would develop more rapidly and therefore accrue more
+traits. In this view, acceleration of development is a directed process
+determined by God.
+ During the second half of the nineteenth century,
+scientists increasingly tried to describe the world in purely
+naturalistic terms. This effort put pressure on Cope to find a natural
+mechanism for evolution of genera, rather than a supernatural one. Cope
+therefore changed the Law of Acceleration to incorporate a natural cause
+for variation of individuals within a genera. In 1871, he published "The
+Laws of Organic Development" and revised his Law of Acceleration by
+attributing variation and acceleration of individuals within a genera to
+guided forces internal to those individuals. For instance, the wants,
+desires, and movements of organisms could guide the changes in their
+forms. The internal force, which Cope called bathmism, enabled the acceleration of developmental processes and the addition of
+characters to organisms at the end of developmental processes.
+Other biologists in the US held
+similar theories as Cope, including Alpheus Hyatt at Boston
+University in Boston, Massachusetts, and Alpheus Packard at
+Brown University in Providence, Rhode Island. Both Hyatt and Packard
+were influenced by the theistic biological theories of Louis Agassiz at Harvard University in Cambridge, Massachusetts. Moreover,
+many of those scientists argued that evolution is determined and
+progressive, or orthnogenic. Cope claimed that Darwin's concept of natural
+selection could only account for the small superficial changes between
+species, not for the large changes between genera. According to Cope, Darwin had correctly identified natural selection as the
+cause of species, but acceleration of the developmental process of
+individuals causes the larger changes between genera.
+Cope's Law of
+Acceleration was one of many theories constructed in the second half of
+the nineteenth century that aimed to describe evolution as acting by
+different mechanisms other than natural selection. For instance, in 1866
+Ernst Haeckel in Germany published on his biogenetic law, which argued
+that as an organism within a species develops, its stages replay the
+adult stages of individuals in those species from which the organism's
+species evolved. Hyatt and Packard produced similar theories, but their theories differed
+from Cope's in the emphasis placed on natural selection, the origin of
+variability, and whether or not there was predetermined progress in
+evolution.
+ Cope's Law of Acceleration lost support when scientists
+rediscovered and confirmed Gregor Mendel's principles of genetics in
+the first decade of the twentieth century. When Cope composed his law,
+scientists could not explain how offspring inherited traits from their
+parents. With the rediscovery of Mendel's principles, biologists
+discovered that heredity occurs by the transmission of discrete genetic
+traits from both parents to their offspring, and that mutation and the
+recombination of the genetic code can cause novel traits in the
+offspring of organisms. With Mendel's framework, biologists doubted that
+evolution occurred by changes arising simultaneously in all individuals
+of a species, as Cope's law had proposed. 
+ Sources Agassiz, Louis.
+		The Classification of Insects from Embryological Data.
+		Washington: Smithsonian institution, 1850.
+		http://dx.doi.org/10.5962/bhl.title.32965 (Accessed April 30,
+		2014).
+Bowler, Peter J. "Edward Drinker Cope and the Changing Structure of
+Evolutionary Theory." Isis 68 (1977): 249–65. 
+Bowler, Peter J.
+Evolution: The History of an Idea. Berkeley: University of California
+Press, 1983. 
+Bowler, Peter J. The Eclipse of Darwinism: Anti-Darwinian
+Evolution Theories in the Decades around 1900. John Hopkins University
+Press, 1983. 
+Cope, Edward. "On the Origin of Genera." Proceedings of the
+Academy of Natural Sciences 20 (1868): 242–300.
+http://www.biodiversitylibrary.org/item/75034#page/67/mode/1up (Accessed
+April 28, 2014).
+Cope, Edward. "The Laws of Organic Development." The American Naturalist
+5 (1871): 593–608. http://biodiversitylibrary.org/page/40870569
+(Accessed April 30, 2014).
+Darwin, Charles. On the Origins of Species by Means of Natural Selection. London: John Murray, 1859.
+http://dx.doi.org/10.5962/bhl.title.68064 (Accessed April 30, 2014).
+"Edward Drinker Cope." Encyclopedia Britannica Online.
+http://www.britannica.com/EBchecked/topic/136500/Edward-Drinker-Cope.
+(Accessed April 30, 2014).
+Gould, Stephen J. Ontogeny and Phylogeny. Cambridge: Harvard University
+Press, 1977.
+Haeckel, Ernst. Generelle Morphologie der Organismen. [General
+Morphology of the Organisms]. Berlin: G. Reimer, 1866.
+http://www.biodiversitylibrary.org/item/22319#page/11/mode/1up (Accessed
+April 30, 2014).
+Hyatt, Alpheus. Genesis of the Arietidae. Washington: Smithsonian
+Institution, 1889. http://dx.doi.org/10.5962/bhl.title.65638 (Accessed
+April 30, 2014).
+Mendel, Gregor Johann. "Versuche über Pflanzen-Hybriden" [Experiments
+Concerning Plant Hybrids]" [1866]. In Verhandlungen des naturforschenden
+Vereines in Brünn [Proceedings of the Natural History Society of Brünn]
+IV (1865): 3–47. Reprinted in Fundamenta Genetica. Prague: Czech Academy of Sciences, 1966: 15–56.
+http://www.mendelweb.org/Mendel.html (Accessed April 30, 2014).
+Packard, Alpheus. Lamarck, the Founder of Evolution: His Life and Work.
+New York: Longmans, Green, and Company, 1901.
+http://dx.doi.org/10.5962/bhl.title.12263 (Accessed April 30, 2014).
+ 
+
+How to cite
+Barnes, M. Elizabeth, "Edward Drinker Cope's Law of Acceleration of Growth". Embryo Project Encyclopedia (2014-07-24). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/8067.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+Copyright Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, August 6, 2014 - 18:45
+ Topic
+Subject
+Growth and Development; Development; Evolution; Cope, E. D. (Edward Drinker), 1840-1897; Genus; University of Pennsylvania; Concept

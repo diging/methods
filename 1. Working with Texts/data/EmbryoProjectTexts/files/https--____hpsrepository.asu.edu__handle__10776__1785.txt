@@ -1,0 +1,50 @@
+By Brock Heathcotte
+Published: 2008-05-09
+Keywords: Fertilization, Bioethics
+ Jeter v. Mayo Clinic Arizona (2005)Court: Arizona Court of Appeals
+		Citation:	Jeter v. Mayo Clinic Arizona, 121 P.3d 1256 (Ariz.App. Div. 1 2005)
+		Status as current law: Probable
+		Value as precedent: Low
+Case significance:
+In Arizona, statutes that protect persons, such as the 
+			wrongful death statute, will not be interpreted by the courts to grant 
+			personhood status to 
+			frozen embryos. The legislature may grant such protection in the statute if it chooses to do so by explicitly defining the word person to include 
+			frozen embryos.
+Case Summary:
+Facts—Belinda and William Jeter sued Mayo Clinic Arizona for the negligent destruction of five frozen pre-embryos. The pre-embryos were derived from Mrs. Jeter’s eggs and Mr. Jeter’s sperm, were allowed to develop a couple of days then preserved for future attempts at 
+			in vitro fertilization. Five of the pre-embryos were somehow lost during transportation to another clinic, the Arizona Center for Fertility Studies. The Jeters claimed compensation for 
+			wrongful death, negligence, breach of fiduciary duty, and breach of a bailment contract.
+Law—Arizona Revised Statutes §12-611 stated in part, “When death of a person is caused by wrongful act, neglect or default, and the act, neglect or default is such as would, if death had not ensued, have entitled the party injured to maintain an action to recover damages in respect thereof, then, and in every such case, the person who would have been liable if death had not ensued shall be liable to an action for damages.
+Ruling—The word “person” in Arizona’s wrongful death statute does not include in its scope a cryopreserved, three-day-old 8-cell pre-embryo. Dismissal of the wrongful death claim was proper. However, the Jeters could sue under the negligence and breach of fiduciary duty or bailment contract claims so the trial court’s dismissal of those claims was reversed.
+Quotes:
+“[G]iven the current unsettled discussion over when life begins in this context, it is best left to the Arizona Legislature, not the courts, to decide whether to include a three-day-old, eight-cell cryopreserved pre-embryo within the statutory definition of ‘person’ under the wrongful death statutes.” 121 P.3d 1261
+“Unlike a 
+			viable fetus, many variables affect whether a 
+			fertilized egg outside the womb will eventually result in the birth of a child. This makes it speculative at best to conclude that ‘but for the injury’ to the 
+			fertilized egg a child would have been born and therefore entitled to bring suit for the injury.” 121 P.3d 1262
+“It is important to understand what the Jeters argue. Neither in the superior court nor in this Court did the Jeters claim that they had evidence to support a view that a cryopreserved pre-embryo fits within the definition of a 
+			viable fetus as discussed in Summerfield, that is, an entity which can presently survive to birth outside of the womb. Rather, relying on various treatises, the Jeters contend that medical science has so advanced since the supreme court decided Summerfield, that as a matter of law and statutory construction, this Court should expand the definition of a ‘person’ articulated in Summerfield to allow wrongful death actions for the loss of cryopreserved three-day-old eight-celled pre-embryos because they have the potential to become 
+			viable. They contend those medical advances allow such pre-embryos to maintain ‘extrauterine’ life via the cryopreservation process.” 121 P.3d 1265
+This case cites to these authorities:
+Summerfield v. Superior Court, 698 P.2d 712 (Ariz. 1985)
+		The word “person” in Arizona’s wrongful death statute includes a viable fetus.
+Maienschein, Jane, Whose View of Life? Embryos, Cloning and Stem Cells, Harvard University Press, Cambridge MA (2003)
+This case was cited in:
+Brobst, Jennifer A., The Prospect of Enacting an Unborn Victims of Violence Act in North Carolina, 28 N.C. Cent. L.J. 127, 171 (2006) 
+
+How to cite
+Heathcotte, Brock, "Jeter v. Mayo Clinic Arizona [Brief] (2005)". Embryo Project Encyclopedia (2008-05-09). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/1785.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, October 9, 2013 - 22:38
+ Topic
+Subject
+Fertilization in Vitro;  Law

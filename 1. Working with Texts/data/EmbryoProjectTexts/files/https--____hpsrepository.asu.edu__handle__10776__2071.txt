@@ -1,0 +1,63 @@
+By Inbar Maayan
+Published: 2010-10-20
+Keywords: Eukaryotes, Ontogeny
+ Process of Eukaryotic Embryonic DevelopmentAll sexually reproducing, multicellular diploid eukaryotes begin life as embryos. Understanding the stages of embryonic development is vital to explaining how eukaryotes form and how they are related on the tree of life. This understanding can also help answer questions related to morphology, ethics, medicine, and other pertinent fields of study. In particular, the field of comparative embryology is concerned with documenting the stages of 
+		ontogeny. In the nineteenth century, embryologist 
+		Karl Ernst von Baer famously noted that embryos of different species generally start out with very similar structure and diverge as they progress through development. This similarity allows for the construction of a series of detailed stages exhibited by a range of different organisms (though in reality embryonic development is a continuous, not staggered, process) describing the progression of events that begin with conception. 
+The formation of the male and female gametes (sex cells) through 
+		meiosis makes fertilization possible. The 
+		ovum, the female gamete, is relatively large (approximately 0.1 mm across in humans) and contains a cytoplasm rich with organelles and substances to be used during development. The 
+		spermatozoa, the male gametes, are just big enough to carry the male’s DNA in a capsule propelled by a motile tail. Development of viable offspring requires the successful union of ovum and sperm, both of which are haploid (contain half the number of somatic chromosomes), to form a diploid cell. In many mammals, the sperm is required to break through a translucent, elastic coating of the ovum, known as the 
+		zona pellucida, before fertilization can take place. Once the spermatozoon has penetrated the ovum, a series of physical and chemical changes occur, including the sealing off of the egg to other sperm and the fusion of the parent nuclei. At this point, the egg-sperm complex is referred to as the zygote. The 
+		zygote is the first cell of the embryo and contains the genetic information of the new organism. Formation of the zygote is followed by cleavage, which entails a rapid succession of mitotic cell division and produces
+		 blastomeres. The particular type of cleavage (radial, bilateral, or spiral) in various organisms helps determine the 
+		body plan later in development. The process of 
+		cleavage is concerned only with the continuous doubling of the number of blastomeres and not with cellular growth; the result is a ball of cells not larger than the original egg itself. This compact ball of cells, the 
+		morula, does not yet exhibit any sign of a future body plan, and, in the case of mammalian embryos, is still contained within the zona pellucida. While in mammals the morula develops into the blastocyst upon continued division of the blastomeres, most other animals’ blastomeres move to form a hollow sphere of cells called the blastula. The blastocyst only differs from the blastula in that it exhibits basic differentiation, while the blastula is wholly undifferentiated. 
+
+		Differentiation, the assignment of a specific fate to pluripotent cells, begins when the blastula progresses through a process known as 
+		gastrulation. The gastrula forms through slightly different processes in different types of organisms, the process diverging most from the original in vertebrates, though all but the simplest organisms eventually form a gastrula composed of three 
+		germ layers: 
+		endoderm, 
+		mesoderm, and 
+		ectoderm. 
+		Fate maps of the embryo and its layers help illustrate the differentiation of each region. The endoderm results from the migration of cells inward, and thus forms the innermost layer. Its primary fate is the formation of the digestive and respiratory structures, as well as accessory digestive organs such as the pancreas and liver. The outermost germ layer, the ectoderm, eventually gives rise to such structures as the nervous system and the epidermis (skin). The mesoderm, which lies between the other two germ layers, is indicative of progressive evolutionary complexity because it allows for the formation of the body cavity, the coelom, which in turn allows for digestion of food. Mesoderm is not found in animals with only two germ layers, such as 
+Porifera (sponges) and 
+Cnidaria (e.g., jellyfish and anemones). The mesoderm gives rise to the vascular and lymphatic systems, as well as to muscle, bone, and connective tissue. It should be noted that the germ layers, while fated to give rise to certain structures, do not do so until later in development. 
+The process of gastrulation has been well documented in such organisms as 
+		sea urchins, 
+		frogs, and humans. The major steps of a certain developmental path may be observed in each, making the study of these organisms useful for a general understanding of gastrulation and subsequent processes. 
+Following gastrulation, some invertebrates go through a larval stage (for example, the 
+		pluteus stage in sea urchins) that lasts until they undergo 
+		metamorphosis and transform into the adult form. Vertebrates, however, go through 
+		neurulation instead of becoming a larva. Neurulation entails the formation of the 
+		notochord, the creation of the 
+		neural tube from which the 
+		central nervous system originates, and the formation of the 
+		neural crest or neural plate, along with neural crest cells. In addition to these components, 
+		somites form on either side of the neural tube. Somites are simple, segmented blocks of cells that will later develop into the individual vertebrae and ribs, and some of the dermis and muscles. The shape of the organism until neurulation is fairly rounded, though during the process the embryo undergoes some elongation and takes a shape similar to a partially coated pea.
+Neurulation is closely followed by 
+		organogenesis, when the internal organs and organ systems are formed and the entire embryo undergoes significant morphological change. During this time, the embryo becomes longer and flatter, a tail buds at the end of the basic spine, and the head becomes distinct from the rest of the body. In addition, appendages bud and the embryo becomes distinct from the surrounding cells and fluids. The development of the brain, optic organs, and spinal cord follows a noticeable thickening of the neural tube and the formation of small vesicles in the head area. The germ layers differentiate further and become more specifically divided to give rise to the aforementioned systems. 
+Following organogenesis, the embryo enters a series of stages of growth and further differentiation, which last until the end of the embryonic stage, at which point in mammals it becomes a fetus. It is important to understand that the embryo’s systems are still far from fully developed, and as a fetus, it requires the protection of the womb and its unique conditions.
+
+Sources
+Dodds, Edward C., and William Lawson. “Molecular Structure in Relation to Oestrogenic Activity. Compounds without a Phenanthrene Nucleus.” Proceedings of the Royal Society London B 125 (1938): 222–32. 
+Gilbert, Scott F., and David Epel. Ecological Developmental Biology: Integrating Epigenetics, Medicine, and Evolution. Sunderland, MA: Sinauer, 2009, 221–25.
+Gilbert, Scott F. Developmental Biology, 8th ed. Sunderland, MA: Sinauer, 2006, 673–75.
+
+
+How to cite
+Maayan, Inbar, "Process of Eukaryotic Embryonic Development". Embryo Project Encyclopedia (2010-10-20). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/2071.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 25, 2013 - 15:53
+ Topic
+Subject
+Eukaryota; Eukaryotic cells.; Concept

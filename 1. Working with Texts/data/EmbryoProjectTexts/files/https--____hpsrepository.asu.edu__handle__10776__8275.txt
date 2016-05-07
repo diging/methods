@@ -1,0 +1,111 @@
+By Joe Brinkman
+Published: 2014-12-30
+Keywords: Homology
+ Edwin Stephen Goodrich (1868-1946)Edwin Stephen Goodrich studied the structures of animals in England during the nineteenth and twentieth centuries. Goodrich studied how animals develop to identify their parts and to establish the evolutionary relationships between different species. Goodrich established that body structures can shift their positions relative to an organism's body during evolution, and he hypothesized that body structures can share ancestry (homology) between organisms of different species, even without identical body placement. Goodrich claimed that any given characteristic of an organism results from both genetic and external sources.
+		
+
+Goodrich was born on 21 June 1868 in Weston-super-Mare, a town in the South West region of England, to Frances Lucinda Parker and Octavius Pitt Goodrich. When Goodrich was two weeks old, his father died, and his mother took Goodrich and his two siblings to live in Pau, France. Goodrich began to draw and studied natural history as a boy. In 1888 at the age of twenty, Goodrich returned to England and enrolled in the Slade School of Art at University College London in London, England. In Goodrich's first few days as a student, he attended a lecture by Ray Lankester, a scientist who studied zoology and evolutionary biology, and Goodrich changed his studies from art to zoology to study with Lankester. Lankester offered him a position as a research assistant in 1891 when Lankester became the Linacre Professor of Comparative Anatomy at Oxford University in Oxford, England. Goodrich accepted, and he enrolled as an undergraduate student at Merton College in Oxford University in 1892. 
+
+
+Goodrich published two papers his first year at Merton College, and five in total before his graduation. In those investigations, Goodrich studied the excretory organs of different marine invertebrates, which had a pathway from the insides of the organism to its aquatic environment and allow for the excretion of materials. In 1895, his undergraduate thesis "On the Coelom, Genital Ducts and Nephridia," argued against the accepted theory that all tubular excretory organs were homologous and derived from the same tissue. Goodrich distinguished between an organ used primarily for excretion of metabolic waste called the nephridium, and a genital duct responsible for excreting germ cells, called the coelomoduct. He also argued that their different embryonic germ layer origins, from ectoderm and mesoderm tissues respectively, furthered the distinction between the two excretory ducts. 
+
+
+After graduating in 1895, Goodrich visited zoological stations around the world.  He spent six months researching with zoologists at the Stazione Zoologica in Naples, Italy, on a scholarship. During his time abroad, Goodrich worked on research that demonstrated the evolution of excretory tubules. In 1900, he suggested that the distinction between the two ducts indicates that the nephridia are not homologous to the vertebrate kidney, as previously claimed. Moreover, Goodrich hypothesized that the other duct, the coelomoduct, may be the homologous structure of the vertebrate kidney. 
+
+
+Around 1900, he worked with fish scales in an attempt to establish evolutionary relationships between fish species. Goodrich eventually distinguished between two types of scales based on their structures, and he noted that scientists could further divide the ganoid scale group into two subcategories called Lepidosteoid and Palaeoniscoid. The distinction arose from the amount of layers in the scales, with Lepidosteoid scales lacking an intermediate layer of cells and Palaeoniscoid scales showing additional layers on top of the scale. This distinction helped researchers classify organisms possessing such scales, enabling improved comparisons between living and fossil organisms. 
+
+
+Largely due to his work with the invertebrate excretory system, the Fellowship of the Royal Society elected Goodrich at age thirty-six in 1905. After his studies with marine organisms, Goodrich published Vertebrate Craniata: Cyclostomes and Fishes, which comprised Part IX of Lankester's Treatise on Zoology in 1909. Goodrich's work contains his descriptions on organism and fossil forms as well as those made by others that were checked for accuracy by Goodrich. Topics included Goodrich's scale research and his accounts of the skull and axial skeletons, nerve components, development of the kidneys, and other issues in marine morphology approached from an evolutionary perspective. Some researchers said that with greater than 150 original illustrations, Goodrich's work is a mix of science and art. 
+
+
+In the early twentieth century, Goodrich began to research body plan segmentations as they related to theories of evolution. In a 1906 work, Goodrich showed that across species of fish, fins had segments. He claimed that through evolution, the fins changed position, up or down the body, not due to migration of the fin itself, but rather to incorporate new segments in front of or behind the fin. In a 1911 publication, he noted a similar phenomenon in the hind region of the amphibian head in regards to position of occipital condyles, which are on the back of the skull and articulate with the vertebrae.  Synthesizing those works, Goodrich published a paper in 1913 in which he argued that homology between structures is independent of body segment location, meaning that two structures across organisms could be homologous even if they were in different locations on the overall body plan. Goodrich suggested that any structure could shift up or down the body throughout evolution, and therefore the specific order or location of the segments is of negligible importance in indicating common ancestry. The claim that homology is possible between structures of different segments applied to both vertebrates and invertebrates. 
+
+
+In 1913, Goodrich married zoologist Helen Pixell. The couple often worked independently, collaborating on two publications. Goodrich's research focus changed as he studied how neurons stimulated muscle cells. In 1921, Goodrich became Linacre Professor of Zoology at Oxford, a position that he held until a year prior to his death. 
+
+
+In his 1924 work Living Organisms: an Account of Their Origin & Evolution, Goodrich noted that every character is the product of both environmental and genetic factors, and that an organism is molded between the interactions of the two. In 1931, Goodrich published Studies on the Structure and Development of Vertebrates. The publication addresses how many features common to vertebrates develop. Goodrich died in 1946, with his final paper published a few weeks after his death. 
+
+ 
+
+
+
+
+Sources
+De Beer, Gavin. "Edwin Stephen Goodrich." Journal of Anatomy (1946): 112–113. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1272740/pdf/janat00495-0069.pdf 
+(Accessed July 18, 2014).
+
+
+De Beer, Gavin R. "Edwin Stephen Goodrich. 1868-1946" Obituary Notives of Fellows of the Royal Soceity (1947): 477–490. http://www.jstor.org/stable/769096 (Accessed December 26, 2014).
+
+
+Goodrich, Edwin S. "On the Coelom, Genital Ducts, and Nephridia." Quarterly Journal of 
+Microscopical Science 37 (1895): 477–510. http://www.biodiversitylibrary.org/item/48800#page/489/mode/1up (Accessed December 26, 2014).
+
+
+Goodrich, Edwin S. "On the scales of fish, living and extinct, and their importance in 
+classification." Proceedings of the Zoological Society of London 77 (1907): 751–773. http://www.biodiversitylibrary.org/item/98530#page/417/mode/1up (Accessed December 26, 2014).
+
+
+Goodrich, Edwin Stephen. Vertebrata Craniata: (First Fascicle: Cyclostomes and Fishes). 
+London: Adam and Charles Black, 1909. http://dx.doi.org/10.5962/bhl.title.13773 (Accessed December 26, 2014).
+
+
+Goodrich, Edwin S. "On the segmentation of the occipital region of the head in the Batrachia 
+Urodela." Proceedings of the Zoological Society of London 1 (1911): 101–120. http://www.biodiversitylibrary.org/item/97764#page/161/mode/1up (Accessed December 26, 2014).
+
+
+Goodrich, Edwin S. "Memoirs: Metameric Segmentation and Homology." Quarterly Journal of 
+Microscopical Science 2 (1913): 227–248. http://jcs.biologists.org/content/s2-59/234/227.full.pdf+html (Accessed December 26, 2014).
+
+
+Goodrich, Edwin Stephen. Living Organisms: An account of their origin & evolution. Oxford: The 
+Clarendon Press, 1924.
+
+
+Goodrich, Edwin S. Studies On The Structure And Development Of Vertebrates. London: Macmillan 1930. http://dx.doi.org/10.5962/bhl.title.82144 (Accessed December 26, 2014).
+
+
+Goodrich, Edwin S. "Memoir: The Study of Nephridia and Genital Ducts Since 1895." Quarterly 
+Journal of Microscopical Science 2 (1945): 303–392. http://jcs.biologists.org/content/s2-86/343/303.full.pdf+html (Accessed July 18, 2014).
+
+
+Goodrich, Edwin S., and Helen L. M. Pixell Goodrich. "Leucocytes and Protozoa." Contributions 
+to medical and biological research 2 (1919): 958–972. https://archive.org/stream/contributionstom02osleuoft#page/958/mode/2up (Accessed December 26, 2014).
+
+
+Goodrich, Edwin S., and Helen L. M. Goodrich. "Gonospora minchinii n. sp., a gregarine 
+inhabiting the egg of Arenicola." Quarterly Journal of Microscopical Science 65 (1920): 
+157–161. http://jcs.biologists.org/content/s2-65/257/157.full.pdf+html (Accessed December 26, 2014).
+
+
+Hardy, Alister C. "Edwin Stephen Goodrich, 1868–1946." The Quarterly Journal of 
+Microscopical Science 87 (1946): 317–355.
+
+
+Lankester, Edwin Ray. A Treatise on Zoology. London: Adam and Charles Black, 1900–1909.  http://dx.doi.org/10.5962/bhl.title.26654 (Accessed December 26, 2014).
+
+
+Paterson, Nellie F., and Edwin S. Goodrich. "The Skull of Hymenochirus curtipes." 
+Proceedings of the Zoological Society of London 115 (1946): 327–354.
+
+
+
+
+
+How to cite
+Brinkman, Joe, "Edwin Stephen Goodrich (1868-1946)". Embryo Project Encyclopedia (2014-12-30). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/8275.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+Copyright Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, December 31, 2014 - 01:20
+ Topic
+Subject
+ Goodrich, Edwin S. (Edwin Stephen), 1868-1946; Zoology; Homology (Biology); Oxford University; Lankester, E. Ray (Edwin Ray), Sir, 1847-1929; fish; invertebrates; Evolution; People

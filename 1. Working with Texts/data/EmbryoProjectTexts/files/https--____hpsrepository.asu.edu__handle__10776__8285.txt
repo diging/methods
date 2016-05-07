@@ -1,0 +1,263 @@
+By Karine Prevot
+Published: 2015-01-29
+Keywords: Marshall Hertig
+ WolbachiaBacteria of the genus Wolbachia are
+	bacteria that live within the cells of their hosts. They infect a
+	wide range of arthropods (insects, arachnids, and crustaceans) and
+	some nematodes (parasitic roundworms). Scientists estimate that
+	Wolbachia exist in between seventeen percent and seventy-six percent of
+	arthropods and nematodes. The frequency of the bacteria makes them
+	one of the most widespread parasites. In general, they are divided
+	into five groups, from A to E, depending of the species of their
+	host. They cause diverse reproductive and developmental changes on
+	their numerous invertebrate hosts. Several mechanisms, like the
+	feminization of the embryo's sexual characters, are involved in
+	those processes. To reproduce, Wolbachia often exploit their hosts'
+	reproductive processes. Additionally, they are symbiotic in that they are
+	necessary for the normal development of organisms in some species.
+In 1924, Marshall Hertig in Minneapolis, Minnesota, and Simeon
+	Burt Wolbach at Harvard University Medical School in Boston,
+	Massachusetts, first described Wolbachia in the mosquito Culex pipientis.
+	They studied micro-organisms called Rickettsiae, which are intracellular
+	parasitic bacteria that are widespread among arthropods. To do so,
+	they examined several arthropods, including twenty-five males and
+	females of Culex Pipens mosquitos collected near Boston and
+	near Minneapolis. They observed intracellular organisms that only
+	infected the ovaries and testes, and that were also found in the eggs. In
+	1936, Hertig named these particular parasites Wolbachia
+	pipientis.
+In the 1950s, Hannes Laven, from the Institut für Genetik of
+	Johannes Gutenberg-University in Mainz, Germany, discovered that
+	some Culex Pipens mosquitos failed to breed with others from
+	the same species, even when forced to in experiments, producing few or no progeny. Laven established that a incompatibility
+	factor transmitted from parents to offspring through females only,
+	and he named this phenomenon cytoplasmic incompatibility. In 1971,
+	Janice Yen and Ralph Barr at the University of California in Los
+	Angeles, California, found that mosquito eggs were killed when the
+	sperm of males infected by Wolbachia fertilized non-infected
+	eggs. In 1990, Richard Stouthamer at the University of California in
+	Riverside, California, found that Wolbachia could make males
+	dispensable for reproduction in some species, by feminizing the
+	population and producing parthenogenesis, a process of reproduction
+	that does not involve fertilization. Researchers began to study
+	Wolbachia with molecular methods like
+	polymerase chain reaction (PCR), a biochemical technology used to
+	generate copies of a particular DNA sequence, and that enabled researchers to detect
+	and to identify the bacteria more easily and rapidly.
+In his 1936 article, Hertig had showed that bacteria could transmit
+	from one organism to another in two ways. Most often, they pass from
+	mother to the offspring through the egg cytoplasm. However, there
+	are few exceptions. In some cases, bacteria transmit from one
+	individual to another, even across species, regardless of
+	reproduction. In all cases, the transmission increases the number of bacteria and, for the infected population, results in a biased sex-ratio, in which
+	the number of females in the population exceeds the number of males.
+	These bacteria can infect many different types of organs. Most
+	notably, they infect the testes or ovaries of their hosts.
+	Wolbachia are present in mature eggs, but not in
+	mature sperm, so when bacteria are present in males, they are
+	eliminated from the germ-line during spermatogenesis. Therefore,
+	only infected females pass the infection to their offspring.
+Wolbachia alter both reproduction and development of their
+	hosts. There are several ways and several mechanisms by which those
+	alterations happen. In some cases, the symbiosis is considered to be
+	facultative, which means that if the bacteria are removed, such as
+	with antibiotics in a laboratory, the hosts can still reproduce and
+	develop normally. In other cases, the symbiosis is considered
+	obligatory, which means that the bacteria are necessary for the
+	hosts to reproduce and develop normally. In facultative symbiosis,
+	there are four main altered phenotypes that are possible:
+	feminization, parthenogenesis, male-killing, and cytoplasmic
+	incompatibility.
+Feminization, a process by which geneticly male organisms turn
+	into females, characterizes the infections of male organisms by
+	Wolbachia, which require females to reproduce and survive. In
+	the 1990s, Thierry Rigaud and his collegues at the University of
+	Poitiers in Poitiers, France, studied this phenomenon in
+	crustaceans. In crustaceans with female heterogamety, males have ZZ
+	sexual chromosomes and females have ZW sexual chromosomes, similar to how human males have XY sexual chromosomes and human females XX
+	sexual chromosomes. Wolbachia turn genetic males into
+	functional females able to reproduce and produce offspring despite
+	their genetic sex (ZZ). Wolbachia inhibits the production of
+	androgen hormones that are responsible for the development of males'
+	sexual characters, making the gonads develop female characters
+	instead. Feminization may depend on endocrine-related processes,
+	such as hormonal variations.
+As Wolbachia do not infect a whole population of hosts,
+	some males remain in the population. However, Rigaud and his research team suggested
+	that Wolbachia that feminize males can influence the
+	evolution of crustaceans by leading to a complete loss of female
+	heterogamety. Several populations of the common pill-bug Armadillidium
+	vulgare no longer have females with a ZW sex chromosome.
+	These females are in fact genetic males, which Wolbachia
+	turned into females. Feminization then leads to a sex-ratio of the
+	host population that favors females.
+The second way that Wolbachia alter their hosts is to cause
+	them to reproduce via parthenogenesis. Parthenogenesis is a form of
+	reproduction without fertilization in which eggs can grow and develop into embryos and
+	eventually into adults. In 1990, Richard Stouthamer
+	and his colleagues at the University of Rochester in Rochester, New
+	York, studied parthenogenesis in wasps. In some parasitic wasps and
+	acari, fertilized eggs contain two pairs of chromosomes (they are
+	diploid) and usually develop into females, whereas non-fertilized
+	eggs contain only one copy of each chromosome (they are haploid) and
+	develop into males. When Wolbachia infect haploid egg cells,
+	they double the haploid set of maternal chromosomes in the egg,
+	causing the eggs to develop into females. Infected females can
+	produce twice as many offspring as the non-infected ones. Thus the bacteria alter how their hosts reproduce and develop so that the bacteria can better spread in their hosts' populations.
+The other two phenotypes induced by facultative symbiosis are
+	male-killing (death of males), and cytoplasmic incompatibility
+	(incompatibility between sperm and egg). In those two processes,
+	Wolbachia induce developmental and reproductive variations in
+	their hosts. In 1999, Gregory Hurst and his colleagues at the
+	University College London in London, UK, showed that male-killing
+	Wolbachia infect the ladybug Adalia
+	bipunctata and the butterfly Acraea encedon
+	and cause the male embryos to die. As the two species have
+	different reproductive mechanisms, Hurst and his colleagues
+	hypothesized that Wolbachia also evolved different mechanisms
+	to recognize a host's sex.
+Cytoplasmic incompatibility, as Laven had described in 1967, is an
+	incompatibility between sperm and egg, for which Wolbachia is
+	responsible. This incompatibility silences the paternal chromosomes
+	of infected embryos. In the infected organisms, the infected eggs
+	often die. In 1990, Johannes Breeuwer and John Werren of the
+	University of Rochester in Rochester, New York, described two kinds
+	of cytoplasmic incompatibility: unidirectional and bidirectional. Cytoplasmic incompatibility is often
+	unidirectional. When infected males mate  with uninfected females,
+	they fail to produce viable offspring, whereas when uninfected males mate with
+	infected females, they can produce viable offspring.
+	Bi-directional incompatibility occurs when different and incompatible Wolbachia strains infect males and females, and when those infected males and females mate with each other, they fail to produce viable offspring. In all cases,
+	cytoplasmic incompatibility results from an abnormal condensation of
+	paternal chromosomes in the fertilized egg, which prevent paternal chromosomes from
+	contributing to the development of the egg.
+Wolbachia infections that cause incompatibility can spread
+	rapidly through a population, as infected eggs are compatible with
+	both infected and uninfected sperm whereas uninfected eggs are only
+	compatible with uninfected sperm. These infections can influence the
+	evolution of a population such that all females in the population
+	become infected. The processes of infection, especially male-killing,
+	can indicate emerging selection pressures at the community-level.
+	The populations of infected ladybugs, for example, produce cannibal
+	larvae that eat mostly other larvae. There is a strong competition
+	for survival between larvae. In this context, dead male larvae
+	provide a source of food for the female larvae that eat
+	still-born males. This phenomenon decreases the level of
+	antagonistic interactions between siblings and favors the
+	development of female larvae.
+These four phenotypes suggest that external factors like bacteria
+	can control the processes of reproduction and development of a host. Host
+	populations are manipulated and altered in such a way that
+	Wolbachia can be more important than the hosts' genes to the determination and the
+	development of sex characteristics. But beside these four
+	phenotypes, Wolbachia are also responsible for
+	obligatory symbiosis, in which the hosts cannot develop without the bacteria.
+In 2001, Frank Dedeine and his colleagues at the University of
+	Lyon 1 in Lyon, France, found that without Wolbachia, female
+	wasps of the species Asobara tabida
+	failed to produce egg cells. Three different strains of
+	Wolbachia infected those wasps. Two of them induced
+	incompatibility between sperm and eggs, resulting in no progeny,
+	whereas one was involved in oogenesis. When Dedeine and his research
+	team used antibiotics to kill Wolbachia in the female wasps,
+	the wasps failed to produce mature egg cells, and thus could not
+	reproduce. The research team hypothesized that this phenomena
+	resulted from a long co-evolution between the wasps and
+	Wolbachia, in which the hosts have become dependent on
+	Wolbachia. Dedeine and his colleagues suggested that the wasp
+	species or its ancestors became associated with a strain of the
+	bacteria necessary to produce egg cells. This association would have
+	led to a functional redundancy of host and symbiotic genes. Because
+	there is no need to have two genes with the same function, the
+	occurrence of functional redundancy can lead to the loss of function
+	of genes in one of the symbiont. In this case, the host itself lost
+	the capacity to produce the function, becoming totally dependent on
+	Wolbachia for reproduction and development.
+In some nematode worms, Wolbachia are also necessary for
+	normal development and fertility. Filarial nematodes are parasites
+	of the tropics, and are responsible for human diseases like
+	onchocerciasis, called river blindness, or elephantiasis,
+	characterized by the gross enlargement of body parts. In 2003, Achim Hoerauf and his colleagues at
+	the Rheinische Friedrich-Wilhelms-University of Bonn in Bonn, Germany,
+	suggested that because elimination of Wolbachia from filarial
+	nematodes results in either death or sterility of the nematode, an
+	antibiotic treatment to remove the bacteria could control filarial
+	nematode diseases. 
+ Sources Bouchon, Didier,
+		Thierry Rigaud, and Pierre Juchault. "Evidence for widespread
+		Wolbachia infection in isopod crustaceans: molecular
+		identification and host feminization." Proceedings of the Royal
+		Society 265 (1998): 1081–90.
+		http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1689171/pdf/9684374.pdf (Accessed November 4, 2014).
+Breeuwer, Johannes A. and John
+		H. Werren. "Microorganisms associated with chromosome
+		destruction and reproductive isolation between two insect
+		species." Nature 346 (1990): 558–60.
+Dedeine, Frank, Fabrice
+		Vavre, Frédéric Fleury, Benjamin Loppin, Michael E. Hochberg,
+		and	Michel Boulétreau. "Removing symbiotic Wolbachia bacteria
+		specifically inhibits oogenesis in a parasitic wasp."
+		Proceedings of the National Academy of Sciences (2011): 6247–52.
+		http://www.pnas.org/content/98/11/6247.full (Accessed
+			November 4, 2014).
+Hertig, Marshall, and Simeon B. Wolbach.
+		"Studies on rickettsia-like microorganisms in 	insects."
+		Journal of Medical Research 44 (1924): 329–74.
+		http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2041761/pdf/jmedres00003-0073.pdf (Accessed 	November 4, 2014).
+Hertig,
+		Marshall. "The rickettsia Wolbachia pipientis and associated
+		inclusions of the mosquito, Culex pipiens." Parasitology 28
+		(1936): 453–86.
+Hoerauf, Achim, Sabine Mand, Kerstin Fischer,
+		Thomas Kruppa, Yeboah Marfo-Debrekyei, 	Alexander Y. Debrah,
+		Kenneth M. Pfarr, Ohene Adjei, and Dietrich W.
+		Büttner.	"Doxycycline as a novel strategy against bancroftian
+		filariasis-depletion of 	Wolbachia endosymbionts from
+		Wuchereria bancrofti and stop of microfilaria 	production."
+		Medical Microbiology and Immunolgy 192 (2003): 211–6.
+		
+Hurst, Gregory D.D., Francis M. Jiggins,
+		J. Hinrich Graf Von Der Schulenburg, Dominique Bertrand, Stuart
+		A. West, Irina I. Goriacheva, Ilia A. Zakharov, John H. Werren,
+		Richard Stouthamer, and Michael E. N. Majerus. "Male-killing
+		Wolbachia in two species of insect." Proceedings of the Royal
+		Society (1999) 266: 735–40.
+		http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1689827/ (Accessed January 27, 2015).
+Laven, Hannes. "Speciation in Mosquitos: Speciation by Cytoplasmic Isolation in the Culex Pipiens-Complex." Cold Spring Harbor Symposia on Quantitative Biology 24 (1959): 166–173. 
+Rigaud, Thierry "Inherited microorganisms
+		and sex determination of arthropod hosts." In Scott L. O'Neill, John H. Werren, and Ary A.
+		Hoffmann (eds.) Influential
+		Passengers.	Oxford: Oxford University Press, 1997: 81–101.
+Stouthamer, Richard, Robert F. Luck, and Wiliam D. Hamilton.
+		"Antibiotics cause 	parthenogenetic trichogramms to revert to
+		sex." Proceedings of the National Academy 	of Sciences
+		(1990): 2424–27.
+		http://www.ncbi.nlm.nih.gov/pmc/articles/PMC53701/ (Accessed 	November 4, 2014).
+Stouthamer, Richard, and
+		David J. Kazmer "Cytogenetic of microbe associated
+		parthenogenesis, consequences for gene flow in  Trichogramma
+		wasps." Heredity 73 (1994): 317–27.
+		http://www.nature.com/hdy/journal/v73/n3/pdf/hdy1994139a.pdf
+		(Accessed 	November 4, 2014).
+Werren, John H., Wan Zhang, and
+		Li R. Guo. "Evolution and phylogeny of Wolbachia: reproductive parasites of arthropods." Proceedings of the
+		Royal Society B: Biological Sciences 261 (1995): 55–63.
+		http://www.jstor.org/stable/50047 (Accessed January 27, 2015).
+Yen, Janice, and A. Ralph Barr. "New hypothesis of the
+		cause of cytoplasmic incompatibility in Culex Pipiens." Nature
+		(1971): 65–78.  
+
+How to cite
+Prevot, Karine, "Wolbachia". Embryo Project Encyclopedia (2015-01-29). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/8285.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+Copyright Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Thursday, March 19, 2015 - 18:33
+ Topic
+Subject
+ Wolbachia; Bacteria; Host-bacteria relationships; Host-parasite relationships; Host-parasite relationships; arthropods; nematodes; Reproduction; microorganisms; Rickettsiaceae; Organism

@@ -1,0 +1,40 @@
+By Tristan Cooper-Roth
+Published: 2010-10-20
+Keywords: Congenital disorders, Human development
+ Neural Tube Defects (NTD):  Folic Acid and PregnancyTIn the US, one in 1000 births is affected by 
+		neural tube defects (NTD). A neural tube defect is a birth defect involving the malformation of body features associated with the brain and spinal cord. An NTD originates from and is characterized by incomplete closure of the neural tube, which is an organizer and precursor of the central nervous system. In humans, incomplete closure of the neural tube during embryonic development results in anatomical abnormalities such as 
+		anencephaly (a lack of skull and brain), 
+		hydranencephaly (cerebral hemispheres replaced with sacs of cerebrospinal fluid), 
+		spina bifida occulta (incompletely closed lower spinal cord), 
+		iniencephaly (severe retroflexed head and spinal defects), and 
+		encephalocele (a sac-like protrusion from an opening somewhere along the midline of the skull).   
+NTDs originate very early in development, in humans typically during the fourth week after conception, a particularly vulnerable period. The causes of NTDs are not well understood, but are thought to be complex, involving one or more of a variety of genetic, environmental, and nutritional factors. One of the most important findings is that a deficiency of vitamin B9 (folate or folic acid) in the mother’s diet greatly increases the chances that her baby will have an NTD. Therefore, the importance of the mother consuming essential vitamins both before and during pregnancy is emphasized for the wellbeing of a developing embryo.  
+The word folate comes from the Latin folium, meaning “a leaf.” Folate is found primarily in green-leafed vegetables, legumes, liver, and certain seeds. Folic acid, its more stable synthetic equivalent, is used to fortify grain products such as flour and is converted into a metabolically active form in the liver. Folate derivatives hold the unique capacity of conducting one-carbon transfers, which is necessary in 
+		methylation reactions and nucleic acid synthesis.
+Methylation reactions and nucleic acid synthesis aid in the biosynthesis of both DNA and RNA.  A deficiency in folic acid, or a lack of the proper enzymes to metabolize folic acid into folate, sets the stage for NTDs because of failure to biosynthesize the proper nucleotides during early pregnancy—a crucial time when the embryo exhibits rapid cell division and cell growth, requiring DNA synthesis to be at its utmost efficiency. With the embryo lacking the ability to biosynthesize DNA at an efficient rate, and thus to form the necessary proteins, the neural tube does not close correctly. 
+Because of the growing understanding of what causes NTDs, the US 
+		Department of Human Health Services issued a recommendation in 1992, endorsed by the 
+		American Academy of Family Physicians and the 
+		American College of Obstetrics and Gynecology, for all sexually active women who are capable of becoming pregnant to consume a daily dosage of 0.4 mg of folic acid. The potential of folate as a preventative medicine was then recognized by the Food and Drug Administration (FDA) in 1996.  The FDA soon thereafter administered a regulation to all cereal-grain companies requiring them to fortify their products with folic acid using a concentration of 140 µg/100 g. With this dietary regime, it has been estimated that 50% of all human NTDs can be avoided. 
+
+Sources
+Gilbert, Scott F. Developmental Biology, 8th ed. Sunderland, MA: Sinauer Associates, 2006, 379–80.
+U.S. Preventive Services Task Force. Folic Acid for the Prevention of Neural Tube Defects: U.S. Preventive Services Task Force Recommendation Statement. AHRQ Publication No. 09-05132-EF-2, May 2009. Agency for Healthcare Research and Quality, Rockville, MD. http://www.ahrq.gov/clinic/uspstf09/folicacid/folicacidrs.htm (Accessed February 10, 2010).
+Young-In, Kim. “Will Mandatory Folic Acid Fortification Prevent or Promote Cancer?” American Journal of Clinical Nutrition 80 (2004): 1123–28. http://www.ajcn.org/cgi/content/full/80/5/1123.
+
+
+How to cite
+Cooper-Roth, Tristan, "Neural Tube Defects (NTD): Folic Acid and Pregnancy". Embryo Project Encyclopedia (2010-10-20). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/2295.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 25, 2013 - 15:53
+ Topic
+Subject
+Neural Tube Defects;  Concept

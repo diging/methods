@@ -1,0 +1,54 @@
+By Adam R. Navis
+Published: 2007-11-08
+Keywords: Tissue culture
+ Hanging Drop Tissue CultureThe hanging drop tissue culture is a technique utilized in 
+		embryology and other fields to allow growth that would otherwise be restricted by the flat plane of culture dishes and also to minimize the surface area to volume ratio, slowing evaporation.  The classic hanging drop culture is a small drop of liquid, such as plasma or some other media allowing tissue growth, suspended from an inverted watch glass.  The hanging drop is then suspended by gravity and surface tension, rather than spreading across a plate.  This allows tissues or other cell types to be examined without being squashed against a dish.
+The hanging drop technique was developed for microbiology; it was used to study bacteria in a confined and controlled environment.  The technique allowed the drop to be maintained without spreading the culture or allowing the drop to evaporate.  
+		Ross Granville Harrison adapted the hanging drop tissue culture to neural tissue cultures.  The hanging drop had been used in 
+		embryology to culture 
+		salamander embryos, and 
+		Harrison assumed the technique could be adapted and extended to neural development.  He used this unique tissue culture to demonstrate the growth of nerve cells and was the first to observe the development of growth cones.  Growth cones are finger-like projections from axons that help guide the growth of the nervous system.  The hanging drop tissue culture allowed the nerve cell to grow without being restricted to a conventional two-dimensional plate.  The discovery of growth cones disproved the prevailing theory of the day—that nerves were each connected by plasmodia, which ensured a direct connection throughout the nervous system without synapses between individual nerve cells.
+The hanging drop tissue culture was utilized in the discovery of 
+		nerve growth factor.  
+		Rita Levi-Montalcini was trying to answer 
+		Harrison’s question about how nerve cells are guided, so she used the hanging drop technique to observe ganglia from 
+		chick embryos in the presence of nerve growth inducing tumors.  In collaboration with 
+		Stanley Cohen, 
+		Levi-Montalcini discovered 
+		nerve growth factor to be a diffusible protein growth factor, the first to be discovered.  
+		Cohen and 
+		Levi-Montalcini shared the 1986 
+		Nobel Prize for Physiology or Medicine for their discovery of growth factors.
+Early attempts to culture 
+		chick embryos in vitro used the hanging drop technique.  J. E. McWhorter and H. O. Whipple were able to culture 
+		chick blastoderms for up to thirty-one hours in a hanging drop in 1912.  Other applications of the hanging drop culture include stem cells and in vitro cultures of whole embryos.  Stem cells are often cultured on a plate, but the hanging drop allows the cells to be cultured without being pressed against a plate.  This is useful when the three-dimensional structure of a tissue is desired.  Whole embryos of other species can be cultured in hanging drops.  Again, the structure of the embryo is important to maintain, so the hanging drop allows the embryo to develop without pressure from gravity against a plate.
+Hanging drop tissue cultures were developed for use in microbiology and were adapted to 
+		embryology by 
+		Ross Granville Harrison.  His use of the hanging drop in studies of nerve growth allowed him to view growth cones for the first time.  The hanging drop was also utilized in the discovery of 
+		nerve growth factor, which answered 
+		Harrison’s question about how nerves find their way to their targets.  The hanging drop technique is still used to study stem cells and whole embryos without flattening the culture against a plate.  The ability to resolve three dimensional structures was an important advance that made the hanging drop a widely used tissue culture.
+
+Sources
+Aberdam, Daniel.  “Derivation of Keratinocyte Progenitor Cells and Skin Formation from Embryonic Stem Cells.”  The International Journal of Developmental Biology 48 (2004): 203–6.
+Ball, Michael V.  Essentials of Bacteriology: Being a Concise and Systematic Introduction to the Study of Microorganisms.  Philadelphia: W. B. Saunders, 1900.
+Carrel, Alexis, and Montrose T. Burrows.  “Cultivation of Tissues in vitro and its Technique.”  Journal of Experimental Medicine 13 (1911): 387–96.
+Harrison, Ross G.  “The Outgrowth of the Nerve Fiber as a Mode of Protoplasmic Growth.”  Journal of Experimental Zoology 9 (1910): 787–846.
+Kandel, Eric R., James H. Schwartz, and Thomas M. Jessell, eds.  Principles of Neural Science.  Norwalk, Conn.: Appleton & Lange, 2000.
+Waddington, Conrad H.  “Experiments on the Development of Chick and Duck Embryos, Cultivated in vitro.” Philosophical Transactions of the Royal Society of London. Series B, Containing Papers of a Biological Character 221 (1932): 179–230.
+
+
+How to cite
+Navis, Adam R., "Hanging Drop Tissue Culture". Embryo Project Encyclopedia (2007-11-08). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/1720.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 25, 2013 - 15:53
+ Topic
+Subject
+Tissue Culture Techniques; Tissue culture; Technology

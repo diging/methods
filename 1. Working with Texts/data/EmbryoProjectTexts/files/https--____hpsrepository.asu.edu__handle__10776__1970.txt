@@ -1,0 +1,44 @@
+By Tristan Cooper-Roth
+Published: 2010-09-28
+Keywords: Epigenetics
+ Molecular Epigenetics and Development: Histone Conformations, DNA Methylation and Genomic ImprintingIntroduced by 
+		Conrad Hal Waddington in 1942, the concept of epigenetics gave scientists a new paradigm of thought concerning embryonic development, and since then has been widely applied, for instance to inheritable diseases, molecular technologies, and indeed the human genome as a whole. A genome contains an embedded intricate coding template that provides a means of genetic expression from the initial steps of embryonic development until the death of the organism. Within the genome there are two prominent components: coding (exons) and non-coding (introns) sequences. Exons provide coding by transcribing a gene into a protein, while introns do not have this capacity. On top of these coding sequences lie mechanisms that dictate the overall capability of a gene without changing the underlying nucleotide sequence of DNA; these mechanisms are primarily known as 
+		epigenetic factors. 
+Documented molecular epigenetic mechanisms include acetylation, ubiquitylation, phosphorylation, and methylation of DNA as well as histone proteins. All of these affect the outcome of genetic expression, but the two most studied mechanisms are methyl modifications of histone proteins and the addition of methyl groups (-CH3), also known as 
+		methylation, to cytosine phosphate guanine (CpG) rich sites along DNA. 
+A histone is a core, transcriptional component of a nucleosome, a dynamic unit comprised of DNA and protein that plays a fundamental role in guiding and compacting DNA. For a gene to be transcribed correctly, the eight histones within the nucleosome must have the appropriate conformation to bundle DNA effectively. The effectiveness of transcribing a gene can be altered by means of DNA methylation.
+There are two variations of methylation: hyper- (excessive amounts) and hypomethylation (inadequate amounts). When a histone’s tail or N-terminal (exposed area within the nucleosome) is hypermethylated, the function of the nucleosome is changed to a tight state, which restricts gene expression. The opposite can be said about hypomethylation, where there is an “overly” open chromatin structure, allowing an over-expression of genes. 
+The observable effects of varying levels of methylation on 
+		mouse embryos have provided scientists with significant amounts of information regarding embryonic developmental malformations, including cancers and inheritable diseases. One of these observable effects is seen through DNA methyltransferase (DNMT), an enzyme that promotes the aggregation of methyl groups upon unmethylated cytosines. DNMT-deficient mouse embryos portray phenotypically normal embryonic development until the 5 to 20 somite stage, and then cease to develop thereafter. Cessation of development in these short-lived embryos is directly correlated to the linear relationship between hypomethylation and the level of enzyme deficiency. As the embryo develops, the demand of DNMT increases due to the necessary regulation of some genes over others. With a deficiency in DNMT, the transcription of unwanted genes occurs. This event leads to organismal death by protein abnormalities either by cancerous growth or non-functional anatomical formation.
+Another crucial function of cellular growth and embryonic development involves 
+		genomic imprinting. This is a multifaceted epigenetic process involving monoallelic inheritance of a methyl marked genomic domain (one allele inheritance from a parent-of-origin). This methyl-marked genomic domain is inherited through 
+		gametogenesis (a process in which the reproductive organs produce male or female gametes). Through parent-of-origin inheritance, sex-specific imprinted genes are passed on to the progeny. Sex specificity in genomic imprinting depends on DNA methylation and its ability to repress one of the two parental alleles. 
+By the observed potentials in genetic repression, the technique of genomic imprinting in humans holds great significance for the understanding of developmental defects. Two well-studied human sex-specific imprinting disorders are the neonatal diseases 
+		Prader-Willi syndrome and 
+		Angelman syndrome. Paternal inheritance of an abnormality of chromosome 15 results in Prader-Willi syndrome, while Angelman syndrome involves exclusively maternal inheritance. Both diseases are the result of site-specific methylation patterns that mask gene promoters and enhancers on one of the parental alleles.
+Like all scientific frontiers, these areas in epigenetics are in great need of exploration. In an attempt to fill a major gap of information, the 
+		Human Epigenome Project has set out to map all DNA methylation patterns on all 23,000 or so human genes. By doing so, the potential for diagnosing human diseases will increase exponentially as well as provide greater insight into the phenomenon of DNA methylation. 
+
+Sources
+Gilbert, Scott F., and David Epel. Ecological Developmental Biology: Integrating Epigenetics, Medicine, and Evolution. Sunderland, MA: Sinauer, 2009, 44–6.
+Delaval, Katia, and Robert Feil. “Epigenetic Regulation of Mammalian Genomic Imprinting.” Current Opinion in Genetics & Development 14 (2004): 188–95. 
+Killian, J. “Genomic Imprinting.” Atlas of Genetics and Cytogenetics in Oncology and Haematology. March 2005. http://AtlasGeneticsOncology.org/Educ/GenomImprintID30027ES.html (Accessed February 22, 2010).
+Razin, A., and Ruth Shemer. “DNA Methylation in Early Development.” Human Molecular Genetics 4 (1995): 1751–55.
+Watson, James D., Tania A. Baker, Stephen P. Bell, Alexander Gann, Michael Levine, and Richard Losick. Molecular Biology of the Gene, 6th ed. Cold Spring Harbor, NY: Cold Spring Harbor Laboratory Press, 2008.
+
+
+How to cite
+Cooper-Roth, Tristan, "Molecular Epigenetics and Development: Histone Conformations, DNA Methylation and Genomic Imprinting". Embryo Project Encyclopedia (2010-09-28). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/1970.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 25, 2013 - 15:53
+ Topic
+Subject
+Epigenomics; Waddington, C. H. (Conrad Hal), 1905-1975; Concept

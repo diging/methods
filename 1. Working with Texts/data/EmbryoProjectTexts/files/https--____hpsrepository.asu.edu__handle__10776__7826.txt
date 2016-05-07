@@ -1,0 +1,121 @@
+By Mary Drago
+Published: 2014-05-03
+Keywords: Carl R. Moore, Freemartin, Embryonic Sex Differentiation
+ Embryonic Sex Differentiation and Sex Hormones (1947), by Carl R. MooreIn 1947, Carl Richard Moore, a researcher at the University of Chicago, in Chicago, Illinois,
+	wrote Embryonic Sex Differentiation and Sex Hormones, which was published in the same
+	year as a first-edition monograph. In the book, Moore argues that regulation of sex
+	differentiation in mammals is not controlled by sex hormones secreted by embryonic sex organs
+	(gonads), but is controlled by non-hormonal genetic factors. In support of his hypothesis, Moore
+	describes the current literature on sex differentiation, and he reviews experiments on
+	vertebrates and invertebrates and his own work with opossum (Didelphis virginiana) young.
+The first section of the book, Moore discusses sex differentiation. He explains
+	that once an organism approaches puberty or the beginning of its reproductive life, hormones
+	secreted by the gonads influence the reproductive system's functions and development of
+	secondary sex characteristics. However, Moore argues that scientists couldn't describe the
+	physiological control over such development, which despite genetic sex determination, permits
+	gradations of sex characteristics in degrees from typical male to typical female.
+ In the second section, Moore describes Frank Rattray Lillie's early twentieth century work
+	with freemartins at the Marine Biological Laboratory in Woods Hole, Massachusetts. Born with a
+	normal male twin, a freemartin is a sterile cow that has external female genitalia and internal
+	male gonads. Lillie theorized that the freemartin is a genetic female whose internal sex
+	differentiation was suppressed or antagonized by her twin's release of male hormones via their
+	shared blood circulation. Lillie's study of freemartins led to the theory that gonadal sex
+	hormones partly caused hermaphroditism. After s suggestion from Lillie,
+	Moore began his research in 1916  to create hermaphrodites in the laboratory to test Lillie's
+	theory. Moore reviews his experiments over the course of thirty years with rats, guinea pigs,
+	and, opossums, studies that led him to conclude that hormones released by the embryonic gonads
+	didn't cause the reproductive system to differentiate from other tissues, and that something
+	else did, an interpretation contrary to Lillie's assertion.
+In the third section, Moore reviews experiments in which researchers attempted to modify
+	sexual development using living tissues and hormonal extracts from testes and ovaries. In the
+	analysis of experiments using living tissues, Moore concludes that some animals, such as amphibians and some pigs, could develop
+	just as freemartins in cows do. He next assesses experiments
+	using hormonal extracts and concludes that while birds, fish, and amphibians, which are all
+	non-placental animals, exhibit gradations of sex differentiation when exposed to hormonal
+	extracts. 
+	Moore then describes experiments using hormonal extracts with placental mammals, and he reports
+	that the experiments yielded a variety of atypical conditions. Moore concludes that those
+	results could have been caused by the alteration of the hormones delivered in utero
+	either by some interaction with the mother or because of an injury to the placentas. To investigate such
+	possibilities, Moore began his research on the opossum in 1939, at the Marine Biological
+	Institute.
+The fourth section details Moore's experiments with opossums and the results from those
+	experiments. Moore claims that he chose the opossum because he could avoid the risk of injuring
+	opossums when he interacted with pregnant opossums while the young were
+	in utero, and  because the reproductive systems of opossum young are not
+	differentiated at birth. Opossums are born after thirteen days of gestation and spend the next
+	sixty-five to seventy days attached to the nipple located in the mother's pouch.
+In his initial experiments, Moore treated the young with hormonal creams until thirty days after
+	birth. Moore concludes from these experiments that androgen cream stimulated the male
+	reproductive system in both sexes, with a slightly greater effect in genetic males than in
+	genetic females. The androgen cream, according to Moore, also stimulated female (Mullerian)
+	ducts but did not inhibit ovarian development in females. Estrogen treatments, Moore asserts,
+	did not change the differentiation of either sex, but did stimulate the growth of male
+	(Wolffian) and female ducts in each sex.
+ Moore also treated opossum young with hormones that stimulate gonads (gonadotropins), and he
+	states that such treatment failed to produce appreciable amounts of sex hormones from the
+	gonads. He concludes that in opossum young, sex differentiation is visible at day thirty but the
+	gonads are incapable of secreting hormones until day seventy in males and day 100 in females,
+	gonadal hormones play a significant role in sex differentiation.
+Moore then describes the procedures he used to surgically remove the gonads on opossum young
+	without detaching them from the mother's nipples. He determines that even though the gonads are
+	removed, the reproductive system of the opossum proceeds normally until the stage of development
+	when the male and female systems are established. He cites the experiments as further evidence
+	that the sex differentiation of the opossum does not depend on the hormonal secretion of the
+	ovaries or the testes.
+ In the fifth section, Moore discusses his results and their implications for the study of
+	sex differentiation in vertebrates more generally. He explains that in vertebrates, the embryonic gonads don't
+	cause the formation of the male or female reproductive structures. Moore then hypothesizes that
+	other factors modify reproductive structures in amphibians and birds. He suggests that prior
+	experimental results that demonstrated a mismatch between the secondary sex characteristics and
+	the genetic sex occurred because of the sensitivity of those structures in early periods of
+	development. According to Moore, intersexual or hermaphroditic conditions, for which organisms have both testis and
+	ovary, result from non-hormonal genetic factors in which neither the male nor the
+	female factor establish dominance.
+The final section of the book lists the ten points of Moore's argument. Moore asserts that embryonic
+	sex glands don't cause sex differentiation in embryos, but findings published in the same year as
+ his monograph confirmed Lillie's theory. Lee J. Wells, a former student of Moore's then at the University of Minnesota in Minneapolis, Minnesota, and Alfred Jost and Albert Raynaud, both in
+	Paris, France, published  papers in which they described how they produced 
+	hermaphrodites in their laboratories via fetal gonadectomies. Nevertheless, Moore's work enabled
+	researchers to further study the role of embryonic gonads in sex differentiation. 
+ Sources Dreger, Alice Domurat. Hermaphrodites and the Medical Invention of Sex. Cambridge, MA:
+Harvard University Press, 1998.
+Jost, Alfred. "Recherches sur la differenciation sexuelle de l'embryon de lapin." [Research into the sexual differentiations of the rabbit embryo.] PhD diss., Sc. nat. Paris, 1947.
+Jost, Alfred, Dorothy Price, and Robert G. Edwards. "Hormonal Factors in the Sex Differentiation
+of the Mammalian Foetus [and Discussion]." Philosophical Transactions of the Royal Society of
+London. B, Biological Sciences 259 (1970): 119–131.
+Lillie, Frank Rattray. "The Theory of the Free-Martin." Science 43 (1916): 611–13.  https://archive.org/stream/jstor-1641047/1641047#page/n0/mode/2up (Accessed May 2, 2014).
+Macintyre, M. Neil. "Effect of the Testis on Ovarian Differentiation in Heterosexual Embryonic
+Rat Gonad Transplants." The Anatomical Record 124 (1956): 27–45.
+Moore, Carl Richard. "The Production of Artificial Hermaphrodites in Mammals." Science 52
+(1920): 179–82.
+Moore, Carl Richard. Embryonic Sex Hormone and Sexual Differentiation.
+Springfield, IL: Charles C. Thomas, 1947.
+Price, Dorothy. "An Analysis of the Factors Influencing Growth and Development of the Mammalian
+Reproductive Tract." Physiological Zoology 20 (1947): 213–47.
+Price, Dorothy. "Carl Richard Moore: 1892–1955." National Academy of Sciences, 1974. http://www.nasonline.org/publications/biographical-memoirs/memoir-pdfs/moore-carl-r.pdf (Accessed May 2, 2014). 
+Raynaud, Albert, and Marcel Frilley. "Destruction des glandes génitales de l’embryon de souris par une irradiation au moyen des rayons X, à l’âge de 13 jours." [Destruction of genital glands of the mouse embryo by irradiation with X-rays, at the age of 13 days] Annales d' Endocrinologie 8 (1947): 400.
+Renfree, Marilyn B., and Geoffrey Shaw. "Germ Cells, Gonads and Sex Reversal in Marsupials."
+International Journal of Developmental Biology 45 (2001): 557–67. 
+Tyndale-Biscoe, Hugh, and Marilyn B. Renfree. Reproductive Physiology of Marsupials. New
+York: Cambridge University Press, 1987.
+Wells, Lee J. "Effects of androgen upon reproductive organs of normal and castrated fetuses with note on adrenalectomy." Experimental Biology and Medicine 63 (1946): 417–419. http://ebm.sagepub.com/content/63/2/417.short (Accessed May 2, 2014).
+Wells, Lee J. "Progress of studies designed to determine whether the fetal hypophysis produces hormones that influence development." The Anatomical Record 97 (1947): 409–409.
+Wells, Lee J. "Some experimental evidence of production of adrenotrophin by the fetal hypophysis." Experimental Biology and Medicine 68 (1948): 487–488. http://ebm.sagepub.com/content/68/3/487.full.pdf+html (Accessed May 2, 2014).
+
+
+How to cite
+Drago, Mary, "Embryonic Sex Differentiation and Sex Hormones (1947), by Carl R. Moore". Embryo Project Encyclopedia (2014-05-03). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/7826.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+Copyright Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Saturday, May 3, 2014 - 18:13
+ Topic
+Subject
+gonadal steroid hormones; Freemartinism; Moore, Carl R. (Carl Richard), 1892-1955; Endocrinology; Hormones, Sex; Literature

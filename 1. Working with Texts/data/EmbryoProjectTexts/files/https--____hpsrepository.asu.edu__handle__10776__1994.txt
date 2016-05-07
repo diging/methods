@@ -1,0 +1,45 @@
+By Steve Elliott
+Published: 2009-06-08
+Keywords: Mechanism
+ "Mechanistic Science and Metaphysical Romance" by Jacques Loeb
+Jacques Loeb published “Mechanistic Science and Metaphysical Romance” in 1915.  His goal for the article was to outline his conception of mechanistic science and its relation to other methods of inquiry.  Loeb argued that mechanistic science was the foundation of knowledge and humanity’s progress depended on it.  Loeb’s argument altered the account of science he offered in 
+		The Mechanistic Conception of Life insofar as scientists no longer aimed merely to control nature, but also to understand nature’s underlying elements and their mechanical relations.  Loeb relied on the results of his research into fish embryos and 
+		tropisms to bolster his argument.  
+Loeb published his article in the Yale Review when 
+		World War I and its causes preoccupied him.  Loeb argued that the racism that sparked and fueled the war resulted from metaphysicians and romanticists, as Loeb called them, both of whom lacked standards for truth and sometimes promulgated racist creeds.  At the same time Loeb faced theoretical issues about his work in biology.  Loeb’s guiding maxim for his research had been control of phenomena, which he outlined in The Mechanistic Conception of Life.   Loeb conceived of scientists as engineers and biologists as manipulators and creators of life:  biologists achieved explanations through control of the object of study, and control came through manipulation of mechanisms.  But Loeb never explained what a mechanism was, or why mechanisms were particularly controllable.  By 1915, he appreciated recent advances in physics and wanted to extend those advances to biology.
+Loeb began “Mechanistic Science and Metaphysical Romance” with an overview of the debate about kinetic theories of gases and heats, maintaining that heat resulted from the mechanical movements and interactions of molecules.  
+		Wilhelm Ostwald argued that those theories relied on commitments to the unproven existence of molecules and thus failed to merely describe nature, which Ostwald held as the goal of science.  
+		Ludwig Boltzman argued against Ostwald and in favor of the kinetic theories, but concluded that the vindication either of the descriptive conception of heat or the mechanistic conception of heat depended on which gave the more complete account of the various heat phenomena.  Loeb said the mechanistic conception of heat accounted for molecules, the existence of which scientists proved and had learned how to count in various ways.  Ostwald eventually capitulated and accepted the existence of molecules, leaving Loeb to declare that the only reason to avoid mechanistic science thereby disintegrated.
+	Loeb then claimed that the aim of science was the correct and total visualization of the hidden processes and conditions connecting all of nature:  to visualize those processes and conditions correctly, completely, and mechanistically.  Visualizations were mechanistic in that they started with discrete elements, such as atoms and molecules, and accounted for their spatial interactions in terms of movements.  Loeb acknowledged that scientists would create erroneous visualizations, but investigation would correct those visualizations over time.  Scientists test the correctness of their visualizations by calculating the effects of their manipulations on the visualized mechanistic body, performing the manipulations, and measuring the results to see if they agree with the predicted calculation.  
+	For Loeb, physics was irrevocably mechanistic.  Loeb thought the objects of biological study were continuous with those of physics.  That continuity meant biology was also a mechanistic science and that the ultimate goal of its practitioners was to reduce life-phenomena to the elements of physics and their interactions.  Loeb provided examples from his research where such 
+		reduction was increasingly likely.  The first was his account of embryonic fish heartbeats reduced to descriptions and the laws of physics.  The second was the similar reduction of 
+		heliotropisms in caterpillars.
+	Loeb closed his article by comparing mechanistic science as a method for discovery and understanding with other accepted methods.  As he had already argued, mechanistic science gave a more complete account of nature than mere descriptive science.  But Loeb considered the most pernicious “method” to be metaphysical romance in that metaphysical claims lacked experimental corroboration and romantic claims often appealed to the emotions of the masses.  Neither type of claim rested on evidence other than intuition.  Combined, metaphysical romantic claims caused a lack of appreciation for the truth, at the least, and racism and ignorance that caused world wars at the most.   
+	Loeb believed universities often fell under the sway of metaphysical romance, and as a result failed to teach future teachers and non-science graduates the rigor and value of science.  That failure resulted in an undereducated population easily swayed by metaphysical romance.  Loeb concluded that humanity’s progress depended, as it had in the past, on mechanistic science and its results.
+	Loeb’s position in “Mechanistic Science and Metaphysical Romance” shows a revision of his previous engineering-based account of science and scientific explanation.  Control of nature was no longer enough for scientific explanation:  scientists now had to determine the correct mechanisms of nature and test those mechanisms via experiment.  Control was corollary to experiment and perhaps partly motivational but it was no longer solely explanatory.  Loeb also broke with his philosophical mentor 
+		Ernst Mach, insofar as Mach agreed with Ostwald that the aim of science was describing nature via mathematical functions.  Loeb expanded his new accounts of science and scientific explanation in 
+The Organism as a Whole, in which he attempted to center much of biology on his new conception of mechanistic science. 
+
+Sources
+Allen, Garland E.  “Mechanism, Vitalism, and Organicism in Late Nineteenth and Twentieth-Century Biology: The Importance of Historical Context.” Studies in History and Philosophy of Biology and Biomedical Sciences 36 (2005): 261–83. 
+Loeb, Jacques. “Mechanistic Science and Metaphysical Romance.” Yale Review 4 (1915): 766–85.
+Loeb, Jacques.  The Organism as a Whole: From a Physicochemical Viewpoint. New York: G.P. Putnam’s Sons, 1916.  
+Loeb, Jacques.  The Mechanistic Conception of Life.  Ed. Donald Fleming.  Cambridge, MA: Harvard University Press, 1964.
+Pauly, Philip J. Controlling Life: Jacques Loeb and the Engineering Ideal in Biology. New York: Oxford University Press, 1987. 
+
+
+How to cite
+Elliott, Steve, ""Mechanistic Science and Metaphysical Romance" (1915), by Jacques Loeb". Embryo Project Encyclopedia (2009-06-08). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/1994.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 25, 2013 - 15:53
+ Topic
+Subject
+ Loeb, Jacques, 1959-1924; Literature

@@ -1,0 +1,53 @@
+By Adam R. Navis
+Published: 2007-10-30
+Keywords: Neurons, Nervous system
+ Syncytial TheoryThe syncytial theory of neural development was proposed by 
+		Victor Hensen in 1864 to explain the growth and differentiation of the nervous system.  This theory has since been discredited, although it held a significant following at the turn of the twentieth century.  
+		Neural development was well studied but poorly understood, so 
+		Hensen proposed a simple model of development.  The syncytial theory predicted that the nervous system was composed of many neurons with shared cytoplasm.  These nerves were thought to be present in the embryo from a very early stage and were selected by the function of the target tissue.  There were two competing theories to the syncytial theory.  Theodor Schwann and Francis Maitland Balfour proposed the 
+		sheath cell theory, which states that nerve fibers were the product of secretions by chains of sheath cells. 
+		Santiago Ramón y Cajal and 
+		Wilhelm His proposed the 
+		outgrowth theory of fiber development for individual neurons.  The most substantial evidence against the syncytial theory of neural development was produced by 
+		Ross Granville Harrison in his studies of the development of nerve fibers.
+The syncytial theory of neural development proposed that all the cells of an embryo are connected by fine protoplasmic threads that form the basis of the nervous system.  
+		Hensen predicted that these connections would be strengthened through the function of their targets.  In this way, the nerve fibers could refine their connections by maintaining the correct neurons and allowing the unsuccessful connections to degenerate.  This was an appealing model because it provided a simple and elegant explanation for neural development.  The syncytial theory depended on a few principles, namely that all nerves were present early in development, all possible neural connections were made early in development, and every successful neural connection depended on the function of the target tissue.
+
+		Harrison provided the initial evidence against the syncytial theory of development by taking on each of the theory’s tenets.  First 
+		Harrison removed the central nervous system of a frog, which left an embryo with no nerves.  If 
+		Hensen’s theory were correct, nerve fibers would still be present in the embryo, since they were assumed to be laid down at the beginning of development.  Next 
+		Harrison showed that nerve cells in an unnatural environment will successfully develop nerve fibers, even when all possible “intercellular bridges” have been removed from the tissue.  This demonstrated that the nerves can grow through a tissue without the need for previously laid nerve fibers.  Another aspect of syncytial theory stated that the function of a tissue strengthened its neural connections.  To test this, 
+		Harrison anesthetized embryos for a week, which prevented them from using their limbs, but at the end of the week, the nerves and muscles showed normal developmental progress, demonstrating that function was not required for neural development.
+Through this and other work, 
+		Harrison provided substantial evidence that the 
+		Hensen model and the Schwann model were insufficient to explain neural development.  What he lacked was evidence for the 
+		 Ramón y Cajal and 
+		His 
+		outgrowth model of development.  To show that nerve fibers grew as parts of discrete cells, 
+		Harrison designed and utilized a tissue culture to observe nerve fibers as they push through a system.
+The syncytial theory has been partially validated.  Recent discoveries have provided evidence that some aspects of the theory are supported, if interpreted appropriately.  Synapses between each neuron contain gap junctions that connect the cytoplasm of cells and allow signaling molecules to pass.  These connections are the product of protein channels from discrete cells rather than the product of incomplete cell division.  Electrical signals have been discovered to strengthen neural connections during development and in the brain.  Some principles of syncytial theory have been validated, but the basic concept of neural development that the theory predicted is not supported.
+The syncytial theory provided a simple and attractive model of neural development.  
+		Harrison tested many of the claims of the theory and provided counter-evidence.  He showed that the growth of nerves depends upon the central nervous system.  He then showed that nerves could invade foreign tissues where the syncytial network was not established.  He also demonstrated that the development of the correct nerve fibers did not depend on the function of that tissue.  Some predictions about the selection of neurons by electrical stimulation and connections between neurons have been validated, but the core of the theory did not predict the growth of the nervous system.
+
+Sources
+Abercrombie, M.  “Ross Granville Harrison. 1870–1959.”  Biographical Memoirs of Fellows of the Royal Society 7 (1961): 110–26. 
+Hamburger, Viktor.  “S. Ramón y Cajal, R. G. Harrison, and the Beginnings of Neuroembryology.”  Perspectives in Biology and Medicine 23 (1980): 600–16.
+Hamburger, Viktor.  “Ontogeny of Neuroembryology.”  The Journal of Neuroscience 8 (1988): 3535–40.
+Keshishian, Haig.  “Ross Harrison’s ‘The Outgrowth of the Nerve Fiber as a Mode of Protoplasmic Movement’.”  Journal of Experimental Zoology Part A: Comparative Experimental Biology 301 (2004): 201–03.
+
+
+How to cite
+Navis, Adam R., "Syncytial Theory". Embryo Project Encyclopedia (2007-10-30). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/1715.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 25, 2013 - 15:53
+ Topic
+Subject
+Nervous System; Hensen, Victor, 1835-1924; Concept

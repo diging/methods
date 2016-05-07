@@ -1,0 +1,46 @@
+By Mark Zhang
+Published: 2011-09-29
+Keywords: Birth and developmental defects, Bioethics
+ Berman v. Allan (1979)The Supreme Court of New Jersey decided the case of Berman v. Allan on 26 June 1979, brought by Shirley Berman and
+		 Paul Berman and their daughter Sharon Esther Berman against 
+		 Ronald Allan and 
+		 Michael Vincent Attardi, Shirley's physicians. The court dismissed the Berman's claims for what they termed 
+		 wrongful life of their daughter, but allowed them to claim compensation as a result of what was termed 
+		  wrongful birth. In doing so, the courts ruled that doctors and other healthcare providers were potentially subject to legal and financial consequences if they failed to inform their patients during pregnancy of possible birth defects. The Berman case, along with the 1982 California Supreme Court case 
+		 Turpin v. Sortini  and the 1977 New York Supremem Court case 
+		 Park v. Chessin, was a case where a state supreme court grappled with the issues of wrongful birth and wrongful life.
+In 1975, Shirley and Paul Berman sued physicians Allan and Attardi for failing to inform them of the medical procedure 
+		amniocentesis , which doctors use to diagnose a number of chromosomal defects in fetuses. Doctors especially use amniocentesis in women greater than thirty-five years old, as the risk for birth defects increases greatly with the mother's age. The Bermans alleged that amniocentesis was standard practice as Shirley Berman was 38 at the time of her pregnancy with Sharon. If Shirley had undergone amniocentesis, it would have revealed that the fetus would be born with 
+		Down syndrome. However, the Berman's doctors did not recommend amniocentesis and the Bermans lacked the possibility of using the information to seek an abortion. As a result, Sharon Esther Berman was born on 3 November 1974 with Down syndrome.
+The first part of the suit involved wrongful life claim Shirley and Paul Berman filed on Sharon's behalf. Wrongful life claims are filed in the name of a child born with natural birth defects; they assert that without pertinent information that physicians negligently failed to provide, the physicians denied the child's parent or parents the chance to utilize their legal right to abortion. In the second half of the suit, the Bermans sought compensation for the wrongful birth of their child, claiming that they experienced emotional and mental anguish resulting from Sharon's birth, which would not have occurred had Allan and Attardi properly recommended amniocentesis. A lower court ruled in favor of Allan and Attardi on 4 November 1977, prompting the Bermans to appeal their case to the New Jersey Superior Court, Appellate Division. However, before the Court could hear the appeal, the New Jersey Supreme Court moved to hear the case directly.
+The New Jersey Supreme Court upheld the trial court's ruling in favor of defendants Allan and Attardi on the wrongful life claim, but found in favor of the Bermans on the issue of wrongful life. The majority opinion, written by Justice Morris Pashman, reiterated that the doctors neither caused Down Syndrome in the child, nor did they increase the risk of its occurrence. Instead, Sharon Berman alleged that her life itself was wrongful. In this, the doctors' malpractice was different from other forms of negligence. Pashman further wrote that even if a wrongful life claim could be supported, the court would find the task of dispensing compensation for damages to be impossible. The justices claimed that to accurately establish the damages in a wrongful life case, they would have to measure the difference between the life of an impaired individual and nonexistence. However, they felt that they could not adequately assign a value to non-life. Consequently, the court ruled that Allan and Attardi could not be blamed for passively perpetuating Sharon Berman's existence.
+Regarding the Bermans' allegation of wrongful birth, however, the court concluded that the Bermans had a reasonable claim to be recompensed for the mental and emotional suffering caused by Sharon’s condition. This decision reversed the New Jersey Supreme Court's 1967 opinion 
+	Gleitman v. Cosgrove, in which the court ruled that because patients could not legally terminate a pregnancy, physicians could not be held responsible for failing to inform patients of potential birth defects. However, the 1973 US Supreme Court case 
+	Roe v. Wade ruled that women may legally seek abortion, and the case set the New Jersey Supreme Court a precedent to overturn their Gleitman decision. The New Jersey Supreme Court thus partially reversed the judgment of the lower court, permitting the Bermans' wrongful birth claim to be taken back to trial and decided in front of a jury.
+
+Sources
+Berman v. Allan, 80 N.J. 421; 404 A.2d 8 (1979). http://scholar.google.com/scholar_case?q=Berman+v.+Allan,+80+N.J.+421%3B+404+A.2d+8+(1979).%3C&hl=en&as_sdt=806&case=9750375897372063071&scilh=0 (Accessed January 9, 2014).
+Beshara, Nicholas. "Recent Developments in Health Law: Wrongful Life: An Issue of First 
+Impression for the Supreme court of South Carolina—Willis v. Wu." Journal of Law, Medicine & Ethics 33 (2005): 616-17.
+Capron, Alexander M. "At Law: Job in Court." The Hastings Center Report 29 (1999): 22–5.
+Gleitman v. Cosgrove, 49 N.J. 22; 227 A.2d 689 (1967). http://scholar.google.com/scholar_case?q=Gleitman+v.+Cosgrove,+49+N.J.+22%3B+227+A.2d+689+(1967).&hl=en&as_sdt=806&case=11699886038301392667&scilh=0 (Accessed January 9, 2014).
+Park v. Chessin, 60 A.D.2d 80; 400 N.Y.S.2d 110 (N.Y. App. Div. 1977). http://scholar.google.com/scholar_case?q=Park+v.+Chessin,+60+A.D.2d+80%3B+400+N.Y.S.2d+110+(N.Y.+App.+Div.+1977).&hl=en&as_sdt=806&case=5408578390167366493&scilh=0 (Accessed January 9, 2014).
+Roe v. Wade, 410 U.S. 113 (1973). http://scholar.google.com/scholar_case?q=Roe+v.+Wade&hl=en&as_sdt=806&case=12334123945835207673&scilh=0 (Accessed January 3, 2014).
+Turpin v. Sortini, 31 Cal. 3d 220; 643 P. 2d 954; 182 Cal. Rptr. 337 (1982). http://scholar.google.com/scholar_case?q=Turpin+v.+Sortini,+31+Cal.+3d+220%3B+643+P.+2d+954%3B+182+Cal.+Rptr.+337+(1982).&hl=en&as_sdt=806&case=7856354285265009649&scilh=0 (Accessed January 9, 2014).
+
+
+How to cite
+Zhang, Mark, "Berman v. Allan (1979)". Embryo Project Encyclopedia (2011-09-29). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/2317.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Friday, January 31, 2014 - 21:46
+ Topic
+Subject
+Wrongful Life;  Law

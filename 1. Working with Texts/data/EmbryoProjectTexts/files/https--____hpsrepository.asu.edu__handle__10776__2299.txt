@@ -1,0 +1,58 @@
+By Kristin Kelley
+Published: 2010-10-29
+Keywords: Congenital disorders, Heredity
+ Tay-Sachs DiseaseIn 1881 British ophthalmologist 
+		Warren Tay made an unusual observation. He reported a cherry-red spot on the retina of a one-year-old patient, a patient who was also showing signs of progressive degeneration of the central nervous system as manifested in the child’s physical and mental retardation. This cherry-red spot is a characteristic that would eventually come to be associated with metabolic neurological disorders like 
+		Sandhoff, 
+		GM-1, 
+		Niemann-Pick, and, in recognition of Tay, the 
+		lysosomal storage disorder known as Tay-Sachs Disease. Tay shares the disease’s title with New York neurologist 
+		Bernard Sachs, who described the cellular changes present in the disease as well as its potential for heritability, shortly after Tay’s observation. Sachs also noted the higher occurrence of the disease in Jews of eastern and central European descent as well as the typical pattern of the disease, including early blindness, severe retardation, and death in early childhood. 
+Tay-Sachs disease can manifest itself in the classic infantile form or as juvenile or late-onset Tay Sach’s (LOTS) disease, both of which are less common and less severe. A 
+		single-gene disease, Tay-Sachs results in an individual who has not met certain developmental milestones, depending on the expression of the gene the disease affects. In the Classic Infantile form, the destructive process begins in the fetus early in pregnancy, though children with Tay-Sachs appear normal at birth. By the age of six months, however, development noticeably slows, with seizures and decreased mental function typically occurring by age two. A pattern of regression follows, in which the child loses the ability to crawl, sit, turn over, or reach out and becomes paralyzed, blind, cognitively impaired, and non-responsive. Additional symptoms of the disease include poor feeding, retarded development and regression, overactive reflexes (hyperreflexia), lethargy, opisthotonos (severe rigidity of the body and arching of the back), the cherry-red spot on the retina, seizures, blindness, deafness, and spasticity. In this form of the disease, death typically occurs before age five. 
+Individuals with the juvenile or late-onset forms of the disease do produce the enzyme that is missing in the classic infantile form, but in less than normal amounts. Thus, while the classic infantile form is characterized by a high level of GM2 ganglioside accumulation, this accumulation is less pronounced in the juvenile and LOTS forms of the disease and is restricted to the hippocampus, granular cells of the cerebellum, the nuclei of the cells of the brainstem and spinal cord, and the retina. Individuals with the juvenile form tend to develop symptoms similar to the classic infantile form between ages two and ten with death almost always occurring by age fifteen. In contrast, individuals with LOTS experience symptoms that are less severe than both the class infantile and juvenile forms. They tend to occur between adolescence and the mid-30’s and typically do not include vision or hearing loss. Symptoms of LOTS vary and can include loss of mental function, speech difficulties, muscle weakness or cramping, issues with gait, or sometimes mental illness. Life expectancy is also variable and sometimes even unaffected. 
+These symptoms result from the accumulation of a fatty substance in the brain due to the absence or suppression of an important enzyme known as 
+		hexosaminidase A, or Hex-A, that is a result of a mutation on both copies of the hexosaminidase A (alpha polypeptide), or HEXA, gene. As its name implies, the HEXA gene is essential to the production of the Hex-A enzyme, which is further comprised of alpha and beta subunits. Located on the long arm of chromosome 15, the HEXA gene contains genetic information that encodes for a particular protein involved in the formation of the enzyme’s alpha subunit. In 1969, 
+		Shintaro Okada and 
+		John S. O’Brien discovered that Tay-Sach’s disease was in fact linked to diminished Hex-A activity and that this event was connected to a disturbed alpha subunit, which could be identified with an enzyme assay. 
+The hexosaminidase A enzyme forms a complex within the lysosomes of cells that acts to break down a fatty substance known as GM2 ganglioside. This ganglioside was first characterized in the late 1930s and early 1940s by 
+		Ernst Klenk and his colleagues as an acid-containing glycosphingolipid. The inability to suppress ganglioside levels results in toxic accumulation of GM2 in the nerve cells of the brain and spinal cord, ultimately leading to their destruction and to the symptoms associated with the disease. This is why Tay-Sachs Disease is also known as GM2 gangliosidosis type 1. In 1960, 
+		Robert Terry and 
+		Saul Korey identified membranous bodies within the neurons of Tay-Sachs patients that were filled with gangliosides. The membranous bodies possessed qualities similar to lysosomes, the cellular structures responsible for degrading toxic substances. Additionally, some of the first reports of Tay-Sachs were characterized by observations of cells swollen with lipid-filled cytoplasm in the postmortem brains of affected children. 
+Tay-Sachs is an 
+		autosomal recessive disorder, meaning both parents must be carriers for the disease in order for one or more of their children to be affected. A carrier for Tay-Sachs disease possesses one copy of the mutated HEXA gene but is phenotypically normal. If both parents are carriers, they have a one in four chance of producing a child who is homozygous for the trait, receiving both of the mutated HEXA genes, with any given pregnancy. 
+Tay-Sachs Disease can be diagnosed through enzymatic testing or DNA testing, including prenatal testing by 
+		amniocentesis or 
+		chorionic villus sampling. Carrier testing and aggressive community initiatives have been effective measures of prevention. The goal of such testing is to prevent the conception or birth of at-risk babies, with termination being a commonly chosen solution. For Tay-Sachs carriers who wish to bear a normal child, in vitro fertilization followed by testing of individual blastomeres and implantation of non-affected embryos is a reliable though expensive option. As of 2010, primary research initiatives include gene therapy, the development of ganglioside inhibitors, chaperone therapy, cord blood transplant, and enzyme replacement therapy. Though no current cures exist for those born with Tay-Sachs disease, progress in the search is promising.
+
+Sources
+Chen, Harold. Atlas of Genetic Diagnosis and Counseling. Totowa, NJ: Humana Press, 2006. 
+Cure Tay-Sachs Foundation. “Research Initiatives.” http://www.curetay-sachs.org/ (Accessed February 21, 2010). 
+Desnick, Robert, and Christine Eng. “Experiences in Molecular-Based Prenatal Screening for Ashkenazi Jewish Genetic Disorders.” Advances in Genetics 44: (2001): 275–97.
+Desnick, Robert, and Michael Kaback. “Future Perspectives for Tay-Sachs Disease.” Advances in Genetics 44: (2001): 349–57.
+Desnick, Robert, and Michael Kaback. “Tay-Sachs Disease: From Clinical Description to Molecular Defect,” Advances in Genetics 44: (2001): 1–11. 
+Genetics Home Reference. “Tay-Sachs Disease.” http://ghr.nlm.nih.gov/condition=taysachsdisease (Accessed January 30, 2010). 
+Grifo, Jamie, and Christoph Hansis. “Tay-Sachs Disease and Preimplantation Genetic Diagnosis.” Advances in Genetics 44: (2001): 311–17.
+National Human Genome Research Institute. “Learning About Tay-Sachs Disease.” National Institutes of Health. http://www.genome.gov/10001220 (Accessed February 21, 2010). 
+National Institute of Neurological Disorders and Stroke. “NINDS Tay-Sachs Disease Information Page.” http://www.ninds.nih.gov/disorders/taysachs/taysachs.htm (Accessed January 30, 2010). 
+National Tay-Sachs and Allied Diseases Association. “Classic Infantile Tay-Sachs.” http://www.ntsad.org/S02/S02infant_tay_sachs.htm (Accessed January 30, 2010). 
+Okada, Shintaro, and John O’Brien. “Discovery of B-Hexosaminidase A Deficiency in Tay-Sachs Disease.” Advances in Genetics 44: (2001): 61–7. 
+Risch, Neil. “Molecular Epidemiology of Tay-Sachs Disease.” Advances in Genetics 44: (2001): 233–53. 
+Sandhoff, Konrad. “The GM2-Gangliosidoses and the Elucidation of the B-Hexosaminidase System.” Advances in Genetics 44: (2001): 67–93. 
+
+
+How to cite
+Kelley, Kristin, "Tay-Sachs Disease". Embryo Project Encyclopedia (2010-10-29). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/2299.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 25, 2013 - 15:53
+ Topic
+Subject
+Tay-Sachs Disease; Tay-Sachs disease; Concept

@@ -1,0 +1,204 @@
+By Dorothy Haskett
+Published: 2014-07-24
+Keywords: mitochondrial eve, mitochondrial DNA, DNA restriction maps
+ Allan Charles Wilson (1934-1991)Allan C. Wilson studied genes, proteins, and body
+	structures of animals and humans in the US during the second half of
+	the twentieth century. Wilson also studied human evolution. Although
+	morphology and behaviors of humans (Homo sapiens)
+	and great apes differ, Wilson found that they have
+	biochemical and genetic similarities. Wilson and his colleagues
+	calculated the time period of humans' and African apes' common
+	ancestor. Wilson and his team also studied DNA outside of the
+	nucleus in the cellular energy producing particles, called mitochondrial DNA
+	(mtDNA), to study when different human groups evolved from each
+	other.
+Wilson was born on 18 October 1934 in Ngaruawahia, New Zealand, to
+	Eunice B. Wood and Charles Wilson. Wilson grew up on a cattle ranch
+	in Pukekohe, New Zealand, with his sister Coleen, and his brother
+	Gary. He attended secondary school at King’s College in Auckland,
+	New Zealand. There, he met Campbell P. McMeekan, who advised Wilson
+	to study biochemistry and go to Otago University in Dunedin, New
+	Zealand. Wilson obtained a undergraduate degree in biochemistry from
+	Otago University in 1955. After graduating, he left New Zealand for
+	the University of Washington in Pullman, Washington, where in 1957
+	he received a Master’s of Science degree in zoology with the supervision of Donald
+	Farner, and Wilson received a PhD in 1961 in biochemistry from the
+	University of California at Berkeley with Arthur Pardee as an
+	advisor.
+Wilson married Leona Greenbaum on 13 September 1958, and they 
+	had two children, a daughter Ruth and a son David. After
+	postdoctoral work from 1961 to 1964 at Brandeis University in
+	Boston, Massachusetts, working with Nathan Kaplan, Wilson returned to
+	Berkeley for the remainder of his career and built a molecular
+	evolution laboratory. Wilson was assistant professor from 1964 to
+	1968, associate professor from 1968 to 1972 and full professor at
+	Berkeley from 1972 until his death.
+Wilson combined his background in biochemistry and zoology to
+	study the evolution of different species. In the 1960s many claimed
+	that African apes were humans’ closest living relatives. For more than a hundred years, scientists had debated the time of
+	origin of a distinct hominid linage. The fossil record
+	yielded estimates that a common ancestor of African apes and modern
+	humans lived from four million to thirty million years ago. Rather
+	than relying solely on fossils, Wilson studied the genetic
+	relationships of currently living species.
+In the 1960s and early 1970s, technologies to directly determine
+	DNA sequences did not exist. Wilson instead used proteins to study the
+	relatedness of humans and apes. He separated and purified proteins
+	from one species and injected them into another unrelated species to
+	induce the production of proteins known as antibodies, which react
+	with the foreign proteins and create an immune response. The
+	antibodies resulting from this experiment are specific to the
+	proteins used to generate them and, when compared to other
+	antibodies, can be used determine the relatedness of proteins from
+	different species. Wilson used electrophoresis, a technique that
+	sends a constant electric current through a mixture of proteins
+	suspended in a gel, to compare the size and acidy, or surface
+	charge, of proteins from humans and apes different species. He
+	assumed that the more alike protein molecules are from different
+	species, the more recently they shared a common ancestor.
+In the mid 1960s, Wilson and his doctoral student Vincent
+	Sarich used antibodies to study the differences between blood
+	proteins in African apes and modern humans. In 1967, Sarich and
+	Wilson published "Immunological Time Scale for Hominid Evolution,"
+	in which they proposed the hypothesis of a molecular clock to
+	calculate the time of species divergence. Sarich and Wilson compared
+	the blood protein albumin from humans and chimpanzees, presupposing
+	that mutations accumulate within a species over time at a steady
+	rate. They used the concept of a molecular clock to compare the
+	differences between human and chimpanzee albumin, and calculated
+	that humans and African apes shared a common ancestor as recently as
+	five million years ago. Those results challenged the fossil-derived
+	figure of fifteen to twenty-five million years ago.
+In 1975, Wilson and his graduate student Mary-Claire King
+	published "Evolution at Two Levels in Humans and Chimpanzees." They
+	used four different techniques to compare forty-four structural
+	genes from humans and chimpanzees and estimated that the proteins synthesized from those genes
+	differed by only one percent. In the article, King and Wilson note
+	that the one percent difference contrasts sharply with the huge
+	morphological and behavioral differences between the species that
+	evolved after the separation of human and chimpanzee lineages. King
+	and Wilson hypothesized that mutations, gene rearrangements, and
+	deletions probably occurred in regulatory genes that affected gene
+	expression or altering the nucleotide sequence of gene promoters.
+	They based that hypothesis on François Jacob’s and Jacques Monod’s
+	1961 model for gene regulation, called the operon model. As
+	techniques to directly compare DNA base pairs were not yet available, King and Wilson used protein amino acid sequences to
+	compare human and chimpanzee genes. In 2005, after the Human Genome
+	Project had described the entire human genome, researchers compared
+	the human genome to the chimpanzee genome. They concluded that the
+	one percent difference noted by King and Wilson represented only
+	point mutations, which are mutations to single bases in DNA,
+	that occurred after the evolutionary split between humans and
+	chimpanzees.
+In the 1980s, Wilson started to implement new techniques to
+	isolate and purify DNA. By taking DNA from different animals,
+	heating the DNA to separate the two strands, and hybridizing it with
+	the other animals' heated DNA, Wilson could see how well DNA from
+	one species bonded with the DNA from the other. The introduction of
+	enzymes that cut DNA molecules at precise points, called DNA
+	restriction enzymes, and the ability to map known restriction sites
+	to a sequence of DNA, called DNA restriction maps, enabled
+	researchers to compare the DNA nucleotide sequences at high
+	resolution.	In Wilson’s laboratory, researchers refined techniques
+	in which a small amount of DNA is replicated many times to make
+	multiple copies of the original DNA sequence, called Polymerase
+	Chain Reaction (PCR). Researchers used PCR to study DNA sequences in many species.
+In the late 1980s, Rebecca L. Cann, Mark Stoneking, and Wilson
+	used the technique of DNA restriction maps to analyze the mitochondrial DNA (mtDNA) from
+	five different human geographic populations. MtDNA lies outside the
+	nucleus in a cell's cytoplasm in the subcellular
+	particles (organelles) called mitochondria, which produce energy for the cell. The small double
+	stranded ring of mtDNA codes for thirty-seven genes, compared to
+	approximately 30,000 genes coded in nuclear DNA (nDNA). MtDNA
+	mutates at a higher rate than does nDNA. In the process of inheritance
+	from parents to offspring, all of the mitochondria come from the egg
+	cell (oocyte), unchanged from mother to offspring except for
+	mutations. 
+In 1987, Cann, Stoneking, and Wilson published the
+	results of their study as "Mitochondrial DNA and Human Evolution." By combining mtDNA sequence data from different human geographic
+	populations and applying the molecular clock hypothesis, Cann,
+	Stoneking, and Wilson traced the modern human gene pool to Africa
+	and a common female ancestor who lived approximately 200,000 years
+	ago. Mass media called this ancestor Mitochondrial Eve or African
+	Eve.
+As technologies became available to directly study DNA sequences,
+	Wilson’s laboratory adopted them. Over the years, Wilson applied new
+	techniques such as DNA restriction enzymes, DNA hybridization, and a
+	technique amplifying small samples of DNA using PCR. Moreover,
+	Wilson’s laboratory was the first to use PCR to amplify fossil DNA
+	from extinct species and human mummies. That technique enabled
+	researchers to compare ancient DNA with DNA from species living
+	today.
+Wilson published greater than 300 papers and articles with
+	students and faculty members. He mentored greater than 100
+	undergraduate and graduate students, postdoctoral researchers, and
+	visiting professors from six continents. With his direction,
+	thirty-four doctoral students, seventeen women and seventeen men,
+	obtained their PhDs.
+Wilson received many awards, including two Guggenheim Fellowships
+	and the MacArthur Fellowship in 1986. Wilson was an elected a member
+	of the American Academy of Arts and Sciences and, on 20 March 1986,
+	he became a fellow of the Royal Society of London. In 1991, Wilson
+	received the 3M Life Sciences Award from the Federation of
+	American Societies for Experimental Biology (FASEB).
+Wilson died of leukemia on 2 July 1991 in Seattle, Washington. 
+ Sources "Allan Wilson’s
+		Scientific Legacy." Allan Wilson
+		Center for Molecular Ecology and Evolution. March, 2011. 1–2.
+		http://www.allanwilsoncentre.ac.nz/massey/fms/AWC/documents/schoolreference_Lowrez.pdf  (Accessed 9 September 2012).
+Ames,
+		Bruce N., Thomas H. Jukes, Vincent M. Sarich, and David B. Wake.
+		 "Allan Charles   Wilson, Biochemistry; Molecular Biology:
+		Berkeley" University of California: In Memoriam, (1991): 237–40.
+		http://texts.cdlib.org/view?docId=hb4t1nb2bd&doc.view=frames&chunk.id=div00079&toc.depth=1&toc.id= (Accessed 23 April 2014).
+Anderson, Stephan, Alan T. Bankier, Bart G. Barrell, Maarten H.
+		L. de Bruijn, Alan R. Coulson, Jacques Drouin, Ian C. Eperon,
+		Donald P. Nierlich, Bruce A. Roe, Fred Sanger, Peter H.
+		Schreier, Andrew J. H. Smith, Rodger Staden and Ian G. Young.
+		"Sequence and Organization of the Human Mitochondrial Genome."
+		Nature 290 (1981): 457–65.
+Cann, Rebecca L. "Obituary: Allan C.
+		Wilson, 1936–1991," Human Biology 65:3 (1993): 343–58.
+Cann,
+		Rebecca L., Mark Stoneking, and Allan C. Wilson. "Mitochondrial
+		DNA and Human Evolution." Nature 325 (1987): 31–6.
+Jacob,
+		François, and Jacques Monod. "Genetic Regulatory Mechanisms in
+		the Synthesis of Proteins." Journal of Molecular Biology 3
+		(1961): 318–56.
+Jukes, Thomas, and Emile Zuckerkandl.
+		"Remembering Allan Wilson." Journal of Molecular Evolution 33
+		(1991): ii.
+King, Mary-Claire. "Allan C. Wilson (1934–91): In
+		Memoriam." American Journal of Human Genetics 50 (1992): 234–5.
+King, Mary-Claire, and Allan C. Wilson. "Evolution at Two Levels
+		in Human and Chimpanzees." Science 188 (1975): 107–16.
+Morange,
+		Michel. "The Genetic Distance Between Humans and Chimpanzees:
+		What did Mary-Claire King and Allan Wilson Really Say in 1975?"
+		Journal of Biosciences 36 (2011): 23–6.
+Raff, Rudolf A. 
+		"Evo-devo: The Evolution of a New Discipline." Nature Reviews
+		Genetics 1 (2000): 74–9.
+Sarich, Vincent M., and Allan C.
+		Wilson. "Immunological Time Scale for Hominid Evolution."
+		Science 158 (1967): 1200–3.
+Wilson, Allan C. "The Molecular
+		Basis of Evolution." Scientific American 253 (1985): 164–73.
+		 
+
+How to cite
+Haskett, Dorothy, "Allan Charles Wilson (1934-1991)". Embryo Project Encyclopedia (2014-07-24). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/8069.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+Copyright Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Thursday, July 24, 2014 - 23:20
+ Topic
+Subject
+DNA Restriction Enzymes; Wilson, Allan, 1934-1991; Human evolution; Evolution; Chimpanzees; Mitochondria; Molecular clock of evolution; Sarich, Vincent; Electrophoresis; Molecular genetics; Genes; King, Mary-Claire, 1946-; Polymerase chain reaction; University of California, Berkeley; People

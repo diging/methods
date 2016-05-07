@@ -1,0 +1,51 @@
+By Guido Caniglia
+Published: 2011-10-20
+Keywords: Turtles, Evolution
+ "The Development of the Turtle Carapace" (1989), by Ann Campbell BurkeAnn Campbell Burke examines the development and evolution of vertebrates, in particular, turtles. Her
+		Harvard University experiments, described in "Development of the Turtle Carapace: Implications for the Evolution of a Novel Bauplan," were published in 1989.  Burke used molecular techniques to investigate the developmental mechanisms responsible for the formation of the turtle shell. Burke's work with turtle embryos has provided empirical evidence for the hypothesis that the evolutionary origins of turtle morphology depend on changes in the embryonic and developmental mechanisms underpinning shell production. 
+The main structures characterizing the turtle shell are the 
+	 carapace, the upper shell, and the 
+	 plastron, the lower shell. The two shells are held together by several bony bridges. The carapace and plastron are unique composite structures made up of the ribs and vertebrae, in the inside, and a specialized dermis, organized within a mosaic of bones, on the outside.
+Burke investigated the developmental mechanisms that cause the migration of the ribs into the upper shell. She demonstrated that rib migration occurs as the result of an epithelial-mesenchymal interaction, a  common kind of tissue-tissue interaction characterizing the embryonic development of many structures in vertebrates, such as limbs and feathers.
+Burke also identified the locus of the inductive interaction in the 
+     	 carapacial ridge (CR). The CR is a bulge that forms on both sides of a turtle embryo and represents the first departure of turtle morphology from the configuration of other vertebrate embryos. The CR is formed by two main layers of cells. The first layer is the 
+     	 mesenchyme, composed of loosely packed, unspecialized cells derived from the mesoderm. Connective tissue, bone, and cartilage develop from these cells. The second layer of the CR is the epithelium, made up of sheets and tubes of connected cells. The CR is formed at the site of this novel epithelial-mesenchymal interaction.
+Studies on epithelial-mesenchymal interactions in other vertebrates provided informed Burke about specific glycoproteins that participate in the formation of embryonic structures in those vertebrates. With that information, Burke made her experiment comparative in character: if she could find the same glycoproteins in turtle embryos that are in the epithelial-mesenchymal interactions of chick embryo development, Burke would have preliminary evidence of epithelial-mesenchymal interactions in turtle embryos.
+The glycoproteins that Burke specifically sought to find were 
+	 fibronectin and 
+	 N-CAM (Neural Cell Adhesion Molecule). Fibronectin binds to specific receptor proteins and is important in cell migrations during embryonic development. N-CAM  plays a role in cell-to-cell adhesion during neural development of the embryo. In order to detect these two molecules, Burke employed autoradiographic and 
+	immunofluorescence techniques at different stages of turtle embryonic development.
+Burke focused her attention on the development of the carapace in embryos of the common snapping turtle, 
+	Chelydra serpentina. According to normal turtle embryonic development, the key events in the development of the carapace begin during stage 14. By the end of stage 15, the embryo is fully recognizable as a turtle. The CR at stage 15 has a thickened 
+	ectoderm and presents a mesenchymal condensation composed of whorls of cells. In successive stages the CR expands both laterally and ventrally, and becomes the margin of a fully shaped carapace.
+Burke used autoradiographic sections to show the patterns of cell proliferation in stages 14 and 15. Both of these stages showed high concentrations of cells in the mesenchymal aggregation in the CR under the ectoderm. The ectoderm itself, however, did not have high concentrations of cells. Burke interpreted those differences to mean that the mesodermal portion of the ridge was proliferating, whereas the ectoderm remained relatively static. A decrease in the mitotic activity, and hence in the degree of cell proliferation in the ectoderm, resulted in a higher level of mitotic activity in the mesenchyme. The low concentration of reproducing cells in the ectoderm reflected a mechanism that controls the direction of outgrowth.
+Moreover, Burke used immunofluorescent staining at stages 14 and 15 to map out the distribution of N-CAM and fibronectin in the CR. The turtle embryos were stained with antibodies to N-CAM  and fibronectin, as other studies had mapped out the spatial and temporal distribution of these molecules in other epithelial-mesenchymal systems. Burke discovered that in stages up to but not including stage 14, there was no significant localization of either fibronectin or N-CAM. At stage 14, staining for fibronectin and N-CAM became localized in the CR. As the CR grew, Burke found N-CAM in all the mesenchymal cells in the CR, while the ectoderm was N-CAM negative.
+Burke compared her immunofluorescent results to known immunofluorescent patterns in the limb buds of chick embryos, a well known locus of inductive interactions. Since the pattern and distribution of fibronectin and N-CAM in turtle embryos was consistent with the patterns of cell proliferation and distribution of  fibronectin and N-CAM  in chick limb buds, Burke concluded that the tissue composition of the turtle CR is typical of areas of epithelial-mesenchymal interaction. Burke had found that the epithelial-mesenchymal interaction was responsible for the growth of the turtle’s carapace.
+Burke also performed several surgical manipulations to better assess the causal role of the CR in the ensnarement of the ribs in the carapace. The surgical removal of tissues in the CR confirmed the causal role of the epithelial-mesenchymal interaction in the relocation of the ribs in the dermal shield. The results of these later experiments were reported in the 
+	"The Development and Evolution of the Turtle Bodyplan," published in 1991.
+Burke's histological and immunofluorescence experiment helped reveal the evolution and development of turtle morphology. By identifying the CR as the locus of an epithelial-mesenchymal interaction, Burke enabled further experimental and conceptual work on the developmental, genetic, and regulatory mechanisms underlying the body plan of turtles.
+
+Sources
+Burke, Ann C. "Development of the Turtle Carapace. Implications for the Evolution of a Novel Bauplan." Journal of Morphology 199 (1989): 363–78.
+Burke, Ann C. "The Development and Evolution of the Turtle Bodyplan: Inferring Intrinsic Aspects of the Evolutionary Process from Experimental Embryology." American Zoologist 31 (1991): 616–27.
+Burke, Ann C. "Turtles…Again." Evolution & Development 11 (2009): 622–24.
+Carroll, Sean B., Jennifer K. Grenier, and Scott D. Weatherbee. From DNA to Diversity: Molecular Genetics and the Evolution of Animal Design. Malden, MA: Blackwell Science, 2008.
+Gilbert, Scott F. Developmental Biology. 8ed. Sunderland MA: Sinauer, 2006.
+Wyneken, Jeanette, Matthew H. Godfrey, and Vincent Bels. eds. The Biology of Turtles. Boca Raton, FL: CRC Press, 2008.
+
+
+How to cite
+Caniglia, Guido, ""The Development of the Turtle Carapace" (1989), by Ann Campbell Burke". Embryo Project Encyclopedia (2011-10-20). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/2321.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 25, 2013 - 15:53
+ Topic
+Subject
+ Burke, Ann C.; Literature

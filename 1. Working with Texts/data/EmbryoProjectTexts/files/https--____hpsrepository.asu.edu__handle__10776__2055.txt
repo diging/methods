@@ -1,0 +1,45 @@
+By Ke Wu
+Published: 2010-09-13
+Keywords: Stem cells, Differentiation, Human development
+ Human Embryonic Stem Cells
+		Stem cells are undifferentiated cells that are capable of dividing for long periods of time and can give rise to specialized cells under particular conditions. Embryonic stem cells are a particular type of stem cell derived from 
+		embryos. According to US National Institutes of Health (NIH), in humans, the term “embryo” applies to a fertilized egg from the beginning of division up to the end of the eighth week of gestation, when the embryo becomes a fetus. Between fertilization and the eighth week of gestation, the embryo undergoes multiple cell divisions. At the eight-cell stage, roughly the third day of division, all eight cells are considered totipotent, which means the cell has the capability of becoming a fully developed human being. By day four, cells begin to separate and form a spherical layer which eventually becomes the placenta and tissue that support the development of the future fetus. A mass of about thirty cells, called the inner cell mass, forms at one end of the sphere and eventually becomes the body. When the sphere and inner cell mass are fully formed, around day 5, the pre-implantation embryo is referred to as a 
+		blastocyst. At this point the cells in the inner cell mass have not yet differentiated, but have the ability to develop into any specialized cell type that makes up the body. This property is known as pluripotency. As of 2009, embryonic stem cells refer to pluripotent cells that are generally derived from the inner cell mass of blastocysts. 
+In November 1998, two independent publications announced the first successful isolation and culture of pluripotent human stem cells. While working at the 
+		Wisconsin National Primate Research Center, located at the University of Wisconsin-Madison, 
+		James A. Thomson and his team of researchers cultured human embryonic stem cells from the inner cell mass of donated embryos originally produced for in vitro fertilization. The characteristics of the cultured cells were consistent with previously identified features in animal stem cells. They were capable of long-term self-renewal and thus could remain undifferentiated for long periods of time; they had particular surface markers; and they were able to maintain a normal and stable karyotype. Thomson’s team also observed derivatives of all the three germ layers–endoderm, mesoderm, and ectoderm. Since the three germ layers precede differentiation into all the cell types in the body, this observation suggested that the cultured cells were pluripotent. The team published  
+		“Embryonic Stem Cell Lines Derived from Human Blastocysts,” in the 6 November Science issue. Soon afterwards, a research team led by 
+		John D. Gearhart at the 
+		Johns Hopkins School of Medicine, published 
+		“Derivation of Pluripotent Stem Cells from Cultured Human Primordial Germ Cells” in Proceedings of the National Academy of Science. The paper detailed the process by which pluripotent stem cells were derived from gonadal ridges and mesenteries extracted from aborted five-to-nine week old human embryos. Gearhart and his team noted the same observations as Thomson’s team. Despite coming from different sources, according to NIH, the resultant cells seem to be the same. 
+The largest source of blastocysts for stem cell research comes from 
+		in vitro fertilization (IVF) clinics. Used for reproductive purposes, IVF usually produces an abundance of viable blastocysts. Excess blastocysts are sometimes donated for research purposes after obtaining 
+		informed consent from donors. Another potential method for producing embryonic stem cells is 
+		somatic cell nuclear transfer (SCNT). This has been successfully done using animal cells. The nucleus of a differentiated adult cell, such as a skin cell, is removed and fused with an enucleated egg, an egg with the nucleus removed. The egg, now containing the genetic material from the skin cell, is believed to be totipotent and eventually develops into a blastocyst. As of mid-2006, attempts to produce human embryonic stem cells using SCNT have been unsuccessful. Nonetheless, scientists continue to pursue this method because of the medical and scientific implications of embryonic stem cells lines with an identical genetic makeup to particular patients. One problem faced in tissue transplants is immune rejection, where the host body attacks the introduced tissue. SCNT would be a way to overcome the incompatibility problem by using the patient’s own somatic cells. 
+Recent discoveries in cultivating human embryonic stem cells may potentially lead to major advancements in understanding human embryogenesis and medical treatments. Previously, limitations in access and environmental control have stunted research initiatives aimed at mapping out the developmental process. Insights into differentiation factors may lead to treatments into such areas as birth defects. Manipulation of the differentiation process may then lead to large supplies of stem cells for 
+		cell-based therapies on patients with Parkinson’s disease, for example. In theory adult stem cells can also be cultivated for such purposes, but isolating and identifying adult stem cells has been difficult and the prospects for treatment are more limited than using embryonic stem cells.  
+Despite the potential benefits that may come about through human embryonic stem cell research, not everyone in the public embraces it. Several ethical debates surround this newly developing research field. Much of the debate stems from differing opinions on how we should view embryos: is an embryo a person? Should an embryo be considered property? Ethical concerns in embryonic stem cell research include destroying human blastocysts, laws surrounding informed consent, and particularly for SCNT, misapplication of techniques for 
+		reproductive cloning. For the latter concern, SCNT does produce a blastocyst which contains stem cell “clones” of an adult cell, but the desired application is in growing replacement tissues. Still, a portion of the public fears the hypothetical “one day,” when someone decides to use SCNT to develop and raise a human clone. 
+The public debate continues, advancing along with the changes in the field. As of 2006, public opinion polls showed that majority of religious and non-religious Americans now support embryonic stem cell research, but opinions remain divided over whether it is legitimate to create or use human blastocysts solely for research.
+
+Sources
+Maienschein, Jane. Whose View of Life?: Embryos, Cloning, and Stem Cells. Cambridge, MA: Harvard University Press, 2003. 
+Stem Cell Basics. Bethesda, MD: National Institutes of Health, US Department of Health and Human Services. http://stemcells.nih.gov/info/basics/defaultpage (Accessed February 3, 2009). 
+Understanding Stem Cells: An Overview of the Science and Issues from the National Academies. National Academy of Sciences, National Academy of Engineering, Institute of Medicine, and the National Research Council. http://dels.nas.edu/bls/stemcells/basics.shtml (Accessed March 9, 2009).
+
+
+How to cite
+Wu, Ke, "Human Embryonic Stem Cells". Embryo Project Encyclopedia (2010-09-13). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/2055.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 25, 2013 - 15:53
+ Topic
+Subject
+Stem Cells; Stem cells.; Concept

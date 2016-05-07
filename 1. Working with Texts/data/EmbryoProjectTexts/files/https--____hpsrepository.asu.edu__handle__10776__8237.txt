@@ -1,0 +1,145 @@
+By Zane Bartlett
+Published: 2014-11-14
+Keywords: Alexey Olovnikov
+ The Hayflick LimitThe Hayflick Limit is a concept that helps to explain the
+	mechanisms behind cellular aging. The concept states that a normal human
+	cell can only replicate and divide forty to sixty times before it
+	cannot divide anymore, and will break down by programmed cell death
+	or apoptosis. The concept of the Hayflick Limit revised Alexis
+	Carrel's earlier theory, which stated that cells can replicate
+	themselves infinitely. Leonard Hayflick developed the concept while
+	 at the Wistar Institute in Philadelphia,
+	Pennsylvania, in 1965. In his 1974 book Intrinsic
+	Mutagenesis, Frank Macfarlane Burnet named the concept after
+	Hayflick. The concept of the Hayflick Limit helped scientists study
+	the effects of cellular aging on human populations from embryonic
+	development to death, including the discovery of the effects of
+	shortening repetitive sequences of DNA, called telomeres, on the
+	ends of chromosomes. Elizabeth Blackburn, Jack Szostak and Carol
+	Greider received the Nobel Prize in Physiology or Medicine in 2009
+	for their work on genetic structures related to the Hayflick
+	Limit.
+Carrel, a surgeon in the early twentieth century France working
+	on cultures of chick heart tissue, argued that cells can infinitely
+	replicate. Carrel claimed that he had been able to have those heart cells
+	replicate in culture for greater than twenty years. His experiments
+	on chick heart tissue supported the theory of infinite replication.
+	Scientists tried to replicate Carrel's work many times, but these
+	repeated experiments never confirmed Carrel's findings.
+Hayflick worked for the Wistar Institute in 1961 where he
+	observed that human cells do not replicate infinitely. Hayflick and
+	Paul Moorhead described the phenomenon in a paper titled "The serial
+	cultivation of human diploid cell strains." Hayflick's job at the
+	Wistar Institute was to provide cell cultures to scientists who
+	conducted experiments at the Institute, but Hayflick pursued his own
+	research on the effects of viruses in cells. In 1965, Hayflick
+	further detailed the concept of the Hayflick Limit in cells in a paper titled "The
+	limited in vitro lifetime of human diploid cell strains."
+In that article, Hayflick concluded that a cell could complete
+	mitosis, or cellular duplication and division, only forty to sixty
+	times before undergoing apoptosis and subsequent death.  The
+	conclusion held for many cell types, whether they were adult cells
+	or fetal cells. Hayflick hypothesized that the limited replicative
+	capability of the cell related to aging in cells and, consequently,
+	to human aging.
+The publication of Hayflick's experiments disconfirmed Carrel's theory about indefinite cellular replication.
+	Some, such as Harry Rubin at the University of California at Berkeley
+	in Berkeley, California, argued in the 1990s that the Hayflick Limit
+	pertained only to damaged cells. Rubin suggested that cellular
+	damage could result from the cells being in an environment that
+	differed from their original environment in the body, or when
+	researchers subjected the cells to laboratory practices.
+Regardless of the criticism, other scientists used Hayflick's
+	theory in support of further studies about cellular aging,
+	especially with research in telomeres, which are repetitive
+	sequences of DNA at the ends of chromosomes. Telomeres protect the
+	chromosome from folding in on itself, and they decrease mutations in
+	the DNA. In 1973, Alexey Olovnikov, in Russia, applied Hayflick's
+	theories of cell death to his studies of the ends of chromosomes that
+	did not replicate themselves during mitosis. He said that the process of cell
+	division ends once the cell cannot replicate the ends of their
+	chromosomes.
+Although Olovnikov applied Hayflick's theory to his experiments,
+	Olovnikov did not name Hayflick's theory. One year later in 1974,
+	Burnet coined the term Hayflick Limit in his work, Intrinsic
+	Mutagenesis. Burnet's work focused on the claim that age was
+	intrinsic to the cells in each species and that they followed the
+	Hayflick Limit, thus establishing a programmed age in which an
+	organism would die. Elizabeth H. Blackburn at the University of
+	California San Francisco in San Francisco, California, and Jack W.
+	Szostak at Harvard Medical School in Boston, Massachusetts, also
+	applied Hayflick's theory of cellular aging to their research on the
+	structures of telomeres in 1982, when they cloned and isolated
+	telomeres. In 1989, Greider, and Blackburn further developed the
+	theory of cellular aging to discover the enzyme that replicates
+	telomeres, called telomerase. Greider and Blackburn found that the
+	presence of telomerase helps cells escape programmed cell death.
+With theories about the biological mechanisms behind aging,
+	scientists expected that they could create a cure for aging.
+	Hayflick helped found the National Institute on Aging in Bethesda,
+	Maryland, in 1974, a branch of the National Institutes of Health in
+	the United States. In 1982, Hayflick also became the president of
+	the Gerontological Society of America, founded in 1945 in New York, New
+	York. Hayflick role helped to spread the theory of the Hayflick Limit
+	and to further counter the theory of cellular immortality as
+	established by Carrel.
+In 2009, Blackburn and Szostak received the Nobel Prize in
+	Physiology or Medicine for their work on telomerase, in which the
+	Hayflick Limit played an essential role. 
+ Sources Burnet, Frank Macfarlane. Intrinsic Mutagenesis. Houten:
+		Springer Netherlands, 1974.
+Carrel, Alexis. "On the permanent
+		life of tissues outside the organism." Journal of Experimental
+		Medicine 15 (1912): 516–28. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2124948/pdf/516.pdf (Accessed November 11, 2014).
+Greider, Carol W., and Elizabeth H.
+		Blackburn "A telomeric sequence in the RNA of Tetrahymena
+		telomerase required for telomere repeat synthesis." Nature 337
+		(1989): 331–7.
+Hayflick, Leonard. "C.V." Aging Intervention
+		Foundation. http://www.agelessanimals.org/hayflickcv.htm
+		(Accessed September 7, 2013).
+Hayflick, Leonard. "The limited in
+		vitro lifetime of human diploid cell strains." Experimental Cell
+		Research 37 (1965): 614–36.
+Hayflick, Leonard, and Paul S.
+		Moorhead. "The serial cultivation of human diploid cell
+		strains." Experimental Cell Research 25 (1961): 585–621.
+Hayflick, Leonard. Web of Stories. July, 2011.
+		http://www.webofstories.com/play/leonard.hayflick/1 (Accessed October 5, 2013).
+Jiang, Lijing. "Degeneration in Miniature
+		History of Cell Death and Aging Research in the Twentieth
+		Century." PhD diss., Arizona State University, 2013.
+		http://hdl.handle.net/2286/R.A.114558 (Accessed May 21, 2014).
+Nobel Prize. "The Nobel Prize in Physiology or Medicine 2009"
+		Nobel Media.
+		http://www.nobelprize.org/nobel_prizes/medicine/laureates/2009/
+		(Accessed October 5, 2013).
+Olovnikov, Alexey M. "A theory of
+		marginotomy. The incomplete copying of template margin in
+		enzymic synthesis of polynucleotides and biological significance
+		of the phenomenon." Journal of Theoretical Biology 41 (1973):
+		181–90.
+Rubin, Harry. "Telomerase and cellular lifespan: ending
+		the debate?" Nature Biotechnology 16 (1998): 396–7.
+Shay, Jerry
+		W., and Woodring E. Wright "Hayflick, his limit, and cellular
+		ageing". Nature Reviews Molecular Cell Biology 1 (2000): 72–6.
+Szostak, Jack W. and Elizabeth H. Blackburn. "Cloning yeast
+		telomeres on linear plasmid vectors." Cell 29 (1982): 245–55.
+		 
+
+How to cite
+Bartlett, Zane, "The Hayflick Limit". Embryo Project Encyclopedia (2014-11-14). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/8237.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+Copyright Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Saturday, November 15, 2014 - 00:18
+ Topic
+Subject
+ Hayflick, Leonard; Cells; Cell populations; Cell death; Apoptosis; Cell proliferation; Cell cycle; Carrel, Alexis, 1873-1944; Aging; Wistar Institute of Anatomy and Biology; Telomere; Chromosomes; Telomerase; Greider, Carol W.; Blackburn, Elizabeth H.; Concept

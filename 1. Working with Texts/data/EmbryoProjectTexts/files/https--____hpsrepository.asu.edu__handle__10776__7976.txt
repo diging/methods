@@ -1,0 +1,391 @@
+By Rachel Gur-Arie
+Published: 2014-06-21
+Keywords: molecular biology, Cancer
+ Cold Spring Harbor Laboratory (1890- )Cold Spring Harbor Laboratory (CSHL) is a non-profit
+	research institution that specializes in cancer, neuroscience, plant
+	biology, quantitative biology, and genomics. The organization is
+	located on the shores of Cold Spring Harbor in Laurel Hollow, New
+	York. The Brooklyn Institute of Arts and Sciences established the
+	CSHL in 1890, to provide scientists with facilities to research
+	Charles Darwin's evolutionary theory. The first mission of CSHL was
+	biological science education. Since 1998, CSHL has housed the Watson
+	School of Biological Sciences, a PhD program dedicated to scientific
+	research. Nobel Laureates who conducted experiments at the CSHL
+	include Barbara McClintock, Alfred Hershey, James Watson, Francis
+	Crick, and Sydney Brenner. Throughout its history, researchers at
+	CSHL have studied embryology, reproductive medicine, and
+	genetics.
+In 1889, John D. Jones donated eight acres of land and buildings
+	he owned on the south shore of Cold Spring Harbor, formerly a part
+	of the Cold Spring Harbor Whaling Company, to the Brooklyn Institute
+	of Arts and Sciences to build CSHL. Jones was the son of John H.
+	Jones, managing agent of the Cold Spring Harbor Whaling Company.
+	The CSHL's proximal location to the seashore provided its researchers a
+	wealth of plants and animals to study. The CSHL offered its first
+	course on biology on 7 July 1890 as an extension of the Brooklyn
+	Institute of Arts and Sciences. In 1898, Charles Davenport,
+	professor of evolutionary biology at Harvard University, in
+	Cambridge, Massachusetts, became the first director of CSHL.
+In 1902, philanthropist Andrew Carnegie founded the Carnegie
+	Institute in Washington, D.C., as an organization to fund and support
+	 exceptional scientific discovery. Davenport requested the
+	Carnegie Institute of Washington to start a genetics research
+	program within CSHL. Davenport's request was granted in June 1904
+	with the establishment of the Station for Experimental Evolution in
+	Washington, D.C., later renamed the Carnegie Institution Department of
+	Genetics in 1921. Hugo de Vries, who proposed the concept of gene,
+	presented a commemorative speech at the Station's opening.
+In 1910, Davenport founded the Eugenics Record Office (ERO) at
+	CSHL, which encouraged eugenics research. Eugenics is a theory
+	that holds that controlled reproduction can change a population's genetics, and that human reproduction should be controlled to some extent. Davenport approached Harry H. Laughlin, a fellow eugenicist, to be
+	superintendent in 1910. From 1910 to 1921, Laughlin served alongside
+	Davenport as superintendent, and from 1921 to 1939, as Davenport's
+	assistant director. The two established the Eugenics Research
+	Association at CSHL in 1913. Davenport and Laughlin described the
+	Eugenics Research Association as an organization dedicated to
+	promoting a eugenic agenda based on scientific research. For
+	example, in 1927, the Eugenics Research Association began to study
+	the ancestry of United States senators. Laughlin was
+	secretary-treasurer of the Eugenics Research Association after 1917.
+	Eugenical News, a journal dedicated to the public promotion
+	of eugenics through anti-immigration and racist propaganda, was the
+	first publication of the Eugenics Research Office in 1916.
+Every summer until its closing in 1939, researchers met at the
+	Eugenics Research Office at CSHL to learn how to conduct eugenics
+	research, such as doing interviews, compiling medical histories, and
+	forming human pedigrees. The ERO's Record of Family Traits and
+	Family Tree Folder organized the genealogies of families with
+	medical conditions based mostly on voluntary surveys. Davenport's
+	work with an albino family led to the first genetics-based study of
+	albinism, a disorder that causes the complete or partial spotting of
+	skin, eyes, or hair color due to a defect in melanin, which is
+	usually responsible for pigmentation in organisms. Results of
+	Davenport's study were published in the 1916 article "Heredity of
+	Albinism."
+In June 1920, Laughlin cited eugenics research conducted at the
+	ERO when he served as an expert agent for the Committee on
+	Immigration and Naturalization in the US House of Representatives.
+	Laughlin's testimony culminated in the passage of the Immigration
+	Restriction Act of 1924, an act that reduced United States
+	immigration to one-fifth of what was previously allowed.
+In 1924, Davenport appointed his son-in-law, Reginald Harris, to
+	be director of the Biological Laboratory at CSHL, which expanded
+	CSHL's research focuses from eugenics to broader biological
+	issues. Harris had previously studied at CSHL in 1916 as an
+	undergraduate, and he then worked the Cornell Entomological
+	Expedition to South America with James C. Bradley from 1919 to 1920, during which
+	 he studied insects in South America.
+	In 1933, Harris changed the focus of the Biological Laboratory to
+	research quantitative biology with an emphasis on physiology and
+	biophysics, and he created the Cold Spring Harbor Symposium on
+	Quantitative Biology.
+The declining support for the US eugenics movement around World
+	War II caused the ERO to close in 1939. Geneticist Milislav
+	Demerec became director of the CSHL in 1941. Demerec researched
+	bacteria and the viruses that infect bacteria called bacteriophages.
+	Through his research of bacterial genetics at CSHL, Demerec
+	increased the yield of the antibiotic penicillin during World War II
+	by isolating mutants of the fungus Penicillium
+	chrysogenum.
+In 1945, Max Delbrück, who had inspired Demerec to research
+	bacterial genetics, taught the first advanced course at the CSHL,
+	called the Phage Course. Because Delbrück was a biophysicist, he
+	focused on quantitative biology and biological research that
+	intersected with engineering, biochemistry, and physics. The Phage
+	Course influenced molecular genetics because it
+	taught students to ascertain the physical properties of the
+	gene. Delbrück taught the Phage Course until 1970. During that time,
+	he introduced students to basic bacteriophage
+	research methods and procedures. Graduates of the Phage Course
+	include molecular biologists Seymour Benzer, Franklin Stahl, and
+	John Cairns. For his students' graduations from the Phage Course,
+	Delbrück organized parties, which included games inspired by genetic
+	principles.  For example, a game inspired by recombination, the
+	process by which DNA is broken and synthesized, included
+	two people going into a closet and exchanging articles of clothing.
+	The new outfits that were created represented the new phenotypes, or
+	outward expressions of the genetic makeup of an organism (genotype)
+	that resulted from recombination.
+Some students of the Phage Course became
+	members of the Phage Group, a society headed by Delbrück and focused
+	on bacteriophage research. Members of the Phage Group included
+	microbiologist Salvador Luria and molecular geneticist Alfred
+	Hershey. Luria collaborated with Delbrück in teaching the Phage
+	Course and in the Phage Group leadership. Luria and
+	Delbrück conducted experiments together, one of which which became called the
+	Luria-Delbrück experiment in 1943. The Luria-Delbrück experiment
+	showed that genetic mutations in bacteria could occur at random. In
+	1969, Delbrück and Luria, along with Hershey, received the Nobel
+	Prize in Physiology or Medicine for their work on the viral genetic
+	structure and replication mechanisms of bacteria.
+In 1941, Demerec invited Barbara McClintock, who studied
+	chromosome behavior and structure, to CSHL. In 1942,
+	McClintock became a full-time researcher, and she later said that
+	she enjoyed the freedom that CSHL gave her because she did not have
+	to teach or consistently apply for external funding. CSHL provided
+	McClintock land to grow maize for her experiments. Evelyn Fox
+	Keller, a biographer of McClintock, said that at the CSHL, McClintock was
+	not subject to as much discrimination as women scientists
+	elsewhere because of her full-time position. In 1944 at CSHL,
+	McClintock began working on the research that led her to discover transposable elements or transposons, DNA sequences
+	capable of moving locations within an organism's chromosomes.
+	The National Academy of Sciences, a society in the US that advises
+	the federal government in science, medicine, and engineering,
+	elected McClintock to the organization in 1944. McClintock worked at
+	CSHL until her retirement in 1967, but she stayed involved as a
+	scientist emerita. In 1983, she received the Nobel Prize in
+	Physiology or Medicine for her lifetime research on transposons.
+Alfred Hershey joined the Genetics Research Unit at CSHL in 1950,
+	and he worked in the Animal House, later renamed the McClintock
+	Laboratory. In 1952, Hershey and his laboratory assistant Martha
+	Chase conducted the Waring Blender experiment. The Waring Blender
+	experiment used bacteriophage proteins and the bacteria Escherichia coli
+	to show that genes are composed of DNA, not of proteins. Hershey
+	directed the Genetics Research Unit at CSHL from 1962 until retiring
+	in 1974. Chase left CSHL in 1953, but returned each summer during
+	the 1950s to attend the Phage Group meetings.
+James Watson, who described the double-helix structure of DNA
+	alongside with Francis Crick in 1953, participated at CSHL throughout
+	his career. Watson first publicly
+	described the double helix structure of DNA at the 1953 Cold Spring
+	Harbor Symposium titled "Viruses," and he stayed active in CSHL for the
+	rest of his career. In 1948, Watson was a graduate student in
+	Luria's laboratory at Indiana University in Bloomington, Indiana,
+	where he met Delbrück.
+In November 1953, biologist and geneticist Sydney Brenner asked
+	then-director Demerec to work at the CSHL. Demerec approved, and in July
+	1954, after working in South Africa, Brenner arrived in the United
+	States and spent his first two and a half months at the CSHL. During
+	that time, Brenner took bacteriophage and bacterial genetics courses
+	while researching the amino acid tryptophan. While at CSHL, Brenner
+	networked with molecular geneticists like Delbrück, Luria, and
+	behavioral geneticist Seymour Benzer. Brenner helped establish C. elegans as a
+	model organism for research in developmental biology, because researchers could conveniently reproduce these organisms in large
+	quantities for many generations. Additionally, Brenner helped to
+	show that amino acid sequences in the genetic code must be read in
+	order (non-overlapping), which led Crick to posit the existence of
+	an RNA molecule, later called transfer RNA (tRNA), that links DNA and messenger RNA to amino acids. In 2002, Brenner received the Nobel Prize
+	in Physiology or Medicine with Howard Robert Horvitz and John
+	Sulston for their discoveries on genetic regulation.
+By 1962, the Carnegie Institute of Washington no longer supported
+	the Department of Genetics, so the Department of Genetics joined
+	with the Biological Laboratory to create the Cold Spring Harbor
+	Laboratory of Quantitative Biology. In 1970, the name was shortened
+	to Cold Spring Harbor Laboratory because research projects were
+	beginning to encompass more than just quantitative biology. Due to
+	the lack of funding from the Carnegie Institute of Washington, CSHL
+	struggled with funds, but director John Cairns handled the CSHL's
+	finances. Cairns served as director from 1963 until he resigned
+	to return to research at CSHL in 1968.
+While a professor at Harvard, Watson became director of the CSHL
+	in 1968. Watson focused on cancer research, hiring virologist Joe
+	Sambrook in 1969 to establish the Tumor Virus Group at CSHL. The
+	Tumor Virus Group defined and mapped major genes of
+	viruses that commonly use humans as hosts (adenoviruses) and the
+	major genes of a DNA virus that sometimes causes tumors (SV40).
+In 1973, philanthropist and investment banker Charles S.
+	Robertson endowed CSHL with eight million dollars in the form of the
+	Robertson Research Fund, bringing monetary support to CSHL.
+	Robertson also donated his Banbury Estate in Lloyd Harbor, part of Long
+	Island, New York. In 1977  the estate became the Banbury Conference Center.
+As a privately funded research institution, CSHL chooses its
+	research projects relating to cancer, neuroscience, plant biology,
+	quantitative biology, bioinformatics, and genomics. CSHL is one of
+	about sixty institutions endorsed by the Cancer Centers Program of
+	the National Cancer Institute in Rockville, Maryland. The Arnold and Mabel Beckman Laboratory, established in 1990,
+	pursues neuroscience research. Plant biology research at CSHL
+	focuses on developmental plant genetics that affect crop
+	productivity, climate change, and biodiversity. Biological plant
+	research expanded during the 1980s with the building of the Page
+	Laboratory. The Simons Center for Quantitative Biology applies
+	mathematics, engineering, computer science, and theoretical physics
+	to CSHL's genomic analysis and image processing.
+From maize to mice, scientists researched cancer at CSHL.  The
+	1916 discovery of the susceptibility of Japanese waltzing mice
+	(Mus musculus molossinus) to transplanted connective tissue
+	cancers (sarcomas) by Clarence Little at CSHL led E. Carleton
+	MacDowell to develop mice with heightened vulnerability or
+	resistance to cancer. 1980s cancer research focused on genes that
+	stimulate the cell cycle (oncogenes), yeast genetics, and the
+	control of the cell cycle and growth. In 1987, the US National Cancer Institute (NCI), headquartered in Bethesda, Maryland, awarded the CSHL
+	with a grant, which shifted its focus on DNA tumor viruses.  
+In 1988, one of the first CSHL
+	fellows, Carol Greider, conducted research on telomeres, the end
+	sequences of DNA that protects chromosomes during cell division.
+	Greider received the 2009 Nobel Prize in Physiology or Medicine with
+	Elizabeth Blackburn and Jack Szostak for showing how the enzyme
+	telomerase works in conjunction with telomeres to protect chromosomes within a cell.
+Educational programs expanded under Watson's term as director.
+	The DNA Learning Center became an early organization dedicated
+	to providing accessible information to the public about genetics.
+	Bruce Stillman had worked at the CSHL in the 1970s and 1980s, researching DNA
+	replication. CSHL instituted postgraduate courses, including the
+	 Yeast Genetics course, in addition to 
+	the DNA Learning Center in 1988. Watson became president of CSHL
+	when Stillman became director in 1994. In 1998, CSHL became a
+	PhD-awarding establishment with the launch of the Watson School of
+	Biological Sciences.  Stillman became president of CSHL in 2003 when Watson
+	became chancellor. In 2007, Watson retired from his position.
+	CSHL's largest expansion came in the form of the Hillside
+	Laboratories, established in 2009. The Hillside Laboratories increased research space by
+	forty percent, allowing two hundred research personnel to work
+	throughout the six buildings.
+Genomics research for the CSHL is based at the Woodbury Genome
+	Center in Woodbury, New York, a few miles away from CSHL. In November
+	2013, CSHL began construction on a fifteen million dollar drug
+	testing facility.  Researchers there work on drugs to
+	treat pancreatic, lung, liver, prostate, and breast cancer, along
+	with leukemia and melanoma.
+Aside from its research agenda, CSHL focuses on communication.
+	Annual meetings are held at the Long Island location as well as the
+	Cold Spring Harbor Asia Conference in Suzhou, China. The Banbury
+	Center holds meetings for scientists and global specialists to
+	discuss policy surrounding molecular genetics and biology,
+	neuroscience, human genetics, and scientific innovations. The CSHL
+	Press publishes papers and journals such as Genome Research
+	and Genes and Development.
+As of 2014, Bruce Stillman is
+	the chief executive officer and president of the CSHL. 
+ Sources Archives at Cold Spring Harbor Laboratory. "Alfred Hershey."
+		Cold Spring Harbor Laboratory.
+		http://library.cshl.edu/personal-collections/alfred-d-hershey
+		(Accessed November 10, 2013).
+Archives at Cold Spring Harbor
+		Laboratory. "Sydney Brenner." Cold Spring Harbor Laboratory.
+		http://library.cshl.edu/personal-collections/sydney-brenner
+		(Accessed November 9, 2013).
+Archives at Cold Spring Harbor
+		Laboratory. "Reginald Harris." Cold Spring Harbor Laboratory.
+		http://library.cshl.edu/personal-collections/reginald-g-harris
+		(Access November 9, 2013).
+Berra, Tim M., Gonzalo Alvarez,
+		and Kate Shannon. "The Galton-Darwin-Wedgwood Pedigree of H. H.
+		Laughlin." Biological Journal of the Linnean Society 101 (2010):
+		228–41.
+Brenner, Sydney. "The genetics of Caenorhabditis
+		elegans." Genetics 77 (1974): 71–94.
+Cancer Center at Cold
+		Spring Harbor. "History." Cold Spring Harbor Laboratory.
+		http://www.cshl.edu/cancercenter/history/ (Accessed November 10,
+		2013).
+Carnegie Institution for Science. "About the Carnegie
+		Institution." Carnegie Institution for Science.
+		http://carnegiescience.edu/about (Accessed November 17, 2013).
+"Charles S. Robertson, Ex-Investment Banker and a
+		Philantropist." New York Times, May 6, 1981.
+		http://www.nytimes.com/1981/05/06/obituaries/charles-s-robertson-ex-investment-banker-and-a-philanthropist.html (Accessed June
+		18, 2014).
+Cold Spring Harbor Laboratory. "About Us at Cold
+		Spring Harbor Laboratory History." Cold Spring Harbor
+		Laboratory. http://www.cshl.edu/About-Us/History/ (Accessed
+		November 9, 2013).
+Cold Spring Harbor Laboratory. "About Us at
+		Cold Spring Harbor Laboratory Facts and Figures." Cold Spring
+		Harbor Laboratory. http://www.cshl.edu/About-Us/Facts-Figures
+		(Accessed November 9, 2013).
+Davenport, Charles. "Heredity of
+		Albinism." Journal of Heredity 7 (1916): 221–3. http://www.biodiversitylibrary.org/item/45084#page/233/mode/1up (Accessed June 19, 2014).
+Delbrück, Max.
+		"The burst size distribution in the growth of bacterial viruses (bacteriophages)." Journal of Bacteriology 41 (1944): 161–87. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC374120/ (Accessed June 19, 2014).
+Delbrück, Max. "Experiments with bacterial viruses (bacteriophages)." Harvey Lectures 41 (1944): 161–187.
+Demerec, Milislav. "The gene and its
+		role in ontogeny." Cold Spring Harbor Symposia on Quantitative
+		Biology. Vol. 2. Cold Spring Harbor Laboratory Press, 1934.
+Dean, Cornelia. "James Watson Retires After Racial Remarks." New
+		York Times, October 25, 2007.
+		http://www.nytimes.com/2007/10/25/science/25cnd-watson.html?_r=0
+		(Accessed June 18, 2014).
+Eugenical News. University of Missouri Libraries. 
+University of Missouri.
+http://library.missouri.edu/exhibits/eugenics/eugenical_news.htm
+(Accessed November 9, 2013).
+Fox Keller, Evelyn. A Feeling for the
+		Organism, 10th Aniversary Edition: The Life and Work of Barbara
+		McClintock. Times Books, New York: New York, 1983.
+Greider,
+		Carol W., and Elizabeth H. Blackburn. "Identification of a
+		specific telomere terminal transferase activity in Tetrahymena
+		extracts." Cell 43 (1985): 405–13.
+Harris, Reginald G. "The
+		San Blas Indians." American Journal of Physical Anthropology 9
+		(1926): 17–63.
+Hershey, Alfred D. "Spontaneous mutations in
+		bacterial viruses." Heredity and Variation in Microorganisms
+		(1946): 67–77.
+Immigration Act of 1924. Digital History.
+		http://www.digitalhistory.uh.edu/disp_textbook.cfm?smtID=3&psid=1116 (Accessed 5 June, 2014).
+Laughlin, Harry H. Eugenical Sterilization in
+		the United States. Chicago: Psychopathic Laboratory of the
+		Municipal Court of Chicago, 1922. https://archive.org/stream/cu31924013882109#page/n5/mode/2up (Accessed June 19, 2014).
+Lavietes, Stuart. "Martha
+		Chase, 75, a Researcher Who Aided in DNA Experiment." New York
+		Times, August 13, 2003.
+		http://www.nytimes.com/2003/08/13/us/martha-chase-75-a-researcher-who-aided-in-dna-experiment.html (Accessed June 18,
+		2014).
+Little, Clarence C., and Ernest Edward Tyzzer. "Further
+		experimental studies on the inheritance of susceptibility to a
+		transplantable tumor, carcinoma (JWA) of the Japanese waltzing
+		mouse." The Journal of Medical Research 33 (1916): 393–453. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2083849/ (Accessed June 19, 2014).
+Luria,
+		Salvador E., and Max Delbrück. "Mutations of bacteria from virus
+		sensitivity to virus resistance." Genetics 28 (1943): 491–511. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1209226/ (Accessed June 19, 2014).
+Madore, James T. "Cold Spring Harbor Lab breaks ground for $15M
+		cancer-drug testing facility." Newsday, November 6, 2013,
+		Business section, Long Island edition.
+		http://www.newsday.com/business/inside-long-island-business-1.811933/cold-spring-harbor-lab-breaks-ground-for-15m-cancer-drug-testing-facility-1.6394519 (Accessed June 18, 2014).
+McClintock,
+		Barbara. "The Origin and Behavior of Mutable Loci in Maize."
+		Proceedings of the National Academy of Sciences 36 (1950):
+		344–55. http://www.pnas.org/content/36/6/344.full (Accessed June 19, 2014).
+Mieklos, David. "Research Methods." The Cold Spring
+		Harbor Image Archive on the American Eugenics Movement.
+		http://www.eugenicsarchive.org/html/eugenics/essay_3_fs.html
+		(Accessed November 9, 2013).
+"The Nobel Prize in Physiology or
+		Medicine 1969". Nobelprize.org. Nobel Media AB 2013.
+		http://www.nobelprize.org/nobel_prizes/medicine/laureates/1969/
+		(Accessed June 18, 2014).
+"The Nobel Prize in Physiology or
+		Medicine 1983". Nobelprize.org. Nobel Media AB 2013.
+		http://www.nobelprize.org/nobel_prizes/medicine/laureates/1983/
+		(Accessed June 18, 2014).
+"The Nobel Prize in Physiology or
+		Medicine 2002". Nobelprize.org. Nobel Media AB 2013.
+		http://www.nobelprize.org/nobel_prizes/medicine/laureates/2002/
+		(Accessed June 18, 2014).
+"The Nobel Prize in Physiology or
+		Medicine 2009". Nobelprize.org. Nobel Media AB 2013.
+		http://www.nobelprize.org/nobel_prizes/medicine/laureates/2009/
+		(Accessed June 18, 2014).
+Onofrio, Jan. "Laughlin, Henry Harry." Iowa Biographical Dictionary. St. Clair Shores, Michigan: Somerset, 2000,
+464–7.
+Profiles in Science. "The Barbara McClintock Papers Controlling
+Elements: Cold Spring Harbor, 1942–1967." National Library of Medicine.
+http://profiles.nlm.nih.gov/ps/retrieve/Narrative/LL/p-nid/49 (Accessed
+November 9, 2013).
+Sambrook, Joe, Jim Williams, Phillip A. Sharp, and Terri Grodzicker. "Physical mapping of
+temperature-sensitive mutations of adenoviruses." Journal of Molecular
+Biology 97 (1975): 369–90.
+Susman, Millard. "The Cold Spring Harbor
+Phage Course (1945–1970): A 50th Anniversary Remembrance." Genetics 139
+(1995): 1101–6.
+Watson, James D., and Francis H.C. Crick.
+"Molecular structure of nucleic acids." Nature Nature 171 (1953): 737–8. http://profiles.nlm.nih.gov/ps/access/SCBBYW.pdf (Accessed October 30, 2013).
+
+
+
+How to cite
+Gur-Arie, Rachel, "Cold Spring Harbor Laboratory (1890- )". Embryo Project Encyclopedia (2014-06-21). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/7976.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+Copyright Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Sunday, June 22, 2014 - 12:19
+ Topic
+Subject
+ Cold Spring Harbor Biological Laboratory; Davenport, Charles Benedict, 1866-1944; Watson, James D., 1928-; Eugenics; Bacteriophages; McClintock, Barbara, 1902-1992; Eugenics Record Office; Demerec, M. (Milislav), 1895-1966; Hershey, A. D. (Alfred Day), 1908-; Brenner, Sydney; Greider, Carol W.; Telomere; Organization

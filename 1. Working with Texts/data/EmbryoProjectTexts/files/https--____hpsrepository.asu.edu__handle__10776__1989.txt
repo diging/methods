@@ -1,0 +1,54 @@
+By Steve Elliott
+Published: 2009-06-10
+Keywords: Parthenogenesis, Worms
+ Experiments on Artificial Parthenogenesis in Annelids (Chaetopterus) and the Nature of the Process of Fertilization
+Jacques Loeb showed that scientists could achieve 
+		artificial parthenogenesis with one species of annelid worm through a series of experiments in 1900.  Loeb published the results of his experiments in 1901 as “Experiments on Artificial Parthenogenesis in Annelids (Chaetopterus) and the Nature of the Process of Fertilization,” in The American Journal of Physiology.  His results broadened the range of animals to which artificial parthenogenesis applied beyond 
+		sea urchins.  Scientists could now also cause artificial parthenogenesis with the eggs of Chaetopterus, a segmented marine worm.
+Loeb had detailed his earlier experiments with sea urchins in two papers: “
+		On the Nature of the Process of Fertilization and the Artificial Production of Normal Larvae (Plutei) from the Unfertilized Eggs of the Sea Urchin,” (1899) and “
+		Further Experiments on Artificial Parthenogenesis and the Nature of the Process of Fertilization” (1900).  The three sets of experiments were Loeb’s initial breakthrough with artificial parthenogenesis, and they prompted years of research, which culminated in his 1913 book 
+Artificial Parthenogenesis and Fertilization.  
+Loeb conducted his research with 
+		Chaetopterus at the 
+		Marine Biological Laboratory in Woods Hole, Massachusetts, following a winter spent researching sea urchins at Stanford University’s 
+		Hopkins Marine Station in Pacific Grove, California.  He had determined the various mixtures of salt waters that cause artificial parthenogenesis in sea urchins, and he wanted to test those mixtures with other animals.  
+Loeb’s method of inducing artificial parthenogenesis in sea urchin eggs was first to wash them with fresh or distilled water to remove any spermatozoa.  Second, he placed them in one of several concoctions of water in which various salts had been dissolved, each of which had a higher osmotic pressure than sea water.  Next, he removed the eggs and rinsed them with sea water.  Finally, he left them in normal sea water.  Many of the eggs, depending on the salts used in Loeb’s concoctions and how long the eggs spent in those concoctions, developed into 
+		blastulae, 
+		gastrulae, and 
+		plutie.  
+In a series of twenty-two experiments, Loeb tried variations on the same method with Chaetopterus eggs.  He found that concoctions using magnesium chloride, sodium chloride, calcium chloride, potassium chloride, or sugar, each of which caused its concoction to have a higher osmotic pressure than sea water, induced 
+		parthenogenesis in Chaetopterus eggs.  A “slight addition” of hydrogen chloride, an acid, also caused development.  Loeb found that the eggs developed as far as the trocophore stage (swimming larvae banded by cilia) if they spent about an hour in one of the concoctions, and the eggs developed to the 
+		trochophore stage (swimming larvae banded by cilia).  
+Potassium particularly affected Chaetopterus eggs, Loeb found. Indeed, the eggs would develop into trocophore larvae even if placed in a pure solution of potassium chloride with a much lower osmotic pressure than sea water.  Finally, Loeb drew pictures of some of the parthenogized eggs as they developed, and found that, regardless of the concoction, some of their first divisions melted back into single egg cells, but at the end of several hours, normal-appearing trochophores emerged.  
+Loeb concluded that the higher osmotic pressure of the concoctions caused artificial parthenogenesis in Chaetopterus eggs.  He theorized that the pressure forced water out of the eggs, which then developed, and he called for further research with potassium.  Loeb also theorized about normal development, which occurs after a spermatozoon enters an egg.  He thought spermatozoa were catalysts, and that the introduction of their material to eggs starts chemical reactions similar to those caused by artificial parthenogenesis.  Spermatozoa, then, transfer heritable factors and catalyze the eggs’ development, but the eggs already contain all the material necessary for embryos.
+Loeb published no results about artificial parthenogenesis experiments with annelids following his 1900 experiments.  When he talked about artificial parthenogenesis in his later works, Loeb focused on his sea urchin results, especially in 
+		The Mechanistic Conception of Life  and 
+The Organism as a Whole.
+
+Sources
+Loeb, Jacques. “On the Nature of the Process of Fertilization and the Artificial Production of Normal Larvae (Plutei) from the Unfertilized Eggs of Sea Urchins.”  The American Journal of Physiology 3 (1899): 135–38. 
+Loeb, Jacques.  “On the Artificial Production of Normal Larvae from the Unfertilized	Eggs of the Sea Urchin (Arbacia).” The American Journal of Physiology 3 (1900): 434–71; reprinted in Jacques Loeb, Studies in General Physiology. Chicago: Chicago University Press, 1905: 575–623.
+Loeb, Jacques.  “On Artificial Parthenogenesis in Sea Urchins.” Science 11 (1900): 612–14.
+Loeb, Jacques. “Further Experiments on Artificial Parthenogenesis and the Nature of the Process of Fertilization.” The American Journal of Physiology 4 (1900): 178–84; reprinted in Jacques Loeb, Studies in General Physiology. Chicago: Chicago University Press, 1905: 638–45.
+Loeb, Jacques.  “Artificial Parthenogenesis in Annelids (Chaetopterus).” Science 12 (1900): 170.
+Loeb, Jacques.  “Experiments on Artificial Parthenogenesis in Annelids (Chaetopterus) and the Nature of the Process of Fertilization.” The American Journal of Physiology 4 (1901): 423–59.  
+Loeb, Jacques.  The Mechanistic Conception of Life.  Ed. Donald Fleming.  Cambridge, MA: Harvard University Press, 1964.
+Loeb, Jacques.  The Organism as a Whole: From a Physicochemical Viewpoint. New York: G.P. Putnam’s Sons, 1916.  
+
+
+How to cite
+Elliott, Steve, ""Experiments on Artificial Parthenogenesis in Annelids (Chaetopterus) and the Nature of the Process of Fertilization" (1901), by Jacques Loeb". Embryo Project Encyclopedia (2009-06-10). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/1989.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 25, 2013 - 15:53
+ Topic
+Subject
+Parthenogenesis; Loeb, Jacques, 1959-1924; Experiment

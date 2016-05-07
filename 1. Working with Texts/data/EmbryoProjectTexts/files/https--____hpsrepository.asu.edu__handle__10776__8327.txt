@@ -1,0 +1,68 @@
+By Jesse Potestas
+Published: 2015-06-11
+Keywords: Toxoplasmosis
+         ﻿"Human Toxoplasmosis: Occurrence in Infants as an Encephalomyelitis Verification of Transmission to Animals" (1939), by Abner Wolf et al.In a series of experiments during mid 1930s, a team of researchers in New York helped establish that bacteria of the species Toxoplasma gondii can infect humans, and in infants can cause toxoplasmosis, a disease that inflames brains, lungs, and hearts, and that can organisms that have it. The team included Abner Wolf, David Cowen, and Beryl Paige. They published the results of their experiment in "Human Toxoplasmosis: Occurrence in Infants as an Encephalomyelitis Verification of Transmission to Animals". Toxoplasmosis is an infection that causes inflammations in the brain (encephalitis), heart (myocarditis), and lungs (pneumonitis). The disease is caused in organisms that consume items contaminated by the protozoan parasite Toxoplasma gondii. The bacteria can transfer from pregnant women to their fetuses during pregnancy (congenitally), and it can lead those fetuses to develop physical deformities and mental disabilities. The 1930s experiments established Toxoplasma gondii as a human pathogen and helped increase research into congenital toxoplasmosis, enabling later researchers to develop measures to prevent against the disease in pregnant women.
+		
+Prior to 1938, researchers who had studied suspected cases of congenital toxoplasmosis had often misdiagnosed the cases, and no one had connected together correctly diagnosed cases of the infection. Wolf, Cowen, and Paige worked at Columbia University's College of Physicians and Surgeons in New York City, New York. Their 1938 report examined and compared previous cases, along with their own case study of an infant born in 1938 who they suspected had the same disease. The researchers saw in all of the cases similarities in the symptoms reported and in the physical structures of the microbes found in the infected organs. 
+
+Wolf and Cowen, both members of the neuropathology department at Columbia University, conducted preliminary experiments in transferring encephalomyelitis from infants to animals in 1937 and 1938, and they observed the microbe protozoan Toxoplasma in the process. Afterwards, Wolf and Cowen learned of an infant born at the Babies Hospital in New York City, New York, whom doctors suspected had congenital toxoplasmosis. Paige, a member of the pathology department at Columbia University and a pathologist at the Babies Hospital, joined Wolf and Cowen to study the infant. 
+
+Upon the infant’s death, the researchers took tissue samples from the infants brain and studied them. They tested the cross-pathogenicity of T. gondii between humans and animals.  In 1937, Albert Sabin and Peter Olitsky at the Rockefeller Institute in New York, New York, had published work that influenced Wolf's team. Sabin and Olitsky had shown that samples of tissues taken from humans and from other animals infected with T. gondii were similar to each other in terms of form and manifestation of toxoplasmosis. Sabin and Olitsky sought to demonstrate the human pathogenicity of T. gondii, and to prove that T. gondii caused the encephalomyelitis observed in similar cases prior to their 1937 study. Wolf, Cowen, and Paige's experiments showed that T. gondii could transfer from humans to other animals and cause toxoplasmosis in those animals.
+ 
+Cowen, Paige, and Wolf described T. gondii as having a crescent shape and measures around four to six microns in length, and two to three microns in width. They also describe T. gondii as having one or two pointed ends, and that it has a central chromatin body, in which the bacteria's genetic material is stored. The researchers also noted that T. gondii attacks tissues in the central nervous systems of hosts more often than tissues in other areas of the body, despite its ability to infect virtually any tissue in any organism. 
+
+According to Wolf, Cowen, and Paige, the infant in their case study fell ill three days after birth. The infant developed symptoms similar to an eleven-month-old infant who had died of an increasing hydrocephalus, to a two-day-old infant who had died of convulsions, and a to four-month-old infant who had died of hydrocephalus, which were cases described by other scientists. The symptoms included convulsive seizures, lesions in the eyes, and difficulty breathing. The infant from The Babies Hospital died one month after it was born. The researchers then performed an autopsy on the child’s central nervous system, which revealed encephalomyelitis, indicated by clusters of areas of inflammation (granulomas), body tissue death (necrosis) in the brain, and inflammation of the choroid/retina (chorioretinitis) in the right eye. The researchers took slides of tissue damage (lesions)  from various parts of the nervous system samples and those slides showed a protozoan that was similar in physical structure to T. gondii. 
+
+To observe the effects of the protozoan, the scientists infected several test animals with the samples from the infant. The scientists liquefied (emulsified) the samples from the neck area of the spinal cord and the outermost layer of the brain (cerebral cortex), and then they inoculated the samples into the brains of the test animals. The scientists injected the emulsion into four rabbits, twenty-six infant mice, and six rats. The scientists observed that the injections resulted in a high percentage of infection. Nine out of the animals were infected, six avoided infection and lived, and the other twenty-one died immediately after inoculation due to cerebral trauma. Of those nine infected, one rabbit and three rats did not display any pathological or clinical symptoms of the disease. Some became carriers of the parasite but did not exhibit encephalomyelitis, and some developed encephalomyelitis but did not carry the parasite. The researchers concluded that the infections were not spontaneous.
+
+Researchers conducted more tests on animals within six months after the human infant’s death. Wolf, Cowen, and Paige received emulsified samples from an infected guinea pig from Sabin and Olitsky, and Wolf's team inoculated several of their animals with the samples. By doing so, the scientists observed the similarities across both human-to-animal and animal-to-animal transmissions of toxoplasmosis. During that experiment, 131 out of 148 rabbits and 103 out of 105 rats subjected to these tests succumbed to encephalomyelitis. A majority died within five to nine days of inoculation. In most of the animals tested, the scientists noticed that symptoms were not present until their last day of life. Those symptoms included partial muscle paralysis, convulsions, unintentional and rhythmic muscle movement (tremors), sluggishness, and respiratory difficulties. In every case, they observed a severe encephalomyelitis, marked by inflammation, pus, and necrosis. 
+
+The scientists recorded a rise in body temperatures in rabbits within the second or third day after infection. Like the case with the infant, Wolf's team  observed granulomas in the brains of the animals, and they less frequently noticed inflammatory lesions in striated muscles, hearts, lungs, livers, or spleens. The researchers also saw T. gondii strains, as seen in the human infant, in a large number of the lesions of the test animals. In addition to the test rabbits and rats, the scientists also inoculated guinea pigs and chicks from one to eleven days old and observed the similar results. The scientists also injected a rhesus monkey with the sample through the skin and into the brain, but it remained well and did not exhibit a change in body temperature. 
+
+Wolf, Cowen, and Paige concluded that the microbe that was isolated from the human infant was indeed T. gondii due to  similarities in physical structure with other Toxoplasma.  The disease manifested itself in humans, with lesions, which were similar to the lesions produced in test animals from the inoculation from both human and animal samples. 
+
+The study led Wolf, Cowen, and Paige to pursue further research into the effects of toxoplasmosis on infected fetuses, resulting in a series experiments about congenital toxoplasmosis. Their work influenced future studies of congenital toxoplasmosis, including a 1974 study by Georges Desmonts and Jacques Couvreur in Paris, France. Desmonts and Couvreur described a population of pregnant women infected by T. gondii, and the effects of toxoplasmosis on their fetuses and infants.
+
+Sources
+Centers for Disease Control. "Parasites – Toxoplasmosis (Toxoplasma infection)." (2013). http://www.cdc.gov/parasites/toxoplasmosis/ (Accessed April 19, 2014).
+		
+Columbia University Neurosurgery. "A History of the Neurological Institute of New York and Its Department of Neurological Surgery." Columbia University.  http://www.columbianeurosurgery.org/home/history/ (Accessed May 31, 2014).
+
+de Lange, Cornelia. "Klinische und pathologisch-anatomische Mitteilungen über Hydrocephalus chronicus congenitus und acquisitus." (Clinical and pathological-anatomical notifications of congenital hydrocephalus chronicus and acquisitus.) " Zeitschrift für die gesamte Neurologie und Psychiatrie (Journal for General Neurology and Psychiatry) 120 (1929): 433–500.
+
+Desmonts, Georges, Jacques Couvreur. "Congenital Toxoplasmosis—A Prospective Study of 378 pregnancies." New England Journal of Medicine (1974): 1110–1116.
+
+Dubey, Jitender P. "The history of Toxoplasma gondii—the first 100 years." Journal of Eukaryotic Microbiology 55 (2008): 467–475. http://pubag.nal.usda.gov/pubag/downloadPDF.xhtml?id=47190&content=PDF (Accessed June 10, 2015).
+Sabin, Albert B., and Peter K. Olitsky. "Toxoplasma and Obligate Parasitism." Science 2 (1937): 336–338. 
+
+Torgerson, Paul R., and Pierpaolo Mastroiacovo. "The global burden of congenital toxoplasmosis: a systematic review."  Bulletin of the World Health Organization 91 (2013): 501–508. http://www.who.int/bulletin/volumes/91/7/12-111732.pdf (Accessed April 20, 2014).
+
+Torres, C. Magarinos. "Morphologie d’un nouveau parasite de l’homme, Encephalitozoon chagasi, N. sp., observe dans un cas de meningo-encephalo-myelite congenitale avec myosite et myocardite. (Morphology of a new human parasite, Encephalitozoon chagasi, N. sp., Observed in a case of meningo-encephalo-myelitis with congenital myocarditis and myositis.)" Comptes Rendus des séances de la Société de Biologie et de ses filiales (Proceedings of the Society of Biology and Its Subsidiaries) 97 (1927): 1787–1790. http://gallica.bnf.fr/ark:/12148/bpt6k6544616p/f1811.image (Accessed June 10, 2015).
+
+Wolf, Abner, and David Cowen. "Granulomatous encephalomyelitis due to an encephalitozoon (encephalitozoic encephalomyelitis). A new protozoan disease of man." Bulletin of the Neurological Institute of New York 6 (1937): 306–371.
+
+Wolf, Abner, and David Cowen. "Granulomatous encephalomyelitis due to a protozoan (Toxoplasma or Encephalitozoon): II. Identification of a case from the literature." Bulletin of the Neurological Institute of New York 7 (1938): 266–283.
+
+Wolf, Abner, David Cowen, and Beryl H. Paige. "Human Toxoplasmosis: Occurrence in Infants as an Encephalomyelitis Verification of Transmission to Animals." Science 89 (1939): 226–227.
+
+Wolf, Abner, David Cowen, and Beryl H. Paige, "Toxoplasmic encephalomyelitis III: A new case of granulomatous encephalomyelitis due to a protozoon." The American Journal of Pathology 15 (1939): 657–705. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1965069/pdf/amjpathol00533-0002.pdf (Accessed July 17, 2014).
+
+
+
+
+
+How to cite
+Potestas, Jesse, ""Human Toxoplasmosis: Occurrence in Infants as an Encephalomyelitis Verification of Transmission to Animals" (1939), by Abner Wolf et al.". Embryo Project Encyclopedia (2015-06-11). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/8327.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+Copyright Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Thursday, June 11, 2015 - 22:00
+ Topic
+Subject
+ Toxoplasmosis; Columbia University; Columbia University. College of Physicians and Surgeons. Bacterial Laboratory; Congenital toxoplasmosis; Cowen, David; Encephalomyelitis; Infection; Toxoplasma gondii; Bacteria; Encephalitis; Brain-Diseases; Inflammation; Congenital disorders; Pathogens; Experiment

@@ -1,0 +1,55 @@
+By Kaitlin Smith
+Published: 2010-06-20
+Keywords: Biography, Heredity
+ Nettie Maria StevensMultiple theories about what determines sex were tested at the turn of the twentieth century. By experimenting on 
+		germ cells, cytologist Nettie Maria Stevens collected evidence to support the connection between heredity and the sex of offspring. Stevens was able to interpret her data to conclude that chromosomes have a role in sex determination during development. For her time, she was an emerging breed: a woman of science making the leap from the world of data collection to that of male-dominated interpretive work.
+Stevens was born in Cavendish, Vermont, on 7 July 1861 to Julia Adams and Ephraim Stevens. In 1870 her father, by then widowed and remarried, moved to Westford, Vermont, with his new wife and four children to take up a job with the Townhouse Building Committee. In Westford, Nettie performed well in public school, achieving perfect attendance and making the honor roll. She then moved on to college preparatory studies at the Westford Academy, also in Westford. The school was eclectic, teaching everything from Greek language to music, and accepting of both genders and various nationalities. Both Nettie and her sister Emma received near-perfect grades, and they became two out of only three women to graduate from Westford in an eleven-year period.
+Stevens moved to Lebanon, New Hampshire, to teach high school zoology, physiology, math, English, and Latin. After three terms, she returned to Vermont to continue her academic career. At Westfield Normal School, in Massachusetts, Stevens studied under science professors including 
+		Joseph Scott, 
+		Frederick Staebner, and 
+		Walter Barrows. She received the highest academic in her class of thirty and finished four years of coursework in just two. After graduation she taught school for many years before enrolling at 
+		Stanford University in 1896.
+At Stanford, Stevens worked with professor 
+		Oliver Pebbles Jenkins and majored in physiology. She became increasingly focused on histology after working with Jenkins’s former student, and assistant professor, 
+		Frank Mace Macfarland. Macfarland was also an instructor at 
+		Hopkins Seaside Laboratory, where Stevens spent four summers performing histological and cytological research. She would later continue her research at the 
+		Marine Biological Laboratory at Woods Hole, Massachusetts, in the summer of 1901. During the fall and winter of that year, Stevens visited the 
+		Naples Zoological Station and the 
+		Zoological Institute of the University of Wurzberg, Germany. At Wurzberg, Stevens studied under 
+		Theodore Boveri, who was studying the role of chromosomes in heredity. This no doubt contributed to Stevens’s interest in chromosome research.
+Stevens completed both her BA (1899) and MA (1900) at Stanford. In 1903, she graduated with her PhD from 
+		Bryn Mawr College in Philadelphia, Pennsylvania. It was at Bryn Mawr that Stevens first met biology professors 
+		Thomas Hunt Morgan and 
+		Edmund Beecher Wilson. Morgan and Wilson both sent letters of recommendation to the 
+		Carnegie Institution of Washington on behalf of Stevens, since she was seeking funding for research on heredity related to Mendel’s laws. Stevens specifically wanted to investigate sex determination and after receiving a grant from the Carnegie Institution, she used germ cells of 
+		aphids to examine possible variation in chromosome structure between the two sexes.
+According to biology historian 
+		Jane Maienschein, hundreds of theories on sex determination had been proposed by biologists, evolutionists, and philosophers by the early nineteenth century. During the time of Stevens’s research, three main hypotheses were in place to describe how an individual becomes a male or a female. Some thought that external factors during development were responsible for determining sex. Others believed that sex was determined internally, specifically through the egg. Still others believed that hereditary factors influence sex. While Stevens was still a student, Wilson authored The Cell in Development and Inheritance, which was published in 1896. In his second edition of the book in 1901, Wilson maintained that sex determination was based at least partially on external conditions.
+Stevens study on aphids led her to an internalistic conclusion. She looked for the “accessory chromosome” that others had described, and decided that the cytoplasm of the egg was the important factor. But her work with the mealworm, Tenebrio molito, changed the direction of Stevens’ work. The spermatozoa of the mealworm had one distinctively smaller chromosome than the female set. It was then obvious when comparing progeny that the males always received this smaller chromosome. In her paper 
+		“Studies on Spermatogenesis”, submitted to the Carnegie Institution and published in 1905, she outlined her results from aphid and mealworm experiments as well as research on other insects. Wilson had performed similar research (his paper was published the same year) as Stevens, but chose an organism that was missing one chromosome, so his results represented an (X,O) model of heredity, while Stevens’s model followed the (X,Y) model of heredity.
+It has often been assumed that Stevens and Wilson worked jointly on chromosomal sex determination, with Stevens serving as Wilson’s assistant. Many textbooks have given Wilson sole credit for the results since he was a more accomplished researcher. Even Morgan has been credited, especially after he was recognized with a Nobel Prize. But it is clear from papers published in the years following 1905 that both Wilson and Morgan were apprehensive about letting go of their alternative approaches to sex determination. They hesitated to adopt a fully chromosomal theory for several years.
+Stevens received a position at Bryn Mawr as an associate in experimental morphology in 1905. She also remained affiliated with the Carnegie Institution, where she served as research assistant. In 1905, she received the Ellen Richards Prize of $1000 for her paper, 
+		“A Study of the Germs Cells of Aphis rosae and Aphis oenotherae.” Beyond acknowledgements by Thomas Hunt Morgan of her role, Stevens received few accolades for her efforts in piecing together chromosomal sex determination. This was due in part to her early death, in 1912, from breast cancer—a mere seven years after her work was published. Many scientists still held onto the externalist approach to sex determination long after 1905 and today some argue for environmental factors in sex determination. Conflicting views made the scientific community slow to accept her conclusions, which today are recognized as pioneering. Interestingly, Morgan and Wilson were invited to speak at a conference to present their theories on sex determination in 1906. Stevens was not invited to speak. Stevens clearly deserves recognition for her work on heredity and its importance in development.
+
+Sources
+Brush, Stephen G. “Nettie M. Stevens and the Discovery of Sex Determination by Chromosomes,” Isis (1978): 163–172.
+Maienschein, Jane. “What Determines Sex? A Study of Converging Approaches, 1880-1916,” Isis (1984): 457–480.
+Ogilvie, Marilyn Bailey, and Clifford J. Choquette. “Nettie Maria Stevens (1861-1912): Her Life and Contributions to Cytogenetics,” Proceedings of the American Philosophical Society (1981): 292–311.
+Ogilvie, Marilyn Bailey. “Stevens, Nettie Maria (1861-1912).” In Biographical Dictionary of Women in Science 2, eds. Joy Harvey and Marilyn Ogilvie, 1230–32. New York: Routledge, 2000.
+
+
+How to cite
+Smith, Kaitlin, "Nettie Maria Stevens (1861-1912)". Embryo Project Encyclopedia (2010-06-20). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/2028.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, April 1, 2015 - 23:43
+ Topic
+Subject
+Heredity; Stevens, N. M. (Nettie Maria), 1861-1912; People

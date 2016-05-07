@@ -1,0 +1,44 @@
+By Erica O'Neil
+Published: 2010-10-20
+Keywords: Fetal alcohol syndrome, Congenital disorders, Fetus
+ Role of Sonic Hedgehog (Shh) in Alcohol-Induced Craniofacial AbnormalitiesPrenatal exposure to alcohol (ethanol) results in a continuum of physical and neurological developmental abnormalities that vary depending on the timing, duration, and degree of alcohol exposure. Heavy exposure during development may lead to the condition 
+		Fetal Alcohol Syndrome (FAS), characterized by growth deficits, neurological deficiencies and minor facial abnormalities. Alcohol is a known 
+		teratogen, an agent that causes birth defects and acts upon developing embryos through mechanisms that are not yet fully understood. One of the better understood developmental effects of alcohol relates to the minor facial abnormalities associated with FAS, particularly the role that the gene sonic hedgehog (shh) plays in the regulation of craniofacial defects. In comparative animal studies, maternal exposure to alcohol results in the massive decrease of shh and shh transcription factors in affected cell populations. However, the exogenous application of shh to the developing embryo has shown limited success in reversing this expression, thereby restoring a normative pattern of craniofacial development in the affected embryo.
+The patterns of facial abnormalities that occur as a result of prenatal alcohol exposure are similar to the facial defects observed when the transcription of shh is blocked in a developing embryo. In both cases there is an overall reduction in the size of the head coupled with 
+		cranial neural crest cell death (
+		apoptosis) that results in morphological abnormalities along the midline of the face. In embryonic mutants that lack the ability to transcribe shh, a condition called 
+		holoprosencephaly arises, whereby the midline of the face fails to develop depending on the degree of shh expression. The physical expression of this defect varies from superficial, such as the presence of a single central incisor, to more severe maladies like 
+		cyclopia, a fatal birth defect where features along the midline of the face are underdeveloped to the point that only a single central eye appears to be present. The similar effects shh has on the ventral development of facial features in both mutants and ethanol-affected embryos is a result of its effect on 
+		neural crest cells responsible for the formation of these features. 
+Neural crest cells are an undifferentiated population of cells that arise between the 
+		neural tube and 
+		ectoderm during early stages of embryo development. Cranial neural crest cells may be fated to create the bone and cartilage of the face, and interact with adjacent ectoderm through the 
+		frontonasal process  to give rise to facial features. Prenatal exposure to ethanol selectively affects this population of cells between the embryonic stages of 
+		gastrulation and 
+		neurulation, resulting in the mass apoptosis of cells that would otherwise have been essential to the normal development of facial features. This most commonly results in abnormal morphology down the midline of the face, affecting the eyes, nose, and lips. Maternal ethanol exposure also results in the embryonic down-regulation (decrease in production) of shh and its supporting protein transcription factors, which further contributes to a decrease in cellular proliferation and survival.
+In 2002 
+		Sara C. Ahlgren and colleagues at the 
+		California Institute of Technology investigated the effect of ethanol on regulatory genes as they related to cranial neural crest cells and facial abnormalities. Ahlgren and others had previously demonstrated in 1999 that the inhibition of shh signaling resulted in a pattern of cranial neural crest cell death similar to the facial abnormalities observed as a result of ethanol exposure. By treating chicken eggs that were undergoing the equivalent stage (stages 9–10) of embryonic development as human gastrulation and nerulation, Ahlgren recorded the molecular effects of this exposure. They discovered that ethanol had little to no effect on other craniofacial regulatory genes such as wnt, bmp, and fgf-8. Rather, ethanol resulted in the dramatic reduction of shh and associated transcription factors in the signaling cascade, including patched, gli1, gli2, and gli3. Since the shh gene and transcription pathway were isolated as vulnerable to ethanol exposure, they provided support for the hypothesis that the exogenous application of shh may help compensate for the down regulation (decrease) of the gene and its protein transcription factors. Upon administering shh to the affected area, the up-regulation (increase) of the necessary gene was evidenced by the wholesale migration and normal development of cranial neural crest cells that would formerly have been fated for ethanol-induced apoptosis. These cells further expressed the transcription factors that had previously been reduced by ethanol exposure. Exogenous application of shh also helped restore a diminished frontonasal mass to its normal size. 
+The restoration of normal cell functioning to cranial neural crest cells that had been damaged by ethanol and fated for apoptosis resulted in the expression of normal facial features along the ventral midline. This evidence further substantiates a relationship between shh and the craniofacial abnormalities that characterize individuals affected by FAS. While the facial abnormalities observed are largely superficial to normal functioning, further understanding the mechanistic processes may help to mitigate the more serious effects of prenatal exposure to ethanol later in development, like ethanol’s effect on the developing central nervous system.
+
+Sources
+Dodds, Edward C., and William Lawson. “Molecular Structure in Relation to Oestrogenic Activity. Compounds without a Phenanthrene Nucleus.” Proceedings of the Royal Society London B 125 (1938): 222–32. 
+Gilbert, Scott F., and David Epel. Ecological Developmental Biology: Integrating Epigenetics, Medicine, and Evolution. Sunderland, MA: Sinauer, 2009, 221–25.
+Gilbert, Scott F. Developmental Biology, 8th ed. Sunderland, MA: Sinauer, 2006, 673–75.
+
+
+How to cite
+O'Neil, Erica, "Role of Sonic Hedgehog (Shh) in Alcohol-Induced Craniofacial Abnormalities". Embryo Project Encyclopedia (2010-10-20). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/2297.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Thursday, January 16, 2014 - 22:17
+ Topic
+Subject
+Fetal Alcohol Syndrome; Fetal alcohol syndrome.; Concept

@@ -1,0 +1,56 @@
+By Kristin Kelley
+Published: 2010-09-02
+Keywords: Medical procedures, Fertility
+ Pregnancy TestsThroughout history methods involving urine have been a popular way to test for pregnancy. Early ideas ranged from simply observing the color of a woman’s urine to the notion that the urine of pregnant women contains special crystals or secretions. Indeed, pregnancy testing can be traced back to 1350 BCE in Ancient Egypt. A written document from the time describes a process in which a woman would urinate on wheat and barley seeds over several days and, depending on which plant grew, both the woman’s pregnancy status and the sex of the fetus could be determined. In 1905, British physiologists 
+		Ernest Starling and 
+		William Bayliss were the first to isolate special hormone markers found in the urine of pregnant women. 
+One specific hormone that is used today for pregnancy testing is 
+		human chorionic gonadotropin, or hCG. This hormone appears during the first trimester of pregnancy, a time characterized by rapid cell division and tissue differentiation in the developing embryo. The 
+		blastocyst implants itself about eight to ten days after ovulation, and begins to secrete hCG, whose concentration in the urine doubles every two to three days during early pregnancy. The hormone becomes detectable in the blood and urine within seven to nine days, reaching its highest concentration around the eighth week of pregnancy. Due to its early secretion, hCG is quite useful for pregnancy detection. Specifically, hCG encourages the corpus luteum to produce estrogen and progesterone, which are vital to the preservation of a pregnancy. The corpus luteum is a temporary structure that develops from the ovarian follicle following ovulation. 
+Human chorionic gonadotropin was first discovered in the 1920s, when German scientists 
+		Selmar Aschheim and 
+		Bernhard Zondek observed that hCG stimulates ovary development in rabbits and mice and also affects the formation of the 
+		corpus luteum in humans. Human chorionic gonadotropin consists of an alpha subunit and a beta subunit. The alpha subunit is similar in composition to 
+		follicle stimulating hormone (FSH), 
+		luteinizing hormone (LH), and thyroid stimulating hormone (TSH). The beta subunit, however, is unique to hCG, its terminal twenty-eight to thirty amino acids not occurring in any other glycoprotein hormone. Because of its composition, many early tests for pregnancy were largely unsuccessful because of their inability to distinguish the alpha subunit from several other commonly occurring hormones not necessarily linked to pregnancy.
+In 1927, Aschheim and Zondek invented the 
+		A-Z test, specifically designed to detect hCG in urine. In this test, the female’s urine was injected into a young 
+		mouse or 
+		rat. Based on the assumption that hCG has the same effect in mice as it does in humans, if the animal then underwent ovulation, it implied that the woman was pregnant. Bioassays similar to the A-Z test burgeoned during the 1930s, but their reliability was low and their costs remained high. 
+In 1960, the hemagglutination inhibition test, an immunoassay to test for pregnancy, became available. Developed by 
+		Leif Wide and 
+		Carl Gemzell, this test uses a mixture of the patient’s urine and hCG antibodies. The test was said to be positive if the cells clumped in a specific pattern. Though more efficient, the test still lacked sensitivity. Agglutination immunoassays were eventually replaced with enzyme immunoassays that were able to detect hCG in much smaller concentrations. In 1966 
+		A. R. Midgeley introduced a radioimmunoassay for hCG. Despite the new development, however, the radioimmunoassay suffered from the same problem that plagued the first bioassays and immunoassays—it could not adequately distinguish the alpha subunit of hCG from other commonly occurring hormones. Finally, in 1972 
+		Judith L. Vaitukaitis, 
+		Glenn Braunstein, and 
+		Griff Ross developed a more sophisticated radioimmunoassay that could distinguish between the two substances. This radioimmunoassay was pivotal in that it displayed sensitivity to the beta subunit of hCG and thus could be used only days after a missed menstrual period. In 1976, the FDA approved the use of an immunoassay originally used in the detection of hCG-secreting tumors for use in the first at-home pregnancy test kit in the United States. 
+Modern at-home pregnancy tests rely on the use of antibodies in a test known as a sandwich assay. The term “sandwich” assay refers to an assay in which two antibodies, a capture antibody and a tracer antibody, sandwich an antigen in the form of an hCG molecule. An at-home pregnancy test consists of a plastic device of three parts: a urine well, an opening that displays the test results, and a plastic-shielded region containing the tracer antibody. If hCG is present in the urine poured into the urine well, it migrates toward and binds to the tracer antibody. This complex will then continue to flow to the immobilized capture antibody, which will glow to indicate a positive test for pregnancy. 
+Overall, at-home pregnancy test kits are extremely reliable and as of 2010 can accurately detect hCG levels as low as 25 to 50mIU/mL, when hCG levels at the time of the first missed period are 80 to 100 mIU/mL. For the great majority of women, the egg has implanted (and therefore hCG hormone has been secreted) by the time of the first missed period, though this percentage increases one week after the missed period. It is typically suggested that at-home pregnancy tests be administered around ten days after conception or, for women with irregular menstrual cycles, as many as thirty-six days following the first day of their last period. The majority of at-home tests kits instruct the individual to either place the test stick directly into the urine stream or to dip the stick into a cup containing a urine sample. The test typically takes about one to three minutes to produce an observable result. 
+False negatives and false positives for at-home pregnancy tests are typically attributed to human error. For example, administering the test too early or too late will produce a false negative as hCG has either yet to be secreted or has declined. Using a contaminated or diluted sample, holding the wrong end of the test stick, and waiting for less than the required time are all common causes of false negatives. Common causes of false positives include use of hCG-containing fertility drugs or using the test after a spontaneous abortion. 
+New advances to reduce human error in pregnancy testing have improved reliability. For example, though positive results of at-home tests have classically been depicted by the appearance of a double blue line, in 2003 the FDA approved the Clearblue Easy digital pregnancy test, which gives a digital reading of “pregnant” or “not pregnant” on its indicator screen. 
+
+Sources
+Cole, Laurence. “Human Chorionic Gonadotropin Tests.” Expert Review of Molecular Diagnostics 9 (2009): 721–47. 
+Lipsitz, Rebecca. “Pregnancy Tests.” Scientific American 283 (2000): 110–12. 
+Pandey, Deeksha, Pratap Kumar, and Gayatri Chaturvedi. “Human Chorionic Gonadotropin: ‘The Magic Molecule’.” Internet Journal of Endrocrinology 5 (2009). http://www.ispub.com/journal/the_internet_journal_of_endocrinology/volume_5_number_1_43/article/human_chorionic_gonadotropin_the_magic_molecule.html.
+Pardalis, Dorothy. “Home Pregnancy Tests Sensitive But Reliable.” Pharmacy Post (2003): 15.
+Sadava, David, Craig Heller, Gordon Orians, Wiliam Purves, and David Hillis. Life: The Science of Biology. New York: W. H. Freeman, 2006: 911–12. 
+“The History of the Pregnancy Test Kit–A Timeline of Pregnancy Testing.” Office of History, National Institutes of Health. http://history.nih.gov/exhibits/thinblueline/timeline.html (Accessed February 20, 2010).
+Tone, Andrea. “A Thin Blue Line: A History of the Pregnancy Test Kit.” Bulletin of the History of Medicine 81 (2007): 439–40. 
+
+
+How to cite
+Kelley, Kristin, "Pregnancy Tests". Embryo Project Encyclopedia (2010-09-02). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/2069.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 25, 2013 - 15:53
+ Topic
+Subject
+Pregnancy Tests;  Technology

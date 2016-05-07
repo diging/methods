@@ -1,0 +1,27 @@
+By Sean Cohmer
+Published: 2011-06-14
+Keywords: Frogs, Nuclear transplantation
+ “Developmental Capacity of Nuclei Transplanted from Keratinized Skin Cells of Adult Frogs,” by John Gurdon, Ronald Laskey, and O. Raymond Reeves (1975)In 1975 John Gurdon, Ronald Laskey, and O. Raymond Reeves published “Developmental Capacity of Nuclei Transplanted from Keratinized Skin Cells of Adult Frogs,” in the Journal of Embryology and Experimental Morphology. Their article was the capstone of a series of experiments performed by Gurdon during his time at Oxford and Cambridge, using the frog species Xenopus laevis. Gurdon’s first experiment in 1958 showed that the nuclei of Xenopus cells maintained their ability to direct normal development when transplanted. The goal of Gurdon’s experiments was to show that specialized adult cells could maintain the information and capacity to direct normal development. He asked whether cells undergo permanent changes once they become fully specialized. Gurdon, Laskey, and Reeves’s publication was important to embryology because it shed light on that very question. In their experiment Gurdon, Laskey, and Reeves used the methods of nuclear transplantation, originally developed by Robert Briggs and Thomas King, to move a frog’s skin cell nucleus into an inactivated egg cell. First, the nucleus of a Xenopus egg cell was inactivated with ultraviolet (UV) exposure.  Next, a Xenopus skin cell nucleus was removed with a forged glass pipette and then placed into the inactivated egg cell. After transplantation the cells were cultured for three and a half days where they proceeded to cleave and undergo development. The cultured media was extracted and the protein contents were destroyed which left behind pure chromosomal material. Next, a second egg cell was inactivated using the same UV radiation method and the nucleus from a cultured cell was transplanted into the second recipient egg cell—a process referred to as serial nuclear transplantation.It was crucial that the researchers differentiated between the recipient cell type and the cell type of a frog cloned from transferred skin cells. To do this, they selected a marker that was present in all frog cell nuclei, the nucleolus. A normal Xenopus frog develops with two nucleoli in each cell, while the frogs used as donors contained only one nucleolus in each cell. Due to that fact, single nucleolus markers in each of the tadpoles that developed from serial nuclear transplantation could be detected. Gurdon noted that the odds were astronomically high that the developed tadpoles might contain the one-nucleolus marker through development with the original recipient nucleus. Several conclusions followed from the experiments. First, specialized cells have the capacity to direct normal development under the right conditions. Therefore, the nucleus must contain some inherited material, which holds onto and passes information along.  Second, egg cell cytoplasm has properties that allow it to organize and regulate normal development even with nuclei transferred from differentiated cells. Without the egg, no development occurs.  Perhaps the most important conclusion of the article was, “…cell specialization does not involve any loss, irreversible inactivation or permanent change in chromosomal genes required for development.”Though Briggs and King influenced Gurdon’s work heavily, he, with the help of Laskey and Reeves was able to show that some material within the nucleus could direct normal development. Their 1975 article helped to solidify the knowledge regarding the functional role of the nucleus as being necessary but insufficient for normal development.  
+
+Sources
+Gilbert, Scott F. Developmental Biology 8th ed. Sunderland, Ma: Sinauer, 2006.
+Gurdon, John B., Tom R. Elsdale, and Michael Fischberg. "Sexually Mature Individuals of Xenopus-Laevis from the Transplantation of Single Somatic Nuclei." Nature 182 (1958): 64–5.
+Gurdon, John B., Ronald A. Laskey, and O. Raymond Reeves. "Developmental Capacity of Nuclei Transplanted from Keratinized Skin Cells of Adult Frogs." Journal of Embryology and Experimental Morphology 34 (1975): 93–112.
+King, Thomas J., and Robert Briggs. "The Transplantation of Living Nuclei from Late Gastrulae into Enucleated Eggs (R-Pipiens)." Anatomical Record 117 (1953): 556.
+
+
+How to cite
+Cohmer, Sean, ""Developmental Capacity of Nuclei Transplanted from Keratinized Skin Cells of Adult Frogs" (1975), by John Gurdon, Ronald Laskey, and O. Raymond Reeves". Embryo Project Encyclopedia (2011-06-14). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/2284.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Thursday, April 9, 2015 - 21:28
+ Topic
+Subject
+Nuclear Transfer Techniques; Gurdon, J. B. (John Bertrand); Experiment

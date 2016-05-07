@@ -1,0 +1,192 @@
+By Zane Bartlett
+Published: 2015-03-23
+Keywords: telomere, Embryogenesis
+ Telomerase in Human DevelopmentTelomerase is an enzyme that regulates the lengths of telomeres in
+	the cells of many organisms, and in humans it begins to function int the early stages of embryonic development. Telomeres are repetitive sequences of DNA on the ends
+	of chromosomes that protect chromosomes from sticking to each other
+	or tangling. In 1989, Gregg Morin found that telomerase was present
+	in human cells. In 1996, Woodring Wright and his team examined human
+	embryonic cells and found that telomerase was active in them. Scientists
+	manipulate telomerase in cells to give cells the capacity to
+	replicate infinitely. Telomerase is also necessary for stem cells to
+	replicate themselves and to develop into more specialized cells in embryos
+	and fetuses.
+Carol Greider and Elizabeth Blackburn discovered telomeres in 1978. Greider was
+	Blackburn's student at the University of California in Berkeley, California.
+	Blackburn had used the protozoon Tetrahymena
+	thermophila to study telomeres in the process of cellular
+	replication. In 1985 Greider and Blackburn discovered in Tetrahymena terminal
+	transferase, which later was called telomerase.  
+	Greider and Blackburn found that telomerase was a type of enzyme
+	that organizes DNA at the end of the strand in a reverse fashion from normal
+	transcription. Scientists label any enzyme that follows the
+	reverse pattern as a reverse transcriptase. Telomerase consists of
+	protein and RNA that add thymine and guanine (TTGGGG) repeated
+	nucleotide sequences on the ends of chromosomes. Telomerase fills a gap on the chromosome that exists due to imperfect DNA
+	replication. DNA replication is imperfect because there is a space
+	where the enzyme DNA polymerase detaches from the DNA strand. 
+
+	In
+	1994 at the Cold Spring Harbor Laboratory in Cold Spring Harbor, New York, Lin Mantell and
+	Greider showed that telomerase was necessary in
+	germline and embryonic cells of developing frogs Xenopus
+	laevis. For their work with telomeres and telomerase,
+	Greider and Blackburn received the Nobel Prize in Physiology or
+	Medicine in 2009, along with Jack Szostak.
+Building upon the finding of telomerase in Tetrahymena,
+	Gregg Morin studied if telomerase was present in human cells. In 1989,
+	while working at Yale University in New Haven, Connecticut, Morin
+	isolated telomerase from human HeLa cells. HeLa cells are named
+	after Henrietta Lacks, a cervical cancer patient from whom the
+	cells were taken. HeLa cells are cancerous cells that proliferate
+	indefinitely. The telomerase that Morin found in the HeLa cells
+	differed from the telomerase found in Tetrahymena. HeLa
+	cells' telomerase had a six-nucleotide sequence of thymine, adenine
+	and guanine (TTAGGG). Morin hypothesized that totipotent cells, or
+	cells capable of becoming any types of cells such as embryonic stem
+	cells, produced telomerase to retain the infinite replicative
+	properties needed for an organism to develop.
+Mantell and Greider verified Morin's hypothesis in Xenopus
+	in 1994. Mantell and Greider found that during early development,
+	telomerase is highly active. Telomeres were active throughout
+	embryogenesis and oogenesis in Xenopus egg cells.
+	The researchers also found that germline cells, such as cells found
+	in the ovaries and testes of Xenopus, continued to produce
+	telomerase. Mantell and Greider further suggested that telomerase
+	functions in germline cells to preserve telomeres for future
+	generations.
+In 1996, scientists verified Morin's hypothesis in humans.
+	Woodring Wright, Piatyszek Mieczyslaw, William Rainey, William Byrd,
+	and Jerry Shay at the University of Texas Southwestern Medical Center in Dallas,
+	Texas, performed an experiment that detected high amounts of
+	telomerase activity in human blastocysts, and in tissues at
+	sixteen to twenty weeks after fertilization. The activity rapidly
+	declined and became undetectable after the neonatal period, or the
+	first twenty-eight days of a child's life post-birth. Wright and his
+	team concluded that the human body regulates and represses
+	telomerase activity after birth except in some tissues.
+	Particularly, Wright's team found that telomerase was expressed in
+	fetal, newborn, and adult testes and ovaries, but not in mature sperm
+	or eggs, which differed from the results found in Xenopus. Wright
+	and his team hypothesized that the difference was due to the fact
+	that human sperm telomeres do not shorten with age, and human
+	zygotes produce telomerase after the first cell division, therefore
+	egg cells need not carry telomerase.
+In 2001, researchers including Diane L. Wright at the Eastern
+	Virginia Medical School in Norfolk, Virginia, found that telomerase
+	is necessary for cells in human embryos to rapidly proliferate.
+	Cells need telomerase during embryogenesis because as they
+	replicate, their telomeres shorten. Without the presence of
+	telomerase, the first few cells in the zygote would be unable to
+	replicate and develop into an embryo and eventually a fetus. The scientists reported that
+	telomerase was active in every stage of development of the embryo.
+	They also observed that while telomerase activity was necessary for
+	an embryo to develop, the amount of telomerase present did not
+	predict the potential for embryonic growth.
+Scientists found that genetic variation between humans influences
+	telomerase activity during development and adult life. In 2010,
+	researchers including Gil Atzmon at the Albert Einstein College of
+	Medicine in Bronx, New York, published a study that explains the
+	effects of telomerase in centenarians of Ashkenazi Jewish descent.
+	That research showed that the centenarians and their offspring
+	showed increased production of telomerase. Due to that increase, 
+	those studied had fewer than normal age-related diseases such as
+	cardiovascular disease and diabetes mellitus, as well as other
+	diseases caused by genetic mutations. The researchers named the
+	genes associated with the increase in telomerase activity hTERT  and
+	hTERC. They further hypothesized that hTERT and hTERC became active
+	during development and that their repression was not as drastic
+	after birth for those studied as it was for those in a more general population.
+Although scientists researched the link between telomerase
+	activity and the process of how cells replicate, some criticized the way the
+	data was produced. Critics of the research, such as Harry Rubin at
+	the University of California, Berkeley, California, argued that the
+	data collected on telomerase could be skewed by experimental
+	techniques. Rubin argues that incorrect data of telomerase activity
+	can result from tumor cells within the population or the result of a
+	virus that causes overproduction of telomerase. Others argued that
+	scientists over emphasized research into telomerase and telomeres and
+	that other elements of development and the cell cycle are overlooked due to the attention given to telomeres. 
+ Sources Atzmon, Gil,
+		Miook Cho, Richard M. Cawthon, Temuri Budagov, Micol Katz, Xioman
+		Yang, Glenn Siegel, Aviv Bergman, Derek M. Huffman, Clyde B.
+		Schechter, Woodring E. Wright, Jerry W. Shay, Nir Barzilai,
+		Diddahally R. Govindaraju, and Yousin Suh. "Genetic variation in
+		human telomerase is associated with telomere length in Ashkenazi
+		centarians." Proceedings of the National Academy of
+		Sciences 107 (2010): 1710–7. http://www.pnas.org/content/107/suppl_1/1710.full (Accessed March 11, 2015).
+		
+Aubert, Geraldine, and Peter M. Langsdorp. "Telomeres and aging"
+		Physiological Reviews 88 (2008): 557–79. http://physrev.physiology.org/content/88/2/557.short (Accessed March 11, 2015).
+Blackburn, Elizabeth H., and Joseph G. Gall. "A tandemly
+		repeated sequence at the termini of the extrachromosomal
+		ribosomal RNA genes in Tetrahymena." Journal of Molecular
+		Biology 120 (1978): 33–53. 
+Greider, Carol W., and Elizabeth H. Blackburn. "A telomeric
+		sequence in the RNA of Tetrahymena telomerase required for
+		telomere repeat synthesis." Nature 337 (1989):
+		331–7.
+Greider, Carol W., and Elizabeth H. Blackburn.
+		"Identification of a specific telomere terminal transferase
+		activity in Tetrahymena extracts." Cell 43 (1985):
+		405–13. http://www.cell.com/cell/pdf/0092-8674(85)90170-9.pdf (Accessed March 11, 2015).
+Greider, Carol W., and Elizabeth H. Blackburn. "The telomere
+		terminal transferase of Tetrahymena is a ribonucleoprotein
+		enzyme with two kinds of primer specificity." Cell 51
+		(1987): 887–98. 
+Hayflick, Leonard. "The limited in vitro lifetime of human
+		diploid cell strains." Experimental Cell Research 37
+		(1965): 614–36. 
+Hayflick, Leonard, and Paul S. Moorhead. "The serial
+		cultivation of human diploid cell strains." Experimental Cell
+		Research 25 (1961): 585–621. 
+Jiang, Lijing. "Degeneration in Miniature: History of Cell
+		Death and Aging Research in the Twentieth Century." PhD diss.,
+		Arizona State University, 2013. http://repository.asu.edu/attachments
+		/114558/content/Jiang_asu_0010E_13292.pdf (Accessed June 6,
+		2014).
+Lin, Jue, Elissas Epel, and Elizabeth H. Blackburn. "Telomeres and
+		lifestyle factors: roles in cellular aging." Mutation
+		Research 730 (2012): 85–9. 
+Mantell, Lin L., and Carol W. Greider. "Telomerase activity in
+		germline and embryonic cells of Xenopus." EMBO Journal 13
+		(1994): 3211–7. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC395213/pdf/emboj00061-0269.pdf (Accessed March 11, 2015).
+Morin, Gregg B. "The human telomere terminal transferase
+		enzyme is a ribonucleoprotein that synthesizes TTAGGG repeats."
+		Cell 59 (1989): 521–9. 
+Nobel Prize. "The Nobel Prize in Physiology or Medicine
+		2009." Nobel Media. http://www.nobelprize.org/nobel_prizes/medicine/laureates/2009/ (Accessed March 11, 2015).
+Olovnikov, Alexey M. "A theory of marginotomy. The
+		incomplete copying of template margin in enzymic synthesis of
+		polynucleotides and biological significance of the phenomenon."
+		Journal of Theoretical Biology 41 (1973): 181–90. 
+Rubin, Harry. "Telomerase and cellular lifespan: ending the
+		debate?" Nature Biotechnology 16 (1998): 396–7.
+Szostak, Jack W., and Elizabeth H. Blackburn. "Cloning yeast
+		telomeres on linear plasmid vectors." Cell 29 (1982):
+		245–55. 
+Wright, Diane L., Estella L. Jones, Jacob F. Mayer, Sergio
+		Oehninger, William E. Gibbons, and Susan E. Lanzendorf.
+		"Characterization of telomerase activity in the human oocyte and
+		preimplantation embryo." Molecular Human Reproduction 7
+		(2001): 947–55. http://molehr.oxfordjournals.org/content/7/10/947.long (Accessed March 11, 2015).
+Wright, Woodring E., Piatyszek A. Mieczyslaw, William E.
+		Rainey, William Byrd, and Jerry W. Shay. "Telomerase activity in
+		human germline and embryonic tissues and cells."
+		Developmental Genetics 18 (1996): 173–9.  
+
+How to cite
+Bartlett, Zane, "Telomerase in Human Development". Embryo Project Encyclopedia (2015-03-23). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/8307.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+Copyright Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Monday, March 23, 2015 - 16:54
+ Topic
+Subject
+ Telomerase; Telomere; DNA; Molecular biology; Somatic embryogenesis; Embryos; Developmental biology; Blackburn, Elizabeth H.; Greider, Carol W.; Szostak, Jack W.; Nobel Prize winners; Women Nobel Prize winners; DNA replication; Concept

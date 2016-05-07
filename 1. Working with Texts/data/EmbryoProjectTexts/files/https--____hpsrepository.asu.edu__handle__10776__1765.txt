@@ -1,0 +1,46 @@
+By Adam R. Navis
+Published: 2007-11-09
+Keywords: Mice, Nerve growth factor, Chicks
+ “A diffusible agent of mouse sarcoma, producing hyperplasia of sympathetic ganglia and hyperneurotization of viscera in the chick embryo”“A Diffusible Agent of Mouse Sarcoma, Producing Hyperplasia of Sympathetic Ganglia and Hyperneurotization of Viscera in the Chick Embryo,” by 
+		Rita Levi-Montalcini and 
+		Viktor Hamburger, appeared in 1953 in The Journal of Experimental Zoology.  The paper provided the first evidence that 
+		nerve growth factor is a diffusible substance.  Nerve growth promoting tumors were implanted into developing embryos to determine whether the tumors stimulated growth by direct contact or by a diffusible substance.  The tumors were implanted into different parts of the embryo; one set of experiments implanted the tumor directly in the embryo, while another set of experiments placed the tumor on an exterior membrane.  The membrane provided a barrier to direct contact with the nervous system, and allowed some chemical interaction between the tumor and the embryo.  The tumor stimulated growth in both orientations, demonstrating that nerve growth factor was a chemical agent.  The paper ends with two possible conclusions for the mechanism of nerve growth, the tumor may have been directly stimulating the ganglia by a diffusible signal, or it may have reduced the resistance of the 
+		chick tissues to the nerve growth.  The term, “nerve growth factor” is not explicitly used in this paper, and is referred to as a “diffusible agent” or a “growth promoting agent.”
+
+		Levi-Montalcini and 
+		Hamburger were utilizing sarcomas 180 and 37 to research nerve growth in developing chick embryos.  These sarcomas were shown to be promoters of very specific types of nerve growth in a 1951 paper by 
+		Levi-Montalcini and 
+		Hamburger; sensory nerve fibers were promoted, while motor nerve fibers were not stimulated.  In this 1953 paper they were trying to characterize the nature of the nerve growth promoting signal.  After establishing that specific tumors can cause abnormal growth, they attempted to demonstrate that the nerve growth promoting signal acted at a distance, rather than needing direct contact with the ganglia showing growth.
+To demonstrate the diffusible nature of nerve growth factor, 
+		Levi-Montalcini and 
+		Hamburger performed two specific types of tumor implantation.  They obtained 
+		mouse sarcomas 180 and 37 from 
+		Jackson Memorial Laboratory in Bar Harbor, Maine, and transplanted them into either the embryo directly anterior to the hind-limb, or in a similar location on the allantoic vessicle.  The allantois is a vascular tissue, which is directly connected to the embryo, but serves as a mechanical barrier to nerve fiber growth.  The umbilical cord implantations were found to be invaded by nerve fibers in some instances, so they were not included in the results.  By providing a barrier to nerve growth the authors could demonstrate that increases in nerve growth were not related to a direct connection with nerve fibers. 
+The most important result from this paper was the discovery that 
+		nerve growth factor is a diffusible agent.  The spinal and sympathetic ganglia were discovered to be enlarged even when the tumor was not in direct contact with the nervous system.  Although this discovery was not entirely conclusive, it directly led to further experimentation which demonstrated that the effect was due to direct action by the tumor.  The growth of the ganglia was determined to be related to an increase in both cell number and cell size.  The embryos also showed a large increase in the number of nerve fibers reaching into many tissues.  Many of these fibers had no synaptic connections, but they were not resorbed by the embryo.  This study determined that the nerve growth was not simply an acceleration of 
+		neural development.  It was a stimulation of nerve growth and nerve maintenance.
+This study was the first to provide evidence that 
+		nerve growth factor was a diffusible agent.  The diffusible nature of 
+		nerve growth factor lent itself to in vitro studies 
+		Levi-Montalcini later conducted to examine the effects of the tumors on the ganglia without the influence of other developmental processes.  Although the term 
+		“nerve growth factor” is not used in this paper, this experiment was an integral step in its discovery. 
+
+Sources
+Levi-Montalcini, Rita, Viktor Hamburger.  “A Diffusible Agent of Mouse Sarcoma, Producing Hyperplasia of Sympathetic Ganglia and Hyperneurotization of Viscera in the Chick Embryo.”  J Exp Zool 123 (1953): 233–287.
+
+
+How to cite
+Navis, Adam R., ""A Diffusible Agent of Mouse Sarcoma, Producing Hyperplasia of Sympathetic Ganglia and Hyperneurotization of Viscera in the Chick Embryo" (1953), by Rita Levi-Montalcini and Viktor Hamburger". Embryo Project Encyclopedia (2007-11-09). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/1765.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, March 18, 2015 - 18:09
+ Topic
+Subject
+Nerve Growth Factor;  Experiment

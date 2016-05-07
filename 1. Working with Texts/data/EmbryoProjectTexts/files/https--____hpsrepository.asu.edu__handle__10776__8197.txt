@@ -1,0 +1,247 @@
+By M. Elizabeth Barnes
+Published: 2014-09-15
+Keywords: Arthur Marshall, Julia Platt, neural crest cells, neurocristopathies
+ Neural CrestEarly in the process of development, vertebrate embryos develop a
+fold on the neural plate where the neural and epidermal ectoderms meet,
+called the neural crest. The neural crest produces neural crest cells
+(NCCs), which become multiple different cell types and contribute to
+tissues and organs as an embryo develops. A few of the organs and
+tissues include peripheral and enteric (gastrointestinal) neurons and
+glia, pigment cells, cartilage and bone of the cranium and face, and
+smooth muscle. The diversity of NCCs that the neural crest produces has
+led researchers to propose the neural crest as a fourth germ layer, or
+one of the primary cellular structures in early embryos from which all adult tissues and
+organs arise. Furthermore, evolutionary biologists study the neural crest
+because it is a novel shared evolutionary
+character (synapomorphy) of all vertebrates.
+ Although the neural crest first appears in the embryo during
+gastrulation, the invagination and spreading process by which a
+blastula becomes a gastrula, it becomes distinguishable during the
+neurula stage. The neurula-stage of development occurs when the neural
+plate folds and transforms into the neural tube, the structure that
+will eventually develop into the central nervous system. The neural
+crest arises at two junctions, one on each side of the midline of the
+neural plate, between neural and non-neural ectoderm. As neurulation
+progresses and the neural tube forms, the two junctions meet at the top
+of the neural tube. Then the neural crest separates from the neural
+tube, a process called delamination, and subsequently migrates away
+from the neural tube. Some researchers argue that the interaction
+between the neural and epidermal ectoderm stimulates the genesis of the neural crest. 
+ However, most scientists treat the neural ectoderm as the progenitor of neural
+crest cells, as the neural crest gives rise to neurons and
+ganglia, the latter of which are bundles of neurons that lie on the
+periphery of the nervous system, outside the brain and the spinal cord.
+Furthermore, fate mapping of neural crest cells has also placed them in
+the neural ectoderm. Researchers have studied NCCs because of the
+diversity of cell types that neural crest gives rise to. For instance, NCCs provide a useful model for studying
+stem cells because like stem cells, they have the potential to
+differentiate into a diverse number of cell types.
+This graphic displays how neural crest cells form and migrate in different kinds of vertebrate animals. 
+  Once the neural tube
+is formed, the neural crest cells (NCCs) differentiate into cardiac NCCs
+(CarNCCs), trunk NCCs (tNCCs), cranial NCCs (cNCCs), or vagal and sacral
+NCCs. The differentiation subjects the NCCs to different chemical
+environments, ultimately resulting in their development into different
+cell types and tissues. First, the vagal and sacral NCCs migrate away
+from the neural tube's trunk through loosely packed cells, called
+mesenchyme, that are between the neural tube, epidermis, and somites of
+the mesoderm. These cells become gastrointestinal enteric ganglia and
+the parasympathetic ganglia of the neck. Some tNCCs migrate through one
+sub pathway that travels dorsolaterally into the ectoderm and eventually
+to the midline of the belly, to pigment cells. Other tNCCs migrate
+laterally, eventually becoming a part of the developing brain,
+specifically sensory and sympathetic neurons, Schwann cells, and
+adrenomedullary cells. cNCCs develop into pigment cells, neurons, and
+glia as well, but these are the only NCCs that contribute to the
+cartilage and bone of the face and skull. cNCCs are responsible for the
+development of the cartilage and connective tissue in the face as well
+as the thyroid glands. CarNCCs, on the posterior region of the neural
+crest, migrate dorsolaterally and form the septum of the pulmonary
+artery and the aorta, as well as the endothelium in the aortic arch
+arteries. 
+ Researchers studied the neural crest in the middle of the
+nineteenth century. In 1868, Wilhelm His, an embryologist in Basel,
+Switzerland, studying chick, or Gallus gallus embryos, identified a layer
+of cells above the neural tube as the progenitors of spinal and cranial
+ganglia. He called it the Zwischenstrang (intermediate cord). In 1874,
+His named it an organ-forming germinal region. However, what he
+identified was not the neural crest, but a subset of NCCs that had
+migrated from the neural crest to a position above the neural tube.
+Historians trace the first use of the term neural crest to a paper
+published in 1879 by Arthur Marshall, a professor at Owens
+College in Manchester, England. In 1878, while also studying chick
+embryos, he used the term neural ridge to describe the same cells that
+His had discovered above the neural tube, but he later revised his
+definition. Marshall coined the term neural crest to describe the two
+junctions between the neural and epidermal ectoderm that arise before
+the neural tube is complete.  He proclaimed that henceforth the term
+neural ridge should only be used to identify the band of cells that
+arise from the neural crest, which migrate above the neural tube once
+neurulation is complete. 
+ In 1893, Julia Platt identified NCCs from
+ectoderm as the progenitors of cartilage in the face and in the
+pharyngeal arch skeletons of the teeth of mudpuppies (Necturus
+maculosus). She researched at several institutions in the late
+nineteenth century, including the Marine Biological Laboratory, in Woods
+Hole, Massachusetts, and the University of Freiburg in Freiburg, Germany.
+Many researchers rejected Platt's interpretation; partly because Germ
+Layer Theory, then an entrenched theory, claimed that each of the three
+germ layers developed into the same kinds of structures across many
+kinds of organisms. Researchers claimed that Platt's theory of neural
+crest, and thus, ectoderm-derived, pharyngeal arch skeletons, was
+impossible because skeletal tissues originated solely from the mesoderm.
+Forty years later, in the 1920s and 1930s, researchers confirmed
+Platt's conclusion. In the 1950s, researchers began to further study
+skeletal tissues that developed from the neural crest.
+  In 1950, Sven
+Hörstadius published The Neural Crest: Its Properties and Derivatives in
+the Light of Experimental Research. In this monograph, which Hörstadius
+based on lectures given at the University of London in London, England,
+he reviewed experiments on the neural crest. His review
+combined data from over two hundred and fifty papers. Hörstadius' work
+referred to experiments that verified Platt's conclusions, and it entrenched the neural
+crest as an area of biological investigation. 
+ In the 1960s, neural crest researchers examined how the trunk and cranial NCCs migrate and give rise
+to other tissues. In 1963 James Weston at Yale University in New Haven,
+Connecticut, published "A Radioautographic Analysis of the Migration and
+Localization of Trunk Neural Crest Cells in the Chick." In that article,
+Weston argued that integumental melanoblasts migrated from the neural
+crest to the ectoderm. In 1966, Malcolm Johnston, at the University of
+Rochester in Rochester, New York, published a similar study on cNCCs
+titled "A Radioautographic Study of the Migration and Fate of Cranial
+Neural Crest Cells in the Chick Embryo," in which he traced the end
+point of more NCCs, finding for example that some turned into connective tissues in
+the face. During the 1960s, researchers began to use avian
+embryos instead of the previously used amphibian embryos.
+  Researchers
+in the 1970s composed maps that chronicled the NCCs's movements.
+Researchers discovered that the different chemical environments in which
+NCCs originated caused them to differentiate into
+different kinds of cells and travel throughout the embryos. They also
+identified abnormalities in organisms that arise from defects in the
+development of the neural crest, called neurocristopathies.
+  In the
+1980s, researchers discovered Hox genes, genes that help cause embryos
+to develop according to major body axes. These genes guide the migratory
+patterns of cells. Discovery of the Hox genes allowed researchers to
+trace the molecular cause of different migration patterns of NCCs,
+leading to further subdivisions in the classification of NCCs. These
+classifications include the vagal and sacral NCCs that contribute to the
+enteric ganglia and neurons of the parasympathetic nervous system. Researchers also discovered that cardiac NCCs contributed to
+tissues in the developing heart.
+  Throughout the 1980s and 1990s, researchers compared
+the development of the neural crest across taxa to test hypotheses about
+evolutionary ancestry. For example, biologists began to argue that
+vertebrates developed their distinctive hearts and heads only after
+their ancestors had evolved to have neural crests. This resulted in many
+publications, one of which is Carl Gans and Glen Northcutt's "Neural
+Crest and the Origin of Vertebrates: a New Head," published in 1983
+while the two worked at the University of Michigan in Ann Arbor, Michigan. In
+this paper, Gans and Northcutt argue that vertebrates became vertebrates
+after a shift from passive to active modes of predation, concentrating
+many vertebrate features in the head. 
+ Researchers began arguing that the
+neural crest is a germ layer at the turn of the twenty-first century.
+Previously, researchers recognized three germ layers: the ectoderm,
+mesoderm, and endoderm. In 1999 Brian Hall, at Dalhousie University
+in Nova Scotia, Canada, published The Neural Crest And Neural Crest
+Cells In Vertebrate Development And Evolution, in which he argued that
+the neural crest meets the requirements to be a germ layer. First, he
+claims that germ layers are defined as primary tissues from which an
+embryo develops. Hall notes that there are two types of germ layers,
+primary and secondary. The primary germ layers, the ectoderm and
+endoderm appear first in the developing vertebrate embryo, before
+fertilization. Some animals, which scientists call diploblastic, have
+only these two germ layers. This group includes organisms such as
+jellyfish and sponges. Tripoblastic animals, however, have a third germ
+layer, called mesoderm, which evolved in animals whose ancestors were
+diploblasts. These animals, called triploblasts, also belong to a group
+called bilateria, which includes flat worms and humans, all of which have a primary axis of symmetry down the center of the body from head to tail.
+  Researchers
+consider the mesoderm a secondary germ layer because it arises from the
+interactions of the first two germ layers. Hall argues that like
+mesoderm, neural crest is a secondary germ layer. He says that similar
+to the mesoderm, the neural crest arises early in development from
+interactions in a primary germ layer, the ectoderm. Also, it contributes
+to a large number of tissues and organs. Furthermore, the neural crest
+is a vertebrate synapomorphy, like mesoderm is a bilaterian
+synapomorphy. Hall claims that the neural crest appears after the
+evolution of the tripoblasts. Therefore, he argues that the animals that
+came subsequently, the vertebrates, should be called tetrablastic,
+meaning four layers. Hall argues that because the neural crest appears
+early in development, because it is ectodermal in origin, and because it
+is a vertebrate synapomorphy, it should be considered a secondary germ
+layer. 
+ In the first decades of the twentieth century, researchers traced
+facial, pigment, heart, vision, and hearing abnormalities, including
+cleft palate and albinism, to an abnormal development of the neural
+crest and NCCs. Researchers also debated the properties of the
+mechanisms by which NCCs migrate. Furthermore, cancer researchers
+studied the neural crest due to the similarity between NCCs and cancer
+cells. The mechanisms by which NCCs migrate during development, the
+specific signaling pathways, and transcription factors used by NCCs are
+the same as cancer cells, making NCCs a model for studying how cancer
+cells proliferate.
+ Sources
+Gans, Carl and Glen R. Northcutt. "Neural Crest and the Origin
+of Vertebrates: a New Head." Science 220 (1983): 268–74.
+Gilbert, Scott. "The Neural Crest." In Developmental Biology. 6th
+edition. Sunderland, MA: Sinauer Associates, 2000.
+http://www.ncbi.nlm.nih.gov/books/NBK10065/ (Accessed May 2, 2014).
+Hall, Brian K. The Neural Crest in Development and Evolution. New York:
+Springer, 1999.
+Hall, Brain K. "The Neural Crest as a Fourth Germ Layer and Vertebrates
+as Quadroblastic Not Triploblastic." Evolution and Development 2 (2000):
+3–5.
+Hall, Brian K. "The Neural Crest and Neural Crest Cells: Discovery and
+Significance for Theories of Embryonic Organization." Journal of
+Biosciences 33 (2008): 781–93.
+http://www.ias.ac.in/jbiosci/dec2008/781.pdf (Accessed May 2, 2014).
+Hall, Brian K. The Neural Crest and Neural Crest Cells in Vertebrate
+Development and Evolution. New York: Springer, 2009.
+His, Wilhelm. Unsere Körperform und das physiologische Problem ihrer
+Entstehung: Briefe an einen befreundeten Naturforscher. [Our Body Shape
+and the Physiological Problem of its Origin: Letters to a Fellow
+Naturalist]. Leipzig: FCW Vogel, 1874. http://dx.doi.org/10.5962/bhl.title.3975
+(Accessed May 2, 2014).
+Hörstadius, Sven. The Neural Crest: its Properties and Derivatives in
+the Light of Experimental Research. Oxford: Oxford University Press,
+1950.
+Johnston, Malcolm. "A Radioautographic Study of the Migration and Fate
+of Cranial Neural Crest Cells in the Chick Embryo." The Anatomical
+Record 156 (1966): 143–56.
+Marine Biological Laboratory. "Julia
+Barlow Platt (1857-1935)." The Marine Biological Laboratory.
+http://hermes.mbl.edu/publications/women_platt.html (Accessed May 2,
+2014).
+Marshall, Arthur. "Morphology of Vertebrate Olfactory Organ" Quarterly
+Journal of Microscopic Science (1879): 300–40.
+http://biodiversitylibrary.org/page/14704511 (Accessed May 2, 2014).
+Mayor, Robert and Eric Theveneau. "The Neural Crest." Development 140
+(2013): 2247–51. http://dev.biologists.org/content/140/11/2247.full (Accessed September 12, 2014).
+Platt, Julia B. Ectodermic Origin of the Cartilages of the Head.
+Massachusetts: Medford, 1894.
+Purves, Dale, George Augustine, David Fitzpatrick, William Hall,
+Anthony-Samuel Lamantia, Leonard E. White. "Early Brain Development." In Neuroscience. Sunderland, MA: Sinaur, 2012, 477–82.
+Weston, James. "A Radioautographic Analysis of the Migration and
+Localization of Trunk Neural Crest Cells in the Chick." Developmental
+Biology 6 (1963): 279–310.
+Zottoli, Steven and Ernst-August Seyfarth. "Julia B. Platt (1857–1935):
+Pioneer Comparative Embryologist and Neuroscientist." Brain, Behavior,
+and Evolution 43 (1994): 92–106.  
+
+How to cite
+Barnes, M. Elizabeth, "Neural Crest". Embryo Project Encyclopedia (2014-09-15). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/8197.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+Copyright Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 24, 2014 - 19:20
+ Topic
+Subject
+Germ Layers; Neural Crest; Vertebrates; Development; His, Wilhelm, 1831-1904; Horstadius, Sven, 1898-1996; Hall, Brian K. (Brian Keith), 1941-; Concept

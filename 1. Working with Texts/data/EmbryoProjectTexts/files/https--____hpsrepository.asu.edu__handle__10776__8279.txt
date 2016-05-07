@@ -1,0 +1,48 @@
+By Federica Turriziani Colonna
+Published: 2014-12-30
+Keywords: Vivarium
+ Paul Kammerer's Experiments on the Midwife Toad (1905-1910)In the first decade of the twentieth century, Paul Kammerer, a zoologist working at the Vivarium in Vienna, Austria, conducted research on developmental mechanisms, including a series of breeding experiments on toads (Alytes obstetricans). Kammerer claimed that his results demonstrated that organisms could transmit acquired characteristics to their offspring.  To explain how evolution occurred, biologist Jean-Baptiste Lamarck in France suggested in his 1809 book that offspring inherited the features their ancestors acquired throughout the lives of those ancestors, a process termed the inheritance of acquired characteristics. Kammerer conducted breeding experiments to test the theory of inheritance of acquired characteristics, which he said described the mechanics of evolution. Additionally, Kammerer's experiments aimed at explaining how development shaped evolutionary processes.
+In the early 1900s, Kammerer conducted experiments on the midwife toad (Alytes ostetricans) at the Institute of Experimental Biology, located at the Vivarium in Vienna Austria. The Vivarium had heating and cooling systems to control the laboratories' temperatures.  With the use of these tools, researchers could experiment on organisms that required particular environmental conditions, and they could manipulate those environmental conditions. Kammerer utilized the laboratory cooling system to induce specific adaptations in amphibians' reproductive habits for his work with midwife toads.
+Midwife toads live in Europe and they stay in dry environments during adult life. After mating, the female lays eighteen to thirty-eight eggs on land, which are filled with yolk. The male midwife toad then grasps the eggs, which are encased in a sticky sac, with his hind legs. The eggs remain with the male, and they develop over twenty to forty five days as the male lives on land. The eggs hatch when the male exposes the eggs to water, in which the egg sac swells and bursts. Once the eggs hatch, the offspring live in the water as tadpoles.  They initially have only front legs and eventually develop hind legs. After they complete their development, the young move out from the water and live on land.
+Kammerer conducted two series of experiments on midwife toads. In the first series of experiments, Kammerer bred midwife toads and then varied the environment in which the eggs developed. He hypothesized that doing so would cause offspring to inherit traits acquired from their parents' environment.  He varied the environment by limiting access to water and by heating the eggs to speed the development of the young.  Compared to normal toads, the toads produced fewer eggs and the eggs increased dramatically in size, contained more yolk than in their natural environment, and the eggs bore tadpoles with fully developed hind legs. Lacking the interaction with water for the egg sac to swell and burst, the fully developed tadpoles pushed through the egg sac.  Kammerer then bred the new generations in their typical environment, and observed that after several generations, the offspring hatched from their eggs with four limba. Although the number of viable offspring were fewer than when the toads exposed eggs to water, the offspring appeared to skip the tadpole stage of development.  Kammerer argued that he had induced in the toads the characteristic of bearing fully developed individuals.
+The second series of experiments focused on the development of nuptial pads, which are black swellings between the forearm and the thumb of male toads. Nuptial pads help male toads grasp the female toads when they mate in water. Many frogs and toads have nuptial pads, but male midwife toads generally do not. By increasing the temperature in the laboratory to between sixty-seven and eighty-six degrees Fahrenheit, Kammerer induced the toads to move to the water and mate there, as it was cooler. Female midwife toads deposited their eggs directly in the water, as opposed to on land.
+After several generations, the male toads could no longer grasp and carry the eggs, as they were slippery.  With each generation, the eggs were smaller and smaller and contained less and less yolk, as the tadpoles developed in the water, and didn't need much yolk to grow. Kammerer also reported that male individuals from the new generations appeared to develop rough nuptial pads to better seize females when mating.  Kammerer argued that the acquired features apparent in new generations, and in particular the nuptial pads, were ancestral features, or features that were apparent in a common ancestor of all toads, before midwife toads evolved not to have them. 
+From those two series of experiments, Kammerer concluded that organisms could transmit acquired characteristics to their offspring. Kammerer first published the results of his experiments on the midwife toad in 1906. The results of his experiments contributed to debates among scientists about inheritance in organisms. In 1910, William Bateson, a biologist in England, visited the Vivarium to analyze Kammerer's specimens. After being denied access by staff at the Vivarium, Bateson wrote a letter to Kammerer, asking for the midwife toad specimens, which Kammerer did not send. Many years later, Bateson and others observed some of the remaining images and specimens from Kammerer's experiments. In 1919 and 1923, Bateson published letters in the journal Nature criticizing the authenticity of Kammerer's specimens and the validity of the results from his experiments.
+The controversy intensified in 1926, when Gladwyn K. Noble, who was the head curator of the American Museum of Natural History in New York, New York, published a letter in Nature, arguing that Kammerer's midwife toad specimens were fakes. Noble had analyzed the specimens and found that the nuptial pads contained artificial black ink. No one could identify who had injected the specimens with ink. Historians of science have speculated that Kammerer or one of his collaborators could have done it to ensure that the nuptial pads kept the shape and blackish color they first acquired after the experiments. A few months after Noble accused Kammerer of scientific fraud, Kammerer's corpse was found on the edge of a mountain close to Vienna. Reports indicate that Kammerer committed suicide as he was found with a gun in his hand.
+Through the experiments conducted on the midwife toad at the Vivarium, Kammerer claimed that organisms could transmit acquired characteristics to their offspring. Additionally, Kammerer theorized about evolutionary processes from his research on development, such as the possible origin of the midwife toad based on the way it inherited ancestral features. According to Kammerer, the inheritance of the acquired characteristics provided the mechanics of evolution.
+
+
+Sources
+Bateson, William. "Dr. Kammerer's Testimony to the Inheritance of Acquired Characteristics." Nature 103 (1919): 344–5. 
+
+Bateson, William. Problems in Genetics. New Haven: Yale University Press, 1913. http://www.archive.org/details/problemsgenetic00bategoog (Accessed November 16, 2014).
+
+Darwin, Charles. On the Origin of Species by Means of Natural Selection. London: John Murray, 1859. http://dx.doi.org/10.5962/bhl.title.68064  (Accessed November 18, 2014).
+
+Kammerer, Paul. "Experimentelle Veränderung der Fortpflanzungstätigkeit bei Geburtshelferkröte (Alytes obstetricans) und Laubfrosch (Hyla arborea)" [Experimental Changes of Reproductive Activity in the Midwife Toad (Alytes obstetricans) and Frog (Hyla arborea)]. Archiv für Entwicklungsmechanik der Organismen [Archive for Developmental Mechanics of Organisms] 22 (1906): 48–140. https://archive.org/stream/archivfrentwick00unkngoog#page/n64/mode/2up  (Accessed November 18, 2014).
+
+Kammerer, Paul. On the Inheritance of Acquired Characteristics. New York: Boni and Liveright, 1924.http://books.google.com/books?id=RPeuL6SJLdsC&dq=Inheritance%20of%20acquired%20characteristics&pg=PP1#v=onepage&q&f=false  (Accessed November 15, 2014). 
+
+Koestler, Arthur. The Case of the Midwife Toad. New York: Random House Inc., 1972.
+
+Lamarck, Jean Baptiste. Philosophie Zoologique. [Zoological Philosophy]. Paris: Duminil-Lesueur, 1809. http://www.archive.org/details/Lamarck2001aj56E (Accessed November 16, 2014). 
+
+Noble, Gledwyn. "Kammerer's Alytes." Nature 118 (1926): 518.
+
+
+
+How to cite
+Turriziani Colonna, Federica, "Paul Kammerer's Experiments on the Midwife Toad (1905-1910)". Embryo Project Encyclopedia (2014-12-30). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/8279.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+Copyright Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, December 31, 2014 - 01:20
+ Topic
+Subject
+ Kammerer, Paul, 1880-1926; Midwife toads; Kammerer, Paul, 1880-1926. Inheritance of acquired characteristics; Inheritance of acquired characters; adaptation; Laboratory animals--Breeding--Experiments; Lamarck, Jean Baptiste Pierre Antoine de Monet de, 1744-1829. Philosophie zoologique. English; Variation (Biology); Evolution (Biology); Heredity; Experiment

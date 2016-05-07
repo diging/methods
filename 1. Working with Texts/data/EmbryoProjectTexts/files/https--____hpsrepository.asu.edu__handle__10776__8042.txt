@@ -1,0 +1,82 @@
+By Zane Bartlett
+Published: 2014-07-20
+Keywords: Hayflick Limit
+ Leonard Hayflick (1928- )During the twentieth and twenty-first centuries in the United States, Leonard Hayflick studied the processes by which cells age. In 1961 at the Wistar Institute in the US, Hayflick researched a phenomenon later called the Hayflick Limit, or the claim that normal human cells can only divide forty to sixty times before they cannot divide any further. Researchers later found that the cause of the Hayflick Limit is the shortening of telomeres, or portions of DNA at the ends of chromosomes that slowly degrade as cells replicate. Hayflick used his research on normal embryonic cells to develop a vaccine for polio, and from Hayflick’s published directions, scientists developed vaccines for rubella, rabies, adenovirus, measles, chickenpox and shingles. 
+Hayflick was born on 20 May 1928 in Philadelphia, Pennsylvania, to Edna Hayflick and Nathan Hayflick. His father designed prosthetics for dental patients. When Hayflick was nine, one of his uncles bought him a chemistry set. Hayflick’s parents allowed him to build a laboratory in the basement of their home, where he performed biology and chemistry experiments. Hayflick attended John Bartram High School in Philadelphia. During some of his first chemistry lectures, Hayflick corrected his teacher, who then allowed him to help in the chemical stockroom, where Hayflick acquired more chemicals for his studies. 
+Hayflick enrolled in the University of Pennsylvania in Philadelphia in January 1946 but postponed his studies for military service. After he served in the military for eighteen months from 1946 to 1948, Hayflick received a four-year scholarship through the GI Bill, a US federal government initiative to help veterans return to civilian life after World War II. Hayflick studied microbiology at the University of Pennsylvania and graduated in 1951. After graduating, Hayflick took a job as a research assistant in bacteriology in 1951 with Merck, Sharp, and Dohme laboratories in North Wales, Pennsylvania. According to Hayflick, he felt that graduate school would have been too difficult for him until he met a friend who studied bacteria species in the genus Mycoplasma, which are bacteria often involved in pneumonia and other diseases. Those studies convinced him to return to the University of Pennsylvania to receive a Master’s degree for his study of Mycoplasma. While at the University of Pennsylvania, Hayflick also met Ruth Heckler, whom he married and with whom he had five children.
+As a Master’s student, Hayflick’s mentor Warren Stinebring sent him to the Wistar Institute to research an infection in a rat colony. Hayflick showed that the infection was due to Mycoplasmas. Hayflick received a Master’s degree in medical microbiology in 1953. He won a fellowship to a PhD program, in which he continued his research. Hayflick received a PhD in medical microbiology and chemistry in 1956 from the University of Pennsylvania.
+In 1956, Hayflick moved to the department of microbiology at the University of Texas in Galveston, Texas. He worked with cell culturist Charles Pomerat. With Pomerat, Hayflick learned techniques to produce cell cultures, or populations of cells living in controlled conditions. When the fellowship at the University of Texas expired, Hayflick applied for work elsewhere. In 1958, the new director of the Wistar Institute, Hilary Koprowski, offered Hayflick a job to culture cells for the other scientists at the institute. Hayflick accepted the position and moved back to Philadelphia to work at the Wistar Institute.
+Since the early 1900s, a predominant theory of cells in culture assumed that cells could multiply and grow forever. This assumption relied on the early twentieth century studies of Alexis Carrel, a physician in France, whose work with chick hearts had convinced many that all cells were immortal. If cells failed to grow in the lab, researchers attributed the failure to unknown nutritional conditions, to technicians incorrectly handling the cells, or to contaminations in the glassware.
+At the Wistar Institute in 1958, Hayflick began to study whether or not viruses could cause cancers in humans. Hayflick cultured human cancer cells. He aimed to extract from them viruses, hypothesized to cause cancer, that he could isolate by introducing them into normal cells in culture. For this study, he needed to grow normal human cells not containing any viruses in a lab. Hayflick used fetal human lung cells because, compared to adult cells, they had a lower chance of containing viruses, and lung tissue allowed for the formation of fibroblasts, or structural cells in the body.  
+While he cultured twenty-five strains of fetal cells, Hayflick noticed that some of the cultures stopped dividing after about 50 cell population doublings. The cells were not dead, as they continued metabolizing, but the cells did not divide. Hayflick published an article in 1961 detailing the results of these cell cultures titled "The serial cultivation of human diploid cell strains."
+In 1965, Hayflick published "The limited in vitro lifetime of human diploid cell strains." In this article, Hayflick notes that adult cells divide fewer times than do fetal cells, and that the cause of this limited cell division isn't caused by a virus, bacteria, or accounted for by error. Hayflick hypothesized in his article that cellular aging could result from one or many targets or substances of cellular damage and that the cells could hold intrinsic factors that determine aging.
+At the time of the 1965 experiment, Hayflick had established a cell culture, the WI-38 strain, with fetal cells that Hayflick had acquired from Sweden. Hayflick shipped these WI-38 cultures to many other scientists, including Stanley Plotkin at the Wistar Institute, where the cells were later used for rubella vaccines. WI-38 cells began to be in high demand during the 1960s. 
+Despite Hayflick’s recognition for the WI-38 cultures, he remained in the same associate position at the Wistar Institute, which was partially funded by the US National Institutes of Health (NIH) headquartered in Bethesda, Maryland. Koprowski had also created a guaranteed deal with SmithKline Beckman in the US and the Burroughs Wellcome Company in the UK to purchase WI-38 cultures, as well as the cell-culture technology that Hayflick created to produce a polio vaccine with the live, attenuated virus. Hayflick later said that he was unhappy with Koprowski’s decision to sell the cells for profit.
+In 1968, Hayflick accepted a position as a professor of medical microbiology at Stanford University in Stanford, California. In Janurary of 1968, Hayflick met with Kaprowski and representatives of the NIH and American Type Culture Collection (ATCC), based in Rockville, Maryland, to discuss what would occur with the remaining containers of WI-38 cells, as Hayflick would soon be changing jobs. Those present at the meeting agreed to allow Hayflick ten containers of the WI-38 cells, with ten of the remaining WI-38 cultures placed at the Wistar Institute and the rest in the care of the ATCC as property of the NIH. However, the NIH claimed that it owned the cells and that only it could distribute and sell the cells through the ATCC. Hayflick claimed to have title to own the cells, and that the estate of the fetus also had an interest in the cells.
+Hayflick reported that he felt a sense of injustice, and he went to the Wistar Institute and took all of the WI-38 samples before leaving for California. He sent these cultures to scientists for the same price that the ATCC would have charged researchers for shipping the cells, and he saved that money into a special account until a further decision on ownership of the cells could be determined. In the spring of 1975, Hayflick brought the issue of ownership to the NIH in hopes of settling who owned the cells. Later that year, NIH accountants and some US Department of Health, Education, and Welfare (DHEW) employees investigated Hayflick. Under the 1966 US Freedom of Information Act, the NIH gave the accountant’s report to journalists who published it in March of 1976. The report claimed that Hayflick had stolen and sold property of the United States Government, and that he had mishandled the cells. 
+Hayflick sued the NIH in 1975 to prevent the release of the report and to gain the title to the WI-38 cells, arguing that the report violated the 1974 US Privacy Act. A California court denied a motion for preliminary injunction of the reports, and Hayflick followed with an appeal in 1978, after the reports were released. The US Ninth District Court of Appeals affirmed the previous decision, and they dismissed the appeal. With tension growing from the release of the reports, Hayflick left his job at Stanford in what he called a protest to the behavior of the university leadership, and the NIH confiscated his WI-38 cell cultures while Hayflick attended a conference. The issue as to who had title to the WI-38 cells remained unresolved.
+In late 1976, Hayflick accepted a position as a senior researcher at Children’s Hospital Medical Center in Oakland, California. In 1977, the NIH accepted Hayflick’s application for a grant for some money as well as for WI-38 cells. Hayflick did not receive that grant or any WI-38 cells until January of 1981. Hayflick continued to ask for the title of the WI-38 cells, and an out-of court settlement was offered by the US Justice Department, the US Food and Drug Administration (FDA), NIH, and the DHEW in the summer of 1981. After some modifications, Hayflick settled with the FDA, the NIH, and the DHEW, and he received title to six of the original containers of WI-38 cells. He also received the ability to use the money, plus interest, from an escrow account. He had opened the account at the start of the suit and had deposited in it the money he’d received from distributing the WI-38 cells while at Stanford. Hayflick later said that all of that money paid litigation fees. After the settlement, eighty-five scientists filed a letter in favor of Hayflick in the journal, Science. Hayflick and others claimed that it was through his efforts in asking for the title to the WI-38 cells that helped US policy to evolve, and to allow research institutions and scientists to receive title to new life forms, even when the research is federally funded. 
+In his 1974 work, Intrinsic Mutagenesis: a Genetic Approach to Ageing, the Nobel Prize Laureate Frank MacFarlane Burnet called Hayflick’s account of cellular aging The Hayflick Limit. In 1981, Hayflick became director of the Center for Gerontological Studies in Gainesville, Florida, as well as professor at the University of Florida in Gainesville. In 1982, Hayflick became president of the Gerontological Society of America in Washington D.C. 
+In 1988, Hayflick became a professor at the University of California in San Francisco, California. In 1994, he published a book titled How and Why We Age. Hayflick received greater than twenty-five awards, authored greater than two-hundred and fifty scientific works, and has participated in various editing, government, and medical boards and councils. As of 2014, Hayflick serves on various scientific committees and is writing an autobiography while living in California.
+
+
+Sources
+Boffey, Philip M. “The Fall and Rise of Leonard Hayflick, Biologist Whose Fight With U.S.
+Seems Over.” New York Times, January 19, 1982.
+http://www.nytimes.com/1982/01/19/science/the-falland-rise-of-leonard-hayflick-biologist-whose-fight-with-us.html (Accessed June 2, 2014).
+Burnet, Macfarlane. Intrinsic Mutagenesis. Houten: Springer, 1974.
+Carrel, Alexis. “On the permanent life of tissues outside of the organism.” The Journal of
+Experimental Medicine 15 (1912): 516–28. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2124948/pdf/516.pdf (Accessed June 2, 2014).
+Daar, Abdallah, and Heather L. Greenwood. “A proposed definition of regenerative medicine.”
+Journal of Tissue Engineering and Regenerative Medicine 1 (2007): 179–84.
+Cell Associates Inc v. National Institute of Health Department of Health. 579 F.2d 1155 (App. 
+Div. 1978). https://law.resource.org/pub/us/case/reporter/F2/579/579.F2d.1155.76-1978.html (Accessed June 11, 2014).
+Hayflick, Leonard, and Paul S. Moorhead. “The serial cultivation of human diploid cell strains.” 
+Experimental Cell Research 25 (1961): 585–621.
+Hayflick, Leonard. “The limited in vitro lifetime of human diploid cell strains.” Experimental 
+Cell Research 37 (1965): 614–36.
+Hayflick, Leonard. “Hayflick’s Reply (To Wade).” Science 202 (1978): 128–135. 
+Hayflick, Leonard. How and Why We Age. New York: Ballantine Books. 1994.
+Hayflick, Leonard. “A Novel Technique for Transforming the Theft of Mortal Human Cells into
+Praiseworthy Federal Policy.” Experimental Gerontology 33: 191–207. 
+Hayflick, Leonard. "The future of ageing." Nature 408 (2000): 267–269.
+Hayflick, Leonard. Web of Stories. July, 2011.
+http://www.webofstories.com/play/leonard.hayflick/1 (Accessed September 7, 2013). 
+Hayflick, Leonard. Email Communications with Embryo Project Encyclopedia Editors. June– 
+July, 2014. 
+Jiang, Lijing. “Degeneration in Miniature History of Cell Death and Aging Research in the 
+Twentieth Century” PhD diss., Arizona State University, 2013. http://hdl.handle.net/2286/R.A.114558  (Accessed June 18, 2014).
+“Life’s Limit.” Radiolab. June 14, 2007. http://www.radiolab.org/story/91563-lifes-limit/
+ (Accessed July 14, 2014). 
+Shay, Jerry W., and Woodring E. Wright. “Hayflick, his limit, and cellular ageing.” Nature
+Reviews Molecular Biology 1 (2000): 72–76. 
+Stevenson, Robert. “Dr. Leonard Hayflick’s Oral History.”  
+http://history.nih.gov/archives/downloads/hayflicktranscript.pdf (Accessed June 11, 2014).
+Strehler, Bernard L., et al. “Hayflick-NIH settlement.” Science 215 (1982): 240–242.
+U.S. Freedom of Information Act of 1966. Public Law 89-487.
+http://www.gpo.gov/fdsys/pkg/STATUTE-80/pdf/STATUTE-80-Pg250.pdf (Accessed
+July 14, 2014). 
+U.S. Privacy Act of 1974, 5 U.S.C. Section 522a (1974). 
+http://www.gpo.gov/fdsys/pkg/STATUTE-88/pdf/STATUTE-88-Pg1896.pdf    (Accessed July 14, 2014). 
+Wade, Nicholas. “Hayflick’s Tragedy: The Rise and Fall of a Human Cell Line.” Science 192 
+(1976): 125–127.
+Wadman, Meredith. “Medical Research: Cell division.” Nature 498 (2013): 422–6.
+Watts, Geoff. “Profile: Leonard Hayflick and the Limits of Ageing.” Lancet 377 (2011): 2075. 
+
+
+
+How to cite
+Bartlett, Zane, "Leonard Hayflick (1928- )". Embryo Project Encyclopedia (2014-07-20). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/8042.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+Copyright Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Sunday, July 20, 2014 - 21:23
+ Topic
+Subject
+Fetal Tissue; Hayflick, Leonard; Cells; Cell populations; Cell death; Apoptosis; Cell proliferation; Cell cycle; Cell division; Cell culture; Human cell culture; Carrel, Alexis, 1873-1944; Biotechnology; Aging; Wistar Institute of Anatomy and Biology; People

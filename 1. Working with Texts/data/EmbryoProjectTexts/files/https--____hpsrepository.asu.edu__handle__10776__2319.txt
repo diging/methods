@@ -1,0 +1,55 @@
+By Guido Caniglia
+Published: 2012-01-01
+Keywords: Turtles, Evolution
+ The Carapacial Ridge of TurtlesTwo main elements characterize the skeletal morphology of turtles: the 
+		carapace, the upper shell, and the 
+		plastron, the lower shell. The upper shell distinguishes 
+		turtles and tortoises, the two genera belonging to the order Chelonia, from all other vertebrates. For a turtle, the 
+		carapacial ridge (CR) begins in the embryo as a bulge posterior to the limbs but on both sides of the body. Such outgrowths are the first indication of shell development in turtle embryos. While the exact mechanisms underpinning the formation of the CR are still not entirely known, some biologists argue that understanding these embryonic mechanisms is pivotal to explaining both the development of turtles and their evolutionary history.
+The upper shell is composed both by the external shield visible from the outside and by the ribs and vertebrae ensnared underneath it. There is no other known vertebrate that possesses such a composite structure. The positioning of the ribs within the shell begins with the migration of the ribs into the CR. Several studies investigated the mechanisms responsible for the formation of the CR, and for the consequent migration of the ribs in the dermal armor.
+In turtle embryos, the CR appears at stage 14 of the embryonic stages of turtle development. The CR forms on both sides of the embryo dorsal to the limbs and looks like an outgrowth of the body surface. At this first stage of development, the CR isn’t yet a continuous margin across the neck to the base of the tail. In subsequent stages, it grows both anteriorly and posteriorly and becomes continuous over the base of the tail and the cervical region. When the formation of the embryo is complete, after stage 16 the CR forms a continuous margin delimiting the upper shell.
+Two main layers of cells comprise the CR. The first one is a condensation of the 
+	mesenchyme composed of loosely packed, unspecialized cells derived from the 
+	mesoderm. The mesoderm is the midlle of the three primary germ cells layers in embryos. The second layer of the CR is composed of epithelia organized in sheets and tubes of connected cells. The CR forms through a series of reciprocal interactions between the two layers. Such interactions are called epithelial-mesenchymal interactions. The interactions represent a developmental process, which also determine the formation of many structures in the development of vertebrate morphology, such as limbs.
+Turtle biologist 
+	Ann C. Burke has described the mechanisms that cause the relocation of the ribs into the dermal armor. Burke argues that the relocation is due to inductive interactions between mesenchyme and epithelia layers that happen in the CR. Burke's experiments have shown that the epithelial-mesenchymal interaction directs the ribs into the dermal shield.
+Other biologists also investigated the CR to understand the evolutionary origination of turtle morphology. In particular, biologists have comparatively studied the developmental mechanisms that triggered the transition from pre-turtle to turtle morphology. Most studies concerning the evolutionary origination of the turtle shell compare gene expression patterns in the CR to similar patterns in the limb buds of 
+	chicks, or 
+	mice, organisms that possess the best studied developmental systems among vertebrates. The limb bud represents the developmental processes that originated in evolution before the CR. The exact genetic mechanisms causing the relocation of the ribs, however, remains unclear.
+Scott Gilbert and colleagues in their 2001 article 
+	"Morphogenesis of  the Turtle Shell. The Development of a Novel Structure in Tetrapod Evolution"  explain embryological and histological investigations on the origination of the turtle shell. The article is one of the first reviews about the developmental mechanisms underlying the evolutionary origination of the turtle shell. The authors hypothesized that the developmental mechanisms underpinning the formation of the carapace were co-opted from preexisting developmental pathways. According to this hypothesis, the CR is a composite structure constituted by old structures organized in a new pattern. Further investigations on the genetic mechanisms underlying the formation of the CR have confirmed Gilbert's hypothesis.
+In other turtle work, 
+	Shigehiro Karoku and colleagues from the 
+	RIKEN Center for Developmental Biology in Japan investigated genes expressed in the CR. Their study is the first exhaustive survey about the genetic architecture of turtles and provides insight into the inductive role of the CR at a molecular level. The scientists also compared the expression patterns of CR formation genes to the patterns of genes expressed in similar structures in chick and mouse embryos. They concluded that the formation of the turtle shell does not involve the creation of novel genes. Rather, it is due to the co-option of pre-existing genes. Specifically, the CR is the product of the partial co-option of limb-bud related genes.
+Another study supporting the hypothesis of the co-option of old developmental pathways to new functions is described in "Development of the Carapacial Ridge. Implications for the Evolution of Genetic Networks in Turtle Shell Development" by 
+	Jacqueline Moustakas in 2008. In this paper, Moustakas focuses on 
+	gene regulatory networks in the CR and compares genes expression patterns in the CR, limbs, and vertebral column. The key genes that regulate vertebrate limb development are expressed in the CR. However, the regulatory networks underpinning the formation of limbs play a different role in the CR. The origination of the upper shell is not due to the creation of new genes, but rather to changes in the regulatory pathways of the same genes. In accordance with Gilbert's hypotheses and Karuku's results, Moustakas concludes that entire gene networks in the CR have been co-opted from previous structures common in vertebrates.
+Studies about the genetic mechanisms underpinning the formation of the CR might unravel the main causes that determined the appearance of the turtle shell. However, to understand the evolutionary origination of turtle peculiar morphology, other developmental processes on higher levels of organization also require explanation. 
+	Hiroshi Nagashima and his colleagues, in the article "Evolution of the Turtle Body Plan by the Folding and Creation of New Muscle Connections" show the importance of processes of 
+	ossification and muscular relocation in embryonic development processes that go beyond genetic mechanisms. Such studies, as well as the investigation of new fossils, indicate that we need to carry investigate different levels of organization if we want to understand the evolutionary history of turtles. 
+
+Sources
+Burke, Ann C. "The Development and Evolution of the Turtle Bodyplan. Inferring Intrinsic Aspects of the Evolutionary Process from Experimental Embryology." American Zoologist 31 (1991): 616–27.
+Burke, Ann C. "Development of the Turtle Carapace. Implications for the Evolution of a Novel Bauplan." Journal of Morphology 199 (1989): 363–78. 
+Gilbert, Scott F. Developmental Biology, 8th ed. Sunderland: Sinauer, 2006.
+Gilbert, Scott F., Grace A. Loredo, Alla Bruckman, and Ann C. Burke. "Morphogenesis of the Turtle Shell. The Development of a Novel Structure in Tetrapod Evolution." Evolution & Development  3 (2001): 47–58.
+Moustakas, Jacqueline E., "Development of the Carapacial Ridge. Implications for the Evolution of Genetic Networks in Turtle Shell Development."  Evolution and Development  10 (2008): 29–36.
+Nagashima Hiroshi, Fumiaki Sugahara, Masaki Takechi, Rolf Ericcson, Yoshie Kamashima-Ohya, Yuichi Narita, and Shigeru Kuratani. "Evolution of the Turtle Body Plan by the Folding and Creation of New Muscle Connections." Science 325 (2009): 193–6.
+
+
+
+How to cite
+Caniglia, Guido, "The Carapacial Ridge of Turtles". Embryo Project Encyclopedia (2012-01-01). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/2319.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Tuesday, March 3, 2015 - 00:09
+ Topic
+Subject
+ Turtles; Morphology (Animals); Embryos; Germ Cells; Embryological development; Embryology; Evolution; Mesenchyme; Gilbert, Scott F., 1949-; Developmental biology; Gene regulatory networks; Concept

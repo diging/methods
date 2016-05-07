@@ -1,0 +1,64 @@
+By Kristin Kelley
+Published: 2010-09-02
+Keywords: Medical procedures, Fetus
+ Amniocentesis Prior to 1980The 
+		extraembryonic membranes that surround and originate from the embryos of vertebrates such as birds, reptiles, and mammals are crucial to their development. They are integral to increasing the surface area of the uterus, forming the 
+		chorion  (which in turn produces the placenta) and the 
+		amnion, respectively. The amnion will ultimately surround the embryo in a fluid-filled amniotic cavity. This amniotic fluid, which cushions and protects the fetus and helps prevent the onset of labor, is sampled in amniocentesis to screen for genetic diseases. 
+
+Amniocentesis utilizes the embryonic cells that slough off during pregnancy and become suspended in the surrounding amniotic fluid. During the procedure, a small volume of amniotic fluid is extracted with the use of a long needle that is inserted through the abdomen, uterus, and amniotic sac so that these cells can be cultured and analyzed. 
+Researchers performed transabdominal amniocenteses as early as 1877. In the procedure's early years, it was little more than an amniotic tap,and doctors employed it in third trimesters to alleviate pressure in pregnant women who had a condition known as 
+		hydramnios (excess amniotic fluid). Doctors inserted a fine needle into the amniotic sac and drew out a volume of amniotic fluid. The needle was guided into the uterus by touch. 
+In 1930 
+		Thomas Orville Menees, 
+		J. Duane Miller, and 
+		Leland E. Holly were the first to perform an amniocentesis in order to obtain an amniography. Contrast dye was injected into the amniotic sac in order to observe the outline of the fetus and placenta. As would be expected, a procedure in which a needle was inserted more or less blindly into the uterus of a pregnant woman met with considerable objections. These objections were due to the possibility of injury to the fetus, infection, bleeding of the uterus, and damage to the placenta. Prior to the introduction of ultrasound-guided amniocentesis in 1972, the puncture site was determined merely from externally palpating the abdomen or later through assistance from real-time B-scan ultrasonography, which allowed for the location of a pocket of amniotic fluid. 
+From the 1950s on, the procedure was also used as a tool in managing 
+		erythroblastosis fetalis, a condition that occurs when an Rh–negative mother becomes isoimmunized due to 
+		Rhesus D incompatibility, occurring when the fetus is Rh–postive. When a woman with Rh–negative blood and a man with Rh-positive blood conceive a fetus that is Rh–positive, the fetal red blood cells result in maternal production of antibodies for the Rh antigens. These antibodies then cross the placenta and can cause the fetal red blood cells to lyse, resulting in the condition of erthyroblastosis fetalis. This condition could be diagnosed by amniotic tap, as yellow-pigmented fluid is suggestive of Rh–incompatibility. 
+In 1949 a discovery was made that enabled a broader application for 
+		amniocentesis. Canadian anatomist 
+		Murray Lewellyn Barr and his colleagues discovered that the presence of small, cellular bodies in human cells, known today as Barr bodies, could be used to determine sex in addition to the sex chromosomes. This discovery came from Barr’s observation that when two X chromosomes are present, only one of them is typically active. The inactived X-chromosome will form an observable chromatin mass, called a 
+		Barr body. Because only women have two X chromosomes, this discovery was useful for two reasons. First, sex chromosomes are difficult to see under the microscope. Second, this information could be used to reveal the sex of fetuses whose mothers were carriers of sex-linked diseases, a fact realized in 1956 by 
+		Fritz Fuchs and 
+		Povl Riis in 1956, who determined that fetal sex could be determined based on the presence or absence of the Barr bodies in fetal cells obtained from amniotic fluid. This finding was applied to prenatal diagnosis of 
+		hemophilia in 1960 and later to 
+		Duchenne muscular dystrophy in 1964. 
+In 1966, 
+		Mark W. Steele and 
+		William Roy Breg  successfully cultured fetal cells obtained from amniocentesis, which allowed for 
+		karyotyping of the chromosomes and therefore for future diagnosis of 
+		aneuploidies  such as trisomy 21, or 
+		Down syndrome . These breakthroughs allowed the amniocentesis procedure to gain dominance over the nascent field of prenatal genetic testing and to become a standard feature of obstetric practice. Henry Nadler and Albert Gerbie’s 1970 publication of “
+		Role of Amniocentesis in the Intra-Uterine Diagnosis of Genetic Defects” in the New England Journal of Medicine lent amniocentesis the credibility it needed. 
+Among the refinements made to the early amniocentesis procedures was the use of ultrasound to guide the needle into the uterus. This improvement was spearheaded by 
+		Jens Bang and 
+		Allen Northeved in 1972. Perhaps owing to the danger inherent in the procedure, amniocentesis was originally reserved for women of advanced maternal age (thirty-five years and older) and for those whose developing child may be at risk for a specific birth defect. In 1983, however, the 
+		President’s Commission for Study of Ethical Problems in Medicine and Biomedical and Behavioral Science suggested that the indications for amniocentesis should be reconsidered following ethical analysis of the predictive value of the test, as well as a thorough cost-benefit analysis, so that the test could be offered to women of all ages. 
+With the advent of discoveries about the mechanisms and diagnosis of genetic diseases, amniocentesis emerged as a perfect companion to this new knowledge. It serves as part of the groundbreaking field of prenatal testing, in which the future health of a fetus can be ascertained while still in the mother’s womb. This technology has experienced both praise and controversy and has undoubtedly aided in the early detection and understanding of disease. 
+
+Sources
+American Pregnancy Association. “Amniocentesis.” American Pregnancy Association. http://www.americanpregnancy.org/prenataltesting/amniocentesis.html (Accessed February 19, 2010). 
+Berman, Mimi, and Harris Cohen. Obstetrics and Gynecology, 2nd ed. Philadelphia, PA: Lippincott-Raven, 1997, 580.
+Cowan, Ruth. Women’s Roles in the History of Amniocentesis and Chorionic Villi Sampling. Columbus, OH: Ohio State University Press, 1994, 35–48
+“Erythroblastosis Fetalis.” Merck Manuals Online Medical Library. http://www.merck.com/mmpe/sec18/ch263/ch263f.html (Accessed April 22, 2010).
+Ferguson-Smith, M. A. “Amniocentesis.” In Encyclopedia of Genetics, eds. Sydney Brenner and Jeffrey Miller, 1: 60–1. San Diego, CA: Academic Press, 2001. 
+Gertner, Melvin, Lillian Hsu, Joan Martin, and Kurt Hirshhorn. “The Use of Amniocentesis for Prenatal Genetic Counseling.” Bulletin of the New York Academy of Medicine (1970): 916–21. 
+Liley, A. W. “The Use of Amniocentesis and Fetal Transfusion in Erythroblastosis Fetalis.” Pediatrics 35 (1965): 836–47. 
+
+
+How to cite
+Kelley, Kristin, "Amniocentesis Prior to 1980". Embryo Project Encyclopedia (2010-09-02). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/2072.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 25, 2013 - 15:53
+ Topic
+Subject
+Amniocentesis; Amniocentesis; Concept

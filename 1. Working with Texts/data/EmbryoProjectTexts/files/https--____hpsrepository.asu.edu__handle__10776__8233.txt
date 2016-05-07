@@ -1,0 +1,210 @@
+By Alexis Abboud
+Published: 2014-11-04
+Keywords: noninvasive genetic diagnosis, fetal DNA, maternal plasma
+ Dennis Lo (1963- )Dennis Lo, also called Yuk Ming Dennis Lo, is a
+	professor at the Chinese University of Hong Kong in Hong Kong,
+	China. In 1997, Lo discovered fetal DNA in maternal
+	plasma, which is the liquid component of a pregnant woman's
+	blood. By 2002, Lo distinguished the DNA differences between pregnant women
+	and their fetuses, enabling scientists to identify fetal DNA in pregnant
+	women's blood. Lo used his discoveries to develop several
+	non-invasive and prenatal genetic tests, including tests for blood
+	group status and Trisomy 21, also called Down's Syndrome.
+	Lo's discovery of fetal DNA in maternal plasma lessened the risks to pregnant women and fetuses during prenatal testing,  and it enabled  early
+	identification of potential genetic mutations in developing
+	fetuses.
+Lo was born in 1963 in the Kowloon region of Hong Kong, then part
+	of the British Commonwealth. Lo's father was former head of Qingsham
+	Hospital, the oldest psychiatric hospital in Hong Kong. Lo's mother
+	sang and taught music, instructing Lo and his brother Eric in piano,
+	while their psychiatrist father encouraged the boys to cultivate
+	talents that would help them with medical careers. Lo recalled
+	spending his childhood reading National Geographic and
+	developing his interests in photography and drawing.
+Lo began school in the British school system in Hong Kong, but in
+	his fifth year he passed an examination and transfered to St. Joseph's
+	College, Hong Kong. After his time at St. Joseph's, Lo earned his
+	undergraduate degree in preclinical medical training at the
+	University of Cambridge in Cambridge, England, finishing the degree
+	 in 1986. He then spent a year studying 
+	cloning before moving to Oxford University in Oxford, England. At
+	Oxford, Lo finished his PhD with Kenneth Fleming in 1994 and
+	eventually became doctor of medicine in 2001. He worked in several
+	jobs at Oxford for the next seven years. In 1997, Lo left Oxford to
+	return to Hong Kong, which by that time had reverted to Chinese
+	control.
+While in England, Lo met fellow graduate
+	student Alice Siu Ling Wong. Originally from Hong Kong, Alice was
+	at Oxford University completing her doctorate in semi-conductor
+	physics. Lo and Wong married while at Oxford.
+During his time at Oxford in 1987, Lo hypothesized that
+	polymerase chain reaction (PCR), a technique to amplify and discern
+	small amounts of DNA, could be used to find fetal cells in maternal
+	plasma. Lo spent ten years searching for these fetal cells before
+	concluding that there were not enough fetal cells within the
+	pregnant women's blood to detect differences between maternal and fetal DNA.
+	However, Lo assumed that fetal DNA would
+	only appear in fetal cells. Usually, DNA is only
+	within a cell's nucleus, but it can sometimes leave the cell.
+In 1996, the article "Microsatellite alterations in plasma DNA of
+	small cell lung cancer patients," reported that Xu Qi Chen's research team at
+	the University of Geneva in Geneva, Switzerland, 
+	found tumor DNA in the plasma of patients with small cell lung
+	cancer, a type of aggressive malignant lung cancer often associated
+	with smoking. After reading the article, Lo hypothesized that if
+	free-floating DNA from a small tumor could be detected in plasma,
+	then perhaps free-floating DNA from a fetus could also be detected in plasma.
+	Lo noted that one of the largest differences between maternal DNA and
+	fetal DNA is when the fetus is male and has a Y-chromosome,
+	Lo used PCR to detect Y-chromosomes from male fetuses in maternal
+	blood. In his 1997 article "Presence of fetal DNA in maternal serum
+	and plasma," Lo reported that he found male fetal DNA in
+	maternal plasma outside of the confines of an intact fetal cell.
+At first, Lo's discovery allowed only for prenatal sex type
+	determination. Doctors could take a sample of the pregnant woman's blood and
+	test it to determine the sex of her fetus. In 1998, Lo developed a
+	test for the rhesus (Rh) blood group status of the fetus. The Rh
+	blood group status, named after the rhesus monkey (Macaca mulatta)
+	in which the blood type was first identified, refers to antibodies found in
+	blood. When a pregnant woman and her fetus have incompatible antibodies,
+	often the woman's immune system perceives the pregnancy as foreign
+	and harms the developing fetus. If doctors can determine whether the Rh blood
+	group status of the pregnant woman and the fetus are compatible early in the
+	pregnancy, then they can help to lessen that risk. In the article "Prenatal
+	Diagnosis of Fetal RhD Status by Molecular Analysis of Maternal
+	Plasma," Lo and his research team presented a method for determining
+	blood group status through a non-invasive blood test.
+Those first tests relied on genetic abnormalities passed from the sire to the fetus, because the sire's portion of the fetus's DNA was easier to
+	distinguish from the pregnant woman's DNA. Even though fetal DNA comprises
+	almost ten percent of maternal plasma
+	during the first and second trimesters, it is still a small portion
+	of an overall blood sample, often lost in the background of maternal
+	DNA. For this reason, doctors more easily isolated the
+	paternal part of fetal DNA from the overall maternal blood sample.
+	Therefore, the first non-invasive prenatal genetic tests could only
+	detect those genetic abnormalities inherited from the sire.
+However, the differences in DNA methylation between pregnant women and
+	fetuses offered researchers another way to differentiate fetal from maternal DNA. DNA methylation is a process in which a methyl group is added to some parts of a DNA sequence, affecting how that sequence produces proteins or other products. In a fetus, a large
+	portion of DNA is methylated, as DNA methylation plays a large role
+	in fetal development. In 2002, Leo Poon, Lo's associate at the
+	University of Hong Kong, along with Lo and several other
+	researchers, used the DNA methylation differences between a pregnant woman
+	and her fetus to isolate fetal DNA within the woman's blood. This technique for
+	non-invasive prenatal genetic diagnosis is called maternal plasma
+	fetal DNA recovery.
+In 2003, the outbreak of severe acute respiratory syndrome (SARS)
+	in Hong Kong interrupted Lo's work on non-invasive prenatal genetic
+	testing. His laboratory, along with several others in Hong Kong,
+	sequenced the SARS virus to use this sequence to develop and treat
+	the disease. In 2007, Lo and his team designed a non-invasive maternal blood
+	test to determine whether or not a fetus has Down's syndrome, a genetic
+	defect caused by the presence of an extra copy of chromosome 21 in
+	the nuclei of the fetus's cells.
+Compared to Lo's non-invasive testing techniques,
+	amniocentesis and chorionic villus sampling are both invasive
+	prenatal genetic testing techniques, which require a breach of the
+	womb that can expose the fetus to potential harms and, in some
+	scenarios, result in spontaneous abortions. Amniocentesis requires
+	doctors to test the amniotic fluid from inside the placenta. The
+	breakage of the placental barrier causes spontaneous abortion in two
+	to three of every 1,000 pregnancies, a 0.3 percent increase in risk
+	compared to women who do not undergo amniocentesis. Chorionic villus
+	sampling, the sampling of the tissue surrounding the fetus, causes
+	spontaneous abortion approximately 3.6 percent of the time, an
+	increase in risk of 0.8 percent compared to mothers who undergo
+	non-invasive testing. With Lo's discovery, pregnant women could
+	learn about potential genetic mutation of their fetuses in a way
+	that lessened the risk of spontaneous abortion.
+In 2005, in recognition of his scientific work, the State Council
+	of China awarded Lo the State Natural Science Award. A year later,
+	Lo received the International Federation of Clinical Chemistry and
+	Laboratory Medicine (IFCC) Abbott Award for Outstanding Contribution
+	to Molecular Diagnostics, and the US National Academy of Clinical
+	Biochemistry Distinguished Scientist Award. In 2009, Lo received a
+	Fulbright Distinguished Scholar Award. In 2011, he was elected
+	Fellow of the Royal Society and named Foreign Associate of the US
+	National Academy of Sciences in 2013.
+As of 2014, Lo teaches medicine and chemical pathology at the
+	Chinese University of Hong Kong, where he develops more prenatal
+	genetic tests.
+
+
+ Sources Andrews, Lori
+		B., Maxwell J. Mehlman, and Mark A. Rothstein. Genetics: Ethics,
+		Law and Policy. St. Paul: Thomas Reuters, 2010.
+Bogdanović,
+		Ozren and José Luis Gómez-Skarmeta. "Embryonic DNA methylation:
+		insights from the genomics era." Briefings in Functional
+		Genomics 12 (2013): 1–10.
+		
+Chachkin,
+		Carolyn Jacobs. "What Potent Blood: Non-Invasive Prenatal
+		Genetic Diagnosis and the Transformation of Modern Prenatal
+		Care." American Journal of Law and Medicine 33 (2007): 9–53.
+Chen, Xu Qi, Maurice Stroun, Jean-Luc Magnenat, Laurent P.
+		Nicod, Anne-Marie Kurt, Jacqueline Lyautey, Christine Lederrey,
+		and Phillipe Anker. "Microsatellite alterations in plasma DNA of
+		small cell lung cancer patients." National Medicine 2 (1996):
+		1033–5.
+Chim, Stephen S.C., Shengnan Jin, Tracy Y.H. Lee, Fiona M.F. Lun, Wing S. Lee, Lisa Y.S. Chan, Yongjie Jin et al. "Systematic search for placental DNA-methylation markers on chromosome 21: toward a maternal plasma-based epigenetic test for fetal trisomy 21." Clinical Chemistry 54  (2008): 500–511. http://www.clinchem.org/content/54/3/500.long (Accessed November 2, 2014).
+Chinese University of Hong Kong Communications and
+		Public Relations Office. "Professor Dennis Lo Yuk-ming." Chinese
+		University of Hong Kong.
+		http://www.cpr.cuhk.edu.hk/resources/press/pdf/070328DLoCV_e.pdf
+		(Accessed September 24, 2013).
+Chiu, Rossa W.K., K.C. Allen Chan, Yuan Gao, Virginia Y.M. Lau, Wenli Zheng, Tak Y. Leung, Chris H.F. Foo et al. "Noninvasive prenatal diagnosis of fetal chromosomal aneuploidy by massively parallel genomic sequencing of DNA in maternal plasma." Proceedings of the National Academy of Sciences 105 (2008): 20458–63. http://www.pnas.org/content/105/51/20458.long (Accessed November 2, 2014).
+Department of Chemical Pathology.
+		"Dennis Lo." The Chinese University of Hong Kong.
+		http://www.cpy.cuhk.edu.hk/Research/DennisLo.htm (Accessed
+		September 15, 2013).
+Landau, Misia. "Yuk Ming Dennis Lo."
+		Clinical Chemistry 58 (2012): 784–6.
+Lo, Yuk Ming Dennis. "Fetal DNA in maternal plasma: biology and diagnostic applications." Clinical Chemistry 46 (2000): 1903–06. http://www.clinchem.org/content/46/12/1903.full (Accessed November 2, 2014).
+Lo, Yuk Ming Dennis. "Non-invasive
+		prenatal diagnosis by massively parallel sequencing of maternal
+		plasma DNA." Open Biology 2 (2012): 1–5.
+		http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3390796/ (Accessed
+		September 15, 2013).
+Lo, Yuk Ming Dennis. Survey Responses with Embryo Project Encyclopedia Editors, August 2014.
+Lo, Yuk Ming Dennis, Noemi
+		Corbetta, Paul F. Chamberlain, Vik Rai, Ian L. Sargent,
+		Christopher W.G. Redman, and James S. Wainscoat. "Presence of
+		fetal DNA in maternal plasma and serum." The Lancet 350 (1997):
+		485–7.
+Lo, Yuk Ming Dennis, N. Magnus Hjelm, Carrie Fidler, Ian
+		L. Sargent, Michael F. Murphy, Paul F. Chamberlain, Priscilla
+		M.K. Poon, Christoper W.G. Redman, and James S. Wainscoat.
+		"Prenatal diagnosis of fetal RhD status by molecular analysis of
+		maternal plasma." New England Journal of Medicine 339 (1998):
+		1734–8.
+Lo, Yuk Ming Dennis, and Rossa W.K. Chiu. "Prenatal diagnosis: progress through plasma nucleic acids." Nature Reviews Genetics 8 (2006): 71–77.
+Lo, Yuk Ming Dennis, Fiona M.F. Lun, K.C. Allen Chan,
+		Nancy B.Y. Tsui, Ka C. Chong, Tze K. Lau, Tak Y. Leung, Benny
+		C.Y. Zee, Charles R. Cantor, and Rossa W.K. Chiu.  "Digital PCR
+		for the molecular detection of fetal chromosomal aneuploidy."
+		Proceedings of the National Academy of Sciences of the United
+		States 104 (2007): 13116–21. http://www.pnas.org/content/104/32/13116.full (Accessed November 2, 2014). 
+Lo, Yuk Ming Dennis, K.C. Allen Chan, Hao Sun, Eric Z. Chen, Peiyong Jiang, Fiona M.F. Lun, Yama W. Zheng et al. "Maternal plasma DNA sequencing reveals the genome-wide genetic and mutational profile of the fetus." Science Translational Medicine 2 (2010): 61ra91.
+Lun, Fiona M.F., Rossa W.K. Chiu, K.C. Allen Chan, Tak Yeung Leung, Tze Kin Lau, and Yuk Ming Dennis Lo. "Microfluidics digital PCR reveals a higher than expected fraction of fetal DNA in maternal plasma." Clinical Chemistry 54  (2008): 1664–1672. http://www.clinchem.org/content/54/10/1664.full (Accessed November 2, 2014). 
+Ng, Enders K.O., David S. Hui, K.C. Allen Chan, Emily C.W. Hung, Rossa W.K. Chiu, Nelson Lee, Alan Wu et al. "Quantitative analysis and prognostic implication of SARS coronavirus RNA in the plasma and serum of patients with severe acute respiratory syndrome." Clinical Chemistry 49  (2003): 1976–80. http://www.clinchem.org/content/49/12/1976.long (Accessed November 2, 2014).
+Poon, Leo L.M., Tse N. Leung, Tze K. Lau,
+		Catherine C.K. Chow, and Yuk-Ming Dennis Lo. "Differential DNA
+		Methylation between Fetus and Mother as a Strategy for Detecting
+		Fetal DNA in Maternal Plasma." Clinical Chemistry 48 (2002):
+		35–41. http://www.clinchem.org/content/48/1/35.full (Accessed November 2, 2014). 
+
+How to cite
+Abboud, Alexis, "Dennis Lo (1963- )". Embryo Project Encyclopedia (2014-11-04). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/8233.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+Copyright Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, November 5, 2014 - 01:20
+ Topic
+Subject
+Prenatal Screening; Lo, Y. M. Dennis; Blood testing; Genetic testing; Genetic diagnosis; Prenatal diagnosis; Prenatal testing; Amniocentesis; Chorionic villus sampling; Obstetrics; Chinese University of Hong Kong; People

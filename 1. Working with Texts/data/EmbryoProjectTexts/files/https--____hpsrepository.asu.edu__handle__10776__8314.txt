@@ -1,0 +1,62 @@
+By Federica Turriziani Colonna
+Published: 2015-04-13
+Keywords:     
+   Paul Kammerer's Experiments on Sea-squirts in the Early Twentieth CenturyIn the early twentieth century, Paul Kammerer, a zoologist working at the Vivarium in Vienna, Austria, experimented on sea-squirts (Ciona intestinalis). Kammerer claimed that results from his experiments demonstrated that organisms could transmit characteristics that they had acquired in their lifetimes to their offspring. Kammerer conducted breeding experiments on sea-squirts and other organisms at a time when Charles Darwin's 1859 theory of evolution lacked evidence to explain how offspring inherited traits from their parents. In 1809, zoologist Jean-Baptiste Lamarck  in France theorized that living beings can inherit the features their parents or ancestors acquired during those ancestor's lifetime, a theory called the inheritance of acquired characteristics. Kammerer attempted to provide evidence for the theory of inheritance of acquired characteristics, which constituted, he argued, the mechanics of evolution. Kammerer claimed that his results could explain evolutionary processes through developmental phenomena.
+
+Between 1920 and 1923, Kammerer conducted experiments on sea-squirts (Ciona intestinalis) at the Institute of Experimental Biology at the Vivarium, a research institute in Vienna, Austria. The Vivarium had heating and cooling systems to control the laboratories' temperature.  With these tools, researchers could experiment on organisms that required particular environmental conditions, and they could manipulate those environmental conditions. Kammerer's experiments on sea-squirts focused on regeneration, the capacity for an organism to regrow or replace damaged body parts, and on the inheritance of traits from parents to offspring. Kammerer conducted experiments on sea-squirts similar to those that other scholars had done. For example, in the early 1890s, Pio Mingazzini at the Stazione Zoologica in Naples, Italy, observed and described regeneration in sea-squirts. 
+
+Sea-squirts anchor themselves to the bottom of the sea with stolons, or bodily structures that connect the individuals with each other. Sea-squirts have a cylindrical bodies, and two tubes or siphons extend from their heads. The longer tube is called the inhalant or oral tube, the shorter tube is called the exhalant or anal tube. Kammerer's experiment involved two groups, each with eighty to one hundred individuals. One of the two groups served as a control, while Kammerer manipulated the individuals in the other group. Kammerer kept the two groups in identical environmental conditions. 
+
+For the experiment, Kammerer cut off both siphons in all individuals of the experimental group of sea-squirts. He observed that both siphons regrew and became longer than the original siphons. Once new generations were born, Kammerer observed that the offspring of parents whose siphons had been cut off showed longer siphons than the offspring in the controlling cultures. According to Kammerer, this experiment demonstrated that acquired characteristics, in this case longer siphons, could be transmitted from parents to the offspring.
+
+Kammerer next aimed to demonstrate that the whole organism—not only generative organs—could generate new tissue. In a 1893 publication, August Weismann in Germany had claimed that not every type of tissue in the body could generate new tissue.  Weismann had concluded that traits in a new generation could only be derived from the germinal substance, or developmental cells capable of becoming many different cell types, of the previous generation. If Weismann's theory was true, Lamarck's theory of acquired characteristics had to be false.
+
+To test Weismann's theory, Kammerer worked on an experimental group of sea-squirts which had regenerated siphons.  In this population, he removed what he hypothesized to be the generative glands from the intestines of the sea-squirts. He hypothesized that the generative gland was composed of germinal matter, also called germ plasm.  Kammerer observed that a new generative organ grew in the manipulated individuals. Kammerer also observed sea-squirts with long siphons and with regenerated germ plasm had offspring with long siphons. Kammerer claimed that those results invalidated Weismann's theory. Kammerer concluded that Charles Darwin's 1868 theory of pangenesis explained the mechanics of inheritance better than Weismann's theory of the germ plasm. The theory of pangenesis states that there are small particles throughout an organism's body, not just in the germinal cells, that get passed on through inheritance and that can develop in response to changed conditions. This mechanism, Kammerer said, could enable the inheritance of acquired characteristics.
+
+Kammerer's results and hypotheses on the mechanics of inheritance raised debates among scientists. Scholars argued that Kammerer's results were incorrect or at least inaccurate, and that his experiments needed to be repeated to confirm his conclusions. Henry Munro Fox in France claimed to have repeated Kammerer's experiments on C. intestinalis, but he did not obtain the same results as Kammerer. Fox used a different protocol, as he cut off only one of the two siphons of sea-squirts, and then he observed that the siphons did not regenerate longer than usual. 
+
+Kammerer published the results of his experiments on the sea-squirt in his 1920 textbook titled Allgemeine Biologie [General Biology], in a 1923 article titled "Breeding Experiments on the Inheritance of Acquired Characters", and in his 1924 book titled The Inheritance of Acquired Characteristics.  Through the experiments he conducted on the sea-squirt at the Vivarium, Kammerer generalized that all organisms can transmit acquired characteristics to their offspring. Specifically, he said that tissues other than the germ plasm can generate germinal matter and that organisms transmit acquired characteristics, such as regenerated organs, to their offspring. According to Kammerer, the inheritance of acquired characteristics constituted the mechanics of evolution.
+
+Sources
+Darwin, Charles. On the Origin of Species by Means of Natural Selection. London: John Murray, 1859. http://dx.doi.org/10.5962/bhl.title.68064 (Accessed November 18, 2014). 
+		
+
+		Darwin, Charles. The Variation of Animals and Plants under Domestication. London: John Murray, 1868. http://www.biodiversitylibrary.org/bibliography/61215#/ summary   (Accessed November 24, 2014). 
+
+
+
+Fox, Munro. "Dr. Kammerer's Ciona Experiments." Nature 112 (1923): 653–4. 
+
+Gliboff, Sander. "'Protoplasm... is soft wax in our hands:' Paul Kammerer and the art of biological transformation." Endeavour 29 (2005): 162–7.
+
+Kammerer, Paul. Allgemeine Biologie. [General Biology]. Leipzig: Deutsche Verlagsanstalt, 1920. 	http://www.archive.org/details/allgemeinebiolog00kammuoft  (Accessed November 15, 2014).
+
+Kammerer, Paul. "Breeding experiments on the inheritance of the acquired characters." Nature 111 (1923): 637–40.
+
+Kammerer, Paul. On the Inheritance of Acquired Characteristics. Trans. A Paul Maerker-Branden. New York: Boni and Liveright, 1924. http://books.google.com/books?id=RPeuL6SJLdsC&dq=Inheritance%20of%20acquired%20characteristics&pg=PP1#v=onepage&q&f=false (Accessed November 15, 2014).
+Koestler, Arthur. The Case of the Midwife Toad. New York: Random House Inc., 1972.
+
+Lamarck, Jean Baptiste. Philosophie Zoologique. [Zoological Philosophy]. Paris: Duminil-Lesueur, 1809. http://www.archive.org/details/Lamarck2001aj56E (Accessed November 16, 2014). 
+
+
+Mingazzini, Pio. "Sulla Rigenerazione dei Tunicati." [On Tunicates' Regeneration] Bollettino della Società dei Naturalisti in Napoli (1891): 76.
+
+Weismann, August. The Germ Plasm: A Theory of Heredity. New York: Charles Scribner's Sons, 1893. http://www.archive.org/details/germplasmatheor02weisgoog (Accessed November 15, 2014).
+
+
+
+How to cite
+Turriziani Colonna, Federica, "Paul Kammerer's Experiments on Sea-squirts in the Early Twentieth Century". Embryo Project Encyclopedia (2015-04-13). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/8314.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+Copyright Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Monday, April 13, 2015 - 22:21
+ Topic
+Subject
+ Sea squirts; Ciona intestinalis; Kammerer, Paul, 1880-1926; Laboratory animals--Breeding--Experiments; adaptation; Evolution (Biology); Inheritance of acquired characters; Darwin, Charles, 1809-1882; Biology, Experimental; Lamarck, Jean Baptiste Pierre Antoine de Monet de, 1744-1829. Philosophie zoologique. English; Stazione zoologica di Napoli; Inheritance of acquired characters; Heredity; Experiment

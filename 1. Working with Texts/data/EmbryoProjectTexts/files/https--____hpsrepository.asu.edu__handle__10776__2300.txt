@@ -1,0 +1,45 @@
+By Tristan Cooper-Roth
+Published: 2010-10-11
+Keywords: Human development, Congenital disorders
+ Niemann-Pick Disease In 1914 
+		Albert Niemann, a German pediatrician who primarily studied infant metabolism, published a description of an Ashkenazi Jewish infant with jaundice, nervous system and brain impairments, swollen lymph nodes (lymphadenopathy), and an enlarged liver and spleen (hepatosplenomegaly). He reported that these anatomical disturbances resulted in the premature death of the child at the age of eighteen months. After extensively studying the abnormal characteristics of the infant, Niemann came to the conclusion that the disease was a variant of 
+		Gaucher’s disease. Gaucher’s disease, described by the French dermatologist 
+		Philippe Gaucher in 1882, is a 
+		lipid storage disorder resulting in an excessive accumulation of lipids in the spleen, kidneys, liver, lungs, bone marrow, and brain. Niemann was able to connect the infant’s disease to Gaucher’s disease because it displayed similar symptoms: a noticeable accumulation of fatty substances in the brain, liver, and spleen. 
+In the 1920s, 
+		Ludwig Pick, a German pathologist, studied infants with similar lipid storage disorders, investigating the disease through autopsy and examination of the affected tissues. From past studies, Pick understood that Gaucher’s disease was distinguished by a buildup of 
+		glucocerebrosides, composed of glucose and a ceramide fat, in the affected tissues. In contrast, Niemann and Pick’s patients presented a buildup of 
+		sphingomyelins, composed of sphingosine, choline, a fatty acid, and a phosphoric acid. The results from Pick’s studies provided him with an alternative conclusion; the disease was actually an entirely different lipid storage disease. From this point on, dysfunctional sphingomyelin storage was called Niemann-Pick disease (NPD) and is understood as a developmental disease.
+In 1961 
+		Allan Crocker and 
+		Sidney Farber divided NPD into four subcategories. Each form of the autosomal recessive disease acquired the letters A through D, depending on the patient’s phenotype, the specific symptoms expressed, and the presence of unique cells. These unique cells are known as “foam cells” because of their foam-like appearance when displayed under a microscope. This foam-like appearance is due to the accumulation of excessive amounts of low density lipoproteins (LDL) within the vacuoles of a cell called a histiocyte. Histiocytes are cells that are part of the reticuloendothelial system and are responsible for phagocytosis and antigen presentation. When excessive amounts of LDL (the main transporter of cholesterol and triglycerides from the liver to the peripheral tissues) are present, histiocytes function improperly.
+NPD type A, an acute neuronopathic form, is characterized by a deficiency of acid sphingomyelinase, an enzyme responsible for breaking down sphingomyelin into its derivatives. This form of the disease was seen in the infant examined by Niemann and is known as the severe infantile form. Defective sphingomyelinase activity is caused by missense and nonsense mutations in the sphingomyelin phosphodiesterase-1 gene (SMPD1). With these mutations, the protein structure of sphingomyelinase develops irregularly and its function is either eradicated or greatly suppressed. In response to the reduction in sphingomyelinase activity, the affected individuals of NPD type A experience a rapid neurologic degeneration from the accumulation of sphyingomyelin in ganglion cells. Given the combination of rapid neurologic degeneration, lymphadenopathy, and hepatosplenomegaly, the individual is incapable of living past the age of three. 
+NPD type B is closely associated with type A due to a similar mutation in the SMPD1 gene, but it does not involve the acute neurologic degeneration seen in type A. Type B patients do not experience this symptom because the mutated SMPD1 gene still encodes for the protein make-up of sphingomyelinase, although it is a defective version with residual catalytic activity. Because of this residual activity, type B patients experience less severe sphyingomyelin manifestations in the spleen, liver, and lungs. Thus, type B affected individuals are capable of surviving for a much longer period of time, as seen by clinical management, up to the age of fifty-five.
+NPD types C and D are distinct from forms A and B because the genetic mutation is not found on the SMPD1 gene; instead it is found on the NPC1 and NPC2 genes. These particular genes, located on chromosome 18, are involved in constructing proteins responsible for cholesterol transportation in late endosomes, a major sorting compartment of the endomembrane system within eukaryotic cells, and lysosomes, organelles responsible for enzymatic breakdown of foreign and non-foreign particles in eukaryotic cells. With a disruption in either of these genes, the late endosome and lysosome of affected cells begins to accumulate sphingosine, a primary part of a sphingolipid and a component of cholesterol. Excessive accumulation of cholesterol in both the late endosome and lysosome results in irregular intracellular transport, cell signaling, and nerve conduction. Due to these abnormalities in cell physiology, the individuals affected by types C and D begin to experience progressive neurodegeneration typically at the age of two. NPD types C and D, referred to as the chronic neuronopathic form, have a variety of symptoms that may include grand mal seizures, loss of speech, ataxia, myoclonic jerks, dystonia, dementia, and vertical supranuclear gaze palsy. Although the neurodegeneration is quite severe, types C and D individuals suffer from less severe forms of hepatosplenomegaly, unlike types A and B, and the average life span of an individual with type C or D is 16.2 years. 
+Among the four types of NPD, the two easiest to detect and diagnose prenatally are types A and B. The detection of NPD involves the culturing of 
+		amniocytes or 
+		chorionic villus cells and determining their sphingomyelinase activity. Most amniocytes affected by NPD type A express less than one percent normal sphingomyelinase activity (0.4 and 0.6 nmole/mg protein/hr versus the control mean of 61.7). To confirm the diagnosis of NPD in utero, skin fibroblast and liver cells are cultured from the fetus during the fourteenth week of gestation. The skin fibroblast cell culture is then tested for the level of cholesterol processing, and the liver culture is tested for the level of lipid storage. If the 
+		fetus exhibits any abnormalities in respect to these biochemical levels the patient is recommended to terminate the pregnancy. 
+
+Sources
+Crocker, Albert C. “The Cerebral Defect in Tay-Sachs Disease and Niemann-Pick Disease.” Journal of Neurochemistry 7 (1961): 69–80.
+Takashi, T., M. Suchi, R. J. Desnick, G. Takada, and E. H. Schuchman. “Identification and Expression of Five Mutations in the Human Acid Sphingomyelinase Gene Causing Types A and B Niemann-Pick Disease: Molecular Evidence for Genetic Heterogeneity in the Neuronopathic and Non-Neuronopathic Forms.” Journal of Biological Chemistry 267 (1992): 12552–58.
+Vanier, Marie T., Claire Rodriguez-Lafrasse, Robert Rousson, Ginette Mandon, Joelle Boue, Agnes Choiset, Marie-France Peyrat, Christiane Dumontel, Marie-Christine Juge, Peter G. Pentchev, Andre Revol, and Pierre Louisot. “Prenatal Diagnosis of Niemann-Pick type C disease: Current Strategy from an Experience of 37 Pregnancies at Risk.” American Journal of Human Genetics 51 (1992): 111–22.
+Wenger, David A., Candace Wharton, Martin Sattler, and Christopher Clark. “Niemann-Pick Disease: Prenatal Diagnoses and Studies of Sphingomyelinase Activities.” American Journal of Medical Genetics 2 (1978): 345–56.
+
+
+How to cite
+Cooper-Roth, Tristan, "Niemann-Pick Disease". Embryo Project Encyclopedia (2010-10-11). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/2300.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 25, 2013 - 15:53
+ Topic
+Subject
+Niemann-Pick Diseases; Niemann-Pick diseases; Concept

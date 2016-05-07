@@ -1,0 +1,175 @@
+By Abhinav Mishra
+Published: 2014-06-27
+Keywords: Chromosomla Theory of Inheritance, grasshopper, Eleanor Carothers
+ Walter Stanborough Sutton (1877-1916)Walter Stanborough Sutton studied grasshoppers and connected
+the phenomena of meiosis, segregation, and independent assortment with
+the chromosomal theory of inheritance in the early twentieth century in
+the US. Sutton researched chromosomes, then called inheritance
+mechanisms. He confirmed a theory of Wilhelm Roux, who studied embryos
+in Breslau, Germany, in the late 1880s, who had argued that chromosomes and
+heredity were linked. Theodor Boveri, working in Munich, Germany,
+independently reached similar conclusions about heredity as Sutton.
+Later scientists named the theory The Sutton-Boveri Theory, or The
+chromosomal theory of inheritance.
+Sutton, the fifth of seven brothers,
+was born in Utica, New York, on 5 April 1877 to Agnes Black and William
+Bell Sutton, who soon moved their family to Kansas. Sutton grew up on a farm, where he repaired farm equipment
+and attended schools in Russell County, Kansas. In 1896, he
+entered the engineering school at the University of Kansas in Lawrence,
+Kansas. While Sutton's brother was sick in 1897 of typhoid fever, Sutton
+took care of him and his other infected family members. His family and
+friends convinced him to change his educational direction to medicine,
+because he was, according to his family, so adept at caring for them.
+ In
+the fall of 1897, Sutton started his pre-medical studies. Sutton
+completed his undergraduate degree in 1900. A year later he received a master's degree, also at the
+University of Kansas with the mentoring of Clarence McClung.
+For his master's thesis in 1901, Sutton published the first of his
+works, "The Spermatogonial Division of Brachystola magna" about
+chromosomes in B. magna, a type of grasshopper. The testes of these
+grasshoppers were large enough for Sutton to observe meiotic divisions
+of the chromosomes, which allowed Sutton to describe what was
+occurring in the cells.
+ Instead of applying to medical school, McClung
+convinced Sutton to do doctoral work at Columbia University in New York,
+New York. Sutton traveled to Colombia to work with cell biologist Edmund
+Beecher Wilson in the fall of 1901. Wilson had previously observed
+X-linked inheritance, or traits that offspring seemingly inherited from
+their parents' X-chromosomes. Sutton continued to research B. magna,
+eventually encapsulating his chromosome theory in two papers he
+published titled "Morphology of the Chromosome Group in Brachystola
+magna" in 1902 and "The Chromosomes in Heredity" in 1903.
+Sutton's 1902 paper examined sperm production, cell division,
+and synapsis in B. magna. In this paper, he described a cellular basis
+for genetics. First, somatic cells contain one of each of the parents'
+chromosomes. The offspring receive one chromosome from each of the
+parents to make a set of chromosomes. Sutton's theory differed from
+other contemporary theories in that Sutton argued that the offspring
+received a random group of traits after the parents' traits mixed
+together in the paired chromosomes of the offspring. For Sutton, the individual
+chromosomes retained their integrity when passed from the parents to the
+offspring, that is each chromosome remains together as a whole. 
+Sutton's
+second point in the paper argued that somatic cells have pairs of
+chromosomes. Sutton's third point was that each chromosome codes for a
+specific set of traits. Further, a fourth point was that chromosomes
+are predetermined in what traits they code for. Fifth, chromosomes
+separate independently of each other, which means that each part of the
+chromosome will remain separate from a different set of genes on a
+different chromosome. The chromosomes migrate to different poles of
+cells when they pull apart from each other, which enables many different
+combinations of the genes that can occur in offspring. Finally,
+chromosomes can code for different forms of a trait, but only one will
+be expressed as a physical characteristic. The different forms of a
+trait will either be dominant or recessive. The sixth point supports Mendel's theory that one parent's trait will be expressed in an offspring while the other's will be
+hidden.
+ Sutton makes
+four points in the 1903 paper. The first is that each chromosome in a
+cell is different from the others in composition. Second, chromosomes
+come in pairs. Both halves of a chromosomes pair are the same size, and
+each half is derived from one of the organism's parents. Third, the
+chromosomes, which are located in the nucleus, pair up before meiotic
+divisions. Finally, the paired chromosomes separate in meiosis. While not widely read at the time, later scientists cited the paper as
+central in chromosomal research.
+ Sutton argued that chromosomes are the
+mechanism of how traits are passed on from parents to offspring.
+Furthermore, he supported Gregor Mendel's 1865 theory of independent
+assortment and segregation of hereditary factors. Sutton argued that
+each parent passes on a half set of chromosomes to their offspring.
+Sutton's theories explained  the variance in and the combinations of
+traits in Mendel's works. 
+ Another scientist, Theodor Boveri,
+independently from Sutton developed similar theories about the role of
+chromosomes in heredity while working with sea urchins in Germany in
+1900. Scientists credit both Sutton and Boveri with the theory of
+inheritance, also called the Sutton-Boveri Theory. Though
+many contemporaries did not agree with Sutton and Boveri, later work by
+Eleanor Carothers at Pennsylvania State University in University Park,
+Pennsylvania, helped support the law of independent assortment of
+chromosomes from parents to offspring and in crossing over in homologous
+chromosomes in the parents.
+ In the summer of 1903, Sutton stopped
+studying developmental biology to work in the Kansas oil fields to earn
+money for medical school. In 1905, he returned to Columbia to attend
+medical school. Sutton received his MD degree in 1907 and began an
+internship at Roosevelt Hospital in New York, New York. After two years,
+he began practicing medicine in Kansas City. From 1907 to 1915, Sutton
+became associate professor of Surgery at University of Kansas
+with an affiliation at Bell Memorial Hospital. While at Bell Memorial
+Hosptial, Sutton developed the technique of using ether as anesthesia
+during surgery. 
+In 1915, the military hired Sutton as part of the
+surgical staff for the Mrs. Harry Paine Whitney Unit during World War I.
+He became to the chief of the surgical staff by the end of his tour. On
+6 November 1916, his appendix ruptured while he was in the US, and four days later he
+died at the age of thirty nine. In 1917, Sutton's family released a
+biography that many of his colleagues, friends, and family put together,
+called Walter Stanborough Sutton, which included several essays about
+Sutton's life and work. 
+ Sources Boveri, Theodor.
+		Ergebnisse über die Konstitution der Chromatischen Substanz des
+		Zellkerns. [Results of the Constitution of the Chromatic
+		Substance of the Nucleus]. Gustav Fischer, 1904.
+		 http://dx.doi.org/10.5962/bhl.title.9070 (Accessed April 17,
+		2014).
+Carothers, Eleanor. "The Mendelian Ratio in Relation to Certain
+ Orthopteran Chromosomes." Journal of Morphology 24 (1913): 487–511.
+  http://biodiversitylibrary.org/page/11618083 (Accessed April 17, 2014).
+Hegreness, Matthew and Matthew Meselson. "What Did Sutton See: Thirty
+Years of Confusion Over the Chromosomal Basis of Mendelism." Genetics
+176 (2007): 1939–44.  http://www.genetics.org/content/176/4/1939.full
+(Accessed April 17, 2014).
+Mahadevan, Subramanian. "Walter Sutton and the Chromosome Theory of
+Heredity." Resonance 4 (2009): 312–5.
+McClung, Clarence Erwin. "The Accessory Chromosome—Sex Determinant?" The
+Biological Bulletin 3 (1902): 43–84.
+ https://archive.org/stream/biologicalbullet03mari#page/42/mode/2up
+(Accessed April 17, 2014).
+Mckusick, Victor A. "Walter S. Sutton and the Physical Basis of
+Mendelism." Bulletin of the History of Medicine 34 (1960): 487–97.
+Mckusick, Victor A. "Sutton, Walter Stanborough." Complete Dictionary of
+Scientific Biography 13 (2006): 156–8.
+Mendel, Gregor Johann. "Versuche über Pflanzen-Hybriden" [Experiments Concerning Plant Hybrids]." Verhandlungen des naturforschenden Vereines in Brünn [Proceedings of the Natural History Society of Brünn] IV (1865): 3–47. Reprinted in Fundamenta Genetica, ed. Jaroslav Kříženecký, 15–56. Prague: Czech Academy of Sciences, 1966. http://www.mendelweb.org/Mendel.html (Accessed January 30, 2014).
+Morgan, Thomas H. "Chromosomes and Heredity." The American Naturalist 44
+(1910): 449–96. 
+ https://archive.org/stream/mobot31753002140751#page/n477/mode/2up
+(Accessed April 17, 2014).
+Moses, Belle. Walter Stanborough Sutton. Kansas City, KS: Boughton
+Press, 1917.  https://archive.org/details/walterstanboroug017063mbp
+(Accessed April 17, 2014).
+Roux, William. Gesammelte Abhandlungen uüber Entwicklungsmechanik der
+Organismen [Collected Memoirs on Development Mechanism of Organisms].
+Leipzig: Engelmann, 1895.  http://dx.doi.org/10.5962/bhl.title.9169
+(Accessed March 27, 2014).
+Sutton, Walter. "The Spermatogonial Division of Brachystola magna." Kansas University Quarterly 9 (1900): 135–157. http://books.google.com/books?id=K2sqAAAAYAAJ&source=gbs_book_other_versions (Accessed June 24, 2014). 
+Sutton, Walter. "On the Morphology of the Chromosome Group in
+Brachystola magna." The Biological Bulletin 4 (1902): 24–39.
+ https://archive.org/stream/biologicalbullet04mari#page/24/mode/2up 
+(Accessed April 17, 2014).
+Sutton, Walter. "The Chromosomes in Heredity." Biological Bulletin 4
+(1903): 231–50.
+ https://archive.org/stream/biologicalbullet04mari#page/230/mode/2up
+(Accessed April, 17, 2014).
+Sutton, Walter. "III. Anaesthesia by Colonic Absorption of Ether." Annals of Surgery 51 (1910): 457–479. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1406010/ (Accessed June 24, 2014).
+Tagarelli, Antonio, Anna Piro, Paolo Lagonia, and Giuseppe Tagarelli.
+"Walter Stanborough Sutton: A Hundred Years After the Chromosomal Theory
+of Heredity." Chromosoma 112 (2003): 1–5.
+Wilson, Edmund Beecher. The Cell in Development and Inheritance. London:
+Macmillan, 1897.  http://dx.doi.org/10.5962/bhl.title.46214 (Accessed
+March 26, 2014).  
+
+How to cite
+Mishra, Abhinav, "Walter Stanborough Sutton (1877-1916)". Embryo Project Encyclopedia (2014-06-27). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/8014.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+Copyright Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Friday, June 27, 2014 - 14:32
+ Topic
+Subject
+Genetics; Chromosomes; Heredity; Sutton, Walter Stanborough, 1877-1916; Boveri, Theodor, 1862-1915; Mendel, Gregor, 1822-1884; Wilson, Edmund B. (Edmund Beecher), 1856-1939; McClung, C. E. (Clarence Erwin), 1870-; Heredity; People

@@ -1,0 +1,49 @@
+By Katherine Brind'Amour
+Published: 2010-05-06
+Keywords: Stem cells, Pluripotency, Regeneration
+ Induced Pluripotent Stem CellsInduced Pluripotent Stem Cells (iPSCs) are cells derived from non-pluripotent cells, such as adult somatic cells, that have been genetically manipulated so as to return to an undifferentiated, pluripotent state.  Research on iPSCs, initiated by 
+		Shinya Yamanaka in 2006 and extended by 
+		James Thompson in 2007, has so far revealed the same properties as 
+		embryonic stem cells (ESCs), making their discovery potentially very beneficial for scientists and ethicists alike.  By avoiding the destruction of 
+		embryos and the complicated technique and resource requirements of ESCs, iPSCs may prove more practical and attractive than ESC research in the study of pluripotent stem cells.
+Yamanaka and his team were able to revert the differentiated cells to a 
+		pluripotent stage by using a retrovirus to insert specific genes known to be active in ESCs into the cells’ 
+		genome.  Originally performed with mouse cells by Yamanaka and his team at Japan’s Kyoto University, both Yamanaka’s group and James Thompson’s research team at University of Wisconsin, Madison, extended the technique to human 
+		somatic cells in November of 2007.  A variety of genes and gene families have been identified as key components of a successful induction to the pluripotent state: Oct-3/4, the Sox family, the Klf family, the Myc family, Nanog, and LIN28.  Additional genes that are expressed in ESCs include GDF3, REX1, FGF4, ESG1, DPPA2, DPPA4, and hTERT.
+Unlike ESCs, iPSCs do not require embryos or even 
+		eggs from female donors — a feature that has made them very appealing to scientists wishing to do work on pluripotent stem cells, which has heretofore been restricted in the United States and elsewhere due to ethical concerns and legal limitations.  Though early work with iPSCs failed to produce living mice from embryos containing iPSCs, several research teams in the US and Japan achieved success after injecting iPSCs into developing embryos.  The insertion of iPSCs into mice also originally caused high rates of cancerous tumors, but removal of the c-Myc genes from the retrovirus apparently eliminates the unusually high risk of cancer, according to further 2008 research by Yamanaka and his team. 
+Despite the genetic alteration involved in producing iPSCs, in most other aspects they are as yet indistinguishable from ESCs.  In fact, the skills and resources required to produce iPSCs are significantly less labor-intensive and costly than those required for ESCs, in that most scientists with experience in 
+		genetic reprogramming can produce iPSCs.  Neither iPSCs nor ESCs have yet been used in clinical treatments, though many researchers believe that undifferentiated cells hold even more potential for therapeutic applications than do 
+		adult stem cells, which are already used in a variety of therapies.
+Immediately hailed by the media as the next step toward 
+		personalized medicine and the answer to the ESC research controversy, many researchers, ethicists, writers, and anti-ESC research groups have called for an end to or reduction in ESC research and funding.  Scientists in the field, including some of the teams working with iPSCs, caution that it is still too soon to assume that iPSCs can replace ESCs in clinical potential and that ESC research will continue to be important in increasing science’s understanding of 
+		developmental biology.  In addition, some scholars caution that iPSCs may eventually be altered to reach the 
+		totipotent state, which could nullify their ethical simplicity and place them on equal footing with embryos. 
+Though iPSCs show a great deal of potential for 
+		stem cell therapies and clinical applications, scientists are still in the fledgling research stages for this technology.  If they surpass ESCs in practicality and success rates without totipotent capabilities, however, iPSCs may lay much of the ethical controversy surrounding ESC research to rest. 
+
+Sources
+Baker, Monya.  “Adult Cells Reprogrammed to Pluripotency, without Tumors.”  Nature Reports Stem Cells. http://www.nature.com/stemcells/2007/0712/071206/full/stemcells.2007.124.html (Accessed July 10, 2008)
+Baylis, Françoise, and Timothy Krahn.  “The Trouble with Embryos.”  Unpublished manuscript  (2008).
+Hanna, Jacob, Marius Wernig, Styliani Markoulaki, Chiao-Wang Sun, et al.  “Treatment of Sickle Cell Anemia Mouse Model with iPS Cells Generated from Autologous Skin.”  Science 318 (2007): 1920–23. http://www.sciencemag.org/cgi/content/abstract/sci;318/5858/1920 (Accessed July 10, 2008) 
+Healy, Bernadine.  “A Stem Cell Victory.”  USNews: Health. http://health.usnews.com/articles/health/2008/01/02/a-stem-cell-victory.html (Accessed July 10, 2008) 
+Nakagawa, Masato, Michiyo Koyanagi, Koji Tanabe, Kazutoshi Takahashi, et al. “Generation of Induced Pluripotent Stem Cells without Myc from Mouse and Human Fibroblasts.”  Nature Biotechnology 26 (2008):101–6. http://www.nature.com/nbt/journal/v26/n1/full/nbt1374.html, published online 30 November 2007.  (Accessed July 10, 2008)
+Reinberg, Steven.  “Scientists Show Stem Cells Don’t Cause Cancer.”  USNews 14 February 2008. http://health.usnews.com/usnews/health/healthday/080214/scientists-show-stem-cells-dont-cause-cancer.htm (Accessed July 10, 2008) 
+Yu, Junying, Maxim Vodyanik, Kim Smuga-Otto, Jessica Antosiewicz-Bourget, et al. “Induced Pluripotent Stem Cell Lines Derived from Human Somatic Cells.”  Science 318 (2007):1917–20.  http://www.sciencemag.org/cgi/content/abstract/1151526.  (Accessed July 10, 2008)
+
+
+How to cite
+Brind'Amour, Katherine, "Induced Pluripotent Stem Cells". Embryo Project Encyclopedia (2010-05-06). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/1974.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 25, 2013 - 15:53
+ Topic
+Subject
+Stem Cells; Stem cells.; Literature

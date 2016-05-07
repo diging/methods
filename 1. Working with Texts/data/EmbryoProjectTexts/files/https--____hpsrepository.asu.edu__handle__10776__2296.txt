@@ -1,0 +1,58 @@
+By Erica O'Neil
+Published: 2010-10-20
+Keywords: Fetal alcohol syndrome, Congenital disorders, Fetus
+ Effect of Prenatal Alcohol Exposure on Radial Glial CellsPrenatal alcohol (ethanol) exposure can have dramatic effects on the development of the 
+		central nervous system (CNS), including morphological abnormalities and an overall reduction in white matter of the brain. The impact of ethanol on neural stem cells such as 
+		radial glia (RG) has proven to be a significant cause of these defects, interfering with the creation and migration of 
+		neurons and 
+		glial cells during development. The impact of ethanol on RG can occur as early as three weeks after fertilization and can persist through the third trimester of pregnancy, interfering with intrinsic mechanisms and signaling pathways to impede cellular proliferation, differentiation, and survival.
+Abnormalities in CNS morphology were first observed in the early 1970s through the postmortem study of infants and fetuses whose mothers had heavily abused alcohol during pregnancy. In addition to this specific suite of CNS defects, researchers also observed minor facial abnormalities and growth disruptions correlated to level of exposure. This combined symptomatology was collectively defined as 
+		Fetal Alcohol Syndrome (FAS). Since this initial discovery, the effects of prenatal ethanol exposure on development have been well catalogued, but the mechanisms to explain these defects are more complex. The mechanistic complexity of how alcohol affects the CNS is due in large part to the intricacy of neural development. 
+
+		Neuroepithelial cells are a type of 
+		stem cell that differentiates into neural progenitor cells, the most common of which are RG in the CNS. RG are multipotent, uncommitted cells that have the ability to give rise to neurons and glial cells in the CNS, and provide chemical guidance and physical scaffolding for the migration of daughter neurons to different parts of the brain. Neurons are basic brain cells that conduct information electrochemically to coordinate tasks that vary from motor control and the maintenance of homeostasis to complex cognitive processes like learning and memory. Glial cells function to support neurons and include 
+		astrocytes, 
+		oligodendrocytes, and 
+		ependymal cells. They insulate and anchor neurons while maintaining intercellular nutrient and chemical gradients essential to CNS function.
+Prenatal exposure to ethanol can have a profound impact on the development and proliferation of these RG progenitor cells, which can result in the creation of fewer neurons (
+		neurogenesis) and glial cells (
+		gliogenesis), and morphological abnormalities in those that are produced. The reduction in neuronal and glial production can result in drastically lower brain volumes (
+		microcephaly), and in gross morphological and functional abnormalities within the developing CNS, all characteristics initially defined as symptomatic of FAS. Two midline areas of the brain that are among the first to be formed by RG are the 
+		corpus callosum and 
+		anterior commissure. Defects to both of these areas were observed in the formative studies of FAS, providing further support for the role of RG as neural progenitor cells.
+RG cells begin their development during the third week after fertilization, at which point the developing CNS becomes susceptible to ethanol-induced damage, a vulnerability that exists through the third trimester of development. 
+		Cranial neural crest cells (CNCC) develop concurrently, with ethanol damage to these cells resulting in the characteristic 
+		facial abnormalities of FAS rather than impeding CNS function. At approximately seven weeks after fertilization, RG cells begin to derive the midline of the brain, giving rise to the two hemispheres. At this time the developing corpus callosum becomes vulnerable to the possibility of ethanol-induced damage to the RG progenitor pool, which can lead to a loss of neuronal connections between the two hemispheres, resulting in reduced thickness (hypoplasia) or non-formation (agenesis) of the corpus callosum. Between seven and twenty weeks after fertilization the majority of the brain differentiates; during this time the RG cells generate and provide the scaffolding to guide newly created neurons to their ultimate destination.
+Ethanol impairment to the RG progenitor pool continues to impede cellular proliferation and differentiation through the third trimester of development, which can affect the 
+		cerebellum, glial cell differentiation, and 
+		synaptogenesis. The cerebellum is the only portion of the brain to differentiate primarily during the third trimester of gestation, at which point ethanol damage to the RG can affect cerebellar morphology and function. Gliogenesis also occurs at this time when the RG progenitor cells lose their multipotency and differentiate into the glial cells (astrocytes, oligodendrocytes) that are necessary to support the newly developed CNS. Synaptogenesis also occurs in the third trimester, during which the newly differentiated glial cells promote the formation and regulation of synapses between neurons. Ethanol-induced damage to RG that results in fewer glial cells impacts the ability of these cells to perform important tasks, such as regulating neurotransmitters and metabolic processes within the brain.
+Signaling pathways responsible for the maintenance of the RG include those involved with the gene notch homolog 1 (
+		Notch1) and the 
+		fibroblast growth factor receptor 2 (FGFR2), both of which are essential to maintaining the RG progenitor pool. Disruptions to the 
+		cyclin-dependent kinase system can also ultimately reduce the level of FGFR2, impeding the number of receptors available to bind the growth factors that are essential to cellular development and leading to cell death and decreasing the number of RG progenitors.
+RG are the progenitor cells that are primarily responsible for the development of the CNS, and as such, damage to this cellular population has far-reaching implications for normal everyday functioning. Depending on the timing, severity, and duration of prenatal alcohol exposure, impairment can range from motor coordination impairments to learning disabilities and behavioral conditions like ADHD. The broad developmental timeframe during which prenatal exposure can impact development ranges from the period just after 
+		gastrulation through the ultimate synaptogenesis of newly developed neurons in the CNS. This leaves no period during prenatal development during which alcohol use is without consequence. Further examination into the mechanism of ethanol-induced damage to RG may help in the future development of strategies for the prevention and mitigation of FAS. 
+
+Sources
+Guerri, Consuelo, Alissa Bazinet, and Edward P. Riley. “Foetal Alcohol Spectrum Disorders and Alterations in Brain and Behavior.” Alcohol & Alcoholism 44 (2009): 108–14.
+Jones, Kenneth Lyons, and David W. Smith. “Recognition of the Fetal Alcohol Syndrome in Early Infancy.” Lancet 2 (1973): 999–1001.
+Jones, Kenneth Lyons, David W. Smith, Christy N. Ulleland, and Ann Pytkowicz Streissguth. “Pattern of Malformations in Offspring of Alcoholic Mothers.” Lancet 1 (1973): 1267–71.
+Rubert, Gemma, Rosa Miñana, Maria Pascual, and Consuelo Guerri. “Ethanol Exposure During Embryogenesis Decreases the Radial Glial Progenitor Pool and Affects the Generation of Neurons and Astrocytes.” Journal of Neuroscience Research 84 (2006): 483–96.
+Saito, Toshikazu, Boris Tabakoff, Paula L. Hoffman, Kim Nixon, Masaru Tateno, and Consuelo Guerri. “The Effects of Ethanol on Neuronal and Glial Differentiation and Development.” Alcoholism: Clinical and Experimental Research 29 (2005): 2070–75.
+
+
+How to cite
+O'Neil, Erica, "Effect of Prenatal Alcohol Exposure on Radial Glial Cells". Embryo Project Encyclopedia (2010-10-20). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/2296.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 25, 2013 - 15:53
+ Topic
+Subject
+Fetal Alcohol Syndrome; Fetal alcohol syndrome.; Concept

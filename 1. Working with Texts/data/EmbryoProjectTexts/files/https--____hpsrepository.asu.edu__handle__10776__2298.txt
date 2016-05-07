@@ -1,0 +1,49 @@
+By Angel Lopez
+Published: 2010-10-29
+Keywords: Medicine, Medical procedures, Regeneration
+ Tissue EngineeringTissue engineering is a field of 
+		regenerative medicine that integrates the knowledge of scientists, physicians, and engineers into the construction or reconstruction of human tissue. Practitioners of tissue engineering seek to repair, replace, maintain, and enhance the abilities of a specific tissue or organ by means of living cells. More often than not 
+		stem cells are the form of living cells used in this technology. Tissue engineering is one of the disciplines involved in translating knowledge of 
+		developmental biology into the clinical setting. One focus that this field has taken is the understanding of tissue and organ development during 
+		embryogenesis, as this knowledge will open avenues to new applications of this technology. 
+In 1985, bioengineer 
+		Yuan-Cheng Fung introduced the term “tissue engineering” in a proposal to the 
+		National Science Foundation (NSF) to fund the 
+		Center for the Engineering of Living Tissue at the 
+		University of California, San Diego. The proposal was not funded but Fung suggested the topic again at a 1987 panel meeting in Washington, DC, that focused on discussing the future direction of NSF’s “Directorate for Engineering Bioengineering and Research to Aid the Handicapped Program”; the term “tissue engineering” was coined during this meeting. Internal interest at the NSF led to a special panel discussion of tissue engineering later that year. The first official scientific meeting and workshop for this up-and-coming field was held in 1988 at Lake Granlibakken, CA. Subsequent symposia in 1990 and 1992 aided in the integration of this concept into contemporary scientific literature. In 1993 two scientists, 
+		Robert Langer and 
+		Joseph Vacanti, published a review article in Science that helped spread awareness of the new field and led to support from the NSF. Since then, publications in reference to tissue engineering have increased exponentially from the early 1990s to 2000. 
+There are two essential components needed to engineer tissue: a group of cells and a mechanical scaffold. The cells provide the necessary cellar components to rebuild tissue while the scaffold acts as a stable platform that can direct the three dimensional organization. The cells have three roles in the development of new tissue: to provide the extracellular matrix, to help with the long-term maintenance of that matrix, and to function as tissue. A key characteristic of using cells in reconstruction is their ability to respond and adapt to internal (biological) and external (environmental) stimuli in vivo. Unlike noncellular material, this ability allows for the persistence of the engineered tissue. Most importantly, the cells must share the same physical characteristics and function as the defunct tissue. In order to do this, cells of the defunct tissue are isolated and cultured, and once the cells reach a certain critical mass, they are ready for implantation. The cells that show the most promise of developing into desired phenotypes are stem cells. Stem cells have the ability to differentiate into various cell lineages, but they vary in potential for differentiation, morphology, and origin. The human body contains a diverse set of stem cells, including 
+		mesenchymal, 
+		hematopoietic, and 
+		neural stem cells, which constantly act to renew cells that are damaged or destroyed. In addition to endogenous (from within the host) stem cells, there is also much interest in looking into exogenous (from outside the host) 
+		pluripotent stem cells. 
+The second component of tissue engineering, the material scaffold, stems from the closely related field of biomaterials. This field studies materials used in the human body, and the mutual effects experienced by the material and the host. In a majority of cases, the material used in this field is nonvolatile, and does not degrade or harm the host. The primary purpose of the scaffold is to provide mechanical support to the tissue graft and to aid in the three-dimensional framework. Some scaffolds can also influence the cells’ expression of the phenotype as made evident by a case where the chondrocyte (cartilage) phenotype reemerges on an agarose scaffold despite undergoing a dedifferentiation process. This observation has led to the development of more sophisticated scaffolds that not only provide support but can also direct tissue development. Moreover, upon the deposition of the extracellular matrix around the construct, the scaffold becomes obsolete. For this reason, there has been an emergence of biodegradable scaffolds. These allow for the replacement of this nonorganic structure with the organic extracellular matrix produced the grafted cells. Last, scaffolds also help with suppressing an immune response to allogenic (genetically different from host) cells. This ability helps solve the most prominent issues in cellular graft–tissue rejection. Based on the wide array of its functions, the success of construct implementation is heavily dependent on the proper function of the scaffold.  
+Tissue engineering has become a prominent component of regenerative medicine. Several skin constructs have been developed and research is being conducted to apply this technology to bone, cartilage, heart, liver, pancreas, and ocular tissue. One discipline that continues to have present and future implications for this field is developmental biology. The discovery of developmental genes, especially 
+		Hox genes, has led to a closer relationship between tissue engineering and developmental biology. Through this relationship, the prospect of regrowing amputated limbs or curing degenerative diseases becomes more attainable.
+
+Sources
+Andersson, Elisabeth R., and Urban Lendahl. “Regenerative Medicine: A 2009 Overview.” Journal of Internal Medicine 266 (2009): 303–10.
+Bianco, Paolo, and Pamela G. Robey. “Stem Cells in Tissue Engineering.” Nature 414 (2001): 181–221.
+Bonassar, Lawrence J., and Charles A. Vacanti. “Tissue Engineering: The First Decade and Beyond.” Journal of Cellular Biochemistry Supplements 30 (1998): 297–303.
+Kemp, Paul. “History of Regenerative Medicine: Looking Backwards to Move Forwards.” Future Medicine 1 (2006): 653–69.
+Ingber, Donald E., Van C. Mow, David Butler, Laura Niklason, Johnny Huard, Jeremy Mao, Ioannis Yannas, David Kaplan, and Gordana Vunjak-Novakovic. “Tissue Engineering and Developmental Biology: Going Biomimetic.” Tissue Engineering 12 (2006): 3265–83.
+National Institutes of Health. “Regenerative Medicine.” U.S. Department of Health and Human Services. (2006). http://stemcells.nih.gov/info/2006report/ (Accessed March 12, 2010).
+National Science Fund. “The Emergence of Tissue Engineering as a Research Field. Executive Summary.” U.S. Department of Health and Human Services. (2003). http://www.abtassociates.com/reports/es_emergence_tissue_engineering_research.pdf (Accessed May 4, 2010).
+
+
+How to cite
+Lopez, Angel, "Tissue Engineering". Embryo Project Encyclopedia (2010-10-29). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/2298.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 25, 2013 - 15:53
+ Topic
+Subject
+Tissue Engineering; Tissue engineering.; Concept

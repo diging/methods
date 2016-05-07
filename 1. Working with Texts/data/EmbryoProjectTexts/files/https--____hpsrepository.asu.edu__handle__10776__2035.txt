@@ -1,0 +1,50 @@
+By Julia Damerow
+Published: 2010-06-22
+Keywords: Biography, Morphogenesis, Models
+ Alan Mathison TuringAlan Mathison Turing was a British mathematician and computer scientist who lived in the early twentieth century. Among important contributions in the field of mathematics, computer science, and philosophy, he developed a mathematical model of 
+		morphogenesis. This model describing biological growth became fundamental for research on the process of embryo development.
+Turing was born in London on 23 June 1912 into the upper middle class. His mother was Ethel Sara Stoney, his father Julius Mathison Turing. Turing began to study mathematics at 
+		King’s College, Cambridge, in 1931, and graduated with distinction in 1934. In 1935 he was elected a fellow of King’s College for his work on probability theory.
+Turing could easily have continued in the field of mathematics, but he decided to turn his interests to the field of logic and started to study the Entscheidungsproblem (“decision problem”) of David Hilbert. The Entscheidungsproblem concerns the question of whether there is a definite method to determine whether a mathematical statement can be proved to be true or false. Shortly before Turing could make his results public, the American logician Alonzo Church published his solution of the Entscheidungsproblem. Because of the differences in their methods, Turing decided to publish his article “On Computable Numbers, with an Application to the Entscheidungsproblem” in the Proceedings of the London Mathematical Society in 1936. This paper became famous in the field of computer science for its introduction of the universal Turing machine. The universal Turing machine is a mathematical model of a machine that can read the description and the input of another machine and can then simulate the other machine. Put simply, the universal Turing machine works on the same principle as an electronic computer. A computer reads a program, runs it, and produces an output. Similarly, the universal Turing machine reads the description of another machine, simulates the machine and produces an output. By introducing the universal Turing machine, Turing described the concept of the electronic computer before it was even invented.
+In September 1936, Turing began his PhD work at 
+		Princeton University, New Jersey, with Alonzo Church as his advisor. After he finished his studies in the fall of 1938 the mathematician 
+		John von Neumann offered Turing an assistantship at Princeton, but Turing decided to go back to England. In 1939, at the start of World War II, Turing joined the Government Code and Cypher School at Bletchley Park, the British government’s communication headquarters during the war. There he made important contributions to the decryption of the apparently unbreakable Enigma code used by the Germans to cipher messages.
+At Bletchley Park Turing had a chance to work with large-scale digital electronic machinery. Impressed by its reliability and speed, he began to work on a practical version of the universal Turing machine in 1943. By the end of World War II, Turing had a plan for just such a machine, which we now call an electronic computer. In October 1945, Turing joined the National Physical Laboratory (NPL), near London, where he had the chance to carry out his plan to build a universal Turing machine. Unfortunately for Turing, hardware engineering problems dominated the development of the machine and hampered the implementation of software, the most important part of Turing’s concept. Frustrated by this, in 1948 Turing moved to 
+		Manchester University as deputy director of the Computing Laboratory. There he was able to obtain 
+		Royal Society funding and hire highly qualified engineers so that the first version of his machine was soon running.
+Turing began to think and write about 
+		artificial intelligence while working at the NPL. He argued that computable operations could emulate human intelligence. In 1950 his famous paper “Computing Machinery and Intelligence” was published in the philosophy journal Mind. In this paper he introduced the Turing Test as an instrument for deciding whether a machine can be regarded as intelligent. The Turing Test became fundamental in the field of artificial intelligence.
+In 1951, Turing was elected a Fellow of the Royal Society. It was then that he started to think about a mathematical explanation for morphogenesis, or how an organism can develop form. His paper 
+		“The Chemical Basis of Morphogenesis” was published in 1952 in the Philosophical Transactions of the Royal Society of London. In this article Turing describes a mathematical model used to explain how an embryo can develop patterns and structures like coat patterns and limbs. Part of this model is the concept of morphogens, which Turing describes as substances that are present in the cells of an embryo and that stimulate the development of morphological structures. Turing was one of the pioneers who tried a mathematical approach to morphogenesis. “The Chemical Basis of Morphogenesis” became fundamental to further research on this topic. He was also one of the first to introduce the use of computers to work in this field.
+At the end of 1951 Turing was arrested for having a sexual relationship with another man. Homosexuality was at that time and place regarded as an “act of gross indecency,” and was illegal. To avoid prison, he agreed to receive estrogen injections that would reduce his sex drive. Another consequence of his arrest was that the Government Communication Headquarters (GCHQ), the successor of the Government Code and Cypher School at Bletchley Park, which was still consulting him, stopped its collaboration with Turing. As a homosexual, he was considered a “security risk.” Turing tried not to let these problems influence his work. He further developed his theory of pattern formation and he especially tried to explain the appearance of a certain subset of numbers, the so-called Fibonacci numbers, in the leaf patterns of plants. He also began some research concerning quantum mechanics.
+Turing died on 7 June 1954. His housekeeper found him the next day at his home in Wilmslow, Cheshire, England. Turing died of cyanide poisoning, most likely by his own hand. As his biographer Andrew Hodges points out, however, he arranged his death in such a way that those who wanted to, could believe it was an accident.
+For his work at Bletchley Park during World War II, Turing received the Most Excellent Order of the British Empire (OBE). In 1966, twelve years after his death, the Association for Computing Machinery (ACM) introduced the annual Turing Award. This award, the most significant award of the ACM, is given in honor of Turing as a founder of computer science. Furthermore Turing’s life inspired Hugh Whitemore to write a play about Alan Turing, called “Breaking the Code.” This play was first performed in 1986 and was later turned into a television movie. Fifty-five years after Turing’s death, on 10 September 2009, the Prime Minister of the United Kingdom, Gordon Brown, officially apologized for what he called the “appalling” treatment of Alan Turing. Although Turing was only forty-two years old when he died, he made some highly significant contributions to various fields of research. As Hodges points out, Alan Turing’s work continues to stimulate and inspire.
+
+Sources
+Brown, Gordon. “Treatment of Alan Turing was ‘Appalling’—PM.” The official site of the Prime Minister’s Office. http://www.number10.gov.uk/Page20571 (Accessed October 7, 2009).
+Deutsch, Andreas, and Sabine Dormann. Cellular Automaton Modeling of Biological Pattern Formation. Boston: Birkhäuser, 2005.
+Hodges, Andrew. "Alan Turing." The Stanford Encyclopedia of Philosophy (Fall 2008 Edition). Ed. Edward N. Zalta. http://plato.stanford.edu/archives/fall2008/entries/turing/ (accessed October 3, 2009).
+Hodges, Andrew. “Turing, Alan Mathison (1912–1954).” Oxford Dictionary of National Biography. http://www.oxforddnb.com/view/article/36578 (Accessed October 5, 2009).
+Hodges, Andrew. “Alan Turing Home Page: The Alan Turing Internet Scrapbook—Memorials to Alan Turing.” http://www.turing.org.uk/turing/scrapbook/memorial.html (Accessed October 7, 2009).
+Leavitt, David. The Man Who Knew Too Much. New York: W. W. Norton, 2006.
+Moore, James H., ed. The Turing Test: The Elusive Standard of Artificial Intelligence. Dordrech, Netherlands: Kluwer Academic, 2003.
+Teuscher, Christoph, ed. Alan Turing: Life and Legacy of a Great Thinker. Berlin, New York: Springer-Verlag, 2004.
+Turing, Alan M. “The Chemical Basis of Morphogenesis.” Philosophical Transactions of the Royal Society of London B, Biological Sciences 237 (1952): 37–72.
+Turing, Alan M. The Essential Turing. ed. Jack Copeland. New York: Oxford University Press, 2004.
+
+
+How to cite
+Damerow, Julia, "Alan Mathison Turing (1912-1954)". Embryo Project Encyclopedia (2010-06-22). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/2035.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, April 1, 2015 - 23:45
+ Topic
+Subject
+Morphogenesis; Turing, Alan Mathison, 1912-1954; People

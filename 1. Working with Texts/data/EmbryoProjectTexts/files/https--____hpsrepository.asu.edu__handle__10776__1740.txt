@@ -1,0 +1,65 @@
+By Adam R. Navis
+Published: 2007-10-30
+Keywords: Transplantation, Chicks
+ "Proliferation, Differentiation and Degeneration in the Spinal Ganglia of the Chick Embryo under Normal and Experimental Conditions" (1949) by Viktor Hamburger and Rita Levi-MontalciniIn this paper 
+		Viktor Hamburger and 
+		Rita Levi-Montalcini collaborated to examine the effects of 
+		limb transplantation and explantation on 
+		neural development.  In 1947 
+		Hamburger invited 
+		Levi-Montalcini to his lab at 
+		Washington University in St. Louis to examine this question.  Independently, each had previously arrived at opposing conclusions based on the same data.  
+		Hamburger concluded that 
+		limb transplantations caused the ganglia to develop more connections and grow larger while 
+		Levi-Montalcini concluded that the ganglia first produce a large amount of neurons, then degenerate the unsuccessful neurons.  She concluded that larger ganglia must be due to the increase in successful connections.  This joint paper, published in the Journal of Experimental Zoology in 1949, corroborated the findings reported by 
+		Levi-Montalcini and established that nerve degeneration is an integral part of development.
+
+		Hamburger and 
+		Levi-Montalcini compared nerve growth in normal 
+		chick embryos to 
+		chick embryos with an extra, transplanted limb and to 
+		chick embryos which had a limb removed.  They compared 
+		hyperplasia (overgrowth) versus 
+		hypoplasia (undergrowth) of the ganglia.  Previous studies had only examined the end result of similar experiments.  
+		Hamburger and 
+		Levi-Montalcini decided to study the growth as a developmental process.  They examined nerve growth at each of many stages, measuring growth by a variety of methods to determine the proliferation of each ganglion.
+The 
+		limb transplantations and explantations were conducted at two and one half to three days and the right wing or hind limb buds were chosen for experimentation.  
+		Hamburger and 
+		Levi-Montalcini then fixed the transplant embryos at a series of 
+		developmental stages:  one series between five and eight days to examine the mitotic count and another series between nine and seventeen days to study the cell count.  These data provided a measure of the growth activity in the neural tissue.  Another set of embryos was prepared for study on neuroblast differentiation.  Neuroblasts are the precursors to more differentiated neural cells.  These embryos were impregnated with silver to reveal the neural tissue.
+
+		Hamburger and 
+		Levi-Montalcini found that the early differentiated neuroblasts began to degenerate soon after developing, peaking between the fifth and sixth days.  They showed that macrophages, which remove the dead tissue, were active in the areas of degeneration.  The degeneration was directly related to the presence or absence of limbs near each ganglion, which led to the conclusion that peripheral tissue was acting to provide growth and differentiation first, and maintenance in later stages.
+
+		Hamburger and 
+		Levi-Montalcini reexamined ganglia growth by studying the proliferation of nerve cells.  They confirmed a previous finding by 
+		Levi-Montalcini and 
+		Giuseppe Levi that there were two types of nerve cells, ventrolateral cells and mediodorsal cells, identified by the position on the ganglion and time of differentiation.  The ventrolateral cells begin to differentiate early, and stop differentiating as the mediodorsal cells begin their differentiation.  The ventrolateral cells were found to be the most responsive to experimental changes like transplantation and explantation.  The ventrolateral cells experience greater proliferation when a new limb is transplanted to an embryo, and greater degeneration when a limb is removed from the embryo.
+
+		Hamburger and 
+		Levi-Montalcini resolved the contradiction between their papers.  They showed that the ganglia develop by initial undirected nerve growth, then the unsuccessful neurons are degenerated and resorbed by the embryo.  Later experimentation by 
+		Hamburger and 
+		Levi-Montalcini revealed the presence of 
+		nerve growth factor, which is a signaling molecule that grows and maintains the nervous system.  The most important development in this paper is the discovery that the nervous system must be continuously maintained after it has developed.
+
+Sources
+Hamburger, Viktor, and Rita Levi-Montalcini. “Proliferation, Differentiation and Degeneration in the Spinal Ganglia of the Chick Embryo Under Normal and Experimental Conditions.” Journal of Experimental Zoology 111 (1949): 457–502.
+Levi-Montalcini, Rita. “The Nerve Growth Factor 35 Years Later.” Science 237 (1987): 1154–1162. 
+
+
+How to cite
+Navis, Adam R., ""Proliferation, Differentiation and Degeneration in the Spinal Ganglia of the Chick Embryo under Normal and Experimental Conditions" (1949), by Viktor Hamburger and Rita Levi-Montalcini". Embryo Project Encyclopedia (2007-10-30). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/1740.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, March 18, 2015 - 16:33
+ Topic
+Subject
+Transplantation; Chickens--Embryos; Developmental biology; Cell differentiation; Embryos; Levi-Montalcini, Rita; Hamburger, Viktor, 1900-2001; Experiment

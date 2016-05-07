@@ -1,0 +1,55 @@
+By Corinne DeRuiter
+Published: 2010-11-19
+Keywords: Fate mapping, Cell lineage
+ Fate Mapping TechniquesFor more than 2000 years, embryologists, biologists, and philosophers have studied and detailed the processes that follow fertilization. The fertilized egg proliferates into cells that begin to separate into distinct, identifiable zones that will eventually become adult structures through the process of 
+		morphogenesis. As the cells continue to multiply, patterns form and cells begin to differentiate, and eventually commit to their fate. This progression of events can be examined by following the developmental path of each 
+		progenitor cell and creating a two-dimensional representation (a 
+		fate map) where cell location and fate can be labeled and marked. Fate mapping is a method for tracing cell lineages and a fundamental tool of developmental biology and embryology. 
+In 1905 
+		Edwin G. Conklin, a biologist and zoologist, conducted the first cell lineage experiments, which involved following the progenitor cells of the embryo of the tunicate 
+		Styela partita. This tunicate, or sea squirt, was an ideal organism to study because as its cells differentiate, they become differently colored, a fact that allowed Conklin to follow their developmental pathway. Because of Conklin’s work, the developmental history of the tunicate is commonly found in embryology textbooks. However, the development of most organisms is not as easy to visualize as it is in the tunicate embryo, necessitating the invention of alternative fate mapping techniques.
+In 1929 
+		Walter Vogt, an embryologist, invented a process in which vital dye and agar chips are used to stain a specific region of a developing 
+		amphibian embryo. The dyed cells could then be traced through the developmental phases of the embryo. To do this, Vogt spread dye and agar on a microscope plate and allowed it to dry. He then cut small pieces of the dried agar and applied it to a desired part of the embryo. As the amphibian embryo developed, Vogt continued applying the agar chips to different regions, allowing him to study the movement of the cells. Through this process, he was able to create accurate fate maps and to introduce embryologists to a new approach to studying morphogenesis. 
+Embryologists continued to make advances in mapping technologies. For example, 
+		radioactive labeling and 
+		fluorescent dyes are both relatively simple experimental tools that use a donor and a host embryo to follow cell migration. The donor embryo is treated with dye or irradiated and a graft from the donor is removed and placed onto the host embryo where it joins the developmental process. The host embryo continues to develop normally. If at any point in development the embryo is sectioned with a microtome, prepared appropriately, and examined under a microscope, the cells from the donor embryo are then clearly distinguishable from those of the host embryo. 
+Another process for fate mapping was invented by 
+		Nicole Le Douarin, a developmental biologist who created 
+		chimeras, or animals with two or more sets of genetically distinct cells. Le Douarin removed a portion of neural tube and neural crest from a chick embryo and replaced it with an identical portion of neural tube and neural crest from a quail embryo at the same stage of development. Le Douarin also discovered that 
+		Feulgen stain distinguishes quail cells from chick cells, which allowed her to trace the migration of quail cells. Her work with chick-quail chimeric fate maps led to critical knowledge on the development of nervous systems in higher order organisms. 
+Genetic information can also be used to generate a fate map. 
+		Genetic fate mapping (GFM) uses two genetically engineered alleles, one of which expresses a site-specific recombinase, such as cyclization (Cre) or flipase (Flp), while the other contains a reporter allele such as 
+		green fluorescent protein (GFP). Cre and Flp both splice the DNA in specific locations and are capable of activating the reporter gene, which is used as a cell marker. Cre recombinase works via the Cre-Lox recombination system, in which the Cre protein catalyzes recombination between sites that contain the loxP sequence. The Flp enzyme works via the Flp-FRT recombination system, which is analogous to the Cre-Lox system; however, this system differs by using the enzyme flipase to recombine the sequences at the flipase recognition target (FRT) sites. In both cases, responsive cells are forced to express the reporter allele to generate a genetically distinct and labeled cell lineage. Together, these processes have revolutionized the way that fate maps are generated. 
+An advance in the technology of genetic fate mapping is 
+		genetically inducible fate mapping (GIFM). This technique generates the Cre fusion proteins used in GFM with a 
+		tamoxifen-responsive estrogen receptor ligand binding domain (CreER). CreER is removed from the cytoplasm of the cell via 
+		heat shock protein 90 (Hsp90). Administering 
+		tamoxifen, an antagonist of the estrogen receptor, leads to a conformational change in the CreER that allows it to escape from Hsp90. Once it is released, it can induce recombination between the loxP sites as in standard GFM. The fate of the progenitor cells can then be determined at any later point during development. 
+
+		Fate maps are essential for understanding structural developments and processes of formation. As the methods of fate mapping continually change, the accuracy of each fate map is improved. Fate mapping technologies allow embryologists to follow an individual cell through morphogenesis and have led to the ability to manipulate organisms through development. This potential to intervene during embryological development may make room for advances in 
+		preventive medicine and 
+		stem cell research. 
+
+Sources
+Adams, Richard, and Samantha England. “Building a Dynamic Fate Map.” BioTechniques 43 (2007): 20–24.
+Balinsky, Boris Ivan. An Introduction to Embryology, 3rd ed. Philadelphia, PA: W. B. Saunders, 1970, 196–200.
+Brown, Ashley, Stephen Brown, Debra Ellisor, Nellwyn Hagan, Elizabeth Normand, and Mark Zervas. “A Practical Approach to Genetic Inducible Fate Mapping: A Visual Guide to Mark and Track Cells in Vivo.” Journal of Visualized Experiments 34 (December 30, 2009). http://www.jove.com/index/details.stp?id=1687, doi: 10.3791/1687 (Accessed January 29, 2010).
+Gilbert, Scott. Developmental Biology, 8th ed. Sunderland, MA: Sinauer Associates, 2006, 10–13, 217–19, 244, 264, 295, 302, 329–331, 339.
+
+
+How to cite
+DeRuiter, Corinne, "Fate Mapping Techniques". Embryo Project Encyclopedia (2010-11-19). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/1751.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 25, 2013 - 15:53
+ Topic
+Subject
+  Technology

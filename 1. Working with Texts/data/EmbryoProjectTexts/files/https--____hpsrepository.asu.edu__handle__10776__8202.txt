@@ -1,0 +1,208 @@
+By M. Elizabeth Barnes
+Published: 2014-09-19
+Keywords: neurocristopathies, neural crest cells, Julia Platt
+ NeurocristopathiesNeurocristopathies are a class of pathologies, or disorders, in vertebrates,
+including humans, that result from abnormal expression, migration,
+differentiation, or death of neural crest cells (NCCs) during embryonic development. NCCs are cells
+derived from the embryonic cellular structure called the neural crest.
+Abnormal NCCs can cause a neurocristopathy by chemically affecting the
+development of the non-NCC tissues around them. They can also affect the
+development of NCC tissues, causing defective migration or
+proliferation of the NCCs. There are many neurocristopathies
+that affect many different types of systems. Some neurocristopathies
+result in albinism (piebaldism) and cleft palate in humans. Various
+pigment, skin, thyroid, and hearing disorders, craniofacial and heart
+abnormalities, malfunctions of the digestive tract, and tumors can be
+classified as neurocristopathies. This classification ties a variety of
+disorders to one embryonic origin.
+A neural crest is a cellular
+structure that arises early in the development of a vertebrate
+embryo. It becomes visually distinct from other germ layers during the
+neurula stage of the embryo, when the neural plate folds and becomes
+the neural tube. Subsequently, the cells derived from the neural crest,
+NCCs, migrate down several different paths as the embryo develops. As
+they migrate, they differentiate into diverse cell types that contribute
+to a wide range of organs and tissues including the eyes, ears, face,
+heart, digestive system, and skin. There are three categories of
+NCCs based on their shared paths of migration and contribution to
+organs: trunk (tNCCs), sacral and vagal, cardiac (CarNCCs), and cranial
+(CNCCs). The diversity of NCCs contribution to different biological
+systems explains why neurocristopathies encompass such a wide range of
+disorders.
+Robert Bolande, a physician at McGill University in Montreal,
+Canada, coined the term neurocristopathy in his 1974 article "The
+Neurocristopathies: A Unifying Concept of Disease Arising in Neural
+Crest Maldevelopment." He argued that the classification of
+neurocristopathy helped unify multiple disorders under one concept. This
+classification traced the disorder to a common origin. The disorders'
+neural crest origins explained why many of these disorders often occur
+together in an individual. Bolande divided neurocristopathies into four
+categories: tumors, tumor syndromes, malformations, and all other
+neurocristopathies.
+Due to the rediscovery of cranium cells derived from neural crest cells
+in the latter half of the twentieth century, the cataloged number and
+variety of neurocristopathic disorders has increased since Bolande's
+1974 publication. Following Bolande's publication, researchers studied how NCCs contribute to craniofacial skeleton
+abnormalities. Researchers, including Gillian Morris-Kay working in 1987
+at the University of Oxford in Oxford, UK, found that many craniofacial
+abnormalities resulted from the defective development of NCCs, therefore
+making them neurocristopathies. One example of a neurocristopathic
+craniofacial abnormality is the cleft palate, which occurs in
+approximately five in every 2,000 US births.
+Decades before
+researchers classified craniofacial abnormalities as neurocristopathies, several biologists proposed
+that the craniofacial skeleton developed from NCCs.
+The first was Julia Platt, working
+in Woods Hole, Massachusetts, who discovered in 1893 that NCCs
+contribute to structures in the cranium of mudpuppies. Many researchers rejected Platt's research because it contradicted
+the germ layer theory, which described the mesoderm as the germ layer
+that was the only progenitor of the craniofacial skeleton. Throughout the
+first half of the nineteenth century, several independent experiments
+done by Francis Leroy Landacre at Ohio State University in Columbus,
+Ohio, and Leon Stone at Yale University in New Haven, Connecticut,
+illustrated problems with the germ layer theory by demonstrating the NCC
+contribution to craniofacial structures.
+Doctors in the early
+twenty-first century continued to classify neurocristopathies using
+Bolande's four categories of tumors, tumor syndromes, malformations, and
+all other neurocristopathies. Neurocristopathic tumors are tumors that
+affect only one type of tissue, and they all arise from abnormal tNCCs.
+Neuroblastomas, also called malignant embryomas, are the most common
+tumors found in small children. They are neuroendocrine adrenal gland
+tumors and arise from abnormal tNCC neurons. Another type of
+neurocristopathic tumor, in the bowel and gastrointestinal tract,
+doctors call carcinoid. These tumors arise from tNCC originated adrenal
+medulla cells. A related disorder, due to its tNCC origin and effects on
+the digestive tract, is Hirschsprung disease, which doctors characterize
+by a lack of ganglia in the colon. However, it is not a tumor.
+
+Neurocristopathic tumor syndromes affect multiple tissues, as opposed to
+the neurocristopathic tumors, which only affect one. An example of these
+syndromes is neurofibromatosis. Neurofibromitosis occurs when abnormal
+Shwann cells arise from tNCCs and cNCCs.  This syndrome
+results in neuroid tumors, discoloration of the skin, and possible
+scoliosis or other abnormalities of the bones. Another example is Sipple
+syndrome, which results from abnormal calcitonin producing cells that
+originate from vagal NCCs. Sipple syndrome is associated with the
+appearance of several types of tumors throughout the neuroendocrine
+system including thyroid and adrenal carcinomas.
+ Neurocristopathic
+malformations affect the configuration of body structures. Abnormal
+mesenchymal cells derived from cNCCs cause these types of malformations.
+One example is a disorder that consists of several malformations that
+often occur together. These disorders are abbreviated as the CHARGE
+association and include an abnormal iris (Coloboma of the iris), Heart
+defects, abnormal tissue blockage of the nasal pathway (Atresia of
+choanae), Retardation of physical and mental development, Genital
+anomalies, and deafness. Neurocristopathic malformations of the eyes,
+ears, and jaw are called Mandibulofacial dysostosis and Otocephaly. A
+cleft palate is classified in this group of disorders.
+ Researchers use
+the miscellaneous group for neurocristopathic disorders that do not fit
+into the previous classifications. These disorders affect pigment of
+skin cells by abnormal pigment cells derived from vagal NCCs. The most
+recognizable neurocristopathic pigment disorder is albinism. 
+Some researchers characterize neurocristopathies by the
+type of NCC that caused the abnormality. For instance, one type of NCCs,
+the cranial neural crest cells (cNCCs), migrate away from the neural
+crest during development, eventually contributing to the cartilage and
+bone of the skull. Therefore, neurocristopathies derived from abnormal
+cNCCs will affect regions of the skull. While other types of
+NCCs, vagal and sacral, cardiac, and trunk (tNCCs), develop into other
+structures such as skin pigment, neurons and ganglia form other
+structures of the head, neck, gut, and certain structures of the heart.
+Therefore, neurocristopathies derived from these NCCs may affect the
+nervous system, the digestive tract, color of skin, or the heart.
+
+Researchers also classify neurocristopathies by discerning whether the
+disorder results from defective migration of NCCs or from defective
+proliferation of NCCs. Defects in the migration of NCCs during
+development result in malformation disorders such as CHARGE association,
+Mandibulofacial dysostosis, and Otocephaly. Proliferation defects, on the
+other hand, result in dysplasias such as neuroblastomas, carcinoid
+tumors, and neurofibromatosis.
+ Researchers have traced some
+neurocristopathies to abnormal functioning of the Hox genes, a set of
+genes responsible for body patterning. For instance in 1993, Maureen
+Gendron-Maguire and colleagues at the Roche Institute of Molecular
+Biology Roche Research Center in Nutley, New Jersey, found that an
+increase of products made from the Hox 1.1 gene induces a cleft palate in mice. And in
+1995, Nancy Manley and Mario Capecchi working at the University of Utah
+School of Medicine in Salt Lake City, Utah, discovered that, by deleting
+Hox 1.6 in a mouse embryo, they could induce development of the embyo
+without a cranial ganglia. 
+Researchers have shown that teratogens,
+substances that produce defects to an embryo or fetus, also contribute
+to neurocristopathies by disrupting the growth and migration of NCCs.
+Ethanol has been shown to induce craniofacial neurocristopathies, such
+as cleft palate. Thus, there is a connection between abnormal NCCs and the
+facial abnormalities that occur in newborns with fetal alcohol syndrome.
+
+After 2009, neurocristopathic research focused on the molecular basis of
+NCC cell proliferation and migration. Researchers examined the chemical
+outputs of specific NCCs related to particular disorders during
+development. They also manipulated the environments of embryos during
+development to induce a disorder to pinpoint the cause of the
+NCCs abnormalities. Also, researchers described specific genes that may
+contribute to the disorder, such as the Hox genes previously mentioned.
+Scientists have identified other types of genes that contribute to
+neurocristopathies such as Hirschsprung disease, which is a mutation in
+the gene Sox10. 
+ Sources Bolande, Robert
+		P. "The Neurocristopathies: A Unifying Concept of Disease
+		Arising in Neural Crest Maldevelopment." Human Pathology 5
+		(1974): 409–29.
+Bolande, Robert P. "Neurocristopathy: It's Growth and Development in
+Twenty Years." Pediatric Pathology and Laboratory Medicine 1 (1997):
+1–25.
+Etchevers, Heather C.; Amiel, Jeanne; Lyonnet, Stanislas. "Molecular
+Bases of Human Neurocristopathies." In Neural Crest Induction and
+Differentiation, ed Jean-Pierre Saint-Jeannet, 213–34. 2006.
+http://www.landesbioscience.com/pdf/Saint-Jeannet_Lyonnet.pdf (Accessed
+April 30, 2014).
+Gendron-Maguire, Maureen, Moises Mallo, Maobin Zhang, and Thomas
+Gridley. "Hoxa-2 Mutant Mice Exhibit Homeotic Transformation of Skeletal
+Elements Derived from Cranial Crest." Cell 75 (1993): 1317–31.
+Hall, Brian K. The Neural Crest And Neural Crest Cells In Vertebrate
+Development And Evolution. New York: Springer, 2009.
+Hall, Brian K. "The Neural Crest and Neural Crest Cells: Discovery and
+Significance for Theories of Embryonic Organization." Journal of
+Biosciences 33 (2008): 781–93.
+http://www.ias.ac.in/jbiosci/dec2008/781.pdf  (Accessed April 30, 2014).
+Jiang, Xiaobing, David H. Rowitch, Philippe Soriano, Andrew P. McMahon,
+and Henry M. Sucov. "Fate of the Mammalian Cardiac Neural Crest."
+Development 127 (2000): 1607–16.
+http://dev.biologists.org/content/127/8/1607.full.pdf (Accessed April
+30, 2014).
+Manley, Nancy and Mario Capecchi "The Role of Hoxa-3 in Mouse Thymus and
+Thyroid Development." Development 121 (1995): 1989–2003.
+http://dev.biologists.org/content/121/7/1989.full.pdf+html (Accessed
+April 30, 2014).
+Morris-Kay, Gillian, and Seong-Seng Tan. "Mapping Cranial Neural Crest
+Cell Migration Pathways in Mammalian Embryos." Trends in Genetics 3
+(1987): 257–61.
+Landacre Francis L. "The Fate of the Neural Crest in the Head of the
+Urodeles." Journal of Comparative Neurology 33 (1921): 1–43. http://biodiversitylibrary.org/page/11907886 (Accessed April 30, 2014).  
+Platt, Julia B. Ectodermic Origin of the Cartilages of the Head.
+Massachusetts: Medford, 1894.
+Stone, Leon S. "Further Experiments on the Extirpation and
+Transplantation of Mesectoderm in Amblystoma punctatum." Journal of
+Experimental Zoology 44 (1926): 95–131.
+
+ 
+
+How to cite
+Barnes, M. Elizabeth, "Neurocristopathies". Embryo Project Encyclopedia (2014-09-19). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/8202.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+Copyright Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Tuesday, September 23, 2014 - 20:27
+ Topic
+Subject
+pathology; Embryology; Germ Layers; Neural Crest; Cells; Vertebrates; Development; Bolande, Robert P.; Cleft palate; Albinism; Concept

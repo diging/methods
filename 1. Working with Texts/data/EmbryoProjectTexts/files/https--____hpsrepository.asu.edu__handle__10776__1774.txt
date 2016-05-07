@@ -1,0 +1,59 @@
+By Corinne DeRuiter
+Published: 2010-09-08
+Keywords: Fate mapping, Cell lineage
+ Fate MapEarly development occurs in a highly organized and orchestrated manner and has long attracted the interest of developmental biologists and embryologists. 
+		Cell lineage, or the study of the developmental differentiation of a 
+		blastomere, involves tracing a particular cell (blastomere) forward from its position in one of the three germ layers. Labeling individual cells within their germ layers allows for a pictorial interpretation of gastrulation. This chart or graphical representation detailing the fate of each part of an early embryo is referred to as a fate map. In essence, each fate map portrays the developmental history of each cell.
+Fate maps were developed as a way of tracing a particular region as it develops from an early embryo into a differentiated 
+		body plan. The first fate maps date back to the 1880s and in 1905 the first comprehensive collection of 
+		Ascidian (sea squirt) fate maps was published by 
+		Edwin Conklin. It is now common to find fate maps in introductory embryology texts. For example, Scott Gilbert’s 
+Developmental Biology (2006) shows fate maps for several different model organisms, including the zebrafish, frog, mouse, and chick embryos. Methods used for 
+		fate mapping include, but are not limited to, histological staining, genetic, and genetic inducible fate mapping. The ultimate goal in creating a fate map is to construct a 
+		lineage diagram that not only gives spatial information about cell fates, but can also allow the observer to trace the parental lineage of each mitotic division. This type of information can be particularly hard to achieve, but when acquired it can be used to trace the development of complex organ systems such as the central nervous system (a process that involves extensive cell migration). 
+In the fertilized eggs of many organisms, the progenitor cells are 
+		totipotent, meaning that they are capable of expressing every gene in their genome and that each individual cell has the potential to create an identical organism. The commitment of a cell to a specialized developmental pathway is called 
+		determination. By removing cells that are already determined and implanting them into a host embryo, one can deduce what the original cells were specified to become. The first visible cell positioning in the embryo of most organisms is during gastrulation, when the embryo rearranges itself into three distinct germ layers: 
+		endoderm, 
+		ectoderm, and 
+		mesoderm. As each cell migrates to its position in the embryo, chemical signals are released, inducing the cell to a particular fate. The developmental fates of the ectoderm, for instance, can be epidermis, central nervous system, sensory organs, and neural crest. Mesoderm cells can become part of the skeleton, muscles, blood vessels, heart, and gonads. The lining of the digestive and respiratory tracts, liver, and pancreas can all derive from the endoderm. 
+According to 
+		Walter Vogt’s research in 1925, the amphibian blastula divides into three regions: animal, marginal, and vegetal. Each of these areas houses progenitors of the cells that will make up the future organs of the organism. For instance, the animal cap of Vogt’s amphibian will differentiate into the nervous system, eyes, and epidermis while the marginal zone will supply material for the notochord, connective tissue, mesodermal lining, and the alimentary canal. The vegetal region is composed of cells that will later be found in the mid- and hindgut. Figure 127 in Balinsky’s 
+		An Introduction to Embryology (1981) shows an image of the fate map of the amphibians 
+Discoglossus and 
+Ambystoma similar to those created by Vogt for Xenopus. 
+More detailed fate maps have been created for the frog Xenopus, such as the one published by 
+		Osamu Nakamura and 
+		Keiko Kishiyama in 1971. Their fate map of the 32-cell-stage embryo divided the cells into four tiers each containing eight cells, labeled A–D (A and B corresponding to the animal pole, C to the marginal zone, and D to the vegetal pole). The fate map was developed by staining each individual cell and tracing each through gastrulation. An image representation of Nakamura and Kishiyama’s 32-cell-stage Xenopus can be found in most embryology textbooks. Once the cells were stained the scientists were able to photograph and detail the development of the amphibian embryo. More recent illustrations, in Hake and Wilt’s 
+Principles of Developmental Biology (2004) show how a fate map can be made using an amphibian egg. 
+Some embryos show no increase in size during the early stages of development and no random cell migration, as is the case for the highly studied nematode, 
+Caenorhabditis elegans. The cells of this embryo undergo a simple and regulated pattern of mitosis, making C. elegans a model organism for studying development and for assembling a complete fate map and lineage diagram. Experiments done to complete the fate map of this nematode included removing portions of the embryo and analyzing the resulting organism. For example, if a researcher removed a portion of the organism that was fated to become the gut, then the resulting organism would lack a gut. These experiments were initiated in 1974 by 
+		Sydney Brenner, biologist and 2002 Nobel Prize winner in Physiology or Medicine. He chose the nematode worm for study because of its rapid period of embryogenesis and very few cell types. Brenner and his colleagues were able to trace the 959 somatic cells of the organism back through their lineage, creating the very first completed fate map with lineage diagram. 
+Another example of a fate map is that of 
+Drosophila melanogaster. This fly is known for having comparable larval and adult body segmentation regulated by a series of genetic mechanisms. The fate map of D. melangaster can be seen in many developmental biology texts. Along with the production of a fate map, scientists have also been able to produce a map of developmental potential for the fruit fly. The fate map of this organism has been a key factor in determining the complex genetic network used by the fruit fly. Studies of how the fates of each segment are determined have resulted in the discovery of novel genes such as gurken, which determine axis formation in Drosophila. 
+Creating a fate map is a valuable part of understanding an organism’s developmental pathway. Understanding the lineage and migration of progenitor cells can lead to the discovery of 
+		gene regulatory networks and signaling pathways. Furthermore, determining the structural make up of an organism can possibly lead to determining the function of each specific region. The possibility of new developmental discoveries comes with the creation of each new fate map.
+
+Sources
+Balinksy, Boris Ivan. An Introduction to Embryology, 5th ed. Philadelphia, PA: CBS Publishing, 1981, 196–200.
+Dewitt, Natalie. “Taking a Leaf from the Book of Cell Fate.” Nature Reviews Neuroscience 2 (2001): 763–771. 
+Gilbert, Scott F. Developmental Biology, 8th ed. Sunderland, MA: Sinauer Associates, 2006, 10–13, 217–19, 244, 264, 295, 302, 329–31, 339.
+Hake, Sarah C., and Fred H. Wilt. Principles of Developmental Biology. New York: W. W. Norton, 2004, 30–51.
+Raven, Peter H., George B. Johnson, Jonathan B. Losos, and Susan R. Singer. Biology, 7th ed. New York: McGraw-Hill, 2005, 1081–96. 
+
+
+How to cite
+DeRuiter, Corinne, "Fate Map". Embryo Project Encyclopedia (2010-09-08). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/1774.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 25, 2013 - 15:53
+ Topic
+Subject
+  Concept

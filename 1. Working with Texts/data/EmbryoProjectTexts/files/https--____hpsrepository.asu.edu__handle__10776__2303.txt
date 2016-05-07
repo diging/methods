@@ -1,0 +1,57 @@
+By Brad Jacobson
+Published: 2010-11-17
+Keywords: Biography, Chicks, Birds
+ Nicole Marthe Le DouarinNicole Marthe Le Douarin was one of the first progressive female pioneers of developmental and embryological research. Some of her most notable and ground-breaking work involves grafting quail and chicken embryos together in order to study the developmental fate of each contributing embryo. Le Douarin was born in Brittany, France, on 20 August 1930. As an only child she was inspired by her mother, a school teacher at the time, to develop a passion for learning. According to Le Douarin her father was an open-minded businessman who, likely because she was an only child, raised her much like a boy. In 1944 Le Douarin was forced to move out of her hometown of Lorient and attend a boarding school in Nantes, France, to escape the invasion of German forces during World War II. After the war, she returned to her high school in Lorient, where she received her baccalaureate in 1949. During her last year in Lorient, when she was only seventeen, Douarin met her fiancé. After graduating, and against the wishes of her mother, she moved with him to Paris where they attended the 
+		Sorbonne. In 1951, after three years of courtship and university classes together, the couple was married. Le Douarin graduated from the Sorbonne with a degree in the natural sciences in 1954. Instead of immediately continuing to graduate school, she chose to teach science at a local high school and raise a family. 
+After teaching high school science for several years and raising two daughters, Le Douarin returned part-time to the university to continue her education in 1958. She began her graduate research career by enrolling in the laboratory of embryologist 
+		Etienne Wolff, who at the time was the renowned director of the 
+		Institut d’Embryologie at the 
+		Centre national de la recherche scientifique (CNRS). Le Douarin switched to fulltime research in 1960, and in 1964 was awarded her doctorate. Her thesis focused on the ontogenetic factors involved in the early development of the liver and digestive tract of avian embryos. She verified experimentally that inductive reactions are needed between endoderm and mesoderm for normal hepatogenesis (liver development).
+In 1966 Le Douarin and her husband moved to Nantes to accept full time professorships at the 
+. Upon arrival, however, the dean of the college refused to let them both onto his staff, mainly because he did not approve of married couples working together in the same college. Fortunately for Le Douarin her previous mentor Etienne Wolff—an extremely well-respected man in the science community—intervened and she was allowed her professorship in Nantes. Although she was formally recognized as a professor, the dean still remained hostile and unaccommodating. For the next several years she was given a large teaching load and had no lab space of her own. This obstacle did not deter her research. From her husband’s workbench, Le Douarin continued her research on endoderm and mesoderm interactions in developing avian embryos. Her research led to the pivotal question of whether or not interspecific germ layers (such as those derived from chicken and quail embryos) could communicate inductively to develop normal hepatic tissue.
+For several years Le Douarin focused her research on this question and after many successful experiments designed to graft quail mesoderm and chicken endoderm together, she suddenly noticed something peculiar. The nucleoli of quail mesenchymal cells were unusually oversized and dense relative to the chick mesenchymal nucleoli. Upon further review she realized that all quail cells, regardless of developmental age, have a large portion of heterochromatin (tightly packaged DNA) associated with their nucleolus during the interphase portion of the cell cycle. To help aid with her experiments, Le Douarin used 
+		Feulgen stain to mark the unique heterochromatin. 
+Feulgen is a specific dye applied during the interphase cycle of mitosis to stain densely packed regions of DNA. Because quail cells contain noticeably denser regions of heterochromatin at this stage, Feulgen can be used to determine which cells are quail in origin (stained) and which ones are chicken (unstained). Following this process, Feulgen-stained quail cells can be observed as they differentiate during crucial stages of early development. Tracking particular cells becomes especially important after the hybridization between two interspecific embryos.
+After many successful quail-chick chimera experiments, Le Douarin took her work on the road internationally. While speaking at several large embryological conventions in Canada, she began to receive international recognition and funding to support her research. In 1975 Etienne Wolff retired as the director of CNRS Institute of Embryology. With the strong recommendation of 
+		James Ebert, an influential embryologist at the 
+		Carnegie Institution of Washington, Le Douarin was appointed as the replacement director of the CNRS Institute of Embryology. 
+When she first began work back at the CNRS lab, Le Douarin was confronted by a staff of researchers that consisted mostly of females. The reason for this was that Wolff, the previous director, had managed to secure career positions for the graduating men of his college, while somewhat benignly neglecting the women. These women, with no other alternative, had stayed on as part of the working research staff at CNRS. Compelled to do something, Le Douarin immediately identified the intellectually able and gave them their own research space, budget, and assistants. This novel approach of leadership was completely different than Wolff’s, which, by her own words, was “obsolete.”
+Using her chicken-quail experiments as a foundation for new experimentation, Le Douarin began to investigate other developmental novelties such as the ontogeny of the neural crest in avian embryos. In 1980 she published a paper in the journal Nature describing how she was able to insert a portion of quail embryo neural primordium (undifferentiated nerve cells), consisting of four to six somites, into a chick embryo neural primordium. Using Feulgen stain, she was able to create a 
+		fate mapfor the migration of specifically derived neural crest cells from the donor quail embryo. This initial paper paved the way for her later discovery of the multipotent nature of undifferentiated neural crest cells. These discoveries persuaded Le Douarin to publish 
+		The Neural Crest in 1982. Just after the book’s publication, Le Douarin was granted membership to the French Academy of Science, and in 1986 Le Douarin received the 
+		Kyoto Prize in Advanced Technology for her work at CNRS.
+Since taking over as director of the CNRS Institute of Embryology, Le Douarin has received many awards in the field of science and medicine. In 1988 she was only the third woman in 500 years to be admitted as a member of the 
+		College de France. In 1989 she was elected as a member of the US 
+		National Academy of Science and in 1990 as a fellow of the 
+		Royal Society. She also received the 
+		Louis-Jeantet Prize for Medicine in 1990 and in 1991 she became an officer of the 
+		Légion d’Honneur (a French National Merit). In 1993 she received the 
+		Louisa Gross Horwitz Prize from Columbia University. She is an honorary fellow of the 
+		Academy of Medical Sciences (2002) and was the first recipient of the 
+		Pearl Meister Greengard Prize for women in science and biology (2004). 
+Nicole Marthe Le Douarin stands as a prominent figure in the field of embryology. Her novel studies of 
+		chimerical avian embryos have aided in the evolution of developmental biology, leading to discoveries of 
+		immune cell origin, behavioral genotyping of song birds, and central nervous system development in vertebrates.
+
+Sources
+Cox-Fill, Olivia. For Our Daughters. Westport, CN: Praeger, 1996, 190–96.
+Gruss, Peter. “Laudatio: Nicole Le Douarin.” Mechanisms of Development 66 (1997): 3–4. http://www.sciencedirect.com/science/article/B6T9H-3RJNRX0-1/2/5c1bfdd28e177a8e6faa06472a82a0f8.
+Hansen, Betsy. “The Birth of an Award.” Benchmarks: The Community Newsletter of the Rockefeller University, December 17, 2004. http://www.rockefeller.edu/benchmarks/benchmarks_121704_c.php (Accessed February 6, 2010).
+Le Douarin, Nicole. “The Ontogeny of the Neural Crest in Avian Embryo Chimaeras.” Nature 286 (1980): 663–69. http://www.nature.org/nature/index.html.
+
+
+How to cite
+Jacobson, Brad, "Nicole Marthe Le Douarin (1930- )". Embryo Project Encyclopedia (2010-11-17). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/2303.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Monday, April 6, 2015 - 22:16
+ Topic
+Subject
+ Le Douarin, Nicole, 1930-; People

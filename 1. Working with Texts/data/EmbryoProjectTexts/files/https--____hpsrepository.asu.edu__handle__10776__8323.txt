@@ -1,0 +1,151 @@
+By Dorothy R. Haskett
+Published: 2015-05-28
+Keywords: Chromosome, Sex Chromosome
+ The Y-Chromosome in AnimalsThe Y-chromosome is one of a pair of chromosomes that determine the genetic sex of individuals in mammals, some insects, and some plants. In the nineteenth and twentieth centuries, the development of new microscopic and molecular techniques, including DNA sequencing, enabled scientists to confirm the hypothesis that chromosomes determine the sex of developing organisms. In an adult organism, the genes on the Y-chromosome help produce the male gamete, the sperm cell. Beginning in the 1980s, many studies of human populations used the Y-chromosome gene sequences to trace paternal lineages. In mammals, the Y-chromosomes contain the master-switch gene for sex determination, called the sex-determining region Y, or the SRY gene in humans. In most normal cases, if a fertilized egg cell, called a zygote, has the SRY gene, the zygote develops into an embryo that has male sex traits. If the zygote lacks the SRY gene or if the SRY gene is defective, the zygote develops into an embryo that has female sex traits.
+		
+
+In the late nineteenth and early twentieth centuries, scientists struggled to explain what determined the sex of developing organisms. The theories fell into roughly three groups. Theories in the first group, called externalist theories, claimed that some factors external to the developing organism, such as temperature, determined the sex of the organism. Theories in the second group, called internalist theories, held that sex was determined by internal factors in the egg, such as the nucleus or the cytoplasm. Theories in the third group, called hereditarian theories, said that that organisms inherited factors from their parents, and that those factors determined sex. 
+
+
+With the rediscovery of the work of Gregor Johann Mendel on the heredity of plants in the early twentieth century, some of the conflicting theories about sex determination converged. Mendel had studied the variation and heredity of plants in the mid-nineteenth century in Brno, Moravia, which later became part of the Czech Republic. Mendel studied several traits of pea plants (Pisum sativum) and demonstrated that there was something, which he called factors, transmitted from parent to offspring and that determined those traits. Mendel's factors were the basis for what scientists later called genes.
+
+
+Before 1900, researchers had used microscopes to study the internal organization of cells. Hermann Henking, a lecturer at the University of Göttingen in Göttingen, Germany, in the late 1880s studied the development of the gametes of numerous species of spiders (taxonomic class: Arachnida) and insects (taxonomic class: Insecta). In 1890 to 1891, Henking used a light microscope and stained cells to examine the sperm cells of the fire wasp (Sphex ichneumoneus), and he noticed  in those cells a deeply stained chromatin body, later called a chromosome. He also noticed that some of the sperm cells had twelve chromosomes and others had only eleven. Henking named the extra chromosome X. Unlike the other chromosomes, it did not appear to double during the production of the sperm cells, or spermatogenesis.  In 1902, Clarence Erwin McClung then at University of Kansas in Lawrence, Kansas, suggested that Henking's X-chromosome, which McClung called the accessory chromosome, functioned in sex determination.
+
+
+Shortly after, Nettie Maria Stevens at Bryn Mawr College in Bryn Mawr, Pennsylvania, studied aphids (Acyrthosiphon pisum) and looked for McClung's accessory chromosome in the aphids' cells, but she could not find it. She was more successful in 1905 with the mealworm (Tenebrio molitor), whose males were produced by spermatozoa that contain a chromosome much smaller than the corresponding chromosome that produced females. Stevens named the small chromosome Y, the next letter after Henking's X-chromosome. 
+
+ 
+In 1905, Stevens at Bryn Mawr College and Edmund Beecher Wilson at Columbia University, New York, New York, independently identified the Y-chromosome's involvement in the sex determination of insects.  Stevens sent her manuscript, Studies in Spermatogenesis, to the Carnegie Institute's monograph series on 15 May 1905. Wilson was a reviewer for the monograph series, and he received the manuscript on 29 May 1905 and recommended publishing it on 13 June 1905. The manuscript that Stevens published in September 1905 was sent to Wilson after he had submitted his own article, "Studies on Chromosomes," on 5 May 1905, and had it published in August 1905. 
+
+
+Wilson's article did not describe the dominant-recessive feature of the X-Y chromosome theory. After Wilson read Stevens's book, he added a footnote to his article. In the footnote, Wilson acknowledged Stevens's discovery of an unequal pair of chromosomes for which the larger chromosome produced females and the smaller chromosome, if present, produced males in the mealworm. Stevens had investigated the mealworm with the more common gene type for which males have a small Y-chromosome, which pairs with the larger X-chromosome. The males have the XY chromosome type and the females have the XX chromosome type. Wilson had studied the squash bug (Anasa tristis), which has twenty-two chromosomes in the female, designated XX, and twenty-one chromosomes in the male, designated XO, with O representing the absence of  a chromosome or the null type.
+
+
+Thomas Hunt Morgan, who worked with Wilson at Columbia University in New York, New York, by 1910 had accepted the inheritance theory of sex determination. In 1910, Morgan studied sex-linked traits of the fruit fly (Drosophila melanogaster). Morgan found that fruit flies have the X-Y chromosome type. 
+
+
+Many scientists who studied mammalian sex determination and spermatogenesis in the first decades of the twentieth century described the male mammalian sex chromosome as the XO type. In 1921, Theophilus Shickel Painter at the University of Texas in Austin, Texas, worked with the chromosomes of fruit flies and other invertebrates. When Carl Hartmann, a colleague in Painter's department working with opossums (Didelphis marsupialis), gave Painter an opportunity to study mammals, Painter published "The Y-Chromosomes in Mammals," which reported the typical chromosome type of male opossums as XY. Mammals, including humans, have the chromosome pattern such that the female is XX, and the male is XY. 
+
+
+After researchers had described the XY chromosome type, they questioned how chromosomes could determine sex into the 1950s. In 1959, two studies of abnormal chromosomes answered some of those questions. The first study was of a case of a male patient with Klinefelter syndrome, reported by Patricia A. Jacobs and J. A. Strong at Western General Hospital and University of Edinburgh, UK. Jacobs and Strong reported a male patient with small gonads and forty-seven chromosomes with the XXY type.  Having a Y-chromosome, the patient developed as a male. The second study of a chromosomal abnormality was a case of Turner syndrome, also in 1959, by Charles E. Ford and colleagues at Guy's Hospital in London, UK. Ford and colleagues described a fourteen-year-old girl with Turner syndrome who was missing a chromosome. She had the XO type instead of the expected XX type. In some animal species, the male has the XO type, but the case of Turner syndrome demonstrated the necessity for the Y-chromosome for humans to develop as a male. Because it lacked a Y-chromosome, the embryo developed as a female with abnormal gonads as well as other congenital anomalies.  
+
+
+In 1955, Gerald I. M. Swyer of University College Hospital London, UK, described sex reversal in two women patients with an XY chromosome type. The syndrome became called Swyer syndrome. In 2008, Lina Michala, Deepti Goswami, S. M. Creghton, and Gerald S. Conway of Elizabeth Garrett Anderson Hospital in London, UK, reported that females with the XY type have an abnormal SRY gene, which is the main gene responsible for testis development. Lacking a functional SRY gene, mammalian embryos develop as females.
+
+
+Scientists labeled the Y-chromosome in the 1990s as Functional wasteland, as Non-recombining desert, and as Gene-poor chromosome. Those definitions refer to the fact that the Y-chromosome, compared to other chromosomes, has few genes. It is one of the smallest chromosomes in humans, with approximately sixty million base pairs compared to the X-chromosome, which has approximately one-hundred-sixty-four million base pairs. Ninety-five percent of the Y-chromosome, called the non-recombining (NRY) or the male-specific region (MSY), does not exchange genetic information during DNA recombination when germ cell divide (meiosis). Five percent of the Y-chromosome recombines with the X-chromosome during meiosis. Scientists call that small region the pseudoautosomal region. 
+
+
+The physical structure of the Y-chromosome influences sex determination and genetic sequencing.  The Y-chromosome has a short and a long arm, separated by a condensed centromere, and the human Y-chromosome has two pseudoautosomal regions designated as the PAR 1 and PAR 2. PAR 1 is located at the end of the short arm, and PAR 2 at the end of the long arm. The MSY contains four types of sequences: the heterochromatic, X-transposed, X-degenerated, and the ampliconic regions. The heterochromatic region consists of tightly packed DNA not involved in gene expression. The X-transposed, X-degenerate, and the ampliconic regions make up a region called the euchromatin region. The X-transposed sequences span 3.4 million base pairs but contain only two genes. The X-degenerate sequences are degenerate versions of the X-chromosome sequences, and contain sixteen genes, mostly involved in basic cellular functions. The ampliconic region is the gene-dense and functionally specialized region. The ampliconic region is composed of long stretches of repetitive sequences that are ninety-nine percent identical at the base pair level except that the sequences repeat in the opposite direction, which scientists call palindromic sequences. 
+
+
+The formation of palindromes is not rare in genomes, and it occurs when part of a duplicated chromosome inverts during recombination. In most non-sex chromosomes, or autosomes, palindromes can lead to unequal recombination, and organisms that have them are usually selected against in the process of evolution. The palindromes in the ampliconic region of the Y-chromosome contain twenty-five percent of the male-specific euchromatin and most of the Y-chromosome's functional genes. 
+
+
+Scientists struggled to describe the DNA sequence of the Y-chromosome due to the palindrome structure common to it. Two strategies of sequencing large chromosomes are the whole genome shotgun (WGS) analysis method, and sequencing a tiling path of mapped clones. Helen Skaletsky and colleagues at Massachusetts Institute of Technology in Cambridge, Massachusetts, reported in 2003 that neither of those techniques yielded a coherent sequence for the MSY region of the Y-chromosome because of the intrachromosomal similarities, or palindromes. Skaletsky's group used a technique called iterative mapping, and they used cloned libraries of a short sequence of DNA inserted into a bacteria, called bacterial artificial chromosomes (BACs).  The BACs helped map and determine the DNA sequences of the palindromic regions.
+
+
+The Y-chromosome in humans is one of the smallest human nuclear chromosomes, but because of the palindrome structure, it was the last chromosome sequenced in the Human Genome Project, with the complete sequence published in 2003 by Skaletsky and colleagues from David Page's group. Subsequent studies of the human Y-chromosome convinced scientists that the Y-chromosome is not a wasteland. The MSY is rich in genes, which help in many biological functions, such as sperm production and sex determination. The Y-chromosome has seventy-six genes that code for twenty-six proteins, because several of the genes code for the same protein. The majority of those proteins are involved with spermatogenesis and male fertility. 
+
+
+As researchers struggle to describe the DNA sequence of Y-chromosomes, Jennifer F. Hughes from the Massachusetts Institute of Technology in Cambridge, Massachusetts, and Steve Rozen of Duke-NUS Graduate Medical School in Singapore, reported that as of 2012 there were only three complete Y-chromosome sequences. Those sequences are from humans, chimpanzees (Pan troglodytes), and rhesus macaque monkeys (Macaca mulatta). Scientists claim that those two additional primate sequences give a twenty-five million year view into the evolution of the human MSY, and comparisons of the three sequences indicate that the gene content is largely unchanged across those species. 
+
+
+In the early twenty-first century, some researchers debated whether or not the Y-chromosome would diminish or even disappear in some species due to its limited part in DNA recombination. The Y-chromosome lost most of its ability to recombine after the evolution of the SRY gene, and a large inversion occurred on the Y-chromosome millions of years ago. There is a tendency for non-paired chromosomes or non-recombining chromosomes to decay to the point where they no longer function. Bruce T. Lahn and David C. Page of the Massachusetts Institute of Technology argued that testis-specific genes are located in the repeated sequences of the palindromes, and genes that are homologous to the X-chromosome are located in single copy regions. Julian Lange and colleagues in Page's group proposed in 2009 that the repeat sequences in the palindromes may have been a way to repair mutations of Y-chromosome genes by internal recombination. 
+
+
+Only genes essential for male fertility have retained their function on the Y-chromosome, while most of the other genes are decayed versions of genes located on the X-chromosome. The genes for sex-linked diseases or traits, such as red/green colorblindness and blood clotting factors VIII and IX, or hemophilia, are on the X-chromosome, and are not found on the Y-chromosome. 
+
+
+Sources
+Allen, Garland E. "Thomas Hunt Morgan and the Problem of Sex Determination, 1903–1910." Proceedings of the American Philosophical Society 110 (1966): 48–57. http://www.jstor.org/stable/986001 (Accessed May 26, 2015).
+		
+
+Bateson, William, and Gregor Mendel. Mendel's Principles of Heredity. New York: G.P. 
+Putnam's Sons, 1909. https://archive.org/details/mendelsprinciple00bate (Accessed 
+July 31, 2014).
+
+
+Berger, James D. "Henking, Hermann." Dictionary of Scientific Biography 6: 267–8.
+
+
+Brush, Stephen G. "Nettie M. Stevens and the Discovery of Sex Determination by Chromosomes." Isis 69 (1978): 162–72. http://www.jstor.org/stable/230427 (Accessed May 26, 2015).
+
+
+Cummins, Jim. "Mitochondrial DNA and the Y chromosome: Parallels and Paradoxes." Reproduction, Fertility and Development 13 (2001): 533–42.
+
+
+Ford, Charles E., Kenneth W. Jones, Paul Emanuel Polani, J.C. de Almeida, and John H. Briggs. "A Sex-chromosome Anomaly in a Case of Gonadal Dysgenesis (Turner's Syndrome)."  Lancet 273 (1959): 711–3.
+
+Hartman, Carl G. Possums. Austin, TX: University of Texas Press, 1952.
+
+Henking, Hermann. Beiträge zur Anatomie, Entwicklungsgeschichte und Biologie von 
+	Trombidium fuliginosum. Herm, Inaugural-Dissertation von Hermann Henking [Contributions to the anatomy, evolution and biology of Trombidium fuliginosum. Herm, Inaugural Dissertation of Hermann Henking]. Liepzig: Wilhelm Engelmann, 1882.
+	
+
+Hughes, Jennifer F., and Steve Rozen. "Genomics and Genetics of Human and Primate Y Chromosomes."  Annual Review of Genomics and Human Genetics 13 (2012): 83–108.
+
+
+Jacobs, Patricia A, W. M. Court Brown, A. G. Baikie, and J. A. Strong. "The Somatic Chromosomes in Mongolism." The Lancet 273 (1959): 710.
+
+
+Lahn, Bruce T., and David C. Page. "Functional Coherence of the Human Y Chromosome." Science  278 (1997) 675–80.
+
+
+Lange, Julian, Helen Skaletsky, Saskia K. M. van Daalen, Stephanie L. Embry, Cindy M. Korver, Laura G. Brown, Robert D. Oates, Sherman Silber, Sjoerd Repping, and David C. Page. "Isodicentric Y Chromosomes and Sex Disorders as Byproducts of Homologous Recombination that Maintains Palindromes." Cell 138 (2009): 855–69. http://www.sciencedirect.com/science/article/pii/S0092867409009799 (Accessed July 31, 2014).
+
+
+Maienschein, Jane. "What Determines Sex? A Study of Converging Approaches, 1880-1916." Isis 75 (1984): 456–80. http://www.jstor.org/stable/232938 (Accessed May 26, 2015).
+
+
+McClung, Clarence Erwin. "The Accessory Chromosome—Sex Determinant?" The Biological Bulletin 3 (1902): 43–84. http://www.biolbull.org/content/3/1-2/43.full.pdf (Accessed May 26, 2015).
+
+Mendel, Gregor Johann. "Versuche über Pflanzen-Hybriden" [Experiments Concerning Plant Hybrids] [1866]. In Verhandlungen des naturforschenden Vereines in Brünn [Proceedings of the Natural History Society of Brünn] IV (1865): 3–47. Reprinted in Fundamenta Genetica, ed. Jaroslav Krízenecký, 15–56. Prague: Czech Academy of Sciences, 1966. http://www.mendelweb.org/Mendel.html (Accessed May 26, 2015).
+
+Michala, Lina, Deepti Goswami, S. M. Creighton, and Gerald S. Conway. "Swyer Syndrome: Presentation and Outcomes." BJOG: An International Journal of Obstetrics & Gynaecology  115 (2008): 737–41. http://onlinelibrary.wiley.com/doi/10.1111/j.1471-0528.2008.01703.x/pdf (Accessed July 31, 2014).
+
+ 
+Morgan, Thomas Hunt. "What are 'Factors' in Mendelian Explanations?" Journal of Heredity 1 (1909): 365–367.
+
+
+Offner, Susan. "The Y Chromosome." The American Biology Teacher 72 (2010): 235–40.
+Ogilvie, Marilyn Bailey, and Clifford J. Choquette. "Nettie Maria Stevens (1861–1912): Her Life and Contributions to Cytogenetics." Proceedings of the American Philosophical Society 125 (1981): 292–311.   http://www.jstor.org/stable/986332 (Accessed May 26, 2015).
+
+ 
+Painter, Theophilus Shickel. "The Y-Chromosome in Mammals." Science 53 (1921): 503–4.
+Quintana-Murci, Lluís, and Marc Fellous. "The Human Y Chromosome: The Biological Role of a 'Functional Wasteland.'" Journal of BioMedicine and Biotechnology 1 (2001): 18–24. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC79676/ (Accessed May 26, 2015).
+
+
+Ridley, Matt. "Chromosomes X and Y: Conflict." In Genome: The Autobiography of a Species in 23 Chapters, by Matt Ridley, 107–21. New York: Harper Perennial, 2006. 
+
+
+Skaletsky, Helen, Tomoko Kuroda-Kawaguchi, Patrick J. Minx, Holland S. Cordum, LaDeana Hillier, et al. "The Male-Specific Region of the Human Y Chromosome is a Mosaic of Discrete Sequence Classes." Nature 423 (2003): 825–44. http://www.nature.com/nature/journal/v423/n6942/full/nature01722.html (Accessed July 31, 2014).
+
+
+Stevens, Nettie Maria. Studies in Spermatogenesis with Especial Reference to the Accessory Chromosome. Washington D.C.: Carnegie Institution of Washington publication 36, 1905. http://www.archive.org/details/studiesinspermat01stevrich#sthash.eCoaE9T1.dpuf (Accessed July 31, 2014). 
+
+
+Swyer, Gerald Isaac Macdonald. "Male Pseudohermaphroditism: A Hitherto Undescribed Form." British Medical Journal 2 (1955): 709 –12. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1980764/pdf/brmedj03225-0025.pdf (Accessed July 31, 2014).
+
+
+Wenrich, David H. "Clarence Erwin McClung: 1870–1946." Science 103 (1946): 551–2. 
+Wilson, Edmund Beecher. "Studies on Chromosomes. I. The Behavior of the Idiochromosomes in Hemiptera." Journal of Experimental Zoology 2 (1905): 371–405. http://biodiversitylibrary.org/page/11775533 (Accessed May 26, 2015).
+
+
+
+How to cite
+Haskett, Dorothy R., "The Y-Chromosome in Animals". Embryo Project Encyclopedia (2015-05-28). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/8323.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+Copyright Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Tuesday, June 2, 2015 - 20:50
+ Topic
+Subject
+Genes, sry; Sex Chromosomes; Y chromosome; Sex chromosomes; Embryos; DNA; Chromosomes; Reproduction; Sex determination, Genetic; Sex differentiation; Genetics; Human chromosomes; Embryological development; Stevens, N. M. (Nettie Maria), 1861-1912; Wilson, Edmund B. (Edmund Beecher), 1856-1939; Morgan, Thomas Hunt, 1866-1945; Painter, Theophilus S. (Theophilus Shickel), 1889-1969; Concept

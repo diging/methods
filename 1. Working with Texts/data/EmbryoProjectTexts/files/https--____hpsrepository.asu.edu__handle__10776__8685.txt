@@ -1,0 +1,117 @@
+By Dorothy R. Haskett
+Published: 2015-07-30
+Keywords: Hedgehog, hh, signaling pathway
+ Hedgehog Signaling Pathway
+		The hedgehog signaling pathway is a mechanism that directs the development of embryonic cells in animals, from invertebrates to vertebrates. The hedgehog signaling pathway is a system of genes and gene products, mostly proteins, that convert one kind of signal into another, called transduction. In 1980, Christiane Nüsslein-Volhard and Eric F. Wieschaus, at the European Molecular Biology Laboratory in Heidelberg, Germany, identified several fruit fly (Drosophila melanogaster) genes. They found that when those genes were changed or mutated, the mutated genes disrupted the normal development of fruit fly larvae. The researchers called one of the genes hedgehog (abbreviated hh).  Nüsslein-Volhard, Wieschaus, and Edward B. Lewis, at the California Institute of Technology in Pasadena, California, shared the 1995 Nobel Prize for Physiology or Medicine for their research on how genes control early embryonic development in fruit flies. The hedgehog signaling pathway is conserved across many animal taxa, or phyla, from Drosophila to humans. The hedgehog signaling pathway controls several key components of embryonic development, stem-cell maintenance, and it influences the development of some cancers.
+		
+
+In the 1970s, Nüsslein-Volhard and Wieschaus studied mutations in genes that altered the head to tail (anterior-posterior) body plan of Drosophila larvae. The larval body plan of normal Drosophila is composed of segments. Nüsslein-Volhard and Wieschaus in their 1980 article identified several genetic mutations that disrupted the Drosophila larval body plan, including segment number, the pattern of the segments, and their orientations. The anterior portion of the bottom, or ventral, side of each segment is marked with a row of pointed cuticle projections, called denticles. The posterior portion is devoid of denticles, and is described as naked. Nüsslein-Volhard and Wieschaus found that several gene mutations caused the denticles on a larva to duplicate in number, resulting in loss of all or some of the naked portions of the larva's segments. 
+
+
+In one gene mutation, the denticles sticking out of the segment in all directions formed a pattern that resembled that of a hedgehog's spines, prompting Nüsslein-Volhard and Wieschaus to name the mutated gene hedgehog. They designated the hh gene as a segment polarity gene because the duplicated denticles were oriented in the reverse direction from the normal denticles, a phenomena described by researchers as having reverse polarity in each segment. 
+
+
+Into the early 1990s, most of the research about the hh gene concentrated on the hh gene in Drosophila. Researchers analyzed the fruit fly hh gene and manipulated cells within developing Drosophila embryos, or fragments of the embryos grown in lab cell cultures. Researchers determined that the hh gene encodes a novel signaling family of hh proteins that mediates interactions between cells and has long-range effects in developing Drosophila embryos. In 1985, Alfonso Martinez-Arias and Philip W. Ingham in the UK reported that for Drosophila larvae to develop normally, segment polarity genes had to be expressed precisely and with integration to genes that control the differentiation for each segment, called homeotic genes.  
+
+
+In 1992, three groups published descriptions of the complete DNA sequence of hh gene in Drosophila. The first included Jym Mohler and Kodela Vani at Barnard College in New York, New York. The second was Phillip A. Beachy's group at Johns Hopkins University School of Medicine in Baltimore, Maryland. The third was Thomas B. Kornberg's group at the University of California at San Francisco, in San Francisco, California. The analysis of the DNA sequence data of the Drosophila hh gene led to the discovery of similar genes, or homologs, of the Drosophila hh gene in vertebrates. The DNA analysis also revealed a high degree of conservation of the parts of the hedgehog signaling pathway among and between species. In December 1993, other research groups published descriptions of the complete DNA sequences of several homologs to the Drosophila hh gene in vertebrates.  
+
+
+Unlike flies, which have only one hh gene, researchers found that there are several hh genes in vertebrates, including upwards of five hh genes in zebrafish, and three hh genes in mammals. Ingham's group at the Molecular Embryology Laboratory in Oxford, UK, identified the hh gene family in zebrafish (Danio rerio). Clifford Tabin's group at Harvard Medical School in Boston, Massachusetts, isolated the vertebrate gene Sonic hedgehog (Shh), which is related to the Drosophila hh gene. The scientists isolated the gene from the area that genetically instructs the developing limb, or limb bud, called the zone of polarizing activity (ZPA) in chicks (Gallus gallus). Andrew P. McMahon's group at Harvard University in Cambridge, Massachusetts, identified three members of the hh gene family in mice (Mus musculus). They labeled those three genes as Shh, Desert hedgehog (Dhh), and Indian hedgehog (Ihh). By 2015, researchers had concluded that the protein sequence of the Dhh protein is the most closely related of the three gene products to the Drosophila hh protein. Ihh and Shh DNA sequences indicate that those genes are more closely related to each other than to the Dhh gene, and scientists said that those two genes resulted from a more recent evolutionary duplication. 
+
+
+Drosophila hh gene and vertebrate homologs function to provide cells with positional information in developing organisms. Drosophila embryos lacking hh genes die, revealing changes in their cuticle pattern, which suggests that Drosophila require the gene for survival. In Drosophila, in addition to its role in pattering embryonic segments, the hh gene expression is in parts of the insect larvae that become the adult legs and wings, called the imaginal discs. The imaginal discs are similar in developmental function to the limb buds in vertebrates.
+
+ 
+The hedgehog signaling pathway participates in the development of many tissue and organs. M. Michael Cohen, Jr., at Dalhousie University in Halifax, Nova Scotia, titled his 2003 article "The Hedgehog Signaling Network," due to the complexity of the interactions between the many genes and secreted hh proteins. The hedgehog signaling network incorporates many genes and proteins to function correctly. The hedgehog signaling network influences the transcription of many different target genes that vary between tissues, cell types, and phylas. 
+
+
+By the second decade of the twenty-first century, the description of the hedgehog signaling pathway consisted of at least two parts, which were the cells that produce hh protein, and the cells that respond to the hh proteins. From hh genes in the DNA of it nucleus, a cell that produces the protein first transcribes the hh protein as a string of amino acids, called a precursor protein, and processes the protein in the cell's cytoplasm, a process that yields an active protein with two lipid molecules. The two lipid molecules are a cholesterol on the C-terminal end of the active protein, and the lipid palmitate on the N-terminal end of the active protein. The two lipid molecules are necessary for the hh protein to be transported and attached to the cell surface membrane, and to establish a gradient of the protein in the extra cellular space. The processed hh protein is transported to the cell surface where it attaches with the lipid molecules to the outside of the cell membrane. Another protein embedded in the membrane, called a trans-membrane protein, named Dispatched, releases the active hh protein, called the hh ligand, into the space between cells, called an extra cellular space, where multiple hh ligands form a concentration gradient. 
+
+
+Other cells respond to the hh proteins. Each one of those cells has a protein, called Patched (Ptch), that spans through the cell's membrane and functions as a receptor for the hh ligand by physically attaching to it. Without the hh ligand attached to it, Ptch normally inhibits another trans-membrane protein called Smoothened (Smo), which itself prevents specific genes from transcribing RNA. When the hh ligand binds to the Ptch protein, it activates the Smo protein. The Smo proteins interact with other molecules, which interact with others, in a process described as the hh signal cascading or transducing through the cell's cytoplasm and into the nucleus.  Finally, molecules, connected in a chain or pathway of molecular interactions that was spurred by the hh ligand, attach to parts of the DNA in the nucleus, and they initiate specific genes to produce RNA and proteins, or they inhibit specific genes from doing so. Molecules that activate or inhibit other genes from producing RNA and proteins are called transcription factors.  In Drosophila, many of those transcription factors are called Cubitus interrupts (Ci), while in vertebrates many are classed in the GLI family of proteins.
+
+
+The hh gene was the focus of much research by developmental biologists in the three decades after its first description. Researchers identified molecules that underpin mechanisms and processes that the hedgehog pathway controls. In the first decades of the twenty-first century, researchers studied the mechanism of how hh proteins function in short-range and long-range signaling between cells. They found that hh proteins distribute in tissues in a steep gradient, with high concentrations near the producing cells and lower amounts farther away from the producing cells. The lipids at either end of the hh ligand have some affinity for hh protein receptors, but their main function is to move the hh ligand through the tissue and establish the gradient. 
+
+
+The notochord, a flexible rod-shaped structure in vertebrate embryos, defines the primary axis of those embryos. The notochord is located under the neural tube and it secretes the Shh protein, which forms the gradient. The gradient of Shh protein specifies several distinct neuronal cell fates, designated as V0, V1, V2, and V3 interneurons, and it specifies motor neurons in the neural tube, which is an embryo's precursor to the central nervous system. The cells of a specialized structure, called the Floor Plate, respond to the highest concentration of Shh protein secreted by the notochord, and they become glial cells, which are cells that support neurons of the nervous system. The Floor Plate glial cells begin to secrete Shh protein themselves. The remaining neural tube cells develop various neural fates, which are specified by different concentrations of Shh protein signaling. After the Floor Plate forms, the V3 interneurons, motor neurons, V2, and V1 interneurons respond to decreasing concentrations of Shh protein, with V0 interneurons responding to the lowest concentration of Shh protein.
+
+
+There are similarities between the pattering of the neural tube in vertebrates and wing patterning of Drosophila. Mutations and improper development of this pathway lead to various embryonic defects and birth defects, especially those affecting the brain, head, and limbs. Too little hh protein signaling in Drosophila can kill embryos or lead to embryos with abnormal wings. In humans, malfunctions, mutations, and incorrect regulation of the hh signaling pathway are commonly associated with birth defects and cancers. Cancers such as basal cell carcinoma, which is a skin cancer, or medulloblastoma, which is a brain cancer in children, are potential consequences of mutations to the hh pathway. 
+
+
+If Shh activity is lost in mammals, it can lessen the number of cells in the forebrain and cause the forebrain to fail to develop into two hemispheres. Scientists call the disorder holoprosencephaly. In fetuses, severe cases holoprosencephaly causes brain and facial defects, and the death of the fetus. In mild cases, brain development is closer to normal and facial defects are restricted to specific areas, such as cyclopism or having only one eye. Other examples of birth defects that result from a mutation in hh signaling are Gorlin syndrome, which increases the risk of tumors, and Greig cephalopolysyndactyly syndrome, which affects head, face, and limb development. People with this disorder can have more digits than normal, webbed digits, a large forehead and head, learning disabilities, and seizures. Because the pathway can control cell proliferation, mutations or too much of the hh signaling in the pathway can lead to cancer. 
+
+
+Sources
+Bürglin, Thomas R. "Evolution of Hedgehog and Hedgehog-Related Genes, Their Origin from Hog Proteins in Ancestral Eukaryotes and Discovery of a Novel Hint Motif." BMC Genomics 9 (2008): 127. http://www.biomedcentral.com/1471-2164/9/127 (Accessed April 26, 2014).
+		
+
+Chamberlain, Chester E., Juhee Jeong, Chaoshe Guo, Benjamin L. Allen, and Andrew P. McMahon. "Notochord-Derived Shh Concentrates in Close Association with the Apically Positioned Basal Body in Neural Target Cells and Forms a Dynamic Gradient during Neural Patterning." Development 135 (2008): 1097–106. http://dev.biologists.org/content/135/6/1097.full (Accessed July 17, 2014).
+
+
+Cohen, M. Michael, Jr. "The Hedgehog Signaling Network." American Journal of Medical Genetics 123A (2003): 5–28.
+
+
+Echekard, Yann, Douglas J. Epstein, Benoit St. Jacques, Liya Shen, Jym Mohler, Jill A. McMahon, and Andrew P. McMahon. "Sonic Hedgehog, a Member of a Family of Putative Signaling Molecules, Is Implicated in the Regulation of CNS Polarity." Cell 75 (1993): 1417–30.
+
+
+Hao, Limin, Robert Johnsen, Gilbert Lauter, David Baillie, and Thomas R. Bürglin. "Comprehensive Analysis of Gene Expression Patterns of Hedgehog-Related Genes." BMC Genomics 7 (1006): 280–300. http://www.biomedcentral.com/1471-2164/7/280/ (Accessed July 17, 2014).
+
+
+Hooper, Joan E., and Matthew P. Scott. "Communicating with Hedgehogs." Nature Reviews: Molecular Cell Biology 6 (2005): 306–17.
+
+
+Ingham, Philip W. "Pattern Formation: Hedgehog Points the Way." Current Biology 4 (1994): 347–50.
+Ingham, Philip W. "Transducing Hedgehog: The Story So Far." The EMBO Journal 17 (1998): 3505–11. http://onlinelibrary.wiley.com/doi/10.1093/emboj/17.13.3505/pdf (Accessed July 17, 2014).
+
+
+Ingham, Philip W., Yoshiro Nakano, and Claudia Seger. "Mechanisms and Functions of Hedgehog Signalling across the Metazoa." Nature Reviews: Genetics 12 (2011): 393–406.
+
+
+Krauss, Stefan, John-Paul Concordet, and Philip W. Ingham. "A Functionally Conserved Homolog of the Drosophila Segment Polarity Gene hh Is Expressed in Tissues with Polarizing Activity in Zebrafish Embryos." Cell 75 (1993): 1431–44.
+
+
+Lee, John J., Doris P. von Kessler, Suki Parks, and Phillip A. Beachy. "Secretion and Localized Transcription Suggest a Role in Positional Signaling for Products of the Segmentation Gene Hedgehog." Cell 71 (1992): 33–50.
+
+
+Lum, Lawrence, and Philip A. Beachy. "The Hedgehog Response Network: Sensors, Switches, and Routers." Science 304 (2004): 1755–9.
+
+
+Martinez-Arias, Alfonso, and Philip W. Ingham. "The Origin of Pattern Duplications in Segment Polarity Mutants of Drosophila Melanogaster." Journal of Embryology and Experimental Morphology 87 (1985): 129–35. http://dev.biologists.org/content/87/1/129.long (Accessed July 17, 2014).   
+
+
+Mohler, Jym, and Kodela Vani. "Molecular Organization and Embryonic Expression of the Hedgehog Gene Involved in Cell-Cell Communication in Segmental Pattering of Drosophila." Development 115 (1992): 957–71. http://dev.biologists.org/content/115/4/957.full.pdf+html (Accessed July 17, 2014).
+
+
+Nüsslein-Volhard, Christine, and Eric Wieschaus. "Mutations Affecting Segment Number and Polarity in Drosophila." Nature 287 (1980): 795–801.
+
+
+ Ribes, Vanessa, Nikolaos Balaskas, Noriaki Sasai, Catarina Cruz, Eric Dessaud, Jordi Cayuso, Samuel Tozer, Lin Lin Yang, Ben Novitch, Elisa Marti, and James Biscone. "Distinct Sonic Hedgehog Signaling Dynamics Specify Floor Plate and Ventral Neuronal Progenitors in the Vertebrate Neural Tube." Genes & Development 24 (2010): 1186–200. http://genesdev.cshlp.org/content/24/11/1186.full (Accessed July 17, 2014).
+ 
+
+Riddle, Robert D., Randy L. Johnson, Ed Laufer, and Clifford J. Tabin. "Sonic Hedgehog Mediates the Polarizing Activity of the ZPA." Cell 75 (1993): 1401–16.
+
+
+Tabata, Tetsuya, Suzanne Eaton, and Thomas B. Kornberg. "The Drosophila Hedgehog Gene Is Expressed Specifically in Posterior Compartment Cells and Is a Target of Engrailed Regulation." Genetics and Development 6 (1992): 2635–45. http://genesdev.cshlp.org/content/6/12b/2635.full.pdf+html (Accessed July 17, 2014).
+
+
+
+
+
+How to cite
+Haskett, Dorothy R., "Hedgehog Signaling Pathway". Embryo Project Encyclopedia (2015-07-30). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/8685.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+Copyright Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Thursday, July 30, 2015 - 08:31
+ Topic
+Subject
+Hedgehog Proteins; Embryology; Embryos; Nüsslein-Volhard, C. (Christiane); Wieschaus, Eric F.; European Molecular Biology Laboratory; Cellular signal transduction; Embryological development; Drosophila melanogaster; Fruit-flies; Lewis, Edward B., 1918-2004; Nobel Prize winners; Vertebrates; Ingham, Phil W.; Genes; Homeobox genes; Concept

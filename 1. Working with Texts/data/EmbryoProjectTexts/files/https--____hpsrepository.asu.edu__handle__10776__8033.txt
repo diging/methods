@@ -1,0 +1,226 @@
+By M. Elizabeth Barnes
+Published: 2014-07-11
+Keywords: recapitulation theory, von Baer's Laws
+ The Origin of Species, "Chapter Thirteen: Mutual Affinities of Organic Beings: Morphology: Embryology: Rudimentary Organs" (1859), by Charles R. Darwin"Mutual Affinities of Organic Beings: Morphology:
+	Embryology: Rudimentary Organs" is the thirteenth chapter of Charles
+	Darwin's book The Origin of Species, first published in
+	England in 1859. The book details part of Darwin's argument for the common
+	ancestry of life and natural selection as the cause of speciation.
+	In this chapter, Darwin summarizes the evidence for evolution by
+	connecting observations of development in organisms to the processes
+	of natural selection. Darwin shows how the theory of special
+	creation, which claims that God directly created all organisms in
+	their current form, is inferior to the theory of natural selection
+	for its ability to explain the diversity of life. In this chapter,
+	Darwin also discusses classification and homology as they relate to
+	natural selection.
+On the Origin of Species by Means of
+	Natural Selection, or the Preservation of Favoured Races in the
+	Struggle for Life was published by John Murray III of the John
+	Murray publishing house in London, England, on 24 November 1859. At
+	that time, Darwin lived in Kent, England. Since the first edition,
+	five subsequent editions appeared, and the title of the book endured
+	slight variations. The sixth and final edition, published on 19
+	February 1872, appeared with the shortened title The Origin of
+	Species.
+Chapter thirteen is part of a group of chapters
+	in which Darwin shows how natural selection can explain facts from
+	several different fields of biology. In chapters nine through
+	twelve, Darwin details facts from geology, archeology, and
+	biogeography. In chapter thirteen, he discusses the fields of
+	classification, morphology, and embryology. Darwin claims that the
+	theory of evolution by natural selection can explain many phenomena,
+	including the patterns emerging from the classification of
+	organisms, the tendency of embryos to look similar to each other and
+	then diverge from each other as their development progresses, and
+	the presence of useless or vestigial organs. Furthermore, Darwin
+	says that the alternative theory of special creation has less
+	 explanatory power over these observations.
+The
+	first section of chapter thirteen discusses the classification of
+	organisms. Darwin argues that classifying organisms gives a clue
+	about their ancestry and relationships to each other. He explains
+	how biologists organize species into groups according to the
+	characters of organisms within species. These groups are then put into broader groups according
+	to their more general characters. This process continues until there
+	is just one group. For example, dogs belong to a group called canines, but they
+	also belong to a larger and more general group called Carnivora.
+	Additionally, they belong to an even more general group called
+	mammals, which belongs to the group of vertebrates. This process creates a descending
+	pattern from the largest most general groups to the smallest most
+	distinct groups, a system Carl Linné developed in the eighteenth
+	century in Sweden.
+Darwin then ties these classifications to his theory of evolution by natural selection. He notes
+	that individuals of the same species vary from each other.
+	Additionally, he says that these individuals will compete with each
+	other for resources and, because of their variations, different
+	individuals may be able to exploit slightly different resources.
+	Through the pressures of natural selection those organisms will
+	diverge into separate populations throughout many generations.
+	Like the different groups within classification, these now separate
+	populations will vary from each other in their specialized
+	characters, and yet retain the general
+	characteristics of the larger original population. According to
+	Darwin, the patterns emerging from classification parallel the
+	process of speciation.
+Next, Darwin argues that the
+	processes by which biologists classify species rely on common
+	ancestry rather than on special creation. He argues that, if God
+	uniquely created organisms, then biologists should classify organisms according to the type of habitats the organisms live
+	in or according to all external similarities between organisms. But, Darwin says,  biologists don't in fact classify organisms with those principles.  For instance, biologists do not classify large
+	fish with whales even though they share very similar external
+	characters and habitats. When looking at organisms through the scope
+	of common ancestry, however, biologists can explain why they don't
+	classify whales and fish together. Whales and fishes look similar
+	because both of their ancestors have been put under the same
+	pressure to survive and reproduce in an aquatic habitat, but in
+	their basic parts they are very different. For example, whales
+	breathe air and give birth to live young, while fishes extract
+	oxygen from the water and lay eggs.
+In the next section,
+	labeled "Morphology," Darwin discusses the unity of life on earth.
+	He calls upon homology of basic structures as evidence of evolution
+	from a common ancestor. Darwin defines homologies as structures that
+	seem to be of the same type across very different groups of animals,
+	even though they may differ from each other in their forms or in how they function. He
+	notes the similarities in bone structures between the limbs of
+	organisms across different genera of animals used for different
+	purposes, such as the hands of humans used for grasping, the
+	wings of birds used for flight, and the paddles of porpoises used
+	for swimming. The limbs are made of the same basic components:
+	similar bones, in a similar order, from a similar pattern. According
+	to Darwin, this phenomenon indicates a shared ancestor whose
+	original body-plan has been modified over time, and supports the
+	claim that species have not been uniquely created.
+The third
+	section of chapter thirteen, "Embryology," is about developmental
+	processes and phenomena. He notes that embryos from different classes of animals,
+	such as birds and mammals, look very similar to one another in early
+	development. He tells a story about Louis Agassiz, a biologist who
+	was at Harvard University in Cambridge, Massachusetts. Agassiz, upon
+	receiving new specimens of embryos, forgot to put a label on one
+	embryo. Later, when returning to the embryos he could not tell if
+	the unlabeled embryo was a bird, a mammal, or a reptile because they all
+	looked so remarkably similar. Historians later argued that Darwin
+	mistakenly attributed the story to Agassiz, and that Darwin meant to
+	name Karl von Baer, an embryologist at Königsberg University, in
+	Königsberg, Germany, who developed von Baer's Laws of development in
+	the early half of the nineteenth century.
+Darwin then
+	discusses how similarities between embryos of different species can
+	 persist in later stages of development, and even after birth. As an
+	example, he talks about how many species of cats have stripes and
+	spots. Lions lack these characters as adults, but the stripes and
+	spots are still present in newborn lion cubs. This observation leads
+	Darwin to argue that the time when variation occurs during cats'
+	development can differ across species.
+Whether or not differentiation of
+	organisms occurs in early or in late development, Darwin says that
+	offspring will develop traits in the same developmental stages that
+	their parents developed those traits. He supports his claim with
+	examples of hereditary diseases. Darwin notes that an
+	inherited disease will generally develop in the offspring at the
+	same age it afflicted the parent. Darwin uses this observation to
+	support his hypothesis of heritable variation.
+Darwin next
+	discusses one reason why embryos of animals from very different species look so
+	similar to each other. He states that the stages of development when
+	embryos look similar to each other are also the stages in which
+	embryos generally do not interact with the outside environment. At
+	these stages, embryos are largely dependent on their mother's wombs
+	or on the egg, and they hardly interact with the outside
+	environment. Darwin says that differentiation between embryos of
+	different species will occur increasingly as the organisms are
+	exposed to the outside environment and as they become more
+	independent. The increasing divergence of embryos is because natural
+	selection occurs during the time when organisms are interacting with
+	their outside environment. Embryos of different species look similar
+	because they share a common ancestor, and because they do not have to face
+	as much selective pressure as adult organisms do. It is the adults that are subjected to their environment the most, and
+	therefore selected.
+According to Darwin, natural selection
+	also explains a theory in developmental biology that says that the stages in
+	an organism's development parallel the adult forms of other animals
+	that were its ancestors. According to this theory, called recapitulation theory, the stage at
+	which human embryos exhibit gill slits parallels the adult forms of
+	our fish ancestor species. This theory came from the observation
+	that embryos exhibit stages in development in which they resemble
+	the adult forms of other animals. Darwin tried to explain these
+	phenomena with the theory of natural selection. He explains that,
+	although the results of natural selection enable researchers to
+	conclude that animals replay their ancestry during development, the
+	hypothesis of recapitulation is an exaggeration of the truth.
+	Embryology can indicate evolutionary relationships between groups of
+	organisms only because embryos have undergone less change than
+	adults. Thus, biologists can see those structures that are similar
+	between species at early stages of development. However, Darwin
+	argues that not every stage of development corresponds to the form
+	of its adult ancestor.
+The last section of this chapter,
+	labeled "Rudimentary Organs" addresses the vestigial structures in
+	animals, and it shows that only natural selection can account for
+	these features. Darwin defines vestigial structures as structures
+	that persist within a species but have lost their function. They are usually
+	smaller than their homologues in other species, and are sometimes
+	described as atrophied. However, Darwin's definition differs from
+	the definition of vestigial structures used by later biologists.
+Throughout chapter thirteen, Darwin cites examples to support his
+	conclusions on vestigial organs. One of those examples includes the
+	remnants of legs on snakes. Snakes do not use legs to move, yet
+	some of them possess structures similar to legs; they are in the
+	same location as the legs of other species, and they are composed of the
+	same basic parts, although smaller. Naturalists correlated the
+	rudimentary legs of snakes and the functional legs of lizards.
+Darwin uses these examples to critique the theory of creationism.
+	Darwin asks: why would individually and uniquely created species
+	have useless structures? Darwin says that, if we accept creationism
+	to explain the origin of species, then we must accept that there is no
+	rational explanation for these parts. In contrast, natural selection
+	explains those phenomena. Organisms possess vestigial structures
+	because they have an ancestor that also possessed these structures.
+	Those structures in descendent species adapted for different
+	functions, or disappeared due to selective environmental pressures,
+	which their ancestors did not experience.
+Darwin's
+	embryological arguments for evolution influenced the study of the
+	relationships between evolution and development. For example, after
+	the publication of The Origin, Ernst Haeckel in Jena,
+	Germany, used Darwin's arguments in support of his biogenetic law or
+	recapitulation, which stated that organisms replay their
+	evolutionary ancestry while developing from embryos to adults. Many
+	biologists accepted Haeckel's biogenetic law until the 1890s. 
+ Sources Baer, Karl Ernst von. Über Entwickelungsgeschichte der Thiere. Beobachtung und reflexion. [On the Developmental History of the Animals. Observations and Reflections]. Königsberg: Gebrüdern Bornträger 1828. http://www.biodiversitylibrary.org/item/28306 (Accessed April, 12 2014).
+Bowler, Peter J.
+		Evolution: The History of an Idea. Berkeley and Los
+		Angeles: University of California Press, 1984.
+Costa,
+		James T. The Annotated Origin. Cambridge: Harvard
+		University Press, 2009.
+Darwin, Charles R. On the Origin of Species by Means of
+		Natural Selection, or the Preservation Of Favoured Races in the
+		Struggle for Life. London: John Murray Publishing House,
+		1859. http://darwin-online.org.uk/content/
+		frameset?pageseq=1&itemID= F373&viewtype=text
+		(Accessed March 6, 2014).
+Linnaeus, Carl. Systema Naturae [System of Nature], 12th edition. Holmiae: Laurentii Salvii, 1766–68. http://dx.doi.org/10.5962/bhl.title.68927 (Accessed January 14, 2014).
+Gould, Stephen J. Ontogeny
+		and Phylogeny. Cambridge: Harvard University Press, 1977.
+		
+Haeckel, Ernst. Generelle morphologie der organismen. [General Morphology of the Organisms]. Berlin: G. Reimer, 1866. http://www.biodiversitylibrary.org/item/22319#page/11/mode/1up (Accessed April 12, 2014).
+
+
+How to cite
+Barnes, M. Elizabeth, "The Origin of Species: "Chapter Thirteen: Mutual Affinities of Organic Beings: Morphology: Embryology: Rudimentary Organs" (1859), by Charles R. Darwin". Embryo Project Encyclopedia (2014-07-11). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/8033.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+Copyright Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Tuesday, July 15, 2014 - 19:20
+ Topic
+Subject
+ Darwin, Charles, 1809-1882; Darwin, Charles, 1809-1882. On the origin of species; Evolution; Origin of species; Natural selection; Baer, Karl Ernst von, 1792-1876; Embryology; Literature

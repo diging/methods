@@ -1,0 +1,98 @@
+By Dorothy R. Haskett
+Published: 2014-10-10
+Keywords: Allan Charles Wilson, mitochondrial eve, MtDNA
+ "Mitochondrial DNA and Human Evolution," (1987) by Rebecca Louise Cann, Mark Stoneking, and Allan Charles WilsonIn 1987 Rebecca Louise Cann, Mark Stoneking, and Allan Charles Wilson published "Mitochondrial DNA and Human Evolution" in the journal Nature. The authors compared mitochondrial DNA from different human populations worldwide, and from those comparisons they argued that all human populations had a common ancestor in Africa around 200,000 years ago. Mitochondria DNA (mtDNA) is a small circular genome found in those parts of cells called mitochondria. Mitochondria are organelles found outside of the nucleus in the watery part of the cell, called cytoplasm, of most complex cells (eukaryotes). Cann, Stoneking and Wilson collected mtDNA from 147 individuals from five different human geographical populations. Cann, Stoneking, and Wilson used mtDNA sequences to study the genetic differences and migration patterns of the human population through female inheritance. Mammals inherit mitochondria and mtDNA from their mothers through the egg cell (oocyte), and mitochondria are responsible for several maternally inherited diseases.
+		
+
+In "Mitochondrial DNA and Human Evolution," Cann, Stoneking, and Wilson reported their analysis of mtDNA from 147 people from five different geographic regions including Africa, Asia, Australia (aboriginal), Europe, and New Guinea (aboriginal). The authors investigated how, when, and where the human gene pool arose and migrated. To have large enough samples to analyze, the scientists obtained highly purified mtDNA samples from placentas. Hospitals in the US provided ninety-eight of the placentas and Australia and New Guinea hospitals provided the remainder.
+
+
+Cann and Stoneking worked in Wilson's laboratory at the University of California at Berkeley, California. Cann received her PhD in 1982 and was a postdoctoral fellow in the lab. Stoneking prepared the last forty placentas that came from Australia and Papua, New Guinea highlands, when Cann took a postdoctoral position at University of California at San Francisco in 1984. Cann, Stoneking, and Wilson finished the article in 1985 and submitted it to Nature, which published it in 1987. 
+
+
+Human mtDNA is a circular genome of 16,569 base pairs and codes for thirty-seven genes. The human nuclear genome contains three billion base pairs and codes for possibly 30,000 genes. In 1981, Fred Sanger's group in Cambridge, England, published the entire sequence and organization of the human mtDNA genome. Cann, Stoneking, and Wilson hypothesized that they could use the published genome sequence as a standard to compare other human mtDNA sequences. When offspring inherit nuclear DNA, or DNA in the nuclei of cells, they receive half of that DNA from their mother's egg cell and half from their father's sperm cell, a process called recombination. The mtDNA genome passes entirely from the mother to offspring, differing only in minor random changes, called mutations, to the mtDNA sequence. 
+
+
+"Mitochondrial DNA and Human Evolution" has eleven sections plus an introduction. In the introduction Cann, Stoneking, and Wilson describe three arguments for why their worldwide survey of mtDNA adds to the knowledge of the human gene pool. They note that mutations in mtDNA accumulate much faster than in nuclear DNA, magnifying the diversity of the mtDNA. Because offspring inherit mtDNA only from their mothers, there is no mixing of maternal and paternal genes in the mtDNA sequence. Mammalian females have multiple copies of identical mtDNA molecules. The authors proposed that mtDNA passes from mother to offspring without mixing together and therefore is more sensitive to change across generations in small populations that expand rapidly to form a large population.
+
+
+In section one, Cann, Stoneking, and Wilson describe methods used to separate and purify mtDNA. Cann and Stoneking obtained highly purified mtDNA from 145 placentas and two research tissue culture cell lines. The cell lines were called HeLa, from an Aftrican American, and GM 3043, from a native South African. The researchers treated the cell lines with twelve enzymes that cut DNA at specific sites, called restriction endonucleases. Researchers identified the mtDNA restriction pieces in a process called high-resolution restriction mapping.
+
+
+Section two describes how the researchers divided the 147 mtDNA restriction maps into 133 different sequence patterns or types. The researchers formed a graph of the differences among the individual people. The distribution is approximately bell shaped or a normal distribution, except for a few individuals who had a large number of mtDNA differences. The average number of mtDNA differences is 9.5 between individuals. Cann, Stoneking, and Wilson compared the mtDNA differences within their geographic group and the mtDNA differences between the groups. The group with the most mtDNA variation was the group from Aftrica and the next was the group from Asia.  The last three groups from Australia, Europe, and New Guinea, had similar mtDNA variation within each group. The mtDNA variation between groups slightly exceeded the variation within groups. However, when the scientists corrected for the variation within a group, the difference between groups was very small, at approximately 0.04 percent. The scientists concluded that most of the variation is within populations. In other words, there is more variation within groups than between groups.
+
+
+Sanger's group had identified seven regions of the human mtDNA before Cann, Stoneking, and Wilson conducted their own research. Section three refers to the mtDNA mutations within the five geographical regions verses the seven functional regions of the human mtDNA genome found by Sanger's group. Most mutations in mtDNA occur in a region that does not code for protein or RNA molecules, called a noncoding region, and also known as the displacement loop (D loop). Each group of people had more mutations in the D loop than any other mtDNA region. The group from Africa had the highest number of mutations, followed by the group from Asia, and the group from Australia had the fewest mutations.
+
+
+In the next three sections Cann, Stoneking, and Wilson report that they used the 133 mtDNA types that they had divided the mtDNA into, to build evolutionary or phylogenic trees that relate these types to each other and to the reference mtDNA sequence. The trees rely on two assumptions; the first assumption is that there is strict maternal inheritance of mtDNA, and second assumption is that all mtDNA within an individual is identical.  The authors drew many trees from the data. All trees drawn share two primary branches, which are one of only those from Africa, and one of all five of the geographical groups including those from Africa. The authors infer that each non-African population has multiple mtDNA lineages and the source of the human mtDNA gene pool is from Africa.
+
+
+In section seven, Cann, Stoneking, and Wilson calculated a tentative period for when the mtDNA gene pool was established in humans. The scientists used the colonization of New Guinea at 30,000 years ago, Australia at 40,000 years ago, and the New World at 12,000 years ago to calibrate the time scale, called a molecular clock. Using the time scale, the authors estimated that two to four percent of the mtDNA sequence mutates every million years. Cann, Stoneking, and Wilson used this time scale and mutation rate and determined that all surviving mtDNA types existed 140,000 to 290,000 years ago. The oldest cluster of mtDNA without African members is 90,000 to 180,000 years old. In the article, the authors stated that modern humans may have left Africa at around 90,000 to 180,000 years ago, or more recently.
+
+
+In the next three sections, Cann, Stoneking, and Wilson examined other mtDNA studies, nuclear DNA studies, and the relationship of their findings to the fossil record. Two other human mtDNA studies support the African origin of the human mtDNA gene pool. Studies of blood groups, red blood cell enzymes, and serum proteins show that the largest differences in mtDNA are between humans in Africa and other populations, but these proteins are also products of nuclear DNA, and not just mtDNA. The mixing of maternal and paternal genes and other factors influences nuclear DNA differences.  In the article, the authors concluded that these results support the African origin of the human nuclear gene pool. One view of the fossil record is that the transition from archaic to modern Homo sapiens occurred first in Africa about 100,000 to 140,000 years ago. In another theory, because the genus Homo was in Asia and Africa one million years ago, the transformation from archaic to modern Homo sapiens occurred in parallel in Africa, Asia, and other areas. 
+
+
+In the conclusion of the article, Cann, Stoneking, and Wilson stated that their studies of mtDNA agree with the first interpretation of the fossil record. The authors claimed that scientists need to research more molecular comparisons with both nuclear and mtDNA to provide further evidence for the origin of mtDNA in Africa and the mutation rate of mtDNA. They also stated that more data will better indicate how, when, and where modern humans arose. 
+
+
+When first published, Cann, Stoneking, and Wilson's article interested mass media. Cann, Stoneking, and Wilson's data supported Charles Darwin's 1871 theory that humans originated in Africa. In the News and Views section of the same issue of Nature, an article coined the term mitochondrial Eve, referring to the Judeo-Christian biblical first woman Eve. However, the Cann, Stoneking, and Wilson article did not mention a mitochondrial or African Eve. Cann, Stoneking, and Wilson's article postulated that the African woman was probably a member of a small population of modern Homo sapiens living in Africa. Cann, Stoneking, and Wilson said that she was the only woman whose mtDNA survived until 1987. Many paleontologists challenged the claim that humans had arisen only 200,000 years ago, favoring a much earlier date, indicated by the fossil record. The article stated that there is much uncertainty about the dating of fossils. In the 1990s and early twentieth century, scientists modified the date of when the African woman lived to approximately 170,000 years ago. In an interview with Cann and Stoneking in 2012, twenty-five years after the publication of the original article, Stoneking said that the current view of mtDNA variation is remarkably similar to the conclusion in the original article.
+
+
+Sources
+Anderson, Stephan, Alan T. Bankier, Bart G. Barrell, Maarten H. L. de Bruijn, Alan R. Coulson, Jacques Drouin, Ian C. Eperon, Donald P. Nierlich, Bruce A. Roe, Fred Sanger, Peter H. Schreier, Andrew J. H. Smith, Rodger Staden and Ian G. Young. "Sequence and Organization of the Human Mitochondrial Genome." Nature 290 (1981): 457–65.
+		
+
+Brown, Wesley M. "Polymorphism in Mitochondrial DNA of Humans as Revealed by Restriction Endonucleases Analysis." Proceedings of the National Academy of Science 77 (1980): 3605–9. http://www.pnas.org/content/77/6/3605.full.pdf+html (Accessed March 27, 2014).
+
+
+Brown, Wesley M., Matthew George, Jr., and Allan C. Wilson. "Rapid Evolution of Animal Mitochondrial DNA." Proceedings of the National Academy of Science 76 (1979): 1967–71. http://www.pnas.org/content/76/4/1967.full.pdf+html (Accessed March 27, 2014).
+
+
+Cann, Rebecca L., Mark Stoneking, and Allan C. Wilson. "Mitochondrial DNA and Human Evolution" Nature 325 (1987): 31–36.
+
+
+Cummins, Jim. "The Role of Maternal Mitochondria during Oogenesis, Fertilization and Embryogenesis." Reproductive BioMedicine Online 4 (2002): 176–82. http://download.journals.elsevierhealth.com/pdfs/journals/1472-6483/PIIS1472648310619372.pdf (Accessed March 27, 2014).
+
+
+Darwin, Charles. The Descent of Man. London: John Murray, 1871. http://dx.doi.org/10.5962/bhl.title.2092 (Accessed October 9, 2014).
+
+
+Giles, Richard E., Hugues Blanc, Howard M. Cann, and Douglas C. Wallace. "Maternal Inheritance of Human Mitochondrial DNA." Proceedings of the National Academy of Science 777 (1980): 6715–9. http://www.pnas.org/content/77/11/6715.full.pdf+html (Accessed March 27, 2014).
+
+
+Gitscher, Jane. "All About Mitochondrial Eve: An Interview with Rebecca Cann." PLoS Genetics 6 (2010): 1–3. http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1000959 (Accessed March 27, 2014).
+
+
+Monnat, Raymond J. Jr. and Lawrence A. Loeb. "Nucleotide Sequence Preservation of Human Mitochondrial DNA." Proceedings of the National Academy of Science 82 (1985): 2895–9. http://www.pnas.org/content/82/9/2895.full.pdf+html (Accessed March 27, 2014).
+
+
+Pakendorf, Brigitte and Mark Stoneking. "Mitochondrial DNA and Human Evolution" Annual Review Genome Human Genetics 6 (2005): 165–83.
+
+
+Wainscoat, Jim. "Out of the Garden of Eden." Nature 325 (1987): 13.
+
+
+Wilkins, Alasdair. "How Mitochondrial Eve Connected Humanity and Rewrote Human Evolution. Interview with Rebecca Cann and Mark Stoneking." iO9 24 January 2012. http://io9.com/5878996/how-mitochondrial-eve-connected-all-humanity-and-rewrote-human-evolution?tag=mitochondrial-eve (Accessed March 27, 2014).
+
+
+Wilson, Allan C., Rebecca L. Cann, Steven M. Carr, Matthew George, Ulf B. Gyllensten, Kathleen M. Helm-Bychowski, Russell G. Higuchi, Stephen R. Palumbi, Ellen M. Prager, Richard D. Sage, and Mark Stoneking.  "Mitochondrial DNA and Two Perspectives on Evolutionary Genetics." Biological Journal of the Linnean Society 26 (1985): 375–400.
+
+
+
+How to cite
+Haskett, Dorothy R., ""Mitochondrial DNA and Human Evolution" (1987), by Rebecca Louise Cann, Mark Stoneking, and Allan Charles Wilson". Embryo Project Encyclopedia (2014-10-10). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/8225.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+Copyright Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Sunday, October 12, 2014 - 22:35
+ Topic
+Subject
+ Mitochondria; Human evolution; Evolution; University of California at Berkeley; homo sapiens; Africa; Mitochondrial DNA; Literature

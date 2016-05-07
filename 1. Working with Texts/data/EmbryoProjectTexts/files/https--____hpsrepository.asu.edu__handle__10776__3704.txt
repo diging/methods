@@ -1,0 +1,20 @@
+By Jack Resnik
+Published: 2012-06-02
+Keywords: Morphogens
+ Bicoid is the protein product of a maternal-effect gene  unique to flies of the genus Drosophila . In 1988 Christiane Nüsslein-Volhard  identified bicoid as the first known morphogen . A morphogen is a molecule that determines the fate and phenotype of a group of cells through a concentration gradient across that developing region. The bicoid gradient, which extends across the anterior-posterior axis of Drosophila embryos, organizes the head and thorax.
+
+How to cite
+Resnik, Jack, "Bicoid". Embryo Project Encyclopedia (2012-06-02). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/3704.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Friday, February 27, 2015 - 22:53
+ Topic
+Subject
+bicoid protein, Drosophila; Nüsslein-Volhard, C. (Christiane); Embryos; Morphogenesis; Turing, Alan Mathison, 1912-1954; Morgan, Thomas Hunt, 1866-1945; Crick, Francis, 1916-2004; Wieschaus, Eric F.; Genes; Driever, Wolfgang; Homeobox genes; Concept

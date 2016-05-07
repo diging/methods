@@ -1,0 +1,70 @@
+By Karen Wellner
+Published: 2009-07-17
+Keywords: Human development, Carnegie Institution of Washington
+ Carnegie StagesHistorically the exact age of human embryo specimens has long perplexed embryologists. With the menstrual history of the mother often unknown or not exact, and the premenstrual and postmenstrual phases varying considerably among women, age sometimes came down to a best guess based on the weight and size of the 
+		embryo. 
+		Wilhelm His was one of the first to write comparative descriptions of human embryos in the late 1800s. Soon afterward, 
+		Franklin P. Mall, the first director of the 
+		Carnegie Institution of Washington’s (CIW) Department of Embryology, expanded upon 
+		His’ work. 
+		Mall’s first efforts were to place embryos into stages based on 
+		menstrual ages and body length. This method ran into problems, however, when it became apparent that obtaining menstrual ages was often impossible or simply too inaccurate even if the information could be obtained from the women who carried the embryos.  
+		Mall decided instead to look for patterns among embryos to come up with some type of staging system whereby embryo age could be more accurately determined.  
+The 
+		Department of Embryology received embryos in a fixative of 10% formalin. Technicians usually allowed the specimens to sit unmeasured for two weeks. This helped standardize any shrinkage that may have taken place. Then, using calipers, they measured the greatest length (GL) of the embryo, with no attempt to straighten it. This measurement is most useful in determining embryo stages 1 to 12. Other measurements taken by technicians included crown-rump (C-R) and foot length, especially if the embryo was damaged.  After measurements were taken and external morphology recorded, the embryos were photographed, embedded in paraffin, and serially sectioned with a 
+		microtome. Microscopy revealed the presence of a wide range of internal organs. This data, combined with embryo length and external features, determined the stage of the embryo.  By adhering to consistent technical procedures, 
+		Mall arranged 266 embryos, ranging from 2 to 25 mm in length, into fourteen stages.
+
+		Mall’s successor as director of the 
+		Embryology Department was 
+		George L. Streeter.  
+		Streeter continued the embryo-staging work and concentrated on describing 704 embryos ranging from 5.5 to 32 mm in length. Even after Streeter retired from the directorship he continued to put full energy into updating 
+		Mall’s work. 
+		Streeter disliked the term “stage,” thinking it too precise a term to associate with embryo age. He opted for putting embryos into horizons, a geological term that implicated levels of age and structural organization. In 1942 Streeter published his work in a 
+		Carnegie monograph, describing twelve embryo horizons and key characteristics of each one:
+
+Horizon I	one-celled stageHorizon II	segmenting cellHorizon III	free blastocystHorizon IV	implanting ovumHorizon V ovum implanted, but still avillousHorizon VI	primitive villi, distinct yolk sacHorizon VII	branching villi, axis of germ disk definedHorizon VIII	Hensen’s node, primitive grooveHorizon IX	neural folds, elongated notochordHorizon X	early somites presentHorizon XI	13 to 20 paired somitesHorizon XII	21 to 29 paired somites
+In 1945 
+       Streeter published descriptions of horizons XIII and XIV. Horizons XV, XVI, XVII, and XVIII were described later in 1948. Streeter ended the horizons at XXIII, the period just prior to marrow formation in the embryo humerus. Streeter was working on Horizons XIX and XXIII when he unexpectedly died in 1948. This work was completed by 
+       Chester H. Heuser and 
+       George W. Corner in 1951.
+When 
+       Ronan O’Rahilly took over the Carnegie collection in the early 1970s he reverted to using the term “stages” rather than 
+       Streeter’s “horizons.” 
+       O’Rahilly completed the complicated task of embryo staging by defining the elusive stages 1–9 in 1973. Most of the specimens that 
+       O’Rahilly studied for this work had been given to the 
+       Department of Embryology by 
+       Arthur Hertig and 
+       John Rock. Their collection of early embryos taken from women in the 
+       Free Hospital for Women in Boston began in the late 1930s and ended in the 1950s. 
+The entire staging work was expanded, updated, and completed by 
+       O’Rahilly and presented in a catalog of Carnegie Stages, complete with descriptions and illustrations. This was published by the 
+       CIW as Publication 637 in 1987. It remains the standard for developmental stages in human embryos. Originally, drawings for Stages 1–9 were done by illustrators in the Department of Art as Applied to Medicine at the Johns Hopkins School of Medicine under the direction of 
+       Ranice D. Crosby. Most of the drawings for Stages 10–23 were drawn by 
+       James F. Didusch of the CIW Department of Embryology. These were later accompanied by photomicrographs taken by 
+       Raymond F. Gasser in 1975. Presently, the developmental stages as outlined in the 1987 monograph have been left relatively unmodified.
+
+Sources
+Bartone, John C. “Application of the Streeter Developmental Horizons for the Classification of Chick, Frog, and Pig Embryos in Teaching and Research.” Transactions of the American Microscopical Society 79 (1960): 253–56.
+Hopwood, Nick. “A History of Normal Plates, Tables, and Stages in Vertebrate Embryology.” International Journal of Developmental Biology 51 (2007): 1–26.
+Noe, Adrianne. “The Human Embryo Collection.” In Centennial History of the Carnegie Institution of Washington: Volume V, The Department of Embryology, eds. Jane Maienschein, Marie Glitz, and Garland E. Allen, 21–61. Cambridge: Cambridge University Press, 2004.
+O’Rahilly, Ronan, and Fabiola Müller. Developmental Stages in Human Embryos. Washington, DC: Carnegie Institution of Washington Pub. 637, 1987.
+Rodeck, Charles H., and Martin J. Whittle. Fetal Medicine: Basic Science and Clinical Practice. London: Elsevier Health Sciences, 2009.
+Streeter, George L. “Developmental Horizons in Human Embryos. Description of Age Group XI, 13 to 20 Somites, and Age Group XIII, 21 to 29 Somites. Carnegie Institution of Washington, Pub. 541.” Contribution to Embryology 30 (1942): 211–45.
+
+
+How to cite
+Wellner, Karen, "Carnegie Stages". Embryo Project Encyclopedia (2009-07-17). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/1981.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 25, 2013 - 15:53
+ Topic
+Subject
+ Mall, Franklin P. (Franklin Paine), 1862-1917; Concept

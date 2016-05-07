@@ -1,0 +1,48 @@
+By Lijing Jiang
+Published: 2010-06-18
+Keywords: Tissue culture
+ Alexis Carrel's Tissue Culture TechniquesAlexis Carrel, the prominent French surgeon, biologist, and 1912 Nobel Prize laureate for Physiology or Medicine, was one of the pioneers in developing and modifying tissue culture techniques. The publicized work of Carrel and his associates at the 
+		Rockefeller Institute established the practice of long-term 
+		tissue culture for a wide variety of cells. At the same time, some aspects of their work complicated the operational procedures of tissue culture. Thus Carrel’s legacy had a mixed influence on the development of tissue culture techniques, which have been widely used in the fields of 
+		embryology and 
+		stem cell research.
+Carrel’s work with tissue culture followed the research of 
+		Ross Granville Harrison. In 1907 Harrison successfully carried out the first tissue culture using the 
+		hanging drop method, in which fragments of embryonic frog nerve tissue were grown in a clot of lymphatic fluid. Harrison’s influential experiment inspired many biologists, including Carrel, to use the method in their research into questions about cell physiology, which were difficult to address by direct study of complex whole organisms. These questions included whether heart cells could beat by themselves and what factors determine the life span of cells. In 1910, Carrel’s assistant, 
+		Montrose Burrows, visited Harrison’s laboratory at 
+		Yale University for several months to learn about tissue culture. Burrows successfully established tissue cultures of 
+		embryonic chick cells. Upon his return to the Rockefeller Institute, Burrows equipped Carrel’s laboratory with methods he learned from Harrison. Carrel’s long investigation in improving tissue culture methods was thus initiated.
+Between October 1910 and March 1911, Carrel and Burrows published four papers on tissue culture in the Journal of the American Medical Association. Conceptually, they coined the term “tissue culture” and gave its definition as “a plasmatic medium inoculated with small fragments of living tissue.” Experimentally, Carrel and Burrows adapted Harrison’s hanging drop method of amphibian embryonic cells for wider applications and so that tissues could be cultured for a longer duration. Although the method they used was generally based on Harrison’s original design, Carrel and Burrows substituted blood plasma for lymph in the tissue culture medium. This material change made the tissue culture less laborious and more reliable, because chick blood plasma was easier to obtain and more homogeneous in quality, compared to lymph fluid.
+The two biologists also expanded the application of tissue culture to tissues of various types, including adult tissues, tissues of mammalian origin, and cancerous tissues from chicks and humans. The most significant innovation described in their early publications was probably the method designed for serial cultivation of tissues. In serial cultivation fragments of one culture are transferred to new media to form secondary cultures, which ensures that the growth of tissues can be maintained for longer periods. Carrel and Burrows called this prolonged culturing “reactivation and cultivation in series.” This serial cultivation was also the basis of Carrel’s 1912 paper 
+		“On the Permanent Life of Tissues outside of the Organism.”
+Another important modification was the addition of embryo extracts to the culture medium. Although the serial culturing technique could extend the life span of the cultures, Carrel noticed that the size of the cells decreased with each subculture. In 1913 he found that cell size could be maintained by adding extracts of homogenized tissues from chicks, especially of embryonic origin. This supplemental extract from embryonic tissues, which he called “embryo juice,” proved to be potent in “activating” growth in tissue cultures. The “embryo juice” was made by grinding up embryonic tissues, mixing them with saline solution, and eliminating remaining cells through centrifugation and filtration. With the aid of this extract Carrel was able to grow tissues for months. He eventually managed to keep the steady growth of embryonic chick heart tissues through serial cultivation for thirty-four years, leading him to conclude that cells were intrinsically immortal.
+In the 1960s 
+		Leonard Hayflick challenged Carrel’s proposition about cell 
+		immortality, and showed that normal cells have a finite proliferative capacity. Among many speculations proposed to account for how Carrel’s chick heart tissue could have survived in tissue culture for so long, was the question of whether the “embryo juice” was in fact introducing extra living cells that had not been eliminated by the centrifugation and filtration processes.
+By 1923 Carrel expanded the design of hanging drop culture into liquid cultures in which the medium did not clot, thereby making it easier to observe the cultures under a microscope. He devised a culture vessel, later known as the 
+		Carrel flask, to facilitate liquid culture. The Carrel flask is a round, flat flask with a tilted neck that points upwards. When the flask is open, the shape of the neck prevents contamination from the air above. The neck can also be heated to reduce the possibility of contamination. Fragments of tissues in the coagulated plasma were placed in the flask and bathed in a liquid medium. The tissues would grow out of the coagulated plasma into the liquid medium, forming a layer of cells that was much thinner and more transparent than that produced in the hanging drop method. This allowed Carrel to observe cells in tissue culture under a microscope with better focus and resolution. Due to its well-designed asepsis, and the high quality of observation made possible, the Carrel flask was widely used in research well into the 1950s.
+Despite his contributions, some elements of Carrel’s methods were complicated and tedious. This frustrated his contemporary researchers and shaped the common opinion that tissue culture techniques were extremely difficult. For example, Carrel drew heavily on his surgical experience to set up tissue cultures. He emphasized in “Cultivation of Tissues in vitro and its Technique,” published in the Journal of Experimental Medicine in 1911, that tissue cultures must be made in “a warm, humid operating room with the same care and rapidity as a delicate surgical operation….The perfect team work of well-trained assistants is necessary.” Carrel’s style of tissue culture operation even held the hint of idiosyncrasy. He and his technicians all wore black gowns to minimize reflected light, while working in an operating room painted gray. Consequently, many regard Carrel responsible for making tissue culture techniques unnecessarily difficult and even mysterious well into the twentieth century.
+
+Sources
+Carrel, Alexis, and Montrose T. Burrow. “Cultivation of Tissues in Vitro and its Technique.” Journal of Experimental Medicine 13 (1911): 387–96.
+Carrel, Alexis. “A Method for the Physiological Study of Tissues in Vitro.” Journal of Experimental Medicine 38 (1923): 407–19.
+Landecker, Hannah. “Building a New Type of Body in Which to Grow a Cell: Tissue Culture at the Rockefeller Institute, 1910–1914.” In Creating a Tradition of Biomedical Research: Contributions to the History of the Rockefeller University, ed. Darwin H. Stapleton, 151–74. New York: Rockefeller University Press, 2004.
+Landecker, Hannah. Culturing Life: How Cells Became Technologies. Cambridge, MA: Harvard University Press, 2007.
+Witkowski, Jan A. “Alexis Carrel and the Mysticism of Tissue Culture.” Medical History 23 (1979): 279–96.
+
+
+How to cite
+Jiang, Lijing, "Alexis Carrel's Tissue Culture Techniques". Embryo Project Encyclopedia (2010-06-18). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/2015.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 25, 2013 - 15:53
+ Topic
+Subject
+Tissue Culture Techniques; Carrel, Alexis, 1873-1944; Technology

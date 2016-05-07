@@ -1,0 +1,49 @@
+By Lijing Jiang
+Published: 2010-06-25
+Keywords: Stem cells, Regeneration
+ Advanced Cell Technology, Inc.Advanced Cell Technology, Inc. (ACT) is a biotechnology company that uses stem cell technology to develop novel therapies in the field of 
+		regenerative medicine. Formed in 1994, ACT grew from a small agricultural cloning research facility located in Worcester, Massachusetts, into a multi-locational corporation involved in using both 
+		human embryonic stem cells (hESC) and 
+		human adult stem cells as well as animal cells for therapeutic innovations. Through its work in developing alternative methods for hESC derivation and its public statements, ACT has also played an active role in stimulating and participating in public debate over stem cell research.
+In 1994, 
+		James Robl, an animal science researcher at the University of Massachusetts, and his student Steven Stice sought to raise private capital to subsidize their research on agricultural animal cloning. With the help of their colleague F. Abel Ponce de León, they obtained funding from Avian Farms, a Maine-based agricultural company, and co-founded ACT.
+The company dedicated its early research to 
+		animal cloning and produced the first cloned cow in 1997. Through its specialty in 
+		cross species nuclear transplantation, ACT participated in a collaborative effort to clone, for the first time, an endangered species animal, which culminated in the birth of a gaur named Noah in 2001. Cloning of other endangered species proved unsuccessful. The interests of ACT’s founders gradually moved from agricultural practice to medical application. In 1996, Robl and his student 
+		Jose Cibelli made attempts to fuse human somatic nuclei with cow eggs, in hopes of harvesting chimeric progenitor cells for dopaminergic neurons to treat 
+		Parkinson’s disease. Although they obtained some encouraging results and patented their findings, they soon realized that they would not be able to push this research further due to the technological challenges. Consequently, this avenue of research was soon discontinued.
+
+Michael West, a biotechnology entrepreneur, was appointed president and CEO of ACT in 1998. He, together with Cibelli and tissue engineering scientist 
+		Robert Lanza, accelerated and completed the reconfiguration of ACT’s research towards the emerging field of regenerative medicine. They initiated multiple programs involving the concept of 
+		therapeutic cloning, with the aim of developing cellular therapies through cloning technology. They also attempted to circumvent ethical and legal objections to human cloning by returning to the previous cross-species nuclear transfer research to create cow-human chimeric embryos. As this alternative method to derive stem cells seemed to encounter unsurpassable difficulties (the recombined embryos did not divide easily), they began to pursue human 
+		somatic cell nuclear transfer (SCNT) directly. This human cloning research, already controversial and provocative, was soon tainted by ACT’s bold claims. When West stated publicly in 2001 that ACT had created “the first human clone” after observing an abnormal human cellular aggregation in his laboratory, he invoked skepticism about what was seen as hyperbole, as well as criticisms concerning the moral issues involved. What ACT really achieved, as other scientists came to understand, was the creation of an aberrant six-celled human quasi-embryo that was nothing like a normal blastocyst, let alone a human fetus.
+After 2001 ACT resumed its efforts to develop alternative methods for hESC derivation, hoping to conduct cloning without destroying embryos and therefore bypassing various ethical concerns. One outcome of its efforts was the production in 2002 of a primate pluripotent stem cell line called Cyno-1 derived by 
+		artificial parthenogenesis. Another alternative was invented in 2006 when ACT scientists succeeded in removing blastomeres without destroying embryos. Mimicking the procedure of 
+		preimplantation genetic diagnosis (PGD), which is commonly used in pre-implantation diagnosis of genetic defects, ACT scientists isolated cells without interfering with the developmental potential of embryos. The isolated blastomeres were further conditioned into functional hESCs. This 
+		“single cell embryo biopsy” technique was listed by the United States National Institutes of Health in 2007 as a potential alternative means of deriving hESCs for consideration of federal funding.
+In addition to a steady stream of scientific publications, ACT has expanded its research into three product-driven programs: the myoblast program, the retinal pigment epithelium program, and the hemangioblast cell program, all of which aim to treat degenerative diseases by replenishing critical types of stem cells. The myoblast therapy program, which aims to treat cardiac diseases using autologous myoblasts (adult progenitor stem cells), completed Phase I human clinical trials in 2007. By the end of 2008, ACT owned and had licensed 380 patents and patent applications.
+Occupying a particular niche in the biotechnology industry and sociopolitical milieu, ACT has played an active role in participating in the public debates over stem cell research. West, Cibelli, and Lanza have written numerous commentaries advocating for stem cell research. In a letter calling for federal support for embryonic stem cell research published in Science in 2001, they managed to include eighty Nobel laureates as signatories. Their influence also includes testimonies to the National Bioethics Advisory Commission and hearings before the US Senate.
+ACT has had the turbulent life typical of young biotechnology firms venturing into promising therapeutics. It has experienced ups and downs amid rapid financial and personnel changes. Despite its successes in recent research, ACT still faces criticism in regard to its overstated interpretation of its science to the media. Nevertheless, as of 2009, ACT holds promises and sustained productive lines of cells and of research.
+
+Sources
+Anonymous. Advanced Cell Technology, Inc.: Company Overview. http://www.advancedcell.com/company/ (Accessed Feb 2, 2009).
+Chung,Young, Irina Klimanskaya, Sandy Becker, Joel Marh, Shi-Jiang Lu, Julie Johnson, Lorraine Meisner, and Robert Lanza. “Embryonic and Extraembryonic Stem Cell Lines Derived from Single Mouse Blastomeres.” Nature 439 (2006): 216–19.
+Cibelli, Jose B., Kathleen A. Grant, Karen B. Chapman, Kerrianne Cunniff, Travis Worst, Heather L. Green, Stephen J. Walker, Philip H. Gutin, Lucy Vilner, Viviane Tabar, Tanja Dominko, Jeff Kane, Petter J. Wettstein, Robert P. Lanza, Lorenz Studer, Kent E. Vrana, and Michael D. West. “Parthenogenetic Stem Cells in Nonhuman Primates.” Science 295 (2002): 779–80.
+Hall, Stephen S. Merchants of Immortality: Chasing the Dream of Human Life Extension. Boston: Houghton Mifflin, 2003.
+
+
+How to cite
+Jiang, Lijing, "Advanced Cell Technology, Inc.". Embryo Project Encyclopedia (2010-06-25). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/2033.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 25, 2013 - 15:53
+ Topic
+Subject
+Stem Cells; Advanced Cell Technology (Firm); Organization

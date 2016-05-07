@@ -1,0 +1,48 @@
+By Angel Lopez
+Published: 2010-07-01
+Keywords: Stem cells, Medicine
+ Umbilical Cord Blood Stem Cells (UCBSC)Umbilical cord blood (UCB) stem cells are 
+		hematopoietic stem cells (HSC) that are recovered from the blood of the umbilical cord and placenta after birth. Umbilical cord blood is rich in cells that express the CD34 molecule, a surface protein that identifies cells as 
+		stem cells. Prior to the discovery of UCB stem cells, it was standard procedure to discard the umbilical cord and placenta; now much effort is devoted to raising public awareness and to encouraging people to store or donate cord blood. The importance of these cells lies in potential clinical treatments of blood-borne diseases, as well as the possibility of restoring cells of other lineages, such as cardiac and neural cells. These possible uses have given rise to 
+		cord blood stem cell banking, both private and public, where cells can be frozen and stored for later use.
+In the early 1980s, 
+		Edward A. Boyse, while working with 
+		Judith Bard and 
+		Hal E. Bronxmeyer at the 
+		Sloan-Kettering Institute in New York, first introduced the idea of using UCB stem cells as transferable hematopoeitic stem cells. In 1988, 
+		Elaine Gluckman conducted the first ever UCB stem cell transplant to treat a six-year-old boy with Fanconi’s anemia in France. This was made possible by the pioneer exploration of the biological properties of cord blood stem cells by Bronxmeyer and Boyse. The following year, Bronxmeyer and his colleagues presented the potential of these stem cells in their article 
+		“Human Umbilical Cord Blood as a Potential Source of Transplantable Hematopoietic Stem/Progenitor Cells,” published in Proceedings of the National Academy of Sciences.
+The main application of UCB stem cells is in curative therapies for diseases of the blood, such as leukemia, lymphoma, and sickle cell anemia. These diseases are treated by a procedure called 
+		hematopoietic cell transplant (HCT), which uses any source of hematopoietic stem cells. Though mobilized peripheral blood is the most commonly used HSC in these therapies, UCB stem cells are proving to be a promising alternative for several reasons. First, these cells are readily available and have a low cost of acquisition. Umbilical cords are plentiful and are often discarded as a byproduct of birth. Second, these cells seem not to trigger significant immune responses, which allows for more flexible matching. Since these cells have not yet fully developed, it is presumed that they are equipped with an immature immune response and are not yet programmed to attack specific antigens, which prevents rejection by the body. Third, there is less chance of graft vs. host infection (GVHI); GVHI is an immune response by the host body against the donor’s cells. This decrease in frequency of GVHI allows for more flexible matching.
+The use of UCB cells is not without drawbacks. The limited number of cells in each unit of cord blood has restricted the use of the UCB stem cells to children and smaller adults. The general trend is that smaller individuals need fewer cells while larger individuals typically need more. In addition, individuals cannot be treated with a second donation of cells from the same donor. Failure of the first donation requires the use of a different donor. Last, the time of engraft (incorporation into the host) for UCB stem cells is much longer than for bone marrow and peripheral blood stem cells. During this time, the individual is at high risk for infection.
+Ethical concerns also surround these cells, but they currently are not significant enough to prevent their research. First, given the possibility that congenital diseases could be transplanted along with the cells, the issue of privacy surfaces when the donated cord blood is checked for genetic diseases. This can be prevented by testing the blood for abnormalities but this would also investigate the genetic disorders of the donor, which many consider to be unethical without the donor’s consent. Second, the question of ownership of the cells is raised. One particular issue with ownership is whether a donor is entitled to recover donated UCB stem cells in case they, or a relative, needs them. Moreover, it is in question whether donors might be entitled to monetary compensation since UCB collection banks charge for the use of the cells. Third, since these cells can be donated, the allocation of UCB stem cells becomes an issue. With such a limited source, the question arises as to who determines, and by what guideline, the end recipient of these cells.
+Several legislative actions have directly affected the use and research of UCB stem cells. During his presidency George W. Bush raised opposition to conducting research with embryonic stem cells and demonstrated strong interest in alternative stem cell use including UCB stem cells. He signed the 
+		Stem Cell Research and Therapeutic Act of 2005 into law and established a national inventory of high quality cord blood samples. Moreover, Bush’s 
+		Executive Order 13435, which was signed on 20 June 2007, shifted funding away from embryonic stem cell research to other sources of pluripotent stem cells including UCB stem cells. This executive order was reversed by President Barack Obama on 9 March 2009 when he signed 
+		Executive Order 13505. This order allowed funds to be shifted away from UCB stem cells back to embryonic stem cells.
+
+Sources
+Gluckman, Elaine and Vanderson Rocha. “History of the Clinical Use of Umbilical Cord Blood Hematopoietic Cells.” Cytotherapy 7 (2005): 219–227.
+Kraft, Daniel L., and Irving L. Weissman. “Hematopoietic Stem Cells: Basic Science to Clinical Applications.” In Stem Cells: From Bench to Bedside, eds. Ariff Bongso and Eng Hin Lee, 253–292. Hackensack, NJ: World Scientific, 2005.
+National Institutes of Health (NIH). “Stem Cells: Scientific Progress and Future Research Direction.” US Department of Health and Human Services. (2001). http://stemcells.nih.gov/info/2006report/ (Accessed September 20, 2009).
+Snow, Nancy E., ed. Stem Cell Research: New Frontiers in Science and Ethics. Notre Dame, IN: University of Notre Dame Press, 2003.
+Wagner, John D. “Umbilical Cord Blood Stem Cell Transplantation.” The American Journal of Pediatric Hematology/Oncology 15 (1993): 169–174.
+The White House. “Executive Order: Expanding Approved Stem Cell Line in Ethically Responsible Ways.” United States Government. http://georgewbush-whitehouse.archives.gov/news/releases/2007/06/20070620-6.html (Accessed on December 9, 2009).
+The White House. “Executive Order: Removing Barriers to Responsible Scientific Research Involving Human Stem Cells.” United States Government. http://www.whitehouse.gov/the_press_office/Removing-Barriers-to-Responsible-Scientific-Research-Involving-Human-Stem-cells/ (Accessed on December 9, 2009).
+
+
+How to cite
+Lopez, Angel, "Umbilical Cord Blood Stem Cells (UCBSC)". Embryo Project Encyclopedia (2010-07-01). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/1930.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 25, 2013 - 15:53
+ Topic
+Subject
+Cord Blood Stem Cell Transplantation;  Concept

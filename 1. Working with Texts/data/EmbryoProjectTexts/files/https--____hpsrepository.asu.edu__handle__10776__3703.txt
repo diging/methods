@@ -1,0 +1,20 @@
+By Jack Resnik
+Published: 2012-05-07
+Keywords: Morphogenesis, Differentiation
+ The source-sink model, first proposed by biologist Francis Crick  in 1970, is a theoretical system for how morphogens  distribute themselves across small fields of early embryonic cells. A morphogen is a substance that determines the fate and phenotype of a group of cells through a concentration gradient of itself across that group. Crick’s theory has been experimentally confirmed with several morphogens, most notably with the protein bicoid , the first discovered morphogen. The model provides a theoretical structure for the understanding of some features of early embryonic development.
+
+How to cite
+Resnik, Jack, "The Source-Sink Model". Embryo Project Encyclopedia (2012-05-07). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/3703.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Friday, February 27, 2015 - 23:16
+ Topic
+Subject
+ Crick, Francis, 1916-2004; Nobel Prize winners; Embryos; Morphogenesis; Genes; Embryology; Cell differentiation; Embryological development; Nüsslein-Volhard, C. (Christiane); Concept

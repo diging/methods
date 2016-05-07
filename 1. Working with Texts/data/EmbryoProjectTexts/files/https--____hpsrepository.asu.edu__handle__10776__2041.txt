@@ -1,0 +1,46 @@
+By Angel Lopez
+Published: 2010-10-11
+Keywords: Stem cells, Regeneration, Medicine, Medical procedures
+ Hematopoietic Stem Cell Transplantation (HSCT)The purpose of 
+		regenerative medicine, especially 
+		tissue engineering, is to replace damaged tissue with new tissue that will allow the body to resume normal function. The uniqueness of tissue engineering is that it can restore normal structure in addition to repairing tissue function, and is often accomplished using 
+		stem cells. The first type of tissue engineering using stem cells was hematopoietic stem cell transplantation (HSCT), a surgical procedure in which 
+		hematopoietic stem cells (HSCs) are infused into a host to treat a variety of blood diseases, cancers, and immunodeficiencies. While there is a standard procedure for the infusion of these cells into a donor, variations in the sources of hematopoietic stem cells, and in the relationship between donor and recipient, do produce some variability in the procedure.
+The history of hematopoietic stem cell transplants originated with scientists attempting to treat individuals who had been exposed to radiation. Beginning in the mid-twentieth century, studies demonstrated that total-body irradiation caused immediate death by damaging the central nervous system and gastrointestinal tract. Low-dose irradiation led to a slow death due to bleeding and infection. In model-animal studies, researchers concluded that death could be prevented by a transplant of bone marrow that was either self-donated (prior to irradiation), or donated from an identical donor. In subsequent studies, researchers discovered that transplants could be done between unrelated animals as long as they were histocompatible. During the 1960s researchers discovered the existence of progenitor cells of blood cells (both erythrocytes and leukocytes) which were dubbed hematopoietic stem cells. In 1959 
+		Edward Donnall Thomas, an American physician, conducted the first human hematopoietic stem cell transplant, which was between twin sisters. One sister with end-stage leukemia received total body irradiation to destroy the cancer and then received a bone marrow transplant from her healthy sister. The result was the regression of the recipient sister’s end-stage leukemia for three months. The following years brought in 
+		human leukocyte antigen (HLA) typing, which allowed physicians to find histocompatible donors for recipients. This breakthrough led to the first hematopoietic stem cell transplant between non-identical siblings, conducted by 
+		Robert Alan Good in 1969. The pioneering work by Thomas and Good led to the establishment and use of hematopoietic stem cell transplantation to treat various blood-borne diseases, including cancers, genetic diseases, and immunodeficiency syndromes. 
+Three distinct forms of donor/host relationships are involved in HSCT: autologous, syngeneic, and allogeneic. In an autologous transplant an individual receives an infusion of his or her own hematopoietic stem cells. A syngeneic transplantation is a specialized autologous transplant between identical twins. Autologous and syngeneic transplants usually do not pose the risk of rejection or 
+		graft-versus-host disease (GVHD). The third, and possibly most common form of HSCT, is allogeneic transplation. This occurs between siblings or completely unrelated individuals. Unlike the previous two forms, allogeneic transplants can be rejected or induce GVHD. 
+Several sources of hematopoietic stem cells have been identified and all can be equally used in hematopoietic stem cell transplantation. The first source of HSCs discovered was bone marrow. To obtain cells from this source, a donor’s bone, typically the hipbone, is punctured with a syringe while the donor is under a general anesthetic, and the cells are drawn up with a syringe. However, only about one in a hundred million bone marrow cells are actual long-term HSCs, signifying that multiple bone marrow samples must be obtained for a successful transplantation. HSCs are also found in the peripheral blood (circulating blood not found in a blood-forming organ). Stem cells from this source are obtained by drawing the blood by a syringe from a vein and filtering out CD34+ white blood cells, which include HSCs. Red blood cells are then infused back into the patient. However, as in bone marrow samples, very few cells from the peripheral blood are true long-term HSCs. Researchers discovered that a cytokine, such as granulocyte-colony-stimulating factor (GCSF), can cause higher amounts of HSCs to be obtained from peripheral blood; this is known as mobilized peripheral blood (MPB). Third, HSCs known as 
+		umbilical cord blood (UCB) stem cells are found in the umbilical cord. Hematopoietic stem cells can be isolated from whole cord blood by centrifugation, but cannot easily be distinguished from white blood cells, which usually are clumped together. While there exist multiple sources for hematopoietic stem cells, their application in a HSCT is nearly identical.
+Prior to HSCT surgery, patients must undergo preparative measures to allow for a successful engraftment of the stem cells. Depending on the relationship of the donor and recipient, the procedure follows different steps. For autologous transplantation, a sample of stem cells must be taken and stored. In allogenic transplantation HLA typing is used to find a histocompatible donor. Once sources of stem cells (grafts) have been determined, the patient must take immunosuppressants such as cyclophosphamide and busulfan, or undergo radiation, depending on what disease is being treated. The grafts are then infused intravenously, where HSCs will naturally move to the bone marrow to proliferate and produce necessary blood and immune cells. After the infusion, the patient is given time to recover to ensure proper engraftment of the cells. During the recovery phase, patients are put on immunosuppressants to help build “tolerance,” meaning cells of the donor exist in proximity to cells of the host without an immune response.
+Despite the promises offered by this possibly life-saving treatment, there are risks associated with this procedure. For instance, infection is an associated risk because of the need to use immunosuppressants. With a weakened immunological system, pathogens can easily colonize the body. The most important risk associated with HSCT, however, is rejection. There are two forms of rejection. First, the rejection of the graft by the host is caused by the response of the immune system to the infusion of foreign cells. The immune cells attack and destroy the cells, rendering the graft ineffective. The second, and most dangerous, form is rejection of the host by the graft. In this case, the graft mounts an immune attack on the host, leading to destruction of the host’s tissues. This form of rejection leads to a set of graft vs. host diseases. As the technology behind HSCT advances, new drugs have been discovered that help reduce the risk of a patient contracting a GVHD. 
+The introduction of HSCT has affected not only the clinical setting but also research. HSCTs have become a common practice with about 10,000 procedures occurring worldwide every year since the early 2000s. Transplantation has provided many patients with life-saving treatment as well as a better quality of life. In addition, the technology led to the establishment of the 
+		National Marrow Donor Program in 1987 and the 
+		New York Blood Center’s Placental Program in 1992. Both programs bank (cryopreservation for storage) sources of hematopoietic stem cells that can be used for transplants. This technology has also led researchers to explore other applications of HSCs, including 
+		gene therapy. An important impact of hematopoietic stem cell transplantation is its pioneering steps into the field of regenerative medicine, opening up opportunities for further developments based on the success of this technology. 
+
+Sources
+Copelan, Edward A. “Hematopoietic Stem-Cell Transplantation.” New England Journal of Medicine 354 (2006): 1813–26.
+Hildreth, Carolyn J., Alison E. Burke, and Richard M. Glass. “Hematopoietic Stem Cell Transplantation.” Journal of the American Medical Association 302 (2009): 340.
+National Institutes of Health. “Regenerative Medicine.” U.S. Department of Health and Human Services. (2006). http://stemcells.nih.gov/info/2006report/ (Accessed March 23, 2010).
+Samavedi, Venkata, and Ronald A. Sacher. “Hematopoietic Stem Cell Transplantation.” Emedicine.com. http://emedicine.medscape.com/article/208954-overview (Accessed March 23, 2010).
+Thomas, Donnall E. “Hematopoietic Stem Cell Transplant.” Science and Medicine 2 (1995): 38–47.
+
+
+How to cite
+Lopez, Angel, "Hematopoietic Stem Cell Transplantation". Embryo Project Encyclopedia (2010-10-11). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/2041.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 25, 2013 - 15:53
+ Topic
+Subject
+Stem Cells; Stem cells.; Technology

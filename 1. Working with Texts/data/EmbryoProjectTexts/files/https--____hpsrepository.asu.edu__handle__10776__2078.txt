@@ -1,0 +1,56 @@
+By Kristin Kelley
+Published: 2010-09-12
+Keywords: Reproduction, Fertility
+ The Aschheim-Zondek Test for PregnancyMany different methods have been devised for the early detection of pregnancy. From the time of the Ancient Egyptians, inspection of the urine has been a popular place to start. However, it was not until the discovery of hormones in the early twentieth century that the development of truly reliable 
+		pregnancy tests occurred. Prior to 1978, when the first home pregnancy tests became available in the United States, pregnancy testing was done in hospital laboratories using various methods, one of them being the Aschheim-Zondek, or A-Z test. 
+The A-Z test is a product of research into human reproduction carried out in the early twentieth century. Developed by German gynecologists 
+		Selmar Aschheim and 
+		Bernhard Zondek in 1927, the A-Z test was one of the first 
+		bioassays developed to detect early pregnancy. Armed with new information about chemical messengers called hormones, Aschheim and Zondek identified the anterior 
+		pituitary gland as an endocrine gland that performs important roles in ovarian function. It is now known that a family of hormones called 
+		gonadotropins is essential to control of the ovarian and uterine cycles and to sexual maturation. During the menstrual cycle, an increase in gonadotropin levels causes a mature ovarian follicle to release its egg and develop into a 
+		corpus luteum. 
+In 1903 
+		Ludwig Fraenkel became the first to describe the human corpus luteum, a glandular mass found in the ovaries of a female during 
+		menstruation that has important endocrine functions. Fraenkel also named the hormone
+progesterone, which the corpus luteum secretes in addition to 
+		estrogen. These hormones support the endometrium and suppress release of gonadotropin in order to prevent the maturation of other ovarian follicles. If the egg is not fertilized, the corpus luteum dissociates and the endometrium sloughs off. Conversely, if the egg is fertilized, it implants itself and secretes the hormone associated with modern early pregnancy detection—
+		human chorionic gonadotropin (hCG)—which signals the corpus luteum to continue secretion of progesterone and estrogen in order to prevent the endometrium from sloughing off. 
+Remarkably, although Aschheim and Zondek developed the A-Z test in 1927, hCG itself was not discovered until the 1950s. This landmark in the history of pregnancy tests simply operated under the assumption that a substance present only in the urine of pregnant women could be used to elicit some sort of measurable response in other, nonhuman, organisms. Specifically, the Aschheim-Zondek test calls for the injection of a woman’s urine into an immature female mouse. It was correctly hypothesized that if a woman is pregnant, the young mouse will go into heat despite its young age. Ultimately, the 
+		Friedman test would use rabbits rather than mice, eliciting the popular symbol of rabbit-killing to describe pregnancy testing as the rabbit would have to be sacrificed in order to identify the presence or absence of a corpus luteum. The test further evolved in efficiency in the 1950s with the use of toads rather than mice or rabbits, as these egg-laying organisms do not have to be sacrificed in order to confirm a positive or negative test result. 
+The technical process of the A-Z test is more complex than it first appears. A suitable mouse for use in an A-Z test needs to be three to five weeks in age and weigh between six and ten grams. For each pregnancy test, three to five of these infant mice are necessary, as some of them will die before the end of the test. After a urine specimen is collected from the female, it is tested for acidity and made basic. Afterward, one or two drops of tricresol are often added in order to preserve the sample, and the urine is filtered if cloudy in appearance. Subsequently, 3 mL of the urine sample is injected subcutaneously into each mouse three times per day for three days. Two days after the last injection, all of the mice are sacrificed and the ovaries are examined macroscopically. The presence of the human gonadotropin hormone in the urine sample is indicated by several characteristic changes in the mice.
+The A-Z test is said to be positive if the ovaries are enlarged (two to three times normal size) with red dots visible (due to hemorrhage into the follicles) or if luteinization occurs and several corpora lutea are visible. A corpus luteum can be identified macroscopically as a small yellow dot on the 
+		ovaries. If the 
+		uterus appears enlarged with no changes in the ovaries, the test is negative. The uterus becomes enlarged because of other hormones present in the urine, not because of hCG. However, if the first reaction is observed but the organism displays other features of heat, such as cornification of the vagina, the test is repeated with a second urine sample. 
+The A-Z test was impressively reliable. After the first 2,000 A-Z tests were performed, the test was estimated to have a 98.9% success rate (with seventeen errors being false negatives and five being false positives), according to “Aschheim-Zondek Test for Pregnancy—Its Present Status.” Nevertheless, the A-Z test was destined to become obsolete, with the introduction in 1960 of an immunoassay for pregnancy testing. This was a more convenient test that did not require animal sacrifice. The A-Z test was also used to test for other conditions such as 
+		ectopic pregnancy, 
+		hydatidiform mole, 
+		chorion-epithelioma, 
+		incomplete abortion and 
+		testicular tumors, which also produce human chorionic gonadotropin. Although the A-Z test is no longer used, it was an important step in the development of modern pregnancy test kits. 
+
+Sources
+Ettinger, G. H., G. L. M. Smith, and E. W. McHenry. “The Diagnosis of Pregnancy with the Aschheim-Zondek Test.” Canadian Medical Association Journal 24 (1931): 491–2. 
+Evans, Herbert, and Miriam Simpson. “Aschheim-Zondek Test for Pregnancy–Its Present Status.” California and Western Medicine 32 (1930): 145. 
+Leavitt, Sarah. “A Private Little Revolution: The Home Pregnancy Test in American Culture.” Bulletin of the History of Medicine 80 (2006): 317–45. 
+Rudloff, Udo, and Hans Ludwig. “Jewish Gynecologists in Germany in the First Half of the Twentieth Century.” Archives of Gynecology and Obstetrics 272 (2005): 245–60.
+Sadava, David, Craig Heller, Gordon Orians, William Purves, and David Hillis. Life: The Science of Biology, 8th ed. New York: W. H. Freeman, 2006: p. 911–2. 
+Stone, Belo. “Clinical Value of the Aschheim-Zondek Test for Pregnancy.” Southern Medical Journal 23 (1930): 747–8. 
+“The History of the Pregnancy Test Kit—A Timeline of Pregnancy Testing.” Office of History, National Institutes of Health. http://history.nih.gov/exhibits/thinblueline/timeline.html (Accessed March 28, 2010).
+
+
+How to cite
+Kelley, Kristin, "The Aschheim-Zondek Test for Pregnancy". Embryo Project Encyclopedia (2010-09-12). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/2078.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 25, 2013 - 15:53
+ Topic
+Subject
+Pregnancy Tests;  Concept

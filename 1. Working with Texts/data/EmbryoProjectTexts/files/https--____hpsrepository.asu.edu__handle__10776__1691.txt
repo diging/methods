@@ -1,0 +1,63 @@
+By Steve Elliott
+Published: 2010-06-07
+Keywords: Biography, Plant physiology
+ Julius von Sachs (1832-1897)Julius von Sachs helped establish plant physiology through his experiments in latter nineteenth-century Germany.  Sachs infused the inchoate discipline of plant physiology with experimental techniques and a mechanistic stance, both of which cemented his place as one of the discipline’s founders.  Sachs trained a generation of plant physiologists, and his stress on experimentation and mechanism influenced biologists in other disciplines, especially embryologist 
+		Jacques Loeb.  
+	Sachs was born in Breslau, Germany, on 2 October 1832.  His parents, Maria-Theresia and Christian Gottlieb, were poor, and by 1849 both were dead.  Sachs was friends with the children of 
+		Jan Evangelista Purkinje, a Czech physiologist and professor at the University of Breslau.  Purkinje appreciated Sachs’ potential and knew about his artistic skill.  When Purkinje moved to the University of Prague in 1851 he hired Sachs as an illustrator and microscope assistant.  Sachs lived in Purkinje’s house until 1856, despite some tension between the two.  
+	After Sachs enrolled at the 
+		University of Prague, he explored the university’s curriculum, studying physics, chemistry, and mathematics.  Unimpressed with the biology department, he pursued zoology and botany informally in his spare time.  
+		Robert Zimmermann, a philosopher, influenced Sachs more than any other professor at Prague.  Sachs earned a PhD there in 1856.  
+In 1858 Sachs moved to the Agriculture College and Forest Academy at Tharandt where he stayed until 1859.  He spent the next year at the Chemnitz Polytechnic and in 1861 was a professor at the Agricultural College of Poppelsdorf, which affiliated itself with the nearby 
+		University of Bonn. In Poppelsdorf, Sachs married an Austrian woman with whom he had three children.  Sachs accepted the chair of botany at the 
+		University of Freiburg in 1867, but finding Freiburg unsuitable for plant physiology, he became a professor at the 
+		University of Würzburg within a year.  
+Würzburg administrators allowed Sachs to focus on his research and funded his laboratory so extensively that he stayed there the rest of his life despite offers from prestigious German universities.  His colleagues elected Sachs rector of the University of Würzburg in 1871, and the local government bestowed an order of nobility upon Sachs, permitting the inclusion of “von” before his last name.
+Sachs’ contributions to biology fall primarily into four interconnected categories: methodological, practical, theoretical, and educational.  His methodological contributions included treating proper microscope observations as fundamental to biological inquiry, yet insufficient to develop a science that could explain phenomena.  For Sachs, experiments became another fundamental method of biological inquiry.  Experiments he devised, most of which used simple devices and tools, became standard in plant physiology.
+Sachs’ time at the agricultural colleges was the source of many of his practical contributions, including his discovery that farmers could forego a popular but inconsequential and expensive soil supplement.  His theoretical contributions, however, collected in his 1882 
+		Vorlesungen über Pflanzenphysiologie (Lectures on the Physiology of Plants), overshadowed his practical contributions. 
+Sachs thought physiology could account for the vital processes prompting many to argue biology as irreducible to physics and chemistry.   He viewed physiology as a fundamentally different discipline from physics or chemistry but wanted to use their laws for causal explanations.   Sachs conceived of organisms as complexes of mechanisms that contributed to the continued existence of the organism and its reproduction into new organisms.  As a discipline, physiology demonstrated which mechanisms contributed to those two processes, describing those mechanisms’ characteristics. Most importantly, physiology measured and manipulated their contributions.  For Sachs, organisms operated like machines.  While one could study the physical processes of those machines, physiologists studied the processes of those machines that were fundamental for life: irritabilities. 
+Once fully understood, Sachs believed biologists could appeal to irritabilities to obviate appeals to vital forces. “Irritability” meant, for Sachs, a propensity in the protoplasm of an organism’s cells to react to the organism’s environment or external stimuli.  Most importantly, those reactions could exhibit no proportionality or similarity to their external stimuli.  An organism’s overall structure, its cell-irritability, and the influence of its environment together comprised a 
+		tropism (environment-caused orientation).  For instance, to study the sunlight-induced movements and reactions of a plant was to study that plant’s heliotropism.  Sachs argued that the energy transferred from the light rays to the plant was insufficient to move the plant, but enough to affect the irritability of the protoplasm in the plants cells, which then caused the orientation of the plant to change.  Sachs could not fully account for how this worked, and so his account of irritabilities operated, to some extent, as a guiding maxim for his research.  
+Sachs’s work on tropisms influenced 
+		Jacques Loeb during Loeb’s two-year stay at Würzburg starting in 1886.  Following intensive interaction with Sachs, Loeb began studying animal tropisms and solidified his experimental approach to biology, which he assimilated into embryology.  Sachs’s view of organisms also sparked Loeb’s correspondence with 
+		Ernst Mach, which influenced Loeb’s unabashedly mechanistic view of life.  
+Besides influencing Loeb, Sachs’s educational contributions to biology include training a host of prominent botanists such as 
+		Francis Darwin, 
+		Hugo de Vries, 
+		Johannes Reinke, 
+		Karl Ritter von Goebel, and 
+		Wilhelm Pfeffer.  Sachs’ 1865 
+Handbuch der Experimentalphysiologie der Pflanzen was his original statement of the methods and objects of plant physiology, while his 1868  
+Lehrbuch der Botanik (Textbook of Botany) became the international standard for botany textbooks, and his 1875 
+Geschichte der Botanik (History of Botany) was an instant classic of historiography of science.  
+Sachs’ students regarded him as a supportive teacher while also acknowledging his self-centeredness, arrogance, and intolerance for opposing views.  Sachs slept little and worked long hours, relying on morphine at the least to help him through his long days.  His addictions precipitated his death, which followed a painful illness, on 29 May 1897.  
+
+Sources
+Bopp, Martin. “Julius von Sachs.” Dictionary of Scientific Biography 11: 58–60. 
+Darwin, Francis. “Julius Sachs.” Nature 56 (1897): 201–02.
+De Chadarevian, Soraya.  “Laboratory Science versus Country-House Experiments: The Controversy between Julius Sachs and Charles Darwin.” The British Journal for the History of Science 29 (1996): 17–41.  
+Goebel, Karl. “Julius Sachs.” Science 7 (1898): 662–68.
+James, W.O.  “Julius Sachs and the Nineteenth-Century Renaissance of Botany.” Endeavour 28 (1969): 61–64.  
+Noll, F.  “Julius von Sachs. A Biographical Sketch: With Portrait.” Botanical Gazette 25 (1898): 1–12.  
+Pauly, Philip J. Controlling Life: Jacques Loeb and the Engineering Ideal in Biology. New York: Oxford University Press, 1987.  
+Sachs, Julius von. History of Botany: 1530–1860. Trans. Henry E.F. Garnsey and Isaac Bayley Balfour. New York: Russell and Russell, 1890, 1967.  Translation of Geschichte der Botanik, 1875.  
+Sachs, Julius von. Lectures on the Physiology of Plants. Trans. H Marshall Ward. London: Oxford University Press, 1887.  Translation of Vorlesungen über Pflanzenphysiologie, 1882.   
+Tansley, A.G.  “Review: The Founder of Modern Plant Physiology.” Review of Julius Sachs, der Begründer der neueren Pflanzenphysiologie, by Ernst G. Pringsheim.  New Phytologist 33 (1934): 232–40.
+
+
+How to cite
+Elliott, Steve, "Julius von Sachs (1832-1897)". Embryo Project Encyclopedia (2010-06-07). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/1691.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 25, 2013 - 15:53
+ Topic
+Subject
+Plant Physiological Phenomena; Sachs, Julius, 1832-1897; People

@@ -1,0 +1,229 @@
+By Yawen Zou
+Published: 2015-01-26
+Keywords:     
+   The Germ-Plasm: a Theory of Heredity (1893), by August WeismannFriedrich Leopold August Weismann published Das
+	Keimplasma: eine Theorie der Vererbung (The Germ-Plasm: a
+	Theory of Heredity, hereafter The Germ-Plasm) while
+	working at the University of Freiburg in Freiburg, Germany in 1892.
+	William N. Parker, a professor in the University College of South
+	Wales and Monmouthshire in Cardiff, UK, translated The
+	Germ-Plasm into English in 1893. In The Germ-Plasm,
+	Weismann proposed a theory of heredity based on the concept of the
+	germ plasm, a substance in the germ cell that carries hereditary information. The
+	Germ-Plasm compiled Weismann's theoretical work and analyses of
+	other biologists' experimental work in the 1880s, and it provided a
+	framework to study development, evolution and heredity. Weismann
+	anticipated that the germ-plasm theory would enable researchers to
+	investigate the functions and material of hereditary substances.
+Prior to publishing The Germ-Plasm, in 1885 Weismann had
+	published "The Continuity of the Germ-Plasm as the Foundation of a
+	Theory of Heredity." In that essay, Weismann argued that only the
+	hereditary substance of the germ cells was inheritable, and that
+	cells that derive from all other parts of parents' bodies (soma cells), could not
+	transmit from parents to offspring. Compared with the 1885 essay,
+	The Germ-Plasm provided hereditary explanations for
+	developmental and evolutionary phenomena. The Germ-Plasm has
+	an introduction and four parts, divided into fourteen chapters.
+In the Introduction of The Germ-Plasm, Weismann provides a
+	brief history of hereditary theories before the germ-plasm theory.
+	Weismann also gave an account for biologists who had influenced him.
+	Before the germ-plasm theory, Herbert Spencer and Charles Darwin,
+	both in the UK, had proposed their own theories of heredity.
+	 Weismann argues that all the previous theories of heredity,
+	including Darwin's theory of pangenesis, were unsatisfactory. In his
+	1868 book The Variation of Animals and Plants under
+	Domestication, Darwin elaborated the theory of pangenesis based
+	on the concept of the gemmules, atomic inheritable substances that
+	body cells emit. Darwin stated that gemmules could circulate
+	through blood and aggregate into germ cells, but Weismann disagreed
+	with Darwin's claim.
+In the 1880s, Francis Galton in London modified the pangenesis
+	theory, arguing that the circulation of gemmules happened not as Darwin had claimed, but rather on a small
+	scale. Then, in 1884, Carl W.von Nägeli in
+	Munich, Germany, postulated the concept of idioplasm in his book 
+	Mechanico-Physiological Theory of Descent. According to
+	Nägeli, idioplasm was a reproductive substance located in the plasm
+	of all cells, not just in germ cells. Weismann later said that
+	germ-plasm was the idioplasm of the germ cell. 
+In part one of The Germ-Plasm, "The Material Basis of Heredity,"
+	Weismann describes the constitution and structure of the germ-plasm.
+	Weismann postulates that there are four hierarchical levels of
+	substances in the cell, and he coins four terms to name them. The
+	four levels, from the lowest to the highest one, are biophors,
+	determinants, ids, and idants. At the first level are biophors,
+	minute units that collectively make up the whole cell, and Weismann postulated that they directed the cell's
+	metabolism and growth. Biophors referred to various kinds of
+	chemical molecules. At the second level are determinants, which are the
+	primary constituents of the hereditary substances, and the biophors determined
+	the particular phenotype and variability of a cell. At the third
+	level are ids, or aggregates of many determinants. At the highest
+	level are idants, which are aggregates of ids. The concept of
+	idants corresponded to the concept of chromosomes.
+	During an organism's development, ids reduce their number through cell division,
+	so the new cells contain fewer ids and determinants than the old
+	ones. Weismann claims that only one determinant is active in a body
+	cell, and that the other determinants remained inactive, so a cell develops to have only one phenotype. Later in his book, Weismann uses those four
+	concepts of biophors, determinants, ids, and idants to explain the hereditary and developmental phenomena in
+	various sexual and asexual organisms.
+In part two of the book, "Heredity in Its Relation to Monogonic
+	Reproduction," Weismann explains phenomena associated with monogenic
+	reproduction, or asexual reproduction, which referred to the
+	reproduction of a new organism from a single parent. Weismann
+	discusses how some asexual organisms can regenerate lost parts, as
+ when some animals regrow  body parts bitten off by a 
+	predator. Weismann states that the regeneration of an entire
+	body part has two possible causes: either cells regenerate lost parts because the cells
+	remain young, or they regenerate those parts because they were inactive before the bite. Weismann
+	classes those causes as due to supplementary determinants, which he says
+	are contained in a developed cell.
+Weismann next discusses fission and gemmation, both of which were cellular processes. Fission is a
+	 process through which a parent cell divides into two or
+	more parts, whereas gemmation is a process during which
+	a new part buds from a parent organism, and eventually leaves the
+	parent organism as a new organism. Although Weismann concedes that
+	fission and gemmation may both arise from regeneration, he
+	postulates that they are distinct processes. Weismann argues that
+	fission is due to the doubling of determinants. In contrast,
+	gemmation is caused when the germ-plasm in particular doubles in a
+	fertilized egg. Additionally, Weismann argues that one
+	germ-plasm then remains inactive and moves to the bud. The last
+	phenomenon Weismann addresses is the formation of germ-cells in
+	asexual reproduction, which for Weismann is a process similar to
+	gemmation.
+In part three of the book, "The Phenomena of Heredity Resulting
+	from Sexual Reproduction," Weismann addresses sexual reproduction,
+	or reproduction from two parents. Weismann defines the process of amphimixis as the
+	fusion of the germ-plasms from two parents. Weismann claims that
+	each sex cell only carries half of the idants of a parent, and due
+	to the fusion of idants during amphimixis, the idants of germ-plasm in
+	the zygote doubles. In his 1885 essay, Weismann had predicted the
+	halving of sexual cells, and Theodor Boveri's and Eduard
+	Strasburger's 1888 experiments supported Weismann's claim.
+	Boveri and Strasburger, in Germany, showed that the number of
+	chromosomes of primitive sperm cells reduced to half in sperm cells.
+	For Weismann, an offspring's hereditary substances carry half of the ids from
+	a paternal cell and the other half from maternal cell, and the collection of both partly explains why
+	offspring have traits from each parent. Weismann notes that
+	sometimes the offspring resemble traits of one parent more than the
+	other, a phenomenon due, according to Weismann, to the competition
+	of ids from the two parents during development.
+Weismann says that hereditary phenomena are more complicated in
+	sexual organisms than in asexual ones, and he devotes much of his
+	text to sexual organisms. For example, Weismann describes reversion as a phenomenon according to
+	which an offspring's characteristics resemble those of the
+	grandparents, or remote ancestors, but are absent in the parents.
+	Weismann argues that reversion happens because of  unequal
+	allocations of hereditary materials across generations. In reversions, the majority of a
+	grandparent's or a remote ancestor's ids pass on to the offspring
+	and become prominent in the offspring.
+Additionally, Weismann discusses the mechanism for dimorphism,
+	the phenomenon of two distinct phenotypes in members of the same
+	species. One form of dimorphism Weismann discusses is sexual
+	dimorphism, or distinct characteristics in individuals of different
+	sexes in the same species. For instance, in tapeworms females are
+	bigger than males and look quite different from males. Weismann
+	postulates that cells of tapeworms carry both spermatogenetic (male)
+	determinants and oogenetic (female) determinants. According to
+	Weismann, in male tapeworms, spermatogenetic determinants are active
+	whereas oogenetic determinants are inactive, whereas the converse
+	held for female tapeworms. Weismann also discusses polymorphism, or
+	triple or plural dissimilar phenotypes coexisting within the same
+	species, such as in butterflies.
+In the fourth part of the book, "The Transformation of Species:
+	Its Origin in the Idioplasm," Weismann addresses the issue of
+	inheritance of acquired characteristics, and he provides a theory of
+	variation. Earlier, Weismann had supported, but later rejected the
+	hypothesis that organisms inherit the characteristics that their parents' had acquired
+	during their own lifetimes. Acquired characteristics are defined as traits
+	acquired through environmental factors, disease, or training during
+	the life time of an organism. Earlier scholars such as Jean-Baptiste
+	Lamarck, who lived in France in the early nineteenth century,
+	proposed that such traits could transmit to the offspring. In The Germ Plasm, Weismann
+	rejects the theory and argues that acquired characteristics are
+	traits of the soma cells, and the hereditary substances of soma
+	cells cannot transmit to the next generation. However, Weismann says
+	that environments can influence the process of inheritance by modifying the germ-plasm,
+	for example, temperatures can influence butterflies' traits.
+Additionally, Weismann elaborates a theory for variation within a
+	group of related organisms, claiming that variations in germ-plasm cause
+	those groups to evolve. He hypothesizes two causes of variations, the first
+	relies on environmental factors, such as nutrients, the second on
+	the multiplication of determinants. Weismann further argues that
+	external factors are the major causes for variation.
+After he published his theories, Weismann modified his theory to respond to critiques. In the 1900s,
+	biologist Hugo de Vries in Amsterdam, Netherlands, supported Weismann's
+	distinction of soma cells from germ cells, but de Vries defended the theory
+	of pangenesis and proposed the theory of intracellular pangenesis.
+	According to the intracellular pangenesis theory, the hereditary
+	material can only move inside cells, instead of circulating in the
+	blood. De Vries engaged a two decades debate with Weismann, who had
+	to constantly re-examine his own theory.
+	Nevertheless, The Germ-Plasm triggered debates among and influenced
+	twentieth century researchers, and Weismann's distinction between germ cells and soma cells became called the Weismann
+	barrier.
+ Sources Boveri, Theodor. "Ein geschlechtlich erzeugter Organismus
+		ohne mü tterliche Eigenschaften." [An Organism Sexually Produced
+		without Characteristics of the Mother]. Gesellschaft für
+		Morphologie und Physiologie zu München [Munich Society for Morphology and Physiology] 5 (1889): 73–83. https://books.google.com/books/reader?id=_VEVAAAAYAAJ&printsec=frontcover&output=reader&pg=GBS.PA73 (Accessed January 22, 2015).
+Churchill, Frederick B. "August Weismann and a break from
+		tradition." Journal of the History of Biology 1 (1968): 91–112.
+Churchill, Frederick B. "Weismann: the pre-eminent
+		neo-Darwinian." Endeavour 27 (2003): 46–7.
+Conklin, Edwin G.
+		"August Weismann." Proceedings of the American Philosophical
+		Society 54 (1915): 3–12. http://www.jstor.org/stable/984111 (Accessed January 22, 2015).
+Darwin, Charles. The Variation of
+		Animals and Plants under Domestication. London: John Murray,
+		1868. https://archive.org/details/variationofan02darw  (Accessed
+		May 16, 2013).
+De Vries, Hugo. Intracellular Pangenesis. Translated by C. Stuart Gager. Chicago:
+		Open Court, 1910.
+		http://dx.doi.org/10.5962/bhl.title.3778
+		(Accessed November 24, 2013).
+Galton, Francis. "A Theory of
+		Heredity." Journal of the Anthropological Institute of Great
+		Britain and Ireland (1876): 329–48.  https://archive.org/stream/journalroyalant14irelgoog#page/n350/mode/2up (Accessed January 22, 2015).
+Lamarck, Jean–Baptiste
+		Pierre Antoine. Philosophie zoologique: ou, Exposition des
+		considérations relatives à l'histoire naturelle des animaux.
+		[Zoological Philosophy: Exposition with Regard to the Natural
+		History of Animals]. Vol 1. Paris: F. Savy, 1873.
+		http://dx.doi.org/10.5962/bhl.title.26297
+		(Accessed November 24, 2013).
+Nägeli, Carl.
+		Mechanisch-physiologische Theorie der Abstammungslehre
+		[Mechanico-Physiological Theory of Descent]. Munich: R.
+		Aldenbourg, 1884.
+		http://dx.doi.org/10.5962/bhl.title.6477
+		(Accessed November 24, 2013).
+Spencer, Herbert. The Principles
+		of Biology. New York: D. Appleton and Company, 1881.
+		http://dx.doi.org/10.5962/bhl.title.60804
+		(Accessed November 24, 2013).
+Stanford, P. Kyle. "August
+		Weismann's Theory of the Germ-Plasm and the Problem of
+		Unconceived Alternatives." History and Philosophy of the Life
+		Sciences 27 (2005): 163–99.
+Weismann, August. "The Continuity of
+		the Germ-Plasm as the Foundation of a Theory of Heredity." (1885). Translated and edited by Edward B. Poulton, Selmar Schönland, and Arthur E. Shipley in
+		Essays upon Heredity and Kindred Biological Problems, Oxford: Clarendon Press, 1891: 163–256. http://www.biodiversitylibrary.org/item/70640#page/182/mode/1up (Accessed January 22, 2015).
+Weismann, August. Das Keimplasma: eine Theorie der Vererbung, 1892. Translated by W.
+		Newton Parker and Harriet Rönnfeldt as The Germ-Plasm: a Theory of Heredity.  New York: Scribner, 1893.
+		http://dx.doi.org/10.5962/bhl.title.25196 (Accessed March 7,
+		2014).  
+
+How to cite
+Zou, Yawen, "The Germ-Plasm: a Theory of Heredity (1893), by August Weismann". Embryo Project Encyclopedia (2015-01-26). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/8284.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+Copyright Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Monday, January 26, 2015 - 22:26
+ Topic
+Subject
+Heredity; Weismann, August, 1834-1914. Keimplasma. English; Germ Cells; Heredity; University of Freiburg; Inheritance of acquired characters; Somatic cells; Reproduction; Pangenesis; Inheritance (Biology); Boveri, Theodor, 1862-1915; Germ-plasm; Literature

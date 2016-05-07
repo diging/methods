@@ -1,0 +1,174 @@
+By Dorothy Regan Haskett
+Published: 2014-04-15
+Keywords: Lynn Margulis, Lynn Sagan, cell evolution, eukaryotic origin
+ "On the Origin of Mitosing Cells" (1967), by Lynn Sagan "On the Origin of Mitosing Cells" by Lynn Sagan appeared in the March 1967 edition of the
+	Journal of Theoretical Biology. At the time the article was published, Lynn Sagan
+	had divorced astronomer Carl Sagan, but kept his last name. Later, she remarried and changed her
+	name to Lynn Margulis, and will be referred to as such throughout this article. In her 1967
+	article, Margulis develops a theory for the origin of complex cells that have enclosed nuclei,
+	called eukaryotic cells. She proposes that three organelles: mitochondria, plastids, and basal
+	bodies, which are all parts of eukaryotic cells, were once free-living cells that took
+	residence inside primitive eukaryotic cells. This process Margulis called endosymbiosis. Margulis'
+	theory explained the origin of eukaryote cells, which are the fundamental
+	cell type of most multicellular organisms and form the basis of embryogenesis. After
+	fertilization, embryos develop from a single eukaryotic cell that divides by mitosis.
+ When the Journal of Theoretical Biology published her article in 1967, Margulis was a
+	professor at Boston University in Boston, Massachusetts. Margulis
+	independently proposed ideas similar to those proposed by biologists in the late nineteenth and
+	early twentieth centuries. At the end of the nineteenth century, several researchers advanced
+	theories similar to symbiosis, two of whom were Richard Altmann of Leipzig, Germany, and Peter Kropotkin
+	who was exiled from Russia and
+	living in England. At the beginning of the twentieth century, researchers such as Boris
+	Kozo-Polyansky in Russia and Ivan Wallin, a professor at the University of Colorado in
+	Boulder, Colorado, also proposed theories similar to that of endosymbiosis.
+These earlier biologists theorized that the energy-producing mitochondria, and the
+	photosynthesizing plastids of algae and plants, resulted from a symbiotic relationship between
+	different types of free-living cells.  In addition, several of the researchers also hypothesized
+	that the sub-cellular organelles contained hereditary information similar to that found in the
+	nucleus. However, when earlier biologists put forth theories of symbiosis, they
+	lacked the technological resources to test them. By the time Margulis proposed her theory,
+	evidence for symbiosis theories was available from microscope studies of cells, electron microscopy, genetics, and
+	molecular biology. Such evidence enabled Margulis to support her theories with experimental
+	data.
+"On the Origin of Mitosing Cells" has four main sections: an "Introduction," followed by
+	 sections titled, "Hypothetical Origin of Eukaryotic Cells," in which Margulis presents a theory
+	 for the origin of eukaryotic cells;  "Evidence from the Literature," in which she reviews the
+	 literature that supports the sequence of the origin of eukaryotic cells; and "Some
+	 Predictions," in which she presents experimental evidence that support predictions made based
+	 on her theory.
+ In the "Introduction," Margulis states that all free-living organisms are made of cells. She
+	describes differences between eukaryotic cells, which have distinct nuclei, and prokaryotic
+	cells, which lack distinct nuclei. Researchers didn't note those differences until the 1960s,
+	shortly before Margulis published her paper. Margulis focuses on three sub-cellular
+	organelles of eukaryotic cells, the mitochondria, chloroplasts, and (9+2) basal bodies, which
+	she asserts were once free-living prokaryotic cells. (9+2) basal bodies are organelles found at
+	the base of eukaryotic whip-like structures, such as the flagellum of sperm cells.
+Margulis begins her argument with a section titled, "Hypothetical Origin of Eukaryotic
+	Cells," which has multiple subsections. She describes the state of prokaryotic cells of two
+	billion years ago, before the accumulation of free oxygen in the atmosphere. At that time,
+	prokaryotic cells contained DNA, they synthesized proteins on structures made of RNA, called
+	ribosomes, and they used messenger RNA (mRNA) to help build those proteins from DNA. With oxygen accumulating in the
+	atmosphere, prokaryotic cells developed nucleotide sequences, or genes, that coded for molecules
+	that could bind with metals and oxygen, called porphyrins. This mutation provided a protective
+	advantage from the harmful effects of oxidization. Margulis explained that these cells evolved
+	to contain mechanisms that used oxygen to produce the molecule that stores energy in cells,
+	adenosine-5'-triphosphate (ATP), and other nucleotides that used solar energy, which the
+	chlorophyll-like porphyrins absorbed and used to produce complex sugars. In contrast, more
+	primitive cells, called heterotrophs, fermented ATP from simple sugars.
+	Additionally, some porphyrins used oxygen to release and to store ATP in the absence of light, a
+	process called  aerobic respiration.
+ Next, Margulis discusses how eukaryotic cells evolved from prokaryotic cells via
+	endosymbiosis. Margulis suggests the emergence of eukaryotes was a response to the new
+	oxygen-containing atmosphere. From geological evidence, oxygen became present in the atmosphere
+	as early as 2.7 billion years ago, however the atmosphere became oxygen rich 1.2 billion years
+	ago. Margulis argues that to survive and reproduce, cells had to adapt to the oxygen
+	rich environment or find a specialized environment lacking oxygen. She suggests the eukaryotes
+	originated when an anaerobic heterotroph living on organic matter ingested an aerobic microbe.
+	The ingested microbe became obligate and resulted in, as Margulis calls it, the first aerobic
+	amoeboid organism. Margulis hypothesizes that some of these amoeboid organisms ingested motile
+	prokaryotes (flagellates) that became symbiotic with their host, and thus classical mitosis evolved.
+	Mitosis is a process by which a non-reproductive cell divides into two genetically identical
+	cells, thus passing all of its genetic  information to the two daughter cells.
+Margulis next discusses the evolution of mitosis in protists and hypothesizes that a motile
+	spiral shaped bacteria was one of the prokaryotes ingested by the large amoeboids, and that the
+	amoeboids became hosts to the motile parasites. Amoeboids benefited from this endosybmiont
+	relationship, as the motility of the parasite gave the host the ability to pursue
+	food before mitosis evolved. Margulis then proposes that the endosymbiont genes, which give rise
+	to the (9+2) substructure, evolved over generations to form chromosomal
+	centromeres, the structures that link together the individual chromatids from duplicated chromosomes. She also
+	claims that the endosymbiotic genes contributed to the small centrioles that facilitate
+	cell mitosis in animals.  Margulis
+	hypothesized  that the motile prokaryote parasite was the ancestor of the flagellum found in later eukaryotic
+	cells.
+ Margulis two further topics in the first section of her paper. First,
+	she recreates the steps in evolution of the centromeres, centrioles, and the (9+2) flagella
+	basal bodies from steps for which she had found support in other publications. Then she discusses the evolution
+	of eukaryotic plants, a process she attributes to symbiotic relationships between protozoans and
+	prokaryotic algae. Margulis asserts that the process of mitosis  took millions of years to
+	evolve, and she claims that the process evolved millions of years after the evolution of
+	photosynthesis. Margulis then argues that her hypothesis on the origin of eukaryotes is
+	inconsistent with the theory that eukaryotic plant cells first evolved 
+	photosynthesis, which eliminates oxygen from plants, and then structured that process into membrane-bound plastids. Instead, Margulis
+	proposes that plants acquired photosynthetic plastids through multiple symbiotic relationships
+	that occurred over time, each of which led to endosymbiosis.
+ In the next section of her paper, "Evidence from the Literature," Margulis supports her theory by discussing publications on the subject up through 1967. Margulis considers the
+	claim that the more traits two organisms share, the more closely related those organisms
+	are. She says that the hypothesis holds for some organisms, but not for single celled microbes.
+	Margulis acknowledges that she had inadequate data to support that claim, but she contends that the recent
+	studies in molecular biology confirm her theory.  Margulis then proposes to use methods from molecular biology to address issues in taxonomy. She next proposes that photosynthesis
+	evolved separately in several diverse organisms. Then, Margulis reviews the general properties
+	of symbiosis, and she says that the origin of eukaryotic cells indicates that larger cells
+	acquired mitochondria, the genome of the (9+2) complex flagellum, and the photosynthetic
+	plastids by endosymbiosis.
+ Margulis reports that the
+	literature lists six general criteria for organelles derived by endosymbiosis. She applies these
+	criteria to the three organelles, mitochondria, plastids, and the basal bodies, and she concludes
+	that they could have evolved by endosymbiosis, but that the eukaryotic cell nucleus could not have.
+	In the remaining sections of her literature review, Margulis concentrates on the origin of the
+	prokaryotic cells, which she argues evolved into the organelles of eukaryotic cells. Margulis
+	describes the evolution of photosynthesis in cells, the accumulation of oxygen in the atmosphere, and
+	the evolution of aerobic cells. She then discusses research on how mitochondria
+	self-replicate, and she includes a table with a list of mechanisms by which eukaryotic cells, throughout mitosis and their life cycles, retain mitochondria and chloroplasts.
+ Margulis concludes with the third and final section of the paper, "Some Predictions." She
+	suggests that some of the classifications presented in the phylogenetic tree put forth by previous
+	scientists were likely in error. But if her hypothesis about the origination of the three
+	organelles is correct, so too should be her classification of all eukaryotes. However, Margulis
+	predicts that if these three organelles—mitochondria, plastids, and basal bodies—did originate
+	as free-living microbes, then new technologies would provide researchers the tools
+	required to grow those organelles in vitro. Mitochondria and chloroplasts cannot grow outside of
+	cells, because they have lost too many genes to be free living again.
+	Margulis concludes that all eukaryotic cells must be regarded as multi-genome systems. She says
+	that the evolution of mitosis in primitive eukaryotic cells enabled
+	genes to pass independently from one generation to the next.
+ Margulis submitted "On the Origin of Mitosing Cells" to at least fifteen journals before it
+	was accepted and published in June 1967. She later expanded on the theory of endosymbiosis in a
+	book titled, Origin of Eukaryotic Cells, published in 1970. In
+	1981, Margulis published a revised edition titled, Symbiosis in Cell Evolution, which
+	included molecular data to support her findings. In 1993 she published another edition of
+	Symbiosis in Cell Evolution claiming that the difference between prokaryotes and
+	eukaryotes is the most significant division in biology.
+By the 1990s, Margulis' theory on the origin of eukaryotes had influenced many scientists. In
+	2011, John M. Archibald, a professor and researcher at
+	Dalhousie University, in Nova Scotia, Canada, said that Margulis'  Origin of Eukaryotic
+	Cells influenced scientists to accept the
+	process of endosymbiosis in the evolution of cells.
+ Sources Altmann, Richard. Die Elementarorganismen und ihre Beziehungen zu den Zellen. [Elemental organisms and their relationships to the cells]. Leipzig: Veit, 1894. https://play.google.com/books/reader?printsec=frontcover&output=reader&id=D88aT1Y76uQC&pg=GBS.PP7 (Accessed April 11, 2014). 
+Archibald, John M. "Origin of Eukaryotic Cells: 40 Years On." Symbiosis 54 (2011):
+69–86.
+Gray, Michael W., and W. Ford Doolittle. "Has the Endosymbiont Hypothesis Been Proven?"
+Microbiological Reviews (1982): 1–42. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC373208/ (Accessed April 11, 2014).
+Kozo-Polyansky, Boris M. Novyi printzip biologii. Ocherk teorii simbiogeneza. Moscow: Puchina, 1924. Translated by Victor Fet as Symbiogenesis: A New Principle of Evolution. Eds. By Victor Fet and Lynn Margulis. Cambridge, MA: Harvard University Press, 2010.
+Kropotkin, Peter A. "Mutual Aid: A Factor of Evolution." New York: McClure Philips and Co., 1902. 
+Lane, Nick. Power, Sex, and Suicide: Mitochondria and the Meaning of Life. New York:
+Oxford University Press, 2005.
+Margulis, Lynn. 1970. Origin of Eukaryotic Cells;Evidence and Research Implications for a
+Theory of the Origin and Evolution of Microbial, Plant, and Animal Cells on the Precambrian
+Earth. New Haven: Yale University Press.
+Margulis, Lynn. Symbiosis in Cell Evolution: Life and its Environment on the Early Earth.
+San Francisco: W. H. Freeman, 1981.
+Margulis, Lynn. Symbiosis in Cell Evolution: Microbial Communities in the Archean and
+Proterozoic Eons. 2nd ed. New York: Freeman, 1993
+Margulis, Lynn. "Symbiogenesis. A new principle of evolution rediscovery of Boris Mikhaylovich Kozo-Polyansky (1890–1957)." Paleontological Journal 44 (2010): 1525–39.
+Sagan,Lynn. "On the Origin of Mitosing Cells." Journal of Theoretical Biology 14 (1967):
+225–74. 
+Wallin, Ivan Emmanuel. Symbionticism and the Origin of Species. Baltimore: Williams and Wilkins, 1927. http://dx.doi.org/10.5962/bhl.title.11429 (Accessed April 11, 2014).
+Weber,Bruce. "Lynn Margulis, Evolution Theorist, Dies at 73." New York Times, November
+24, 2011, Science section, New York Times.com. http://www.nytimes.com/2011/11/25/science/lynn-margulis-trailblazing-theorist
+-on-evolution-dies-at-73.html?_r=1& (Accessed  May 5, 2013). 
+
+
+How to cite
+Haskett, Dorothy Regan, ""On the Origin of Mitosing Cells" (1967), by Lynn Sagan". Embryo Project Encyclopedia (2014-04-15). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/7820.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+Copyright Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, April 16, 2014 - 00:43
+ Topic
+Subject
+cell division; eukaryotic; mitosis; endosymbiosis; flagella; symbiosis; Literature

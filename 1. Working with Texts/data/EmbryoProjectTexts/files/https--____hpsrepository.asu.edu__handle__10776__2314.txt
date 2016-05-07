@@ -1,0 +1,71 @@
+By Lijing Jiang
+Published: 2010-11-19
+Keywords: Nervous system, Cell death
+ Viktor Hamburger’s Study of Central-Peripheral Relations in the Development of Nervous SystemAn important question throughout the history of 
+		embryology is whether the formation of a biological structure is predetermined or shaped by its environment. If both intrinsic and environmental controls occur, how exactly do the two processes coordinate in crafting specific forms and functions? When 
+		Viktor Hamburger started his PhD study in embryology in the 1920s, few neuroembryologists were investigating how the central neurons innervate peripheral organs. As Hamburger began his research, he had no clue that central-peripheral relations in the development of the 
+		central nervous system (CNS) would become one of his major interests for the next seventy-five years. In fact, that research trajectory would lead him to discover programmed cell death as a pivotal mechanism mediating central-peripheral relations, as well as to Nobel Prize-winning work on 
+		nerve growth factors (NGF).
+Ross Granville Harrison’s  experiments in 1907 hinted at the question of how central nerve cells grow out to form peripheral nerves. The inventor of 
+		 tissue culture technique, Harrison found that he could induce the axons of frog embryonic nerve cells to grow 
+		 in vitro. His experiment not only confirmed that the nervous system is comprised of cells, suggesting that nerve cells could grow out to innervate peripheral organs, but also asked a new question: what triggers and directs nerve cell growth in organisms?
+During the 1920s, embryologists who studied neural development using 
+		transplantation  as a technique, articulated the problem of central-peripheral relations: what influences do the peripheral structures have on the development of the CNS? In 1922, for example, 
+		Paul Weiss, an embryologist working at the 
+		University of Chicago, found that transplanted extra limbs in 
+		amphibians could perform movements that were comparable to the movement patterns of normal limbs. This suggested that grafted limb buds somehow directed nerve cells to grow out to innervate the extra muscles. The reactivity of the central nerve cells to newly introduced limb buds indicated that the relations between central neuronal growth and peripheral organs were not static, but rather modifiable.
+When Hamburger started his nervous system research in the early 1920s at 
+		Freiburg University, he set out to confirm interactions between CNS development and the peripheral structures. Hamburger’s advisor, German biologist 
+		Hans Spemann, encouraged him to explore the role of the sensory organs in shaping the nervous system. He introduced Hamburger to the work done by Bernhard Dürken. In 1911, while at the University of Breslau, Dürken had shown that ablation of developing eye tissues of 
+		frog embryos triggers massive defects in nerve development and postpones the formation of legs. Hamburger repeated Dürken’s experiment and concluded that, although removal of the eyes certainly resulted in defects, they happened less extensively than Dürken had suggested. This research culminated in Hamburger’s PhD dissertation, 
+		“Über den Einfluss des Nervensystems auf die Entwicklung der Extremitäten von Rana fusca” (On the Influence of the Nervous System on the Development of the Limbs of Rana fusca), which he completed in the spring of 1925.
+After receiving his doctoral degree, Hamburger carried out research in Göttingen, Dahlem, and in Spemann’s laboratory in Freiburg. During his one-year stay at the 
+		Kaiser-Wilhelm Institute in Dahlem in 1926, Hamburger investigated muscle development in frogs and whether nerve development influences the development of muscles. Hamburger removed all of the nerves inside developing frog limbs to see what effect the lack of nerves had on the development of muscles. He found that a nerveless limb could still form normal musculature, although it would eventually degenerate because of disuse. He concluded that this result eliminated any possibility that CNS development could affect formation of the musculature.
+In 1932 Hamburger arrived at the University of Chicago laboratory of 
+		Frank Rattray Lillie with a fellowship provided by the 
+		Rockefeller Foundation. Hamburger was asked to transfer his microsurgical expertise with amphibians to the study of 
+		chick embryos, and specifically to repeat former experiments on chick embryos that had produced conflicting results. One of Lillie’s graduate students, Elizabeth Shorey, had shown in 1909 that destruction of chick wing buds resulted in diminished cell populations (hypoplasia) of motor nerve fibers in the spinal cord and the sensory ganglia. In 1919, however, one of Harrison’s students at Yale University, 
+		Samuel Randall Detwiler, had observed that in salamanders the lack of forelimb buds only negatively influenced the sensory nerves, leaving the motor columns intact. Hamburger then used his microsurgical extirpation method to remove the wing buds so that he could examine Shorey’s results. Hamburger did these experiments in 1932 and 1933, and confirmed that Shorey was correct: both sensory and motor neurons dwindled in size and cell number. The results were reported in the paper 
+		“The Effects of Wing Bud Extirpation on the Development of the Central Nervous System in Chick Embryos,” which was published in The Journal of Experimental Zoölogy in 1934.
+Based on further research about central-peripheral relations in chick CNS development, Hamburger devised hypotheses about ways in which the CNS interacts with peripheral signals. He found that when extra limb buds were transplanted into the flank area of the chick embryo, some nerves increased in size. In addition, since he often could not remove the chick limb buds completely, Hamburger was able to investigate whether there was a quantitative relationship between the removed muscle mass and the degree to which the motor columns shrank. He found that there was. Hypoplasia of the motor columns increased in proportion to the amount of muscle removed. When all the muscle structures were removed, however, motor columns still developed about 40% of their normal size. In his 1934 paper about wing bud extirpation, Hamburger hypothesized that there was a level of constituent growth in motor columns that was intrinsically determined by central neurons. The peripheral signals generated by developing limbs induced extra cell growth and proliferation. In other words, neurons were seen as recruited by inductive influence provided by the developing limbs (recruitment hypothesis). Hamburger also postulated that stimulating substances released by peripheral tissues might travel along the innervating neurons back to the neural center (retrograde transportation) and further induce the central nerves to grow.
+Hamburger was appointed assistant professor at Washington University, St. Louis, in 1935. There he continued to refine his recruitment hypothesis, which held sway for more than ten years. In 1946, however, Hamburger noticed research papers written by an Italian biologist, 
+		Rita Levi-Montalcini, who suggested an idea about CNS development that was different from Hamburger’s recruitment hypothesis. Levi-Montalcini proposed that chick nerves develop through initial overproduction of neurons in early embryogenesis, followed by a mass deletion of excess neurons. She suggested that the peripheral influences intervened through the process of cell deletion. Hamburger was intrigued and wrote a letter to invite Levi-Montalcini to the US in order to collaborate with her in investigating what processes mediate the central-peripheral relations in CNS development.
+Levi-Montalcini arrived at St. Louis in 1947 and started her research with Hamburger. She used methods and techniques that were comparable to Hamburger’s, but she checked cell numbers more often. For example, in one set of experiments, after removing chick limb buds from 36–48-hour embryos, she recorded the neuron numbers every day until the end of the sixth day post extirpation. Cell counts of the spinal cord declined over the six-day period in both extirpated and intact chick embryos, with the former displaying more significant cell deaths. Levi-Montalcini thus demonstrated to Hamburger’s satisfaction that those neurons were first overproduced in the CNS, followed by a process of degeneration of the surplus neurons.
+Hamburger and Levi-Montalcini agreed that peripheral control of the spinal ganglia was not mediated through stimulation of proliferation and differentiation, as Hamburger had originally thought. Instead, they said, the peripheral structures exert their influence on the central nerves through a mechanism of maintenance that prevents a portion of them from dying. In other words, the peripheral does not induce, but rather maintains the central changes. Hamburger’s notion of recruitment was shown to be invalid. They reported their results in a 1949 co-authored paper, 
+		“Proliferation, Differentiation and Degeneration in the Spinal Ganglia of the Chick Embryo under Normal and Experimental Conditions,” in The Journal of Experimental Zoology.
+As Hamburger and Levi-Montalcini strived to further understand what factors provided by muscle structures maintain the survival of some neurons, their scientific partnership continued. They refined and reiterated in further publications their new ideas about central-peripheral relations. In efforts to identify chemical substances that act as maintenance factors of the central neurons, they discovered nerve growth factor together with 
+		Stanley Cohen, a biochemist who joined Hamburger’s research team in the early 1950s. The discovery, partly recorded in a 1954 report in PNAS, 
+		“A Nerve Growth-Stimulating Factor Isolated from Sarcomas,” led the trio into a research trajectory for which Levi-Montalcini and Cohen were eventually awarded the 1986 
+		Nobel Prize for Physiology or Medicine.
+From the late 1950s to early 1970s, Hamburger devoted much of his research to the behavioral aspects of chick neuroembryology. He managed to return to the central-peripheral relational problem in the mid-1970s. With postdoctoral researcher, Margaret Hollyday, Hamburger continued to address questions such as the precise quantitative relation between the size of the central nerve outgrowth and that of the peripheral, and the process of retrograde molecular transportation from the peripheral to the central.
+Besides these important contributions to the study of central-peripheral relations in neuroembryology, Hamburger’s work in this area heralded two important research fields that were only developed fully in the late twentieth century. One of these is programmed cell death and 
+		apoptosis. In fact, Hamburger and Levi-Montalcini’s discovery of the role of cell death in CNS development was soon discussed in Alfred Glücksmann’s 1951 paper, 
+		“Cell Deaths in Normal Vertebrate Ontogeny,” now considered a classic review of early studies in cell death. Another field that grew from Hamburger’s research is the study of polypeptide growth factors in cancer etiology and developmental biology. Foreshadowed in the first description of growth factor by Hamburger’s team, biology of growth factors has expanded to form a large research area since the 1970s.
+
+Sources
+ Allen, Garland E. “A Pact with the Embryo: Viktor Hamburger, Holistic and Mechanistic Philosophy in the Development of Neuroembryology, 1927–1955.” Journal of the History of Biology 37 (2004): 421–75.
+Glücksmann, Alfred. “Cell Death in Normal Vertebrate Ontogeny.” Biological Reviews of the Cambridge Philosophical Society 26 (1951): 59–86.
+Hamburger, Viktor. “The Effects of Wing Bud Extirpation on the Development of the Central Nervous System in Chick Embryos.” Journal of Experimental Zoology 68 (1934): 449–94.
+Hamburger, Viktor, and Rita Levi-Montalcini. “Proliferation, Differentiation and Degeneration in the Spinal Ganglia of the Chick Embryo under Normal and Experimental Conditions.” Journal of Experimental Zoology 11 (1949): 457–501.
+Hollyday, Margaret, and Viktor Hamburger. “Reduction of the Naturally Occurring Neuron Loss by Enlargement of the Periphery.” Journal of Comparative Neurology 170 (1976): 311–20.
+Levi-Montalcini, Rita. “The Nerve Growth Factor 35 Years Later.” Science 237 (1987): 1154–62.
+Maienschein, Jane. Transforming Traditions in American Biology, 1880–1915. Baltimore, MD: Johns Hopkins University Press, 1991, 268–73.
+Oppenheim, Ronald W. “Neuronal Cell Death and Some Related Regressive Phenomena During Neurogenesis: A Selective Historical Review and Progress Report.” In Studies in Developmental Neurobiology: Essays in Honor of Viktor Hamburger, ed. W. Maxwell Cowan, 74–133. New York: Oxford University Press, 1981.
+Weiss, Paul. “Selectivity Controlling the Central–Peripheral Relations in the Nerve System.” Biological Reviews of the Cambridge Philosophical Society 11 (1936): 494–531.
+
+
+How to cite
+Jiang, Lijing, "Viktor Hamburger's Study of Central-Peripheral Relations in the Development of Nervous System". Embryo Project Encyclopedia (2010-11-19). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/2314.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 25, 2013 - 15:53
+ Topic
+Subject
+ Hamburger, Viktor, 1900-2001; Experiment

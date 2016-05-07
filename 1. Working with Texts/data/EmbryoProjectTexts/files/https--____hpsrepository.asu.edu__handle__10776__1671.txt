@@ -1,0 +1,93 @@
+By Adam R. Navis
+Published: 2007-11-08
+Keywords: Biography, Nerve growth factor, Neurons
+ Viktor HamburgerViktor Hamburger was an embryologist who focused on neural development.  His scientific career stretched from the early 1920s as a student of 
+		Hans Spemann to the late 1980s at 
+		Washington University resolving the role of nerve growth factor in the life of neurons.  Hamburger is noted for his systematic approach to science and a strict attention to detail.  Throughout his life he maintained an interest in nature and the arts, believing both were important to his scientific work.
+Viktor Hamburger was born on 9 July 1900 to Else and Max Hamburger in Landeschut, Silesia, near the border of what later became Poland and Czechoslovakia.  Hamburger loved the natural setting of his childhood so much that in 1929 he wrote a book with his friend Walter Arndt, Heimatbuch des Kreises Landeshut, which chronicled the natural history of Landeschut.  He wrote the introduction and geology section and Arndt wrote the zoology section.  Hamburger enrolled at the 
+		University of Heidelberg in 1919.  He attended a seminar from 
+		Hans Driesch, and received his first introduction into experimental embryology from 
+		Curt Herbst.
+In 1920 Hamburger enrolled at the 
+		University of Freiburg as a graduate student and was accepted into 
+		Hans Spemann’s laboratory.  After some initial studies on the nature of the 
+		organizer, 
+		Spemann urged Hamburger to study neural development because there were too many people studying the 
+		organizer.  In his time at Freiburg, he became close friends with 
+		Hilde Mangold (Proescholdt) and 
+		Johannes Holtfreter.  In 1925 Hamburger received a PhD for his “Über den Einfluss des Nervensystems” studying the relationship between nerve and limb development.  He repeated a previous experiment that showed that limb development was dependent on innervation in 
+		frog embryos.  Innervation is the growth of nerve fibers into the limb.  Hamburger’s results showed that limbs can develop without nerves, and that the previous results were most likely the consequence of poor laboratory conditions.
+Hamburger went to work at the 
+		Stazione Zoologica in Naples, Italy, after receiving his PhD.  There he studied color vision in fish for one year, using behavioral techniques.  He was invited by 
+		Otto Mangold to the 
+		Kaiser Wilhelm Institute in Berlin-Dahlem as a Research Associate in 1926.  At the 
+		Kaiser Wilhelm Institute he was able to conduct a follow-up experiment to his previous work on the coordination between limb and nerve development.  In 1927 
+		Spemann invited Hamburger back to the 
+		University of Freiburg with an Instructorship, a tenure track position.  He taught and supervised laboratory courses until 1932, when he was awarded a Rockefeller Fellowship to bring 
+		Spemann’s technique of 
+		micro-surgery to the United States.
+Hamburger traveled to the 
+		University of Chicago to study with 
+		Frank Lillie.  Hamburger used 
+		micro-surgical techniques to study limb innervation in 
+		chicks.  He found the 
+		chick embryo to be a much more effective subject than 
+		amphibians.  In 1933 the Nazi party revoked Hamburger’s position at the University and the positions of all other Jewish faculty in Germany.  The Rockefeller Foundation extended Hamburger’s support for an additional two years in response to the Nazi actions.  At the termination of his fellowship, he began work at the 
+		Washington University in St. Louis in 1935 as an assistant professor.  In 1939 he became an associate professor, and in 1941, he became a full professor and chairman of the zoology department.  He continued to work on the development of the 
+		chick.  Hamburger determined that the growth of the 
+		chick nervous system depended on the presence of target tissues such as limbs to stimulate development.  Work by 
+		Rita Levi-Montalcini challenged some of his previous interpretations when she determined that nerve development could be related to the death of neurons and that the limb provides signals to promote the survival of neurons.  In 1947 Hamburger invited 
+		Levi-Montalcini to work in his lab to resolve the discrepancy.  
+		Levi-Montalcini’s conclusion was verified and she stayed in Hamburger’s lab for more than twenty years.
+In 1951 Hamburger published 
+		“A Series of Normal Stages in the Development of the Chick Embryo” with 
+		Howard L. Hamilton.  This paper identified 
+		stages of chick development by morphological features.  Previous work identified the stages as temporal milestones, but due to differences in laboratory conditions and genetics of the 
+		chick, development proceeded at different rates in different labs.  Hamburger and 
+		Hamilton identified the stages following two principles—they must be identifiable by external features, and successive stages must be as close to each other as possible.  These stages standardized the development of the 
+		chick and solidified it as a model organism.
+Hamburger worked with 
+		Levi-Montalcini on the discovery of 
+		nerve growth factor (NGF).  He introduced her to sarcoma 180, a virulent mouse tumor which had shown nerve growth inducing properties.  
+		Levi-Montalcini used sarcoma 180 and a related tumor, sarcoma 37, to study extreme nerve growth in the ganglia of 
+		chicks.  In 1953 he invited a biochemist, 
+		Stanley Cohen, to the laboratory and withdrew from the project because he had little more to contribute.  When the discovery of 
+		nerve growth factor earned the 1986 
+		Nobel Prize for Physiology or Medicine for 
+		Levi-Montalcini and 
+		Cohen, Hamburger was conspicuously excluded.
+In the 1960s Hamburger worked on the behavioral development of 
+		chicks.  He wanted to study the relationship between the development of the nervous system and the movements of the 
+		chick.  He concluded that the movements were tied to the development of the nervous system.  Hamburger also wanted to observe the hatching of the 
+		chick and described the series of coordinated movements that lead to the moment of hatching.  Hamburger noted that this was his only purely observational study.
+Hamburger returned to nerve growth for his final laboratory project, published in 1984.  He determined that 
+		nerve growth factor was required for the maintenance of neural cells.  When they are exposed to extra 
+		NGF, large populations of neural cells can be maintained.  He remarked that his return to nerve growth brought his career full circle from his early days studying neural development in 
+		Hans Spemann’s laboratory to his final project, the relationship between 
+		NGF and nerve maintenance.
+Viktor Hamburger was the recipient of many honors.  He was inducted into the National Academy of Sciences in 1953.  He received the Wakeman Award in 1978, and the Ralph W. Girard Prize for Neuroscience in 1985.  He was awarded the National Medal of Science in 1989 and the 1990 Karl Lashley Award of the American Philosophical Society.  Hamburger described himself as a type of scientist who does not make momentous discoveries by forays into the unknown, but as a scientist who works in a step-by-step manner and seeks to know the whole story by careful analysis.  Hamburger died on 12 June 2001.
+
+Sources
+Allen, Garland E.  “A Pact with the Embryo: Viktor Hamburger, Holistic and Mechanistic Philosophy in the Development of Neuroembryology, 1927–1955.”  Journal of the History of Biology 37 (2004): 421–75.
+Cowan, W. Maxwell  “Viktor Hamburger and Rita Levi-Montalcini: The Path to the Discovery of Nerve Growth Factor.”  Annual Review of Neuroscience 24 (2001): 551–600.
+Hamburger, Viktor.  “The Journey of a Neuroembryologist.”  Annual Review of Neuroscience  12 (1989): 1–12.
+Hamburger, Viktor, and Howard L. Hamilton.  “A Series of Normal Stages in the Development of the Chick.”  Journal of Morphology 88 (1951): 49–92.
+Hamburger, Viktor.  “Über den Einfluss des Nervensystems auf die Entwicklung der Extremitäten von Rana fusca.”  Wilhelm Roux’s Archiv für Entwicklungsmechanik der Organismen 105 (1925): 149–201.
+Oppenheim, Ronald W.  “Viktor Hamburger (1900–2001).  Journey of a Neuroembryologist to the End of the Millennium and Beyond.”  Neuron 31 (2001): 179–90.
+
+
+How to cite
+Navis, Adam R., "Viktor Hamburger (1900-2001)". Embryo Project Encyclopedia (2007-11-08). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/1671.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, March 18, 2015 - 18:02
+ Topic
+Subject
+Nerve Growth Factor; Hamburger, Viktor, 1900-2001; People

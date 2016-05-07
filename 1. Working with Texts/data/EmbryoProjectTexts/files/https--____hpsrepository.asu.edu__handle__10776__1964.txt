@@ -1,0 +1,105 @@
+By Adam R. Navis
+Published: 2009-01-13
+Keywords: Mice, Chimeras
+ “Formation of Genetically Mosaic Mouse Embryos and Early Development of Lethal (t12/t12)-Normal Mosaics”The paper “Formation of Genetically Mosaic Mouse Embryos and Early Development of Lethal (t12/t12)-Normal Mosaics,” by 
+		Beatrice Mintz, describes a technique to fuse two 
+		mouse embryos into a single 
+		embryo. This work was published in the 
+		Journal of Experimental Zoology in 1964. When two 
+		embryos are correctly joined before the 32-cell stage, the 
+		embryo will develop normally and exhibit a mosaic pattern of cells as an adult. Mosaics were easily characterized by 
+		mouse fusions from 
+		embryos of different colors; this produced clearly visible color patterns identifying the alternate cell types. 
+		Mintz referred to the fused mice as mosaic or later as allophenic, but they are more commonly known today as 
+		chimeras.
+The first reported instance of a 
+		chimera was identified in 
+		cattle by comparing blood antigens of 
+		cow fraternal twins. Ray D. Owen reported that an abnormal number of the twins had identical blood antigens. The adult 
+		cows with similar antigens were found to have two different populations of red blood cells suggesting that the precursors of the red blood cells, 
+		hematopoietic stem cells, were transferred from one twin to the other during development. In the 1950s human 
+		chimeras were also identified by examining blood antigens and later confirmed by 
+		karyotyping to reveal differences in chromosome patterns between the patient’s cells. Although 
+Drosophila
+chimeras had previously been produced, mammalian 
+		chimeras were not successful until 
+		Mintz developed a reliable technique for the production of embryonic fusions.
+
+Beatrice Mintz conducted a previous study that examined a reproductive disorder characterized by two distinct populations of germ cells in heterozygous mice. One population was a group of normal, functioning germ cells, the other group did not divide and they did not migrate to the correct parts of the 
+		embryo. 
+		Mintz thought there might be a way to use dual populations of cells to study the action of the mutant cells. She wanted to apply this technique to the t12 mutation, which is characterized by a developmental arrest at the 
+		morula stage, when the 
+		embryo is composed of approximately thirty-two cells. She thought a fusion of a mutant 
+		embryo with a normal 
+		embryo might rescue function long enough to study the mechanism of the mutation similar to the way she studied the blood disorder.
+The development of a 
+		chimera was first reported by 
+		Andrzej Krzysztof Tarkowski. Although he reported a novel approach to embryonic fusions, his technique was inefficient and the sole 
+		mouse that survived long enough to observe the coat color did not show evidence of chimerism. At early stages, 
+		embryos are surrounded by a protective layer named the 
+zona pellicula that prevents two 
+		embryos from fusing. 
+		Tarkowski attempted to remove the 
+zona pellicula by forcing 
+		embryos through a glass needle. This often damaged the 
+		embryos, reducing the success of the fusions. 
+		Mintz instead removed the protective layer by treating the 
+		embryos with pronase, a mixture of enzymes designed to degrade the 
+zona pellicula, causing minimal damage to the 
+		embryo. Once the 
+zona pellicula was removed, she needed to fuse the 
+		embryos. This was accomplished by introducing the 
+		embryos to each other at 
+		mouse body temperature. The 
+		embryos easily adhered to each other and continued to develop as a single 
+		mouse. 
+		Mintz performed these fusions at different intervals in development and discovered that the 
+		embryos could form 
+		chimeras if they were fused at any point until the 
+		morula stage. 
+		Mintz’s method was much more efficient than 
+		Tarkowski’s and she was able to produce the mottled coat color pattern that was evidence of a successful fusion.
+
+		Mintz considered techniques only a means to an end. This technique was developed to study the t12 mutation, which arrests development at the 
+		morula stage. She produced fusions of 
+		embryos homozygous for t12 with control mice from the same genetic line. Some 
+		embryos did not efficiently fuse and the 
+		embryo segregated itself between mutant and normal cells. Many of the fusions developed long enough to produce discernible populations of cells. Each mosaic 
+		embryo produced a different pattern of growth, but all the mutant cells began to grow larger in relation to the normal cells due to a reduction in the rate of cell division. This had been previously observed and validated earlier claims. This study, more importantly, provided a successful model for the use of 
+		chimeras in experimental research.
+The development of a method for fusing two 
+		embryos has proved useful in many ways besides the direct study of the 
+		embryos. 
+		Mintz later used fusions of 
+		embryos with a treated 
+		teratoma cell line to produce a 
+		mouse model of a human disease. 
+		Teratomas are unique tumors capable of differentiating into a variety of cell types. When they produced the germ cells in a fusion, they were also able to produce viable offspring. The ability to introduce 
+		embryonic stem cells into an 
+		embryo has also been used to create 
+		knock-out mice. These mice illustrate the role of a gene in development by inactivating the gene and observing development in its absence. This study is most noted for establishing a technique to consistently produce viable
+chimeras, a technique that has continued to be an integral tool for the study of developmental biology.
+ 
+
+Sources
+Flannery, Maura C. “Beatrice Mintz (1921–).” In Women in the Biological Sciences: A Biobibliographic Sourcebook, eds. Louise S. Grinstein, Carol A. Biermann, and Rose K. Rose, 319–31. Westport: Greenwood Press, 1997.
+Mintz, Beatrice. “Formation of Genetically Mosaic Mouse Embryos, and Early Development of ‘Lethal (T12/T12)-Normal’ Mosaics.” The Journal of Experimental Zoology 157 (1964): 273–92.
+Owen, Ray D. “Immunogenetic Consequences of Vascular Anastomoses Between Bovine Twins.” Science 102 (1945): 400–401.
+Tarkowski, Andrzej K. “Mouse Chimaeras Developed from Fused Eggs.” Nature 190 (1961): 857–60.
+
+
+How to cite
+Navis, Adam R., ""Formation of Genetically Mosaic Mouse Embryos and Early Development of Lethal (t12/t12)-Normal Mosaics" (1964), by Beatrice Mintz". Embryo Project Encyclopedia (2009-01-13). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/1964.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, March 18, 2015 - 23:51
+ Topic
+Subject
+ Mintz, Beatrice; Experiment

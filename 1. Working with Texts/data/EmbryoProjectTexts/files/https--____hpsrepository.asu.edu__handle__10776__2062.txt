@@ -1,0 +1,48 @@
+By Erica O'Neil
+Published: 2010-09-07
+Keywords: Fetal alcohol syndrome, Human development, Fetus
+ Corpus Callosum Defects Associated with Fetal Alcohol SyndromePrenatal exposure to alcohol (ethanol) can result in a continuum of developmental abnormalities that are highly variable depending on the severity, duration, frequency, and timing of exposure during 
+		gestation. Defects of the 
+		corpus callosum (CC) have proven to be a reliable indicator of prenatal alcohol exposure as it affects the brain. Structural abnormalities of the CC occur along a continuum, like most alcohol-induced anomalies, whereby more severe prenatal exposure results in a greater expression of the abnormal trait. A variety of cognitive deficiencies are associated with defects of the fetal CC, the morphology of which can vary greatly between individuals and can be observed through neuroimaging over a broad transect of life stages. 
+The CC is a dense band of white matter that separates the left and right hemispheres of the brain and is responsible for interhemispheric communication. This white matter is primarily composed of axons, projections from the neuronal cell body (soma) that conduct electrical impulses to the receptors (dendrites) of other neurons. The CC is therefore a central hub of communication between left and right sides of the brain, and is integral not only to bimanual fine-motor dexterity, but also to higher-level cognitive processes that require the transfer of information between hemispheres such as verbal learning, memory, and the processing of abstract or complex concepts. The human CC begins to develop approximately five weeks post-fertilization, when the brain has already begun to divide into preliminary vesicles, and continues throughout the second trimester when the developing brain is most vulnerable to the effects of alcohol. The vulnerability of the CC to ethanol therefore postdates the vulnerable period of the 
+		cranial neural crest cells responsible for the facial abnormalities of FAS. This explains how CNS defects can occur in the absence of the specific facial phenotype associated with FAS.
+Ethanol-induced defects to the CC were first observed in the formative studies of 
+		fetal alcohol syndrome (FAS) in the 1970s by 
+		Kenneth Lyons Jones and 
+		David W. Smith. Postmortem examinations of infants and fetuses with heavy prenatal exposure to ethanol helped establish the classic definition of FAS, which includes growth deficiencies, minor facial abnormalities, and gross neurological defects. Not all individuals who sustain ethanol-induced defects to the 
+		central nervous system (CNS) manifest the minor facial abnormalities that typify those with FAS. This condition is referred to as 
+		alcohol-related neurodevelopmental disorder (ArND) and it encompasses a broad range of cognitive, behavioral, and morphological abnormalities that result from prenatal ethanol exposure. Defects to the CC have been observed in both individuals with FAS and ArND, generally making it a reliable indicator of prenatal ethanol exposure even in the absence of other ethanol-induced abnormalities.
+Ethanol-induced defects to the CC include complete agenesis (non-development), hypoplasia (underdevelopment), and spatial displacement. Complete agenesis of the CC is the most severe manifestation of this defect and occurs with greater frequency among fetal alcohol-exposed individuals than other developmentally disabled groups. With agenesis of the CC, the axonal connections develop but are laid down parallel along the hemispheres instead of connecting across the junction. Among these affected individuals, poor bimanual motor control is often coupled with deficiencies in executive functioning (decision making, planning, abstract thought) associated with the inability to coordinate and collate information across hemispheres of the brain. Other structural differences that have been observed include hypoplasia of the CC, which is a result of decreased axonal connections between hemispheres. A hypoplastic CC can affect cognitive functioning as well as motor coordination depending on what portion of the CC is affected. Defects that occur in the genu (anterior portion) of the CC are most frequently associated with executive functioning, since this area connects the two halves of the prefrontal cortex. The middle section (midbody) and posterior section (splenium) of the CC connect the parietal lobes of the brain, and are responsible for motor-visual coordination and somatosensory stimuli. Ethanol-induced spatial shifts in the CC generally occur in the anterior and inferior direction, and can be observed using a variety of neuroimaging techniques.
+The advent of non-invasive neuroimaging techniques has made it possible to visualize the effect of alcohol on the developing brain at all stages of life, from the prenatally affected child through the developmentally mature adult. 
+		Magnetic resonance imaging (MRI), 
+		functional MRI (fMRI), and 
+		diffusion tensor imaging (DTI) have also proven to be useful neuroimaging techniques for visualizing CC tissue organization. Even 
+		ultrasounds have shown promise in the detection of alcohol-induced damage to the neonatal CC, perhaps creating the opportunity for even earlier observation of the effects of prenatal alcohol exposure.
+As noted above, prenatal exposure to alcohol does not always result in the visually observed phenotypic facial characteristics associated with FAS, but alcohol-induced developmental defects of the CC have proven to be a reliable indicator of prenatal alcohol exposure. Abnormalities of the CC can be particularly dramatic since this area is responsible for interhemispheric communication between the left and right sides of the brain. Depending on the severity of CC damage, defects can vary from bimanual motor-visual coordination to global deficiencies related to complex executive functioning. Given that axonal connections across the CC cannot be modified after formation, the earliest detection of prenatal alcohol exposure through neuroimaging technology offers the greatest opportunity for addressing the possible cognitive defects associated with an abnormal CC to enhance the quality of life to the individual affected.
+
+Sources
+Bookstein, Fred L., Paul D. Connora, Kristi D. Covella, Helen M. Barra, Christine A. Gleasond, Raymond W. Szee, Jenny A. McBroomf, and Ann P. Streissguth. “Preliminary Evidence that Prenatal Alcohol Damage May be Visible in Averaged Ultrasound Images of Neonatal Human Corpus Callosum.” Alcohol 36 (2005): 151–60.
+Bookstein, Fred L., Paul D. Sampson, Paul D. Connor, and Ann P. Streissguth. “Midline Corpus Callosum is a Neuroanatomical Focus of Fetal Alcohol Damage.” New Anatomical Record 269 (2002): 162–74.
+Guerril, Consuelo, Alissa Bazinet, and Edward P. Riley. “Foetal Alcohol Spectrum Disorders and Alterations in Brain and Behavior.” Alcohol & Alcoholism 44 (2009): 108–14.
+Jones, Kenneth Lyons, and David W. Smith. “Recognition of the Fetal Alcohol Syndrome in Early Infancy.” Lancet 2 (1973): 999–1001.
+Jones, Kenneth Lyons, David W. Smith, Christy N. Ulleland, and Ann Pytkowicz Streissguth. “Pattern of Malformations in Offspring of Alcoholic Mothers.” Lancet 1 (1973): 1267–71.
+Ma, Xiangyang, Claire D. Coles, Mary Ellen Lynch, Stephen M. LaConte, Omar Zurkiya, Danil Wang, and Xiaoping Hu. “Evaluation of Corpus Callosum Anistrophy in Young Adults with Fetal Alcohol Syndrome According to Diffusion Tensor Imaging.” Alcoholism: Clinical and Experimental Research 29 (2005): 1214–22.
+Qiang, Mei, Ming Wei Wang, and Andrea J. Elberger. “Second Trimester Prenatal Alcohol Exposure Alters Development of Rat Corpus Callosum.” Neurotoxicity and Teratology 24 (2002): 719–32.
+Roebuck-Spencer, Tresa M., Sarah N. Mattson, Sarah Deboard Marion, Warren S. Brown, and Edward P. Riley. “Bimanual Coordination in Alcohol-Exposed Children: Role of the Corpus Callosum.” Journal of the International Neuropsychology Society 10 (2004): 536–48.
+
+
+How to cite
+O'Neil, Erica, "Corpus Callosum Defects Associated with Fetal Alcohol Syndrome". Embryo Project Encyclopedia (2010-09-07). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/2062.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 25, 2013 - 15:53
+ Topic
+Subject
+Fetal Alcohol Syndrome; Fetal alcohol syndrome; Concept

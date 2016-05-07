@@ -1,0 +1,67 @@
+By Adam R. Navis
+Published: 2007-11-08
+Keywords: Frogs, Transplantation, Amphibians
+ “Experiments in Transplanting Limbs and Their Bearing Upon the Problems of the Development of Nerves”In his 1907 paper, “Experiments in Transplanting Limbs and Their Bearing Upon the Problems of the Development of Nerves,” in the Journal of Experimental Zoology that he edited, 
+		Ross Granville Harrison tested the development of nerves in transplanted tissue.  He studied neural development by examining two competing theories.  
+		Victor Hensen proposed a 
+		syncytial theory as a way to explain neural development, suggesting that all the nerves of an embryo were connected directly by cytoplasm laid down early in development, and leaving no room for later modification.  
+		Santiago Ramón y Cajal proposed a competing 
+		outgrowth theory that nerves develop from the central nervous system, pushing through tissues by growing nerve fibers and growth cones.  
+		Harrison’s experiment refuted many of the claims of the syncytial theory although it did not produce evidence that could directly prove the outgrowth theory.
+To test nerve growth, 
+		Harrison utilized two series of experiments.  The first tested the transplantation of nerveless or “aneurogenic” limbs to normal early 
+		frog stages and the second series tested the application of normal limbs to nerveless tadpoles.  The nerveless larvae were produced by excising the dorsal edge of the embryo just after the closure of the medullary folds, which removed the spinal cord.  To control for the conditions, 
+		Harrison attached one limb without nerves and one limb with nerves to opposite sides of the embryo.  Each limb induced an “accessory” limb opposite the transplant.  The transplanted limb was referred to as the primary limb, and the accessory was referred to as the secondary limb.
+In the first experiment 
+		Harrison transplanted a nerveless hindlimb to one side and a normal hindlimb to the opposite side of a normal larva of Rana sylvatica.  The purpose of this test was to examine whether the nerves of the host could innervate the nerveless limb.  He found that the nerveless limbs had been invaded by the nerves of the host.  He had also observed slight movements of the limb, indicating that the nervous system could be stimulating the nerveless limb.  
+		Harrison observed that the primary aneurogenic limbs had the most complete nervous system of the transplants.  This experiment demonstrated that nerves were capable of invading a limb which did not initially contain its own nerves.
+For the second experiment 
+		Harrison implanted two nerveless limbs onto a normal host embryo.  He experienced difficulty implanting the limbs.  One of the limb buds developed into a large mass with a deformed limb inside and the other developed with its accessory limb, but not as completely as the first experiment.  The twitching was not seen and no nerves were found below the knee of the more developed limb.  
+		Harrison suggested that the limited growth was due to an imperfect implantation of the limb to the host.
+In the third experiment 
+		Harrison used a different species, Bufo lentiginosus, for a study similar to the first experiment.  The nerveless limb was successfully innervated by the host, although less successfully than the first experiment.  The most advanced neural development was in the primary nerveless limb.  
+		Harrison also discovered that the primary, “normal” limb was the least successfully innervated by the host.
+For the fourth, and final, experiment 
+		Harrison modified the location of the implant.  He returned to Rana sylvatica larva and implanted the normal and nerveless limb further from the tail and hindlimbs.  
+		Harrison demonstrated that the innervation of the aneurogenic limb did not depend on location but could be innervated in multiple species at a variety of locations.  This indicated that the neural system was not fixed early in development and could reach into foreign tissues.
+In a second series of experiments 
+		Harrison transplanted normal limbs to nerveless embryos.  He experienced difficulty getting the nerveless embryos to develop.  Since the majority of their central nervous system was removed, they had no means of motility, even when their brains remained intact.  They were unable to survive once their yolk sac was depleted.  In earlier work, 
+		Harrison had developed a method for sustaining the nerveless larvae by 
+		grafting them to the backs of normal larvae.  In this manner, the nerveless tadpoles were able to survive after absorbing their yolk sac.  
+In this sequence of experiments 
+		Harrison first grafted nerveless 
+		frog larvae to the backs of normal 
+		frog larvae, then transplanted a normal limb to the nerveless tadpoles.  The transplanted limbs did not develop well and 
+		Harrison proposed that this was due to poor nutrition in the nerveless larvae.  He found that the 
+		transplanted limbs contained no nerves, even though they were from normal embryos and contained fine nerve fibers at the time of implantation.  This demonstrated that the nerves of the transplant depended on the central nervous system—that without it the nerves degenerated.  The 
+		syncytial theory predicted that the nerves in the normal limb would continue to develop without the central nervous system.
+
+		Harrison used this evidence to refute the 
+		syncytial theory of neural development.  He discovered that the nerves of a normal larva could innervate a nerveless limb.  He also found that normal limbs degenerate their nerves when implanted into a nerveless larva.  
+		Harrison was able to demonstrate that many of the aspects of the syncytial theory were unsupported, although he provided no evidence for 
+		Ramón y Cajal’s theory.  
+		Harrison’s 1910 paper on the outgrowth of nerve fibers provided evidence for 
+		Ramón y Cajal’s theory.  Although 
+		syncytial theory seemed simple and elegant, 
+		Harrison refuted the theory and showed that nature acted differently than expected. 
+
+Sources
+Harrison, Ross. G.  “Experiments in Transplanting Limbs and Their Bearing upon the Problems of the Development of Nerves.”  Journal of Experimental Zoology 4 (1907): 239–281.
+Maienschein, Jane.  “Experimental Biology in Transition: Harrison’s Embryology, 1895–1910.” Studies in History of Biology 6 (1983): 107–127
+
+
+How to cite
+Navis, Adam R., ""Experiments in Transplanting Limbs and Their Bearing Upon the Problems of the Development of Nerves" (1907), by Ross Granville Harrison". Embryo Project Encyclopedia (2007-11-08). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/1721.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, March 18, 2015 - 17:55
+ Topic
+Subject
+Transplantation; Harrison, Ross G. (Ross Granville), 1870-1959; Experiment

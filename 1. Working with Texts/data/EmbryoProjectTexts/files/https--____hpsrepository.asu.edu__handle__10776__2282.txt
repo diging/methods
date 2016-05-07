@@ -1,0 +1,28 @@
+By Corinne DeRuiter, Maria Doty
+Published: 2011-06-21
+Keywords: Chicks, Gastrulation
+ Gastrulation in Gallus gallus (Domestic Chicken)Gastrulation is an early stage in embryo development in which the blastula reorganizes into the three germ layers: the ectoderm, the mesoderm, and the endoderm.  Gastrulation occurs after cleavage but before neurulation and organogenesis. Ernst Haeckel coined the term; 'gaster', meaning stomach in Latin, is the root for 'gastrulation', as the gut is one of the most unique creations of the gastrula.Gallus gallus (domestic chicken) is a major model system in embryology. It was one of the first organisms used for developmental research in the nineteenth century because the egg could be opened and the development of the embryo inside could be seen without the use of a powerful microscope. The embryo’s large size and the ability to survive under surgical manipulation gave the chick an advantage over other model systems such as Xenopus laevis (African clawed frog) and Mus musculus (house mouse). 
+In the 1850s, gastrulation of the chick was not well understood or documented. There were two suggested explanations of chick gastrulation. The first suggested that the mesoderm formed from the epiblast, the early stage totipotent layer of cells, and the mesoderm then differentiated into the endoderm. The other suggestion was that the epiblast and endoderm developed together first, followed by the mesoderm. It wasn’t until August Rauber discovered that the two-layered chick embryo is a blastoderm, a flat layer of embryonic cells that folds several times to become the later stages of an embryo, that gastrulation began to be understood. Rauber emphasized that the mesoderm initiates the ectoderm and endoderm to differentiate and that the blastoderm was essentially the canvas for gastrulation.Although Rauber described gastrulation, it wasn’t until one-hundred years later that Viktor Hamburger and Howard Hamilton used Rauber's and other researcher’s information to create a series of chronological stages in chick development, the Hamburger-Hamilton staging series in 1951. In 1976 Hefzibah Eyal-Giladi and Joseph Kochav also observed G. gallus and created another staging series documenting beginning phases of development. The improvement of microscopes, staining methods, and microtomes helped those documents provide detailed descriptions of embryonic stages of chick development.  With the help of researchers such as Rauber, Haeckel, Hamburguer, and Hamilton, people now understand that chick gastrulation begins approximately seven to eight hours after fertilization. In the chick epiblast, a totipotent primordial cell layer, cells begin to rearrange at the posterior end. Those cells migrate inward to form the primitive streak, a midline thickening of the epiblast. During that time, the epiblast is separated from the hypoblast, a deeper layer of cells in the blastoderm, by the blastocoel, a fluid filled cavity. Future endoderm cells are the first cells to pass through the primitive streak. Those cells displace the hypoblast cells moving them towards the anterior pole of the embryo. Next, Hensen’s node, a mass of cells lying at the most anterior end of the primitive streak, drives elongation towards the posterior end of the embryo. The order in which the cells enter the blastocoel through Hensen’s node determines which of the three germ layers they will become in the future embryo. As the embryo continues to grow and proliferate, Hensen’s node regresses, leaving behind the notochord and signaling the beginning of neurulation, which is the formation of the central nervous system. In chick embryos, the ectoderm, mesoderm, and endoderm cells ultimately give rise to different tissues and organs. Ectoderm cells generate the skin and neural tissue. Endoderm cells become the lining of the gastrointestinal and the respiratory tracts. Mesoderm cells differentiate into the circulatory system, kidneys, and skeletal compartments among many other features. Those tissues and organs are created during organogenesis. Gastrulation of the chick is a crucial step in development that turns a simple multi-cellular embryo into a complex fully functional organism. Regardless of the many researchers involved, questions still remain regarding the mechanisms of induction and genetics involved in the cells movements that occur during gastrulation.  The chick embryo is still used today by researchers who hope to answer those developmental questions. 
+
+Sources
+Gilbert, Scott F. Developmental Biology, 8th ed. Sunderland, MA: Sinauer, 2006. 336–48.
+Stern, Claudio D., ed. Gastrulation: From Cells to Embryo. Cold Spring Harbor, NY: Cold Spring Harbor Laboratory Press, 2004.
+McGeady, Thomas A., P. J. Quinn, E. S. Fitzpatrick, and M. T. Ryan. Veterinary Embryology. Ames, IA: Blackwell Publishing, 2006. 
+Wright, Shirley J. A Photographic Atlas of Developmental Biology. Englewood, CO: Morton Publishing, 2005.
+
+
+How to cite
+DeRuiter, Corinne,, Doty, Maria, "Gastrulation in Gallus gallus (Domestic Chicken)". Embryo Project Encyclopedia (2011-06-21). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/2282.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 25, 2013 - 15:53
+ Topic
+Subject
+Gastrulation;  Concept

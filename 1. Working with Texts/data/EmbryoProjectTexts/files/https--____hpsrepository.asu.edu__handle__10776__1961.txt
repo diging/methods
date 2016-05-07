@@ -1,0 +1,48 @@
+By Christina Raup
+Published: 2010-07-01
+Keywords: Cancer
+ TeratomasTeratomas are embryonal tumors that normally arise from germ cells and are typically benign. They are defined as being composed either of tissues that are foreign to the area in which they form, or of tissues that derive from all three of the 
+		germ layers. Malignant teratomas are known as teratocarcinomas; these cancerous growths have played a pivotal role in the discovery of 
+		stem cells. “Teratoma” is Greek for “monstrous tumor”; these tumors were so named because they sometimes contain hair, teeth, bone, neurons, and even eyes. Teratomas have been medical curiosities for centuries, though it wasn’t until the 1960s that significant research into mice teratomas elucidated not only what these strange growths were, but also how germinal cells should normally function.
+The earliest reference to teratomas is found on a clay tablet dating from 600 to 900 BC from the Chaldean Royal Library of Nineveh. These tablets dealt with different ways of predicting the future, and one prediction stated that prosperity will follow a woman giving birth to a child with three legs. According to Andrew, et al. (2001), James E. Wheeler concludes in his History of Teratomas that this must have been reference to the discovery of a benign teratoma, likely found at the base of the spine. Pathologists and physicians have been fascinated by teratomas over the intervening centuries, often believing them to be signs of the devil.
+Teratomas were first recognized to be embryoid in nature in 1696 with the discovery of a growth that contained pigmented optic cups and a skull. Yet it wasn’t until 1856 that this abnormal growth was recognized as being distinctly different from previously encountered tumors; at this point the three germ layers—mesoderm, ectoderm, and endoderm—had recently been discovered, and it was recognized that teratomas possessed elements deriving from all three tissue types. The most common form of teratoma is a dermoid cyst of the ovary, which contains epidermis, hair follicles, and sebaceous glands. These cysts arise when 
+		oocytes begin to develop but at some point become a disorganized assortment of embryonic tissues. While often benign, these tumors can become quite large. Teratocarcinomas tend to form in the testes, and contain elements of both teratomas and embryonal carcinomas. 
+		Embryonal carcinoma (EC) cells are undifferentiated malignant stem cells that give rise to the different tissue types of the teratocarcinomas. Early research into teratoma and teratocarcinoma tissues led many to believe that they reflected embryogenic processes, and further studies eventually led to the discovery of 
+		embryonic stem cells (ESCs) in mice.
+In the late 1950s, experimental embryologist 
+		Leroy Stevens began mating mice that had teratomas in an attempt to create a strain that would produce the tumors often enough for research. Since the tumors were comprised of cells and tissues from multiple areas of the body, Stevens and other researchers began to believe that the tumors had arisen not from an already differentiated cell, but from an undifferentiated, 
+		multipotent cell highly resembling an embryonic cell. In 1961 Stevens was able to determine that teratomas arise from primordial germ cells. By 1964, embryologist 
+		Barry Pierce had discovered that only one cell within each tumor continued to give rise to more cells, while the rest of the cells differentiated and died. He also used a cloning technique in mice to confirm that teratoma embryonal stem cells are in fact 
+		pluripotent. These discoveries were then expanded upon by 
+		David Solter and 
+		Barbara Knowles, two researchers who discovered the antigens expressed in teratocarcinomas. The antigen they discovered led two groups of scientists to independently discover mammalian ESCs in 1981.
+When testing the multipotency of human ESCs, researchers inject cells under the skin of lab mice. Successful injections result in teratomas, confirming the differentiation capacity of the cells. However, research still needs to be done to discover which in vivo environmental factors can control ESC differentiation, so that teratomas do not form in patients. Until researchers can fully control stem cell fate once injected, the possibility of tumor formation will hinder the application of stem cells in regenerative medicine.
+
+Sources
+Andrews, Peter W., Stefan A. Przyborski, and James A. Thomson. “Embryonal Carcinoma Cells as Embryonic Stem Cells.” In Stem Cell Biology, eds. Daniel R. Marshak, Richard L. Gardner, and David Gottlieb, 231–265. Cold Spring Harbor, NY: Cold Spring Harbor Laboratory Press, 2001.
+Blum, Barak, and Nissim Benvenisty. “Differentiation In Vivo and In Vitro of Human Embryonic Stem Cells.” In Stem Cells: From Bench to Bedside, eds. Ariff Bongso and Eng Hin Lee, 123–143. Singapore: World Scientific, 2005.
+Committee on the Biological & Biomedical Applications of Stem Cell Research. Stem Cells & the Future of Regenerative Medicine. Washington, DC: National Academy Press, 2002.
+Foulds, Leslie. Neoplastic Development, Vol. 1. London: Academic Press, 1969.
+Fox, Cynthia. Cell of Cells: The Global Race to Capture and Control the Stem Cell. New York: W. W. Norton, 2007.
+Matin, Maryam M., Ahmad Bahrami, Duncan Liew, and Peter W. Andrews. “Characterization of Human Embryonic Stem Cells.” In Stem Cells: From Bench to Bedside, eds. Ariff Bongso and Eng Hin Lee, 38–54. Singapore: World Scientific, 2005.
+O’Hare, M. J. “Teratomas, Neoplasia, and Differentiation: A Biological Overview I. The Natural History of Teratomas.” Investigative Cell Pathology 1 (1978): 39-63.
+Stevens, Leroy C. “The Biology of Teratomas.” In Advances in Morphogenesis, eds. M. Abercrombie and Jean Brachet, 6:1–32. New York: Academic Press, 1967.
+Stevens, Leroy C., and G. Barry Pierce. “Teratomas: Definitions and Terminology.” In Teratomas and Differentiation, eds. Michael I. Sherman and David Solter, 13–14. New York: Academic Press, 1975.
+Wheeler, James E. “History of Teratomas.” In The Human Teratomas: Experimental and Clinical Biology, eds. Ivan Damjanov, Barbara B. Knowles and David Solter, 1–22. Clifton, NJ: Humana, 1983.
+
+
+How to cite
+Raup, Christina, "Teratomas". Embryo Project Encyclopedia (2010-07-01). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/1961.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 25, 2013 - 15:53
+ Topic
+Subject
+Teratoma;  Concept

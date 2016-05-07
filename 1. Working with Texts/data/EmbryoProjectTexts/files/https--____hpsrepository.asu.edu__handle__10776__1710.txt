@@ -1,0 +1,63 @@
+By Adam R. Navis
+Published: 2007-10-30
+Keywords: Chicks
+ Stages of Chick DevelopmentThe developmental stages of the 
+		chick embryo were examined by 
+		Viktor Hamburger and 
+		Howard L. Hamilton in “A Series of Normal Stages in the Development of the Chick Embryo,” published in the Journal of Morphology in 1951.  These stages were published to standardize the development of the 
+		chick based on varying laboratory conditions and genetic differences.  The stages 
+		Hamburger and 
+		Hamilton assigned were determined by the visible features of the 
+		chick embryo.  The first stage begins just prior to the 
+		primitive streak, with the formation of the embryonic shield, and the final stage, forty-six, ends at the hatching of the 
+		chick.
+This work was designed to update 
+		Frank Rattray Lillie’s 
+		The Development of the Chick, a chronological identification of the 
+		developmental stages of the 
+		chick, which 
+		Hamilton was preparing.  
+		Hamburger met 
+		Hamilton in 1948 at a meeting in Chapel Hill, North Carolina.  Together they decided to produce a series of stages based on morphological changes rather than regular time sequences.  The main requirements of the project were that the stages had to be easily identifiable by visible features, and they required the smallest possible differences between the features to avoid confusion.  A previous description of morphological stages had been completed by 
+		Franz Keibel and 
+		Karl Abraham in 1900, as Normentofel, but did not gain prominence because it was incomplete in the later stages and the illustrations were difficult to interpret.  The Hamburger-Hamilton stages aimed to match the morphological stages prepared by 
+		Ross Harrison for Ambystoma.
+The stages of development were grouped by similar developmental features.  The initial stages are identified by the developmental features of the 
+		primitive streak.  The middle stages are characterized primarily by somite number, then by related features.  The later developmental stages are characterized by measurable objective features such as beak or toe length, since the final stages are characterized by expansion of the features established earlier in development.
+
+		Hamilton was responsible for describing the first 14 stages.  Stages 1 through 6 are defined by the development of the 
+		primitive streak.  The first stage is the embryonic shield before the 
+		primitive streak is visible.  The second through fourth stages are defined by an extension of the 
+		primitive streak, and the stages are differentiated by visible milestones as the streak grows in length.  Stage 5 marks the development of the notochord, and stage 6 is defined by the presence of the head fold.  The sixth stage is transient, and ends at the formation of somites.
+Stages 7 through 14 are identified by the number of somites.  Each stage in this group represents the formation of three somites.  Stage 7 is one somite, stage 8 is four somites, and so on.  The stages may be subdivided with a  +   or   -   to indicate individual somites; 8- equals three somites and 8+ equals 5 somites.  In these stages many features of the 
+		chick are established.  At stage 9 the heart and eyes begin formation.  In stage 10 the true, first somite becomes visible but is not counted as a part of somite number in any stage.  At stage 12 the head begins to turn onto the left side.  In stage 13 the auditory pit is established.  By stage 14, the last stage defined by somite number, the first two visceral arches are visible.
+
+		Hamburger was responsible for describing the stages after 14.  From stage 15 to 45, each stage is defined by the development and size of several morphological features and identified by a collection of standard features.  The most common features include the beak, eyelids, feathers, limbs, the visceral arches, and in late stages, the third toe.  General somite numbers are also included in some early stages, but they do not follow the three-somites-per-stage rule.  The beak is used for measurements in later stages.  Eyelid development indicates other milestones in late development, as the eyelids grow to cover the eyes.  The feathers are a developmental milestone and their emergence in various anatomical positions characterizes many stages.  The limbs appear early in development and provide many milestones for stage identification.  Visceral arches, or branchial arches, are a series of clefts in the developing embryo.  The visceral arches are used to determine stages 14 to 40, until the arches give way to the beak.  The third toe is used for measurements to determine the last stages.  Early stages can be identified by changing features, but toward the end of development, the 
+		chick is only growing with no other morphological changes.  The late stages require identification by objective measurements. Stage 46 is the hatching of the 
+		chick.
+These stages have been highly cited and remain a standard in studies of 
+		chick development.  Previous studies were incomplete in late stages, or were not standard due to genetic and environmental differences between species and labs.  The morphological differences identified by 
+		Hamburger and 
+		Hamilton between each stage are an important delineation, as they standardized each stage across the literature.
+
+
+Sources
+Hamburger, Viktor. “The Journey of a Neuroembryologist.” Annual Review of Neuroscience 12 (1989): 1–12. 
+Hamburger, Viktor, and Howard L. Hamilton. “A Series of Normal Stages in the Development of the chick.” Journal of Morphology 88 (1951): 49–92.
+
+
+How to cite
+Navis, Adam R., ""A Series of Normal Stages in the Development of the Chick Embryo" (1951), by Viktor Hamburger and Howard L. Hamilton". Embryo Project Encyclopedia (2007-10-30). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/1710.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, March 18, 2015 - 16:41
+ Topic
+Subject
+Chick Embryo; Chickens--Embryos.; Experiment

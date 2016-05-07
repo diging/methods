@@ -1,0 +1,42 @@
+By Guido Caniglia
+Published: 2011-10-10
+Keywords: Turtles, Evolution, Morphology
+ Mechanistic Realization of the Turtle ShellTurtle morphology is unlike that of any other vertebrate. The uniqueness of the turtle's bodyplan is attributed to the manner in which the turtle's ribs are ensnared within its hard upper shell. The exact embryological and genetic mechanisms underpinning this peculiar anatomical structure are still a matter of debate, but biologists agree that detailing those mechanisms will help uncover the evolution of the turtle shell.
+The turtle shell is a bony casing composed of two parts: the 
+	carapace, the upper shell, and the plastron, the lower shell, linked together by several bony bridges. The upper shell is composed of a mosaic of flat bones, vertebrae, and ribs. The process of relocation of the ribs within the upper shell is pivotal to understanding the evolution of the turtle.
+Embryological, cellular, and genetic studies have investigated the main processes of the development of the carapace. The first developmental process involves the migration of the rib cells in the dermis and their ensnarement within the upper shell. The second developmental process is the ossification of the external armor of the carapace.
+The embryonic processes responsible for the relocation of the ribs within the dermal shield take place in the 
+	carapacial ridge (CR) . The CR is a bulge that appears along both sides of the embryo posterior to its limbs. The bulge is the first indication of shell development and is seen during stage 14 of normal turtle development. At stage 15, the embryonic turtle shell is easily recognizable. The CR is composed of two main layers of cells, the mesenchyme and the 
+	epithelium. The mesenchyme,
+	from which the turtles’ ribs form, is composed of loosely packed cells and is derived from the mesoderm, the middle of the three primary germ cell layers found in embryos. The epithelium is composed of sheets and tubes of connected cells. The two layers interact (epithelial-mesenchymal interactions)
+	 and induce the formation of new embryonic structures such as limbs.
+Ann C. Burke has identified epithelial-mesenchymal interactions within the CR as the mechanism that causes rib relocation. Burke has traced the movement of the rib cells as they enter the dermis of the shell and then grow laterally within the forming shell. The ribs become encased in a tube of bone, and small cellular structures extend from this bony casing. Once the ribs are in the shell dermis the ossification of the shell is initiated.
+Scott Gilbert and colleagues detailed the 
+	ossification of the dermal armor in their 2001 article 
+	"Morphogenesis of the Turtle Shell. The Development of a Novel Structure in Tetrapod Evolution". Gilbert's work shows that the ossification of the carapace is organized around each rib. The single ribs initiate dermal ossification by secreting paracrine factors—types of signaling molecules that communicate between the ribs and the costal bones of the carapace.
+Recent studies have also addressed the genetic mechanisms involved with the embryological development of the turtle shell. Shigehiro Karoku and colleagues in Japan have investigated genes expressed in the CR. Their study represents the first exhaustive survey about the genetic architecture of turtles and provides insight into the inductive role of the CR at a molecular level. Gilbert and co-workers have hypothesized that the carapace results from a mechanism of evolutionary 
+co-option. In this case, the turtle shell does not involve the creation of new genes, but the co-option of pre-existing genes, resulting in modification of the development of the turtles' ribs. The leading research trajectory of turtle development is now represented by the investigation of gene regulatory networks expressed in the CR and of the mechanisms of co-option from previous structures in pre-turtle vertebrates.
+
+Sources
+Burke, Ann C. "Development of the Turtle Carapace. Implications for the Evolution of a Novel Bauplan." Journal of Morphology 199 (1989): 363–78.
+Burke, Ann C. "The Development and Evolution of the Turtle Bodyplan. Inferring Intrinsic Aspects of the Evolutionary Process from Experimental Embryology." American Zoologist 31 (1991): 616–27.
+Gilbert, Scott F. Developmental Biology, 8th ed. Sunderland: Sinauer, 2006.
+Gilbert, Scott F., Grace A. Loredo, Alla Bruckman, and Ann C. Burke. "Morphogenesis of the Turtle Shell. The Development of a Novel Structure in Tetrapod Evolution." Evolution & Development 3 (2001): 47–58.
+Moustakas, Jacqueline E. "Development of the Carapacial Ridge. Implications for the Evolution of Genetic Networks in Turtle Shell Development." Evolution and Development 10 (2008): 29–36.
+
+
+How to cite
+Caniglia, Guido, "Mechanistic Realization of the Turtle Shell". Embryo Project Encyclopedia (2011-10-10). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/2320.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 25, 2013 - 15:53
+ Topic
+Subject
+  Concept

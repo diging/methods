@@ -1,0 +1,122 @@
+By Adam R. Navis
+Published: 2007-10-30
+Keywords: Mice, Nerve growth factor
+ Purification of a Nerve-Growth Promoting Protein from the Mouse Salivary Gland and its Neuro-Cytoxic Antiserum
+Stanley Cohen published “Purification of a Nerve-Growth Promoting Protein from the Mouse Salivary Gland and its Neuro-Cytoxic Antiserum” in the Proceedings of the National Academies of Sciences in 1960.  This paper outlined the successful purification and identification of 
+		NGF (NGF) as a protein, the developmental effects of depriving an embryo of 
+		NGF, and the discovery that 
+		NGF is also required for the maintenance of the nervous system.
+
+		Cohen built on previous work by 
+		Rita Levi-Montalcini, 
+		Viktor Hamburger, and himself.  High quantities of 
+		NGF were found in 
+		snake venom so it was hypothesized that the salivary glands of other animals may also contain 
+		NGF.  This led to the discovery of 
+		NGF activity in mammals.  This experiment marks the successful purification of 
+		NGF as a mammalian protein and identifies the effects of deprivation of 
+		NGF.
+Much of 
+		Cohen’s paper is concerned with the biochemistry related to the isolation of 
+		NGF.  
+		Cohen isolated 
+		NGF from the salivary glands of adult male Swiss 
+		mice.  The purified 
+		NGF was then assayed on the sensory ganglia from 8 and 9 day 
+		chick embryos in a 
+		hanging drop tissue culture.  In the process of isolation, 
+		Cohen made an observation that male 
+		mice have much more 
+		NGF than similar females.  This was an indication of possible multiple roles for 
+		NGF, although related experiments were decades away.
+
+		Cohen focused on determining the identity and properties of 
+		NGF in this paper.  Once the growth factor was isolated, he introduced pepsin and chemotrypsin.  These are enzymes which degrade proteins, destroying the activity of the protein.  Chemotrypsin destroyed ninety-five percent of the biological activity, and pepsin destroyed fifty percent of the 
+		NGF activity.  In the presence of these two enzymes, the 
+		NGF was inactivated providing strong evidence that the growth factor was a protein.
+Further evidence that 
+		NGF was a protein came from 
+		rabbit antibodies.  
+		Mouse 
+		NGF was injected into the footpads of two 
+		rabbits.  The immune response of these 
+		rabbits produced antibodies to 
+		mouse 
+		NGF.  The antibodies were delivered to 
+		chick embryos by injecting 
+		rabbit antiserum directly into the 
+		chick embryo.  Control experiments revealed no adverse effects from 
+		rabbit serum without antibodies to 
+		NGF.  The ganglia of the 
+		chick embryo subjected to the 
+		NGF antibodies were atrophied and much of the 
+		chick nervous system had been destroyed by a deprivation of 
+		NGF.
+The 
+		rabbit sympathetic ganglia had also been damaged upon injection of 
+		mouse 
+		NGF.  This indicated that the antibodies produced by the 
+		rabbit immune system against mouse 
+		NGF were also specific to 
+		rabbit 
+		NGF.  
+		Cohen made a new conclusion; 
+		NGF was required for the normal maintenance of sympathetic ganglia.  
+		Levi-Montalcini performed a more detailed investigation of these effects, and published the results in two papers in the same issue of the Proceedings of the National Academy of Sciences.
+
+		Mouse 
+		NGF was compared to the 
+		NGF from 
+		snake venom to determine the similarity between the growth factors.  An earlier 
+		Cohen paper determined the molecular weight of 
+		snake venom 
+		NGF to be much lower than the molecular weight of 
+		mouse salivary gland 
+		NGF identified in this paper.  The 
+		mouse salivary 
+		NGF had a ten times higher activity than the 
+		snake venom 
+		NGF, indicating that the 
+		mouse 
+		NGF was more similar to 
+		chick 
+		NGF than the 
+		snake 
+		NGF.  The 
+		snake 
+		NGF did not respond similarly to the 
+		rabbit antibodies, indicating differences in protein structure.  
+		Mouse and 
+		chick 
+		NGF were determined to be more similar to each other than the 
+		snake venom 
+		NGF.
+The purified 
+		NGF was found to be very effective in stimulating the growth of the nervous system in developing embryos.  
+		Cohen used quantitative chemical changes to identify stimulation of the ganglia.  He observed marked increases in DNA, RNA, and protein concentration in the ganglia tissue.  This indicated an increase in the growth functions of the cells.  Injections of 
+		mouse salivary gland extract showed an increase in many developmental milestones: the eyes opened early, the teeth erupted early, and hair growth was stunted. This study identified many important properties of 
+		NGF.  
+		Cohen showed that 		
+		NGF was required for 
+		neural development and maintenance of the nervous system and characterized 
+		NGF as a protein.
+
+Sources
+Cohen, Stanley. “Purification of a Nerve-Growth Promoting Protein from the Mouse Salivary Gland and its Neuro-Cytotoxic Antiserum.” Proceedings of the National Academy of Sciences 46 (1960): 302–11.
+
+
+How to cite
+Navis, Adam R., ""Purification of a Nerve-Growth Promoting Protein from the Mouse Salivary Gland and its Neuro-Cytoxic Antiserum" (1960), by Stanley Cohen". Embryo Project Encyclopedia (2007-10-30). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/1713.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, March 18, 2015 - 16:37
+ Topic
+Subject
+Nerve Growth Factor; Cohen, Stanley, 1937-; Experiment

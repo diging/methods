@@ -1,0 +1,81 @@
+By Mark A. Ulett
+Published: 2011-01-31
+Keywords: Heredity
+ The Interpretation of Development and Heredity, by Edward Stuart RussellFirst published in 1930 and reprinted in 1972, 
+		Edward Stuart Russell’s The Interpretation of Development and Heredity is a work of philosophical and theoretical biology. In this book Russell outlines a methodological and philosophical program aimed at reorienting the biological understanding of development and heredity. He argues that the 
+		mechanistic perspective on development and heredity ignores aspects of biological phenomena that can only be analyzed if biologists view organisms as whole entities, rather than breaking down developmental and hereditary processes into small causal units. This book is representative of Russell’s broad philosophical approach to biology, called 
+		“organicism”. 
+Broadly speaking, Interpretation has a tripartite structure. Russell begins with an historical analysis of previous theories of development and heredity.  Two philosophical chapters arguing for Russell’s theory of organicism follow this history.  The final third of this book addresses the potential applicability of organicism to the life sciences.   As such, this work provides historians with a mid-twentieth-century critical commentary on the fields of heredity and development.
+As with several of Russell’s other books, Interpretation begins with an historical treatment of the subject at hand. Beginning with 
+		Aristotle’s refutation of Heraclitus and Democritus’s theories of generation in 
+		Generation of Animals, Russell outlines the ancient theory of 
+		epigenesis, or differentiating development from a single source of growth.  It was theorized early on that development progresses from the general to the specific, a theory adopted and articulated nearly two millennia later by 
+		Karl Ernst von Baer. Throughout Interpretation, the epigenetic perspective is explicitly contrasted with 
+		preformationism, or the theory that development proceeds from a pre-formed embryo. The historical chapters detail 
+		August Weismann’s 
+		germ-plasm theory, gene theories, and the nineteenth and twentieth centuries’ epigenetic theories. Russell also addresses 
+		Wilhelm Roux’s mechanistic theories of 
+		experimental embryology and the Mnemetic theories—development as a type of memory passed down from an organism’s ancestors—advocated by Ewald Hering and Samuel Butler.  
+Russell argues that there are only a few ways to understand development, and that they recur in slightly different forms through history. To illustrate this, at the beginning of the philosophical chapter of Interpretation, Russell organizes the important historical figures of the previous eight chapters into groups. The primary division of these groups occurs between “unity theories” and “particulate theories” of development. The former focus on the development of the organism as a whole, whereas the latter address the components of development independently. Furthermore, Russell subdivides these two groups into investigators whose philosophical focus is placed squarely on the organism as opposed to those who focus on the mechanistic or physico-chemical approach. They are outlined as follows:
+Unity Theories
+Particulate Theories
+A. Organismal
+ 
+Aristotle
+Hippocrates, Democritus
+Caspar F. Wolff
+ 
+Karl Ernst von Baer
+Charles Bonnet
+Samuel Butler
+Richard Semon
+Edwin Grant Conklin
+ 
+B. Physico-Chemical
+ 
+Yves Delage
+August Weismann
+Max Verworn
+Thomas H. Morgan
+Jacques Loeb
+ 
+Charles Manning Child
+ 
+This organization of the historical material from previous chapters prepares the reader for Russell’s philosophical treatment of these perspectives on development.
+Russell’s philosophical analysis of why the organismic interpretation of biology is better than the  reductionistic one begins in the ninth chapter of Interpretation. Here he analyzes the primary difference between the unity and particulate theories using the concept of “abstraction,” or what might also be called heuristics. This analysis builds on the idea that investigators must abstract the entities they study in specific ways in order to develop theories; the character of the subsequent theories will depend greatly on the mode of abstraction used in formulation. Thus, on one side, unity theories of development tend to abstract away from the functional component of the organism, resulting in what tends to be purely a morphological interpretation. Russell elucidates this problem with several lengthy quotations from 
+		D’Arcy W. Thompson’s 
+On Growth and Form. According to Russell, the solution for the unity theory perspective is to incorporate functional analysis with a focus on organism. Contrary to this position, Russell argues that the mode of abstraction used for the particulate theories (especially the mechanistic ones) allows for the generation of an incredible amount of useful evidence and knowledge about development and heredity, but it also incorporates a major problem for biology. In breaking down the organism into component parts for individual study, particulate theories ignore the fact that the organism is more than the mere sum of its parts. Russell notes that his position follows the wider philosophical approach of the British philosopher Alfred North Whitehead, who argues that the organism is central to the philosophy of nature.  This argument is the foundation for both Russell’s criticism of the mechanistic perspective of biological study, as well as his attack against gene theories of inheritance.  
+Russell goes on to argue that “genes” are theoretical constructs for the explanation of traits, not objective facts about nature.  He presents an attack against the exclusive use of genes as concrete entities in order to explain heredity. In the 1920s and 1930s biologists recognized the utility of genes as units of trait expression, but there were still concerns regarding whether or not they existed, suggested by geneticists like Thomas H. Morgan. Russell asserts that gene theories are little more than the logical extension of a materialistic and reductionistic philosophy on the causes of morphological and physiological traits. For Russell, the big problem is that genetic theories do not account for the development of the organism; they focus solely on the physical appearance of an already developed organism. Importantly, Russell retains the largely nineteenth century perspective that heredity is an aspect of development, and thus fundamentally inseparable from it. As such, the study of heredity is a part of embryological and developmental analysis.  
+Russell argues two main points in the central philosophical chapters.  First, the logical conclusion from the underlying problems with the mechanistic perspective is that biology should reorient itself to be the study of living organisms. Second, organisms are the common ground for mechanical and theoretical aspects of biological investigation. As such, Interpretation reinforces Russell’s organismal position, first advocated in his 1924 book 
+The Study of Living Things and which he finally applies to evolutionary phenomena in 
+The Diversity of Animals: an Evolutionary Study (1962).  It is also important to note that although Russell does not advocate 
+		vitalism—whereby life is infused with a “living force” of some sort—he does align himself with the 
+		holistic approaches of William Emerson Ritter and Claude Gordon Douglas.  
+Even though Russell criticizes investigators who focus almost exclusively on mechanistic biology, such as Roux, his organismal biology approach requires incorporation of the unitary and particulate theories. From a philosophical perspective Interpretation culminates in two methodological, analytical, and metaphysically driven principles. First, the activity of the entire organism cannot be fully explained in terms of the interaction or activity of the parts. Second, the function or activity of the parts cannot be understood except in relation to the activities of the whole. The overall conclusion of this work, then, is that the mechanistic approach to biological problems must be integrated with a holistic program that focuses on the organism as a the unit of biological analysis. It is only from an integrated, organismal perspective, Russell argues, that the problems of development can be solved.  
+Historically speaking, biologists and philosophers of biology paid little attention to Interpretation despite favorable reviews shortly after publication in both Nature and The American Journal of Sociology. The possible reasons for this neglect are numerous, though historian of biology Nils Roll-Hansen argues that this is likely because mechanistic biology continued to thrive throughout the central decades of the twentieth century despite contests from Russell, 
+		Joseph Woodger, and others. Recently, Russell’s Interpretation has received attention from philosopher of biology 
+		Jason Scott Robert as an element of the philosophical foundation of modern epigenetic and developmental research. Certainly Interpretation is a valuable source for understanding the historical context of mid-twentieth-century critical analysis of mechanistic biology and arguments for the organismal perspective in biology.
+
+Sources
+Gray, J. “ ‘Organismal’ Conception of Development,” Nature 127 (1931): 920–21. 
+Park, Robert E. “The Interpretation of Development and Heredity: A Study in Biological Method. by E. S. Russell,” The American Journal of Sociology 37(1932): 796–801. 
+Robert, Jason Scott. Embryology, Epigenesis, and Evolution: Taking Development Seriously. Cambridge: Cambridge University Press, 2004.
+Russell, Edward Stuart. The Interpretation of Development and Heredity. Oxford: Clarendon, 1930.
+Russell, Edward Stuart. The Study of Living Things. London: Methuen, 1924.
+
+
+How to cite
+Ulett, Mark A., "The Interpretation of Development and Heredity (1930), by Edward Stuart Russell". Embryo Project Encyclopedia (2011-01-31). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/2021.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Thursday, April 9, 2015 - 21:06
+ Topic
+Subject
+Heredity; Russell, E. S. (Edward Stuart), 1887-1954; Literature

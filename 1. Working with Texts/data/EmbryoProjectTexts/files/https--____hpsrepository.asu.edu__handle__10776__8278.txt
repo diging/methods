@@ -1,0 +1,55 @@
+By Federica Turriziani Colonna
+Published: 2014-12-30
+Keywords:     
+   Paul Kammerer's Experiments on Salamanders (1903-1912)In the early twentieth century, Paul Kammerer conducted a series of experiments to demonstrate that organisms could transmit characteristics acquired in their lifetimes to their offspring. In his 1809 publication, zoologist Jean-Baptiste Lamarck had hypothesized that living beings can inherit features their parents or ancestors acquired throughout life. By breeding salamanders, as well as frogs and other organisms, Kammerer tested Lamarck's hypothesis in an attempt to provide evidence for Lamarck's theory of the inheritance of acquired characteristics. In particular, Kammerer argued that the inheritance of acquired characteristics caused species to evolve, and he claimed that his results provided an explanation for evolutionary processes through developmental phenomena.
+
+Between 1903 and 1907, Kammerer conducted series of experiments on fire salamanders (Salamandra maculosa) and alpine salamanders (Salamandra atra). Kammerer worked at the Vivarium, a research institute located in Vienna, Austria, under the supervision of Hans Przibram, the director and founder of the Vivarium. The Vivarium housed the Institute of Experimental Biology and was equipped with heating and cooling systems to control the laboratories' temperatures.  With these tools, researchers could experiment on organisms that required particular environmental conditions, and they could manipulate those environmental conditions. 
+
+Kammerer's first series of experiments focused on the reproductive habits of fire salamanders. The fire salamander is black with yellow spots and inhabits humid woods in Europe. Female fire salamanders typically bear about fifty young that live in the water and that do not resemble the adult form during the first few months. The offspring are tadpoles, and they have gills for respiration and finned tails for swimming. For the experiment, Kammerer prevented pregnant females from accessing water to bear their young. The offspring from those first pregnancies perished when born in a dry environment. Kammerer repeated the experiment with the same females.  After the fourth pregnancy, some of the female salamanders began producing viable offspring. Kammerer observed that the salamander gave birth to more completely developed larvae that breathed through lungs instead of gills, and that already had legs for walking on land. The offspring had reached this developmental stage while still within the egg, eliminating the tadpole phase. As a consequence, the mothers could not deliver more than five or six eggs per pregnancy, due to the increased birth-size of the young. The remaining undeveloped eggs served as nourishment for the developing embryos.  
+
+Over several generations, Kammerer observed new salamanders that also produced young at a later stage that were viable in a dry environment. He exposed new generations of pregnant salamanders to an aquatic environment to determine whether they would bear young as their ancestors had or whether they had inherited the capacity to bear fully developed young. Kammerer observed that, in sufficient water, the females would still bear a reduced number of completely developed young.  Kammerer claimed that his results demonstrated that the acquired characteristic had been inherited.
+
+Kammerer claimed that his results demonstrated Lamarck's theory of the inheritance of acquired characteristics. Kammerer also claimed that his results described the mechanics of evolution and provided an example of speciation. In particular, Kammerer inferred that the alpine salamander (S. atra), a black salamander living in a dry environment on the Alps in Europe, had likely evolved from the fire salamander (S. maculosa). Kammerer published the results of those experiments in 1907 and in the English translation of his 1924 book The Inheritance of Acquired Characteristics.
+
+The second series of experiments Kammerer conducted on salamanders focused on color.  He worked to demonstrate that the color and markings on salamanders could change as an adaptation to the color of the ground. Kammerer again used the black and yellow fire salamander and deemed the starting generation to have var. typica, Latin for typical variety of physical characteristics. Kammerer bred the salamanders on a black soil and kept offspring in the same environment. He observed that the offspring showed smaller than normal yellow spots on the skin, which continued to diminish with development. Kammerer bred other salamanders on yellow soil and the offspring developed in the yellow soil environment.  He observed that the offspring showed an increased number of yellow spots, and with subsequent generations, those yellow spots merged in the shape of a band, or stripe, on the back of the animal. Kammerer called the offspring var. taeniata, which in Latin means striped variety. Kammerer claimed that typical salamanders (S. maculosa var. typica) had evolved into a new race with yellow bands (S. maculosa var. taeniata). 
+
+Kammerer attempted to provide evidence for the inheritance of acquired characteristics with his experiments. Many criticized the way Kammerer interpreted his results. The pictures of Kammerer's fire salamander specimens likely had to be retouched for publication, a move that fueled rumors that the coloration on the original specimen was altered. Rumors circulated that Kammerer's reports were not reliable.  Speculation over the validity of Kammerer's results became more pronounced when others questioned Kamerer's 1909 research on the midwife toad's inheritance of a characteristic to help with reproduction. As Kammerer's supply of midwife toad specimens later proved to be altered, scientists questioned all of Kammerer's results.
+
+Through the experiments on the fire salamander conducted at the Vivarium, Kammerer claimed that organisms could adapt to their environments in their lifetimes, and eventually transmit their acquired characteristics to their offspring. According to Kammerer, the inheritance of the acquired characteristics constituted the mechanics of evolution. Kammerer argued that evolution can occur in nature in the same way as it happens in the laboratory. Kammerer published his final results fromt he coloration experiments in two articles, in 1909 and in 1912, and in his 1924 book The Inheritance of Acquired Characteristics.
+
+
+Sources
+Darwin, Charles. On the Origin of Species by Means of Natural Selection. London: John Murray, 1859. http://dx.doi.org/10.5962/bhl.title.68064 (Accessed November 18, 2014).   
+		
+		
+Gliboff, Sander. "'Protoplasmà is soft wax in our hands:' Paul Kammerer and the art of biological transformation." Endeavour 29 (2005): 162–7.
+
+
+Kammerer, Paul. "Die Nachkommen der spaetgeborenen Salamandra maculosa und der fruehgeborenen Salamandra atra." [The Descendants of the late-delivering Salamandra maculosa and the pre-term Salamandra atra]. Archiv für Entwicklungsmechanik [Archive for Developmental Mechanics] 25 (1907): 7–51. http://babel.hathitrust.org/cgi/pt?id=hvd.32044102905189;view=1up;seq=23 (Accessed December 5, 2014).
+
+Kammerer, Paul. "Vererbung erzwungener Farb- und Fortpflanzungsveränderungen bei Amphibien." [Forced Inheritance of the Color and Reproductive Changes in Amphibians].
+Verhandlungen der Gesellschaft deutscher Naturforscher und Ärzte [Proceedings of the German Naturalists and Physicians] 81 (1910): 173–176. http://hdl.handle.net/2027/uc1.$b522144?urlappend=%3Bseq=409 (Accessed December 26, 2014).
+
+Kammerer, Paul. "Direkt induzierte Farbanpassungen und deren Vererbung." [Directly Induced Color Adjustments and their Inheritance] Zeitschrift für indiktive Abstammungs- und Vererbungslehre [Journal for Empirical Pedigrees and Heredity] 4 (1912): 263–71. https://archive.org/stream/zeitschriftfri04berl#page/278/mode/2up (Accessed November 23, 2014). 
+Kammerer, Paul. The Inheritance of Acquired Characteristics. New York: Boni and Liveright, 1924. http://books.google.com/books?id=RPeuL6SJLdsC&dq=Inheritance%20of%20acquired%20characteristics&pg=PP1#v=onepage&q&f=false (Accessed November 15, 2014).
+
+Koestler, Arthur. The Case of the Midwife Toad. New York: Random House Inc, 1972.
+Lamarck, Jean Baptiste. Philosophie Zoologique. [Zoological Philosophy]. Paris: Duminil-Lesueur, 1809. http://www.archive.org/details/Lamarck2001aj56E  (Accessed November 16, 2014). 
+
+
+
+How to cite
+Turriziani Colonna, Federica, "Paul Kammerer's Experiments on Salamanders (1903-1912)". Embryo Project Encyclopedia (2014-12-30). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/8278.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+Copyright Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, December 31, 2014 - 01:20
+ Topic
+Subject
+ Kammerer, Paul, 1880-1926; Salamandra; Salamander; Laboratory animals--Breeding--Experiments; Kammerer, Paul, 1880-1926. Streitfrage der Vererbung erworbener Eigenschaften. English; Lamarck, Jean Baptiste Pierre Antoine de Monet de, 1744-1829. Philosophie zoologique. English; Heredity; adaptation; Evolutionary developmental biology; Evolution (Biology); Inheritance of acquired characters; Experiment

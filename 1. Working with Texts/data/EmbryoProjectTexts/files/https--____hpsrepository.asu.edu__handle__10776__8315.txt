@@ -1,0 +1,65 @@
+By Joe Brinkman
+Published: 2015-04-13
+Keywords: Homeobox genes, Regeneration, Hox Genes
+ "Digit Regeneration Is Regulated by Msx1 and BMP4 in Fetal Mice" (2003), by Manjong Han et al.
+		In the early 2000s, Manjong Han, Xiaodang Yang, Jennifer Farrington, and Ken Muneoka investigated how genes and proteins in fetal mice (Mus musculus) influenced those fetal mice to regenerate severed toes at Tulane University in New Orleans, Louisiana. The group used hind limbs from mice to show how the gene Msx1 (Homeobox 7) functions in regenerating amputated digits. The researchers showed that in the process of regenerating digit tips, Msx1 genes make products that regulate or influence other genes, such as the Bone Morphogenetic Protein 4 gene (BMP4 gene), to produce proteins, such as the BMP4 proteins. The researchers also showed that BMP4  proteins, which are produced from the BMP4 gene, function in tissues during the process of limb development. Furthermore, while Msx1 genes regulate other genes during the process of regeneration, they don't produce proteins otherwise needed to organize cells in the regeneration of digit tissues. The group published their results in 2003 as "Digit Regeneration Is Regulated by Msx1 and BMP4 in Fetal Mice."
+		
+
+Muneoka, the principal investigator, was a professor at Tulane University. Muneoka aimed to help people with injuries to regenerate tissues instead of forming scar tissues. Muneoka used mice as model organisms in his research experiments. In his research, he manipulated the development of limbs and digits in embryonic mice to learn how cells influenced each other in those embryonic mice. 
+
+
+Muneoka and his research team often amputated the tips of digits in mice. When scientists remove the nail organ from mice, the mice fail to regenerate the digit tips. However, when scientists graft nail organs on amputated digits, the digits and nails regenerate. Muneoka and colleagues suggested that Msx genes causally influenced this phenomenon in a 1995 study, in which they demonstrated that Msx genes make products (was expressed) in the cells of the nail-forming region of developing digits. They further showed that Msx1 and Msx2 are present in digit tip regeneration, but not during wound healing, when no regeneration occurs. They concluded that for digit tips to regenerate, Msx genes and products were essential, yet the researchers couldn't say why the genes and products were essential.  
+
+
+By 2003, Muneoka and fellow researchers Han, Yang, and Ferrington, set out to further research the genetic pathway of fetal digit regeneration in mice. They stained embryonic tissues of digits in mice during processes of digit regeneration. Doing so enabled them to identify which genes made products in the tissues during the regeneration process.  They did both in vivo and in vitro trials. With the in vivo approach, the researchers operated on anesthetized pregnant mice to expose the hind limbs of their fetuses and amputate the three central digits. After researchers surgically closed the female mouse, they allowed fetal hind limbs to develop for two to four days before they euthanized the mouse. The researchers then recovered the fetal mice for analysis. 
+
+
+As the researchers expected, fetal mice with genes normally found in nature demonstrated a healing response and then began to regenerate their digit tips. Although the regenerated digits were slightly shorter than non-amputated control digits, they otherwise looked normal. The researchers found that the Msx1 gene was expressed between the nail organ and finger bone. They also noted that Msx2, a gene in the same homeobox domain as the Msx1 gene, was restricted to the outer layer of tissue associated with the nail organ, where there was little BMP4 proteins. 
+
+
+For the in vitro strategy, the researchers took hind limbs from euthanized mice fetuses, trimmed them at the ankle, and then culturing the cells from that tissue in media. The results from the in vitro regeneration of normal digits were similar to that of the in vivo trials. In both cases, Muneoka and his team found that Msx2 gene is expressed solely in the outer tissue, and that both Msx1 and BMP4 genes are expressed in the regenerative region. The researchers found a strongly positive correlation between the expression of genes Msx1, Msx2, Bmp4, and digit regeneration. 
+
+
+The researchers then aimed to see how mice with mutant (non-functional) Msx1 and Msx2 genes regenerated digit tips. They created mutants by breeding heterozygote mice, mice with both a normal and a mutant allele, to have offspring that had non-functional Msx1 or Msx2 genes.  Next the scientists compared the mice to normal and to heterozygote mice to test the hypothesis that Msx genes function in processes of regeneration. The scientists tested normal, heterozygote, and mutant digits with the aforementioned in vivo and in vitro techniques. The mice with non-functional Msx2 genes regenerated digit tips normally. That result showed that the Msx2 gene does not function in regeneration because mice without the gene displayed normal regeneration. Mice with Msx1 gene mutants, however, regenerated at a frequency much lower than both heterozygote and normal mice. 
+
+
+Among normal mice, ninety-one percent regenerated their digit tips, but among mice with non-functional Msx1 genes, only twenty-eight and thirty-seven percent regenerated digits in the in vitro and in vivo trials, respectively. The researchers then analyzed the proteins produced by the genes in mice with mutant genes. They detected no Msx2 proteins or BMP4 proteins in non-regenerating digits. Conversely, in those mice with Msx1 gene mutants but that did regenerate digit tips successfully, scientists detected products made from Msx2 and BMP4 genes. The results indicated a correlation between Msx2 and BMP4 proteins in regeneration, suggesting that they causally influence regeneration. The results also indicated that Msx1 protein itself does not function in regeneration, as the tips developed normally in its absence. 
+
+The group next investigated the interaction between Msx1 and Msx2 genes. They hypothesized that the genes had similar functions in the process of regeneration because their protein products have comparable biochemical properties. To test whether the genes had similar functions, Muneoka and his colleagues analyzed the protein products made from Msx2 genes in digits from mice with the normal gene and from mice with the Msx1 mutant or nonfunctional gene. This experiment showed that for mice without functional Msx1 genes, the Msx2 gene produced more proteins than did those same genes in mice with functional Msx1 genes. The researchers concluded that the Msx2 proteins compensating for the lack of Msx1 proteins in the mutant digits, indicating that Msx1 proteins can restrict Msx2 gene expression in normal digits. The researchers inferred that Msx1 and Msx2 genes function in a partially redundant manner, serving overlapping functions to one another during processes of regeneration.
+	
+
+	The group then studied how BMP4 proteins functioned during digit regeneration in mice with mutated Msx1 genes. They found that, if BMP4 genes made proteins in the digits, then the proteins could reverse the defects associated with having mutated Msx1 genes. That is, mice with mutated Msx1 genes could regenerate digit tips normally when BMP4 genes were expressed in the digits. The researchers claimed that, although Msx1 proteins influence the BMP4 gene to produce BMP4 protein in cells, the BMP4 protein doesn't need Msx1 protein to function in regenerating tissues like digits.  Researchers also suggested that the sole function of Msx1 protein is to regulate or influence the expression of the BMP4 genes.
+The group then inhibited the BMP4 genes from producing proteins in mice with normal Msx1 genes and those with mutated Msx1 gene. They found that, when the scientists inhibited BMP4 genes, only nine percent of mice with mutated Msx1 gene regenerated their digit tips, and the number of mice with normal Msx1 genes that regenerated their tips plummeted. The data provided the group with evidence that BMP4 protein acts as the primary signaling factor for fetal digit tip regeneration, regardless of Msx1 gene expression. Although their preliminary work suggested that Msx genes are responsible for a regenerative response, the group's data in their investigation indicated that BMP4 protein is the sole regulator of digit tip regeneration.  
+
+
+
+Sources
+Angela Reginelli, Yao-Qi Wang, David Sassoon, and Ken Muneoka. "Digit tip regeneration 	correlates with regions of Msx1 (Hox 7) expression in fetal and newborn mice." Development 121 (1995): 1065–76. http://dev.biologists.org/content/121/4/1065.full.pdf+html (Accessed June 13, 2014).
+
+
+Bayascas, Jose Ramon, E. Castillo, A.M. Munoz-Marmol, and E. Salo. "Planarian Hox genes: 	novel patterns of expression during regeneration." Development 124 (1997): 141–148. http://dev.biologists.org/content/124/1/141.full.pdf+html (Accessed June 13, 2014).
+
+
+Han, Manjong, Xiaodang Yang, Jennifer E. Farrington, and Ken Muneoka. "Digit regeneration is regulated by Msx1 and BMP4 in fetal mice." Development 130 (2003): 5123–5132. http://dev.biologists.org/content/130/21/5123.full.pdf+html (Accessed June 13, 2014).
+
+
+Tulane University. Office of Research. "Muneoka Leads Limb Regeneration Research." http://tulane.edu/research/discovery/story-limb-regeneration.cfm (Accessed February 14, 2014).
+
+
+
+
+How to cite
+Brinkman, Joe, "Digit Regeneration Is Regulated by Msx1 and BMP4 in Fetal Mice (2003), by Manjong Han et al.". Embryo Project Encyclopedia (2015-04-13). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/8315.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+Copyright Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Monday, April 13, 2015 - 22:21
+ Topic
+Subject
+Regeneration; Msx1 protein, mouse; Bmp4 protein, mouse; Msx2 protein, mouse; Regeneration (Biology); mice; Tulane University; Regeneration; Homeobox genes; Bone morphogenetic proteins; Experiment

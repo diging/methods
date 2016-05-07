@@ -1,0 +1,42 @@
+By Karen Wellner
+Published: 2010-06-15
+Keywords: Models, Anatomy
+ Ziegler Wax Embryo ModelsThree-dimensional anatomical models have long been essential to the learning of science and lend a sense of “control” to those practicing in the field. As the development of embryology grew in importance during the late 1800s, so did the need for models to show intricate details of embryos. Embryologists such as 
+		Wilhelm His, 
+		Ernst Haeckel, and 
+		Oscar Hertwig all initially constructed their own wax models of embryos but later handed over the modification and reproduction of their models to various “plastic artists.” The most renowned among these artists was 
+		Adolf Ziegler.
+Wax models are considered concrete representations: that is, three-dimensional models that can be manipulated and interpreted with more ease than traditional pictorial representations. Because embryos are so small, models of embryos had to be scaled up in order to be useful. The technique of scaling up a two-dimensional drawing to a three-dimensional model was not easy. It required a great deal of patience, a firm grasp of complicated spatial detailing, and artistic precision. Such fine details gave late nineteenth century embryo models the potential to highlight complex structures and allowed for comparisons between species to be made, along with a visual demonstration of the progression of a single specie’s development. With these characteristics, models helped the individual embryologist with his research and teaching while making the emerging field of embryology itself more tangible.
+In his studio in Freiburg, Germany, Ziegler employed a small number of technicians who were responsible for putting the finishing touches on his models. The original models were made by Ziegler, usually based on the drawings of embryologists who hired him to make their illustrations “come to life.” These models were first molded freehand from wax or clay. Ziegler used calipers to check for correct dimensions and spatulas and spoons to add or remove wax. Wax reproductions of Ziegler’s original models required plaster molds capable of retaining the models great detail.  In some cases, a wax model was made from several molds that were later hinged together. If cross-sections were to be revealed, each hinged piece was impregnated with iron rods. The rods could be grasped and pulled, thus moving sections in and out of the whole model, allowing the user to see the embryo’s interior structures.
+The wax used for the models was heated and poured into a mold that had been quickly dunked into cold water and allowed to drain. The now “cold mold” prevented the hot wax from sticking to the inside of the mold. If the wax was too hot, it would take too long to solidify and slowly distort upon contraction. If too cold, the wax would solidify before it could take on the many small details on the inside of the mold. After the wax was poured and hardened, the mold was opened and the raw model was smoothed and painted. Ziegler’s models were most often attached to a wooden stand with a base large enough for a nameplate to be affixed. The nameplate identified the species and the embryologist from whom the drawings had been used to make the model. For example, Ziegler’s best- selling series of human embryos were modeled after the drawings and models of His, and the nameplate on each embryo base was accordingly engraved with nach His.
+The Zieglers were not without competition. During the 1870s, 
+		Gustav Born, an assistant in the Anatomical Institute at Breslau, developed a method of mechanizing the model-building process. Utilizing a 
+		microtome devised by His, Born studied the development of nasal skeletons of 
+		frog and newt embryos. He traced his microtome-sliced sections on one-mm thick wax plates, cut away the excess wax, and stacked the wax cutouts on top of each other. His himself had earlier built similar sectional models from leather and lead, but was hampered by the obvious limitations of his materials.
+Born’s sectioning technique made the model-building process more mechanical than the freehand modeling used by Ziegler: unskilled technicians could trace, cut, and stack up to fifty plates per hour. Born described his 
+		stacked plate method in Zeitschrift für Wissenschaftliche Mikroscopie (Magazine for Scientific Microscopy). First, the embryos were sectioned with a microtome and the sections affixed to glass slides with balsam. These microscopic views of the sections were projected on a board and the projected sections were traced on paper. When completed, the tracings were soaked in turpentine. The turpentine-impregnated drawings were then carefully laid flat on wax and rolled with a rolling pin. This process affixed the drawing as an imprint on the wax. The imprints were cut out, trimmed, and aligned using guideplanes. Before stacking the sections, thin wax bridges were placed between the plates to separate them from each other. After checking that the plates were properly aligned, the bridges and guideplanes were removed. The edges of the model could then be smoothed and the entire model was painted with oil paint.
+By 1883, Born’s plate method had become standard procedure for many model makers.  And while Born’s method was quicker, easier, cheaper, and more objective, many embryologists maintained their allegiance to Ziegler’s method of freehand modeling. Eventually, as embryologists shifted their embryo work from descriptive to experimental procedures, the demand for Ziegler’s wax models declined. By 1936 the Ziegler model shop had closed its doors, but not before supplying embryo models to many European and American universities.
+
+Sources
+Chadarevian, Soraya de, and Nick Hopwood. Models: The Third Dimension of Science. Stanford: Stanford University Press, 2004.
+Hackethal, Sabine. “The Blaschka Models of the Humboldt University of Berlin and their Historical Context,” Historical Biology 20 (2008): 19–28.
+Hopwood, Nick. Embryos in Wax: Models from the Ziegler Studio. Cambridge and Bern: Whipple Museum of the History of Science, Univ. of Cambridge, and Institute of the History of Medicine, Univ. of Bern, 2002.
+Hopwood, Nick. “‘Giving Body’ to Embryos. Modeling, Mechanism, and the Microtome in Late Nineteenth-Century Anatomy,” Isis 90 (1999): 462–96.
+Hopwood, Nick. “Pictures of Evolution and Charges of Fraud: Ernst Haeckel’s Embryological Illustrations,” Isis 97 (2006): 260–301.
+
+
+How to cite
+Wellner, Karen, "Ziegler Wax Embryo Models". Embryo Project Encyclopedia (2010-06-15). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/1993.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 25, 2013 - 15:53
+ Topic
+Subject
+ Ziegler, Adolf, b. 1820; Technology

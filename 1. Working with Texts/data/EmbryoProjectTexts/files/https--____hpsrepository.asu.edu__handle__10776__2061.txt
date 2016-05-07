@@ -1,0 +1,46 @@
+By Tristan Cooper-Roth
+Published: 2010-09-12
+Keywords: Human development, Fetus
+ The Effects of Thalidomide on Embryonic Development
+		Embryogenesis is an intricate process that can easily be disrupted by means of 
+		teratogenic agents. Some of these agents target the embryonic period’s “window of susceptibility,” three to eight weeks after a pregnant woman’s last menstruation, when the highest degree of sensitivity to embryonic cell differentiation and organ formation occurs. The embryonic period or critical period is when most organ systems form, whereas the fetal period, week eight to birth, involves the growth and modeling of the organ systems. During the window of susceptibility, teratogens such as thalidomide can severely damage critical milestones of embryonic development.
+Thalidomide was first produced in mass quantities by the German pharmaceutical company 
+		Chemie Grünenthal in October 1957. It was advertised under the name Contergan as a non-addictive, completely safe drug that could be prescribed to women during pregnancy as a mild sedative or remedy for morning sickness. But as time progressed and the drug’s popularity rose, public safety concerns began to arise as well. The first clue that something might be wrong came in 1961, when two physicians, working independently, noticed a high occurrence of serious birth defects in children born to women who had taken the drug. German pediatrician 
+		Widukind Lenz and Australian gynecologist and obstetrician 
+		William McBride reported their findings to, respectively, Chemie Grünenthal and the Australian pharmaceutical company Distillers Ltd. Among McBride’s patients, an infant had a one in five chance of acquiring a mesenchymal deformity if the mother had taken thalidomide. One of the most prominently observed deformities was 
+		phocomelia, a severe shortening or lack of limb structures. Other deformities, such as malformation or absence of the thumbs or ears as well as dislocation of the hip, heart defects, and malformed intestines, were also observed. In light of the factual evidence presented by Lenz and McBride, Chemie Grünenthal and Distillers Ltd. both halted their sales of thalidomide in the later months of 1961. 
+Although most cases of thalidomide-induced birth defects were seen in Germany (due to its rather easy acquisition by over-the-counter sales), babies in forty-six other countries, including the US, were affected. In 1962, Lenz reported that worldwide, more than 7,000 affected infants were born to women who took thalidomide, and that ingestion of even one tablet was sufficient to produce a child with deformities of all four limbs. Fifty years later, the resonating effects of the medical epidemic are still seen in the now-adult victims born during the time in which the drug was considered safe. 
+The mechanisms behind birth defects induced by thalidomide involve its teratogenic ability to bypass an intrinsically important embryonic defense system that is responsible for preventing toxic substances from entering embryonic cells as well as escorting tagged toxicants out of the cell. These crucial homeostatic cellular functions are carried out by efflux transporters found in the cytoplasmic membrane. Efflux transporters are members of the ATP-binding cassette (ABC) protein family, which use primary active transportation by means of ATP hydrolysis to provide energy for the translocation of toxic compounds out of the cell. Although the transport system is usually quite effective, it is entirely dependent upon these proteins to recognize and interact with the introduced chemical. Thalidomide is not, however, recognized by the transporters and therefore binding does not occur, allowing the chemical to remain within the cell.
+Once thalidomide evades the efflux transportation system, it is capable of inducing oxidative stress to reactive oxygen species (ROS) dependent signaling pathways in the apical ectodermal ridge (AER), responsible for limb bud growth, as well as in the zone of polarizing activity (ZPA), responsible for the establishment of the anterior-posterior axis in the limb bud. 
+The mechanisms of thalidomide’s teratogenicity were identified through an experiment conducted by 
+		Jürgen Knobloch and 
+		Ulrich Rüther in 2007 on human skin cells and 
+		chick embryos. The experiment focused on two proteins responsible for cell division and differentiation of neighboring cells: bone morphogenetic protein (BMP) and Wnt protein. BMPs are responsible during embryonic development for inducing 
+		apoptosis, which is essential for spatial patterning and occurs when expression of a pro-apoptotic factor called Dickkopf1 (Dkk1) is promoted. In contrast to the BMP pathway, the Wnt/β-catenin pathway protects cells from apoptosis by blocking the apoptotic pathway.  Knobloch and Rüther showed that, in chick embryos, thalidomide-induced oxidative stress causes a temporally and spatially limited upregulation of the BMP signaling pathway, resulting in hyperexpression of the BMP target gene Dkk1. Dkk1 acts as a Wnt antagonist causing the Wnt/β-catenin signaling pathway to become downregulated. From this downregulation, the promotion of apoptosis is observed in the AER as well as the ZPA, which results in limb truncation.
+In recent years it has been discovered that non-pregnant individuals can benefit from the drug. One medical application of thalidomide involves its ability to assist in the treatment of multiple myeloma, and it was approved for this use by the US 
+		Food and Drug Administration in 2006. It is believed that thalidomide prevents the growth of tumors by inhibiting 
+		angiogenesis. Angiogenesis is the process of blood vessel growth, which is necessary for tumors to grow. 
+At the molecular level, thalidomide inhibits angiogenesis by intercalating or inserting itself into guanine-cytosine (G-C) rich regions of DNA. By this intercalation, thalidomide represses the promoter regions of insulin growth factor-1 (IGF-1) and fibroblast growth factor-2 (FGF2), both responsible for stimulating angiogenesis. Intercalation is also accepted as a plausible hypothesis for why embryonic limb buds cease to form. This is because limb bud formation during embryonic development is highly angiogenic, and disruption of the immature and rapidly growing blood vessel networks can result in limb truncation(s). 
+
+Sources
+Gilbert, Scott F. Developmental Biology, 8th ed. Sunderland, MA: Sinauer Associates, 2006, 666–67.
+Knobloch, Jürgen, and Ulrich Rüther. "Thalidomide Suppresses Survival Pathways to Induce Limb Defects." Cell Cycle (2008): 1121–27.
+Gilbert, Scott F., and David Epel. Ecological Developmental Biology: Integrating Epigenetics, Medicine and Evolution. Sunderland, MA: Sinauer Associates, 2009, 170–1.
+Tausigg, Helen B. "The Thalidomide Syndrome." Scientific American 207 (1962): 29–35.
+
+
+How to cite
+Cooper-Roth, Tristan, "The Effects of Thalidomide on Embryonic Development". Embryo Project Encyclopedia (2010-09-12). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/2061.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 25, 2013 - 15:53
+ Topic
+Subject
+Thalidomide; Thalidomide.; Concept

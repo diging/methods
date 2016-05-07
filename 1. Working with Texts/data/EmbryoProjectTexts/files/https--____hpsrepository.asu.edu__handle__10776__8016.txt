@@ -1,0 +1,155 @@
+By Dorothy R. Haskett
+Published: 2014-07-05
+Keywords: Ivan E. Wallin, Francis Cavers
+ MitochondriaAll cells that have a nucleus, including plant, animal, fungal cells, and most single-celled protists, also have mitochondria. Mitochondria are particles called organelles found outside the nucleus in a cell's cytoplasm. The main function of mitochondria is to supply energy to the cell, and therefore to the organism. The theory for how mitochondria evolved, proposed by Lynn Margulis in the twentieth century, is that they were once free-living organisms. Around two billion years ago, mitochondria took up residence inside larger cells, in a process called endosymbiosis, becoming functional parts of those cells. Within each mitochondrion is the mitochondrial DNA (mtDNA), which is different from the DNA in the cell's nucleus (nDNA). Organisms inherit their mitochondria only from their mothers via egg cells (oocytes). Mitochondria contribute to the development of oocytes, the release of the oocyte from the ovary (ovulation), the union of oocyte and sperm (fertilization), all stages of embryo formation (embryogenesis), and growth of the embryo after fertilization.
+		
+
+Sub-cellular organelles, such as mitochondria, were first detected using the light microscope as early as 1841. Friedrich Gustav Jacob Henle, who studied anatomy and pathology in Germany, described granules in human muscle cells. Scientist referred to the sub-cellular granules by a variety of names such as plastochondria and microsomes. Richard Altmann, who studied pathology in Germany in 1890, noted the similarity between bacteria and the granular-looking organelles. Some scientists criticized Altmann's claims that the granular-looking organelles were living components of cells. Altmann proposed that they were the fundamental particles of life, and in 1894 called them bioblasts. Altmann proposed that bioblasts were once free-living cells that were now living inside eukaryotic cells, a phenomenon that scientists in the twentieth century called endosymbiosis.
+
+
+With the development of dyes to stain cells and their parts, such as Janus Green B in 1900, discovered by Leonor Michaelis in Germany, and crystal violet in 1901, discovered by Carl Benda in Germany, scientists observed organelles in almost every type of eukaryotic cell. Benda, in 1901, named the organelles mitochondria from Greek mitos, meaning thread, and chondros, meaning grains. In 1914, Francis Cavers, who studied plants in Scotland, noted a similarity of mitochondria structures across different cell types and plant and animal species. 
+
+
+Researchers in the last decades of the nineteenth and early decades of the twentieth century proposed theories of bacteria living in close proximity to other cells for the mutual advantage of both, a phenomenon called symbiosis. They also proposed that a larger cell engulfed smaller cells and survived to the mutual advantage of both. The scientists called the theory endosymbiosis, and they proposed that it occurred in the photosynthetic organelles of plants (chloroplasts).  In 1883 Andreas Franz Wilhelm Schimper, who studied plants in Germany, noted that the chloroplasts of plants propagated by division, separate from the nucleus. The chloroplast propagation suggested that chloroplasts were somewhat independent from the cell as a whole. Schimper proposed that plants arose from a symbiotic union of two organisms.  In 1905, Konstantin Mereschkowski, who studied plants in Russia, following Schimper’s work, hypothesized that chloroplasts were once free-living cyanobacteria that eukaryotic cells engulfed through endosymbiosis, a union that became mutually advantageous to both cells.
+
+
+In 1923, Ivan E. Wallin, a researcher who studied anatomy in the United States, extended the theory of endosymbiosis from chloroplasts in plants to include mitochondria in animals. Scientists didn't much revisit the endosymbiosis hypothesis for fifty years. In 1962 at the Rockefeller University, in New York, New York, Hans Ris and Walter Plaut, using the electron microscope, discovered DNA in chloroplasts. In 1963, at the Rockefeller University, in New York, New York, Margit Nass and Sylvan Nass discovered DNA in mitochondria.  Lynn (Sagan) Margulis, a graduate student working in Ris’s laboratory, independent of earlier scientists, developed an endosymbiotic theory and detailed it in "On the Origin of Mitosing Cells" in 1967 and Origin of Eukaryotic Cells in 1970. The debate about Margulis's endosymbiotic hypothesis continued for more than a decade, with some researchers saying that the organelles developed from the primitive eukaryotic cell itself or de novo, and others saying that the organelles developed by symbiosis between two different cells. By the 1990s, most biologists accepted the endosymbiotic theory of plastids, plants (chloroplasts) and algae, and mitochondria.
+
+
+Mitochondrial research expanded in the late twentieth century after the invention of the electron microscope, and with the development of molecular genetic techniques, such as DNA sequencing and the use of enzymes that cut DNA at certain sites, called restriction endonuclease enzymes.  In 1980 at Stanford University in Stanford, California, Richard E. Giles, Hugues Blanc, Howard M. Cann, and Douglas C. Wallace used restriction endonuclease enzymes on human mtDNA, and they compared the mtDNA fragments from three different families across three generations (grandparents, parents, and children). Giles, Blanc, Cann, and Wallace analyzed the mtDNA fragments and concluded that humans inherit their mitochondria only from their mothers.
+
+
+Mitochondria function in cell processes including the metabolism of lipids and amino acids, cell signaling, the cell cycle, cell division, differentiation, regulation of programmed cell death (apoptosis), and development of the oocyte. Research documents the role of mitochondria in energy production, and mitochondria’s function in the oocyte and in the embryo became a focus of investigation in the last decade of the twentieth century. In the 1990s and 2000s, James M. Cummins at Murdoch University in Perth, Australia, Jonathan Van Blerkom at the University of Colorado in Boulder, Colorado, and other researchers reported that mitochondrial activity contributes to the development and maturation of the unfertilized oocyte. In an immature human oocyte mitochondria originate from a restricted population of fewer than ten mitochondria. They are amplified during oocyte development, called oogenesis, to form the 100,000 to 600,000 mitochondria found in the mature oocyte. Scientists call the amplification a mitochondrial bottleneck.
+
+
+Mitochondria are the most abundant organelles in the mammalian oocyte and early embryo. There are far fewer mitochondria in sperm, with only fifty to one hundred mitochondria located in a human spermatozoon’s mid-piece mitochondrial sheath. The entire sperm, including the mid-piece mitochondrial sheath, enters the oocyte at fertilization. Male mitochondria receive the protein ubiquitin during the final stages of sperm production, called spermatogenesis. The ubiquitin that attaches to the male mitochondria is a trigger for elimination, or enzymatic destruction, of the sperm’s mitochondria by the zygote or early embryo. Mammals eliminate mitochondria in sperm that are in the four to eight cell stages of the early embryo sperm.
+
+
+Mitochondria play a role in the first few divisions of the zygote and embryo up to the hollow ball stage, or blastula stage. During the first two weeks of human embryonic development, the zygote divides multiple times to form the embryo. At each division into cells called blastomeres, the cells’ mitochondria separate into the two daughter cells, but the mitochondria do not reproduce themselves. By the time the mitochondria begin to divide, each cell is down to one hundred or fewer mitochondria. If the mitochondria’s production of the energy currency, adenosine triphosphate (ATP), is too low to support development, the embryo dies. Some researchers suggest that the dual role for mitochondria, to maintain life or to enable apoptosis, represents a quality control system in early embryo development.
+
+
+The mammalian mtDNA genome codes for at least thirty-seven genes, thirteen proteins, and twenty-four RNAs. The thirteen proteins help produce ATP. The enzyme systems of the mitochondria require many more proteins than those produced from the mtDNA genome. Most of the additional proteins needed for mitochondria functions come from the nuclear genome and are transported to the mitochondria. Researchers work to determine the exact number of mitochondrial proteins coded in the nuclear genome. Based on the role of mitochondria in cellular physiology, dysfunction in any process involving mitochondria can result in an abnormal pathological condition. 
+
+
+
+Sources
+Altman, Richard Die Elementarorganisem und ihre Beziehungen zu den Zellen (The Elementary 
+Organisms and Their Relationships to the Cells). Leipzig: Veit, 1890. 
+ https://archive.org/details/dieelementarorg00altmgoog (Accessed April 28, 2014).
+ 
+
+Altmann, Richard. Die Elementarorganismen und ihre Beziehungen zu den Zellen. Zweite 
+vermehrte Auflage (The Elementary Organisms and Their Relationships to the Cells. 
+Second Extended Edition). Leipzig: Verlag Von Veit & Comp, 1894.
+
+
+Ankel-Simons, Friderun, and James M. Cummins. "Misconceptions about Mitochondria and Mammalian Fertilization: Implications for Theories on Human Evolution." Proceedings of the National Academy of Science 93 (1996): 13859–63. http://www.pnas.org/content/93/24/13859.full.pdf+html (Accessed April 28, 2014).
+
+
+Archibald, John M. "Origin of Eukaryotic Cells: 40 Years On." Symbiosis 54 (2011): 69–86.
+
+
+Benda, Carl. "Die Mitochondriafärbung und andere Methoden zur Untersuchung der 
+Zellsubstanzen." (Mitochondria Staining and other Methods for Investigating Cell Substances). Verhandlungen der Anatomischen Gesellschaft (Discussions of the Anatomical Society). 15 (1901): 155–174. http://babel.hathitrust.org/cgi/pt?id=coo.31924056350063;view=1up;seq=169 (Accessed July 3, 2014). 
+
+
+Brown, Wesley M., Matthew George, Jr., and Allan C. Wilson. "Rapid Evolution of Animal Mitochondrial DNA." Proceedings of the National Academy of Science 74 (1979): 1967–71. http://www.pnas.org/content/76/4/1967.full.pdf+html (Accessed April 28, 2014). 
+
+Cavers, F. "Chondriosomes (Mitochondria) and Their Significance." New Phytologist 13 (1914): 96–109. http://onlinelibrary.wiley.com/doi/10.1111/j.1469-8137.1914.tb05742.x/abstract (Accessed July 3, 2014).
+
+Cohen, Jacques, Richard Scott, Tim Schimmel, Jacob Levron, and Steen Willadsen. "Birth of Infant after Transfer of Anucleate Donor Oocyte Cytoplasm in Recipient Eggs." Lancet 350 (1997): 186–7.
+
+
+Cummins, James M. "The Role of Mitochondria in the Establishment of Oocyte Functional Competence." European Journal of Obstetrics & Gynecology and Reproductive Biology 115 (2004): S23–S29.
+
+
+Cummins, James M. "The Role of Maternal Mitochondria during Oogenesis, Fertilization and Embryogenesis." Reproductive BioMedicine Online 4 (2002): 176–82.
+
+
+DiMauro, Salvatore. "A History of Mitochondrial Diseases." Journal of Inherited Metabolic Diseases 34 (2011): 261–76.
+
+
+Dumollard, Remi, Michael Duchen, and John Carroll. "The Role of Mitochondrial Function in the Oocyte and Embryo." Current Topics in Developmental Biology 77 (2007): 21–42. 
+
+
+Elliot, Hannah R., David C. Samuels, James A. Eden, Caroline l. Relton, and Patrick f. Chinnery. "Pathogenic Mitochondrial DNA Mutations Are Common in the General Population." The American Journal of Human Genetics 83 (2008): 254–60. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2495064/(Accessed July 3, 2014). 
+
+
+Ernster, Lars, and Gottfried Schatz. "Mitochondria: A Historical Review." The Journal of Cell Biology 91 (1981): 227s –55s. http://jcb.rupress.org/content/91/3/227s.full.pdf (Accessed April 28, 2014).
+
+
+Giles, Richard E., Hugues Blanc, Howard M. Cann, and Douglas C. Wallace. "Maternal Inheritance of human Mitochondrial DNA." Proceedings of the National Academy of Science 777 (1980): 6715–9. http://www.pnas.org/content/77/11/6715.full.pdf+html (Accessed April 28, 2014).
+
+ 
+Gray, Michael W., Gertraud Burger, and Bernd Franz Lang. "Mitochondrial Evolution." Science 283 (1999): 1476–81. 
+
+
+Jansen, Robert P. S. "Germline Passage of Mitochondria: Quantitative Considerations and Possible Embryological Sequelae." Human Reproduction 15 (2000): 112–128. http://humrep.oxfordjournals.org/content/15/suppl_2/112.full.pdf+html (Accessed April 28, 2014). 
+
+
+Lane, Nick. "Mitochondrial Diseases: Powerhouse of Disease." Nature 440 (2006): 600–2.
+
+
+Lane, Nick. Power, Sex, Suicide: Mitochondria and the Meaning of Life. New York: Oxford University Press, 2005.
+
+
+May-Panloup, Pascale, Marie-Françoise Chretien, Yves Malthiery, Pascal Reynier. "Mitochondrial DNA in the Oocyte and the Developing Embryo." Current Topics in Developmental Biology 77 (2007): 51–83.
+
+
+McFall-Ngai, Margaret. "Are Biologists in ‘Future Shock’? Symbiosis Integrates Biology Across Domains." Nature Reviews Microbiology 6 (2008): 789–92.
+
+
+Mereschkowsky, Constantin. "Über Natur und Ursprung der Chromatophoren im Pflanzenreiche." (The Nature and Origin of Chromatophores in the Vegetable Kingdom). Biologisches Centralblatt (Biology Central) 25 (1905):   https://archive.org/stream/cbarchive_51353_bernaturundursprungderchromato1881/bernaturundursprungderchromato1881#page/n1/mode/2up (Accessed July 3, 2014).
+
+Michaelis, Leonor. "Die vitale Färbung, eine Darstellungsmethode der Zellgranula." (Vital Staining, a Method of Presenting the Granules in Cells). Archiv für mikroskopische Anatomie (Archive for Microscopical Anatomy). 55 (1899): 558–575. http://books.google.com/books?hl=en&lr=&id=kmsLAQAAIAAJ&oi=fnd&pg=PA1&dq=%22Leonor+Michaelis%22&ots=PZ7zepVQ7x&sig=PDWRzB_E9i2nQ9gSRvYGAno7708#v=onepage&q=%22Leonor%20Michaelis%22&f=false (Accessed July 3, 2014).
+Michaelis, Leonor. Einführung in die Farbstoffchemie für Histologen. (Introduction to Dye Chemistry for Histologists). Berlin: S. Karger, 1902. https://play.google.com/store/books/details?id=qs-m25sd-wcC&rdid=book-qs-m25sd-wcC&rdot=1 (Accessed July 3, 2014).
+
+Muggleton-Harris, Audrey, D. G. Whittingham and Lynette Wilson. "Cytoplasmic Control of Preimplantation Development in vitro in the Mouse." Nature 299 (1982): 460–2.
+
+
+Müller, Johannes, and Friedrich Gustav Jacob Henle. Systematische beschreibung der Plagiostomen. (Systematic Description of the Plagiostomen). Berlin: Veit, 1841. http://dx.doi.org/10.5962/bhl.title.6906 (Accessed July 3, 2014).
+
+
+Nass, Margit M. K., and Sylvan Nass. "Intramitochondrial fibers with DNA Characteristics. I. Fixation and Electron Staining Reactions."  The Journal of Cell Biology 19 (1963): 593–611. http://jcb.rupress.org/content/19/3/593.full.pdf+html (Accessed April 28, 2014).
+
+
+Rachel, Levy, and Menezo Yves. "Cytoplasmic transfer: the risks?" Paper presented at The 4th World Congress on Controversies in Obstetrics, Gynecology & Infertility, Berlin, Germany, April 24–27, 2003. http://www.comtecmed.com/COGI/cogi4/proceedings/15-424.pdf (Accessed April 28, 2014).
+
+
+Ris, Hans, and Walter Plaut. "Ultrastructure of DNA-Containing Areas in the Chloroplast of Chlamydomonas." The Journal of Cell Biology 13 (1962): 383–91. http://jcb.rupress.org/content/13/3/383.full.pdf+html (Accessed April 28, 2014).
+
+
+Sagan, Lynn. "On the Origin of Mitosing Cells." Journal of Theoretical Biology 14 (1967): 225–274.
+
+
+Margulis, Lynn. Origin of Eukaryotic Cells. New Haven: Yale University Press, 1970.
+
+
+Schimper, Andreas Franz Wilhelm. "Über die entwickelung der chlorophyllkoerner und farbkoerper." Botanische Zeitung (Botanical News). 41 (1883): 105–120, 126–131, and 137–160. http://publikationen.stub.uni-frankfurt.de/frontdoor/index/index/docId/19551 (Accessed April 28, 2014).
+
+
+Van Blerkom, Jonathan. "Mitochondria in Human Oogenesis and Preimplantation Embryogenesis: Engines of Metabolism, Ionic Regulation and Developmental Competence." Reproduction Review 128 (2004): 269–80. http://www.reproduction-online.org/content/128/3/269.full.pdf+html (Accessed April 28, 2014)
+
+
+Wallin, Ivan E. "The Mitochondria Problem." American Naturalist (1923): 255–261.
+
+
+Zick, Michael, and Andreas S. Reichert. "Mitochondria" In Cellular Domains, ed. Ivan R. Nabi. New York, John Wiley & Sons, Inc., 2011. 87–111.
+
+
+
+How to cite
+Haskett, Dorothy R., "Mitochondria". Embryo Project Encyclopedia (2014-07-05). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/8016.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+Copyright Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, August 13, 2014 - 22:18
+ Topic
+Subject
+ Cells; Cell organelles; Chondriosomes; Plant mitochondria; Mitochondrium; Margulis, Lynn, 1938-2011; Sagan, Lynn Alexander, 1938-2011; endosymbiosis; symbiosis; Mitochondrial DNA; Oocyte; Blastula; Mitochondria--Diseases; Altmann, Richard; Concept

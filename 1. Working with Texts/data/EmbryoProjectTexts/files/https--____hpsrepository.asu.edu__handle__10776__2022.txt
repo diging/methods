@@ -1,0 +1,40 @@
+By Mark A. Ulett
+Published: 2010-06-27
+Keywords: Evolution
+ The Diversity of Animals: An Evolutionary Study, by Edward Stuart RussellIn 1962 the journal Acta Biotheoretica published the final work of the biologist 
+		Edward Stuart Russell, a full eight years after his death. Entitled The Diversity of Animals: an Evolutionary Study, this short, unfinished manuscript on evolution received little recognition in the scientific presses despite both its technical discussion of adaptations in 
+		decapods (crabs, shrimp, etc.) and its different approach to evolutionary theory. The precise reason for this neglect is unclear. This book is a continuation of Russell’s philosophical perspective, 
+		organicism, an interpretation that focuses on the organism as the primary unit of analysis for the biological sciences. Russell first argued for this position in several of his earlier works, such as 
+		The Interpretation of Development and Heredity (1930) and 
+		The Directiveness of Organic Activities (1946). What was new in The Diversity of Animals lies in Russell’s 
+		orthogenetic theory of evolution. By “orthogenetic” he means evolutionary change in definite directions. The overall thesis of this work is that transformations in evolution that occur in early 
+		ontogenesis, or development, are the best explanation for most diversity in nature. The consequence of Russell’s argument is that an understanding of development is fundamental to an explanation of the major transformations in the evolutionary history of life.
+The Diversity of Animals has three parts. The first summarizes the diversity of the decapods, which he uses as an example of the diversity that exists in nature. The second part addresses different types of diversity in animals. In this section Russell differentiates between what he calls “typal” diversity and “adaptive” diversity. Typal diversity represents the fundamental structural differences between groups of organisms; adaptive diversity represents the smaller differences between species as a result of habitat specialization. To exemplify this, the difference between lobsters and crabs is due to typal diversity, whereas adaptive diversity can be shown in the minor differences between species of crabs.
+The final part of Diversity draws evolutionary conclusions from the discussion in the first two parts of the book. As the title of this work suggests, Russell focuses on how new types of organisms evolve. He follows paleontologist 
+		Karl Beurlen’s argument that the origins of new types of organisms occur early in the history of the group.  For example, the major structural features that make crabs distinguishable from other decapods must have occurred early in the evolutionary history of the decapods. It follows, then, that the influence of adaptive specialization occurs only after the initial period of explosive evolutionary innovation.
+Russell argues in Diversity that evolution occurs as the result of Darwinian, neo-Lamarckian, and orthogenetic causes. Each of these modes of evolution, in Russell’s theory, operates at particular periods of evolutionary transformation.  Despite the respective “places” for each theory, Russell argues that both the Darwinian (survival of the fittest) and neo-Lamarckian (inheritance of acquired characters) modes of evolution are insufficient to explain animal diversity. Put another way, Russell argues that neither Darwinism nor neo-Lamarckism are sufficiently “powerful” to instigate the rapid diversification of types. The main evidence for this, he argues, is that the major structural differences between types are fundamentally nonadaptive. Consequently, these structures could only have originated under orthogenetic evolutionary causes.
+Russell’s orthogenetic theory stems from two main evolutionary “facts,” as he makes clear. First, the origin of major diversity must stem from evolutionary transformations that occur during early embryonic development. Second, behavior must play a predominant part in establishing new habits and modes of life. Regarding the latter fact, Russell does not go into much detail. Given that these major transformations towards increased typal diversity occurred long ago in evolutionary history, the details of the behavioral habits of ancient ancestors are largely beyond our present knowledge.
+Russell concludes The Diversity of Animals with the argument that the origin of major diversity must arise in early development because it is then that the structures which constitute this diversity between types first arise. The origin of typal diversity can only originate if changes occur early in development and continue towards a different “goal” than would normally develop. Thus the origin of major animal diversity must stem from directed transformations in early development. Furthermore, Russell argues that there is no evidence in the fossil record that these evolutionary transformations originated because of a change in the environment; the stimulus or “initiative” to change must have come from within the organism. For Russell, only orthogenetic evolution can account for the diversity of animals.
+It is unfortunate, for both Russell and his readers, that the manuscript The Diversity of Animals remained unfinished at his death. Even though his wife and the editors of Acta Biotheoretica edited the volume, the finished product remains unpolished and incomplete compared to Russell’s earlier books. Also, in the preface to this work, the editors note that the third part, where Russell describes his orthogenetic theory, was unfinished and required re-organized for publication. Even still, this final volume of Russell’s philosophical and theoretical biology is consistent with his earlier work. Taken together, this body of works gives us significant insight into the history of mid-century ideas of development and evolution.
+
+Sources
+Russell, Edward Stuart. The Diversity of Animals: an Evolutionary Study. Leiden, Germany: E. J. Brill, 1962 (Suppl. Acta Biotheoretica 9).
+Russell, Edward Stuart. The Interpretation of Development and Heredity. Oxford: Clarendon, 1930.
+Russell, Edward Stuart. The Study of Living Things: Prolegomena to a Functional Biology. London: Methuen, 1924.
+
+
+How to cite
+Ulett, Mark A., "The Diversity of Animals: An Evolutionary Study (1962), by Edward Stuart Russell". Embryo Project Encyclopedia (2010-06-27). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/2022.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Thursday, April 2, 2015 - 00:29
+ Topic
+Subject
+Biological Evolution; Russell, E. S. (Edward Stuart), 1887-1954; Literature

@@ -1,0 +1,39 @@
+By Erica O'Neil
+Published: 2010-09-28
+Keywords: Fetal alcohol syndrome, Human development
+ Facial Abnormalities of Fetal Alcohol Syndrome (FAS)Prenatal exposure to alcohol (ethanol) results in a continuum of physical, neurological, behavioral, and learning defects collectively grouped under the heading 
+		Fetal Alcohol Spectrum Disorder (FASD). 
+		Fetal Alcohol Syndrome (FAS) was first defined in 1973 as a condition characterized by pre- and postnatal growth deficiencies, facial abnormalities, and 
+		defects of the central nervous system. The pattern of facial defects that occur as a result of ethanol exposure during development primarily affects the midline of the face, altering morphology of the eyes, nose, and lips. Ethanol damage to 
+		cranial neural crest cells (CNCC) early in embryonic development is responsible for these minor midline abnormalities. Regulation of the gene 
+		sonic hedgehog (shh) during this period of development has been observed to rescue these ethanol-affected CNCC from fated cell death, an association that has not yet been examined as it applies to human cells.
+A linear relationship exists between ethanol exposure and the severity of expression of ethanol-induced defects. Although the intensity, duration, and timing of prenatal ethanol exposure can have dramatic effects on the manifestation of these abnormalities, the general trend is that as exposure to ethanol increases, the expression of abnormal facial traits increases. Diagnostic characteristics typical of children with FAS include smaller eye openings (palpebral fissures, the region between the upper and lower eyelid), at times accompanied by folds of skin (epicanthal folds) at the corners of the eyes that stretch the upper lids taut and create a more oval shape. A general shortening of the nose occurs, often accompanied by a lowered nasal bridge. Hypoplastic (underdeveloped) expression of the philtrum also occurs, resulting in the lessened expression or absence of the bilateral raised ridges of skin that connect the nasal septum to the bow of the upper lip. An overall narrowing of the forehead, shortened midface, and underdevelopment of the chin also usually accompany these ethanol-induced abnormalities. These defects are generally more pronounced in infants and children, and tend to become less noticeable as growth through adolescence and adulthood alters facial morphology.
+The effects of ethanol exposure on mouse and chick embryos have been studied extensively to determine the developmental series of events responsible for these facial abnormalities. The period of cellular vulnerability in these models corresponds to the human gestational stage between three and six weeks after fertilization, that is, from around the time 
+		neurulation begins. Cranial neural crest cells (CNCC) are the embryonic population of cells most sensitive to the exposure of ethanol during this critical developmental period. Some of these cells compose the frontonasal process of the developing embryo, which interacts with the ectoderm to differentiate into facial features. Early exposure of these cells to ethanol results in a marked decrease in cellular proliferation and survival, primarily through impaired migration and programmed cell death (
+		apoptosis) of cells fated to form facial features.
+Programmed cell death is instrumental in normal embryological development as a highly regulated tool for removing damaged or obsolete populations of cells (e.g., the webbed skin between fingers). Ethanol-induced apoptosis results in the massive elimination of millions of CNCC that would otherwise have played an important role in normal facial development. This programmed cellular death has been hypothesized to be triggered by the creation of superoxide radicals during the metabolic breakdown of ethanol in the cells. Highly reactive superoxide molecules not mediated by intracellular antioxidants go on to oxidize the cellular membrane. This oxidation interferes with the normal processes of cell regulation and genetic expression, resulting in the programmed death of the defective cells through apoptosis. 
+Restricting the expression of the gene shh also triggers the mass apoptosis of CNCC, which results in facial defects along the ventral midline that are similar to those observed as a result of ethanol exposure. This relationship led to the discovery that administration of shh has the potential to rescue CNCC that had been introduced to alcohol from undergoing apoptosis in chick embryos, thereby avoiding the facial defects associated with prenatal alcohol exposure. The implications of this relationship suggest that the partial loss of shh during development may also be a mechanistic component of the ethanol-induced apoptosis that results in the facial defects characteristic of FAS. 
+Future exploration of this association may lead to a greater understanding of the full mechanisms responsible for ethanol-induced abnormalities in individuals affected by FAS. Prenatal exposure to ethanol affects a developing embryo as early as the third week after fertilization, with midline facial abnormalities the first developmental defect observed. While the facial abnormalities observed are largely superficial to normal functioning, further understanding of the mechanistic processes may help to mitigate the more serious effects of prenatal exposure to ethanol later in development, like ethanol’s effect on the developing 
+		central nervous system. 
+
+Sources
+Ahlgren, Sara C., Vijaya Thakur, and Marianne Bronner-Fraser. “Sonic Hedgehog Rescues Cranial Neural Crest Death Induced by Ethanol Exposure.” Proceedings of the National Academy of Sciences of the United States of America 99 (2002): 10476–81.
+Gilbert, Scott F. Developmental Biology, 8th ed. Sunderland, MA: Sinauer, 2006. “Prenatal Exposure to Alcohol.” Alcohol Research and Health 24 (2000): 32–41.
+Smith, Susan M. “Alcohol-Induced Cell Death in the Embryo.” Alcohol Health and Research World 21 (1997): 287–97.
+
+
+How to cite
+O'Neil, Erica, "Facial Abnormalities of Fetal Alcohol Syndrome (FAS)". Embryo Project Encyclopedia (2010-09-28). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/2076.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, May 13, 2015 - 19:35
+ Topic
+Subject
+Fetal Alcohol Syndrome; Fetal alcohol syndrome; Concept

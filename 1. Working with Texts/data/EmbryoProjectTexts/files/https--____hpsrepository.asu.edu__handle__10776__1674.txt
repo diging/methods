@@ -1,0 +1,48 @@
+By Adam R. Navis
+Published: 2007-10-30
+Keywords: Nerve growth factor, Chicks
+ Nerve Growth FactorNerve growth factor (NGF) is a 
+		signaling protein and growth factor implicated in a wide range of development and maintenance functions.  NGF was discovered through a series of experiments in the 1950s on the development of the 
+		chick nervous system.  Since its discovery, NGF has been found to act in a variety of tissues throughout development and adulthood.  It has been implicated in immune function, stress response, nerve maintenance, and in neurodegenerative diseases.  It is named for its effect on the critical role it plays in the growth and organization of the nervous system during embryonic development.
+The discovery proceeded in several steps.  Mouse sarcoma 180 was discovered to have nerve growth properties.  
+		Rita Levi-Montalcini, working with 
+		Viktor Hamburger, showed the abnormal growth in vivo of 
+		chick sympathetic and sensory ganglia in the presence of that tumor.  The conclusions of this study left two options for the action of the tumor:  it may have acted directly to stimulate nerve growth of the ganglia or it may simply have disrupted the normal development, indirectly allowing increased development of the nerve fibers.  
+		Levi-Montalcini conducted a study on the effects of various tumors in vitro to isolate the effect of the tumor and the ganglia.  She demonstrated that specific tumors were capable of inducing nerve growth.
+The experiments conducted by 
+		Levi-Montalcini demonstrated that NGF was diffusible, by revealing that the tumors never made direct contact with the ganglia they stimulated.  The next step was to isolate an extract of NGF to show the activity of only the substance itself.  
+		Stanley Cohen, a biochemist, joined 
+		Hamburger’s lab and successfully purified NGF.  He also determined the factor to be mostly composed of protein with some nucleic acids.  Certain types of snake venom contain an enzyme that degrades nucleic acids. 
+		Cohen used this snake venom to determine whether this protein was a nucleoprotein, which would require nucleic acids for function.  When the snake venom mixture was added to ganglia, even more growth was observed, contrary to what was expected.  The snake venom contained large quantities of NGF.  As a less toxic homologue, 
+		mouse salivary glands were used for later experimentation.  In 1960 the protein was successfully purified, and in 1971 the amino acid sequence was determined.
+Subsequent research on NGF has demonstrated that it acts as a signaling protein.  The signaling mechanism consists of the signal and a receptor, which interprets the signal and begins a cascade of reactions within a cell.  In the context of 
+		neural development, NGF is produced by nerves in target tissues, which stimulate and guide the growth of nerve fibers toward the target.  These target tissues include skin, muscle, and vascular tissue.  The receptors are produced by nerves of the sensory and peripheral nervous system, which allow the cell to receive the NGF signal.  The receptors are active during development and expression wanes in the organism's adulthood, except during injury when nerves must be regenerated or protected.  When the receptor binds with NGF many signaling pathways can be initiated and each determines a different cellular response.  The specific pathway is determined by the state of the cell and which of the two receptors is bound.  These pathways determine maintenance functions, cell growth, or cell death when NGF is no longer present.
+NGF is present outside the nervous system.  Various bone marrow leukocytes have been shown to produce either NGF or an NGF receptor, demonstrating a role in immune function.  Stressful conditions have been shown to stimulate the production of NGF in the mouse submandibular salivary gland.  Repair functions in the nervous system are mediated by  NGF.  This includes the regrowth of nerve fibers, but also plays a role in protecting nerve fibers from toxic effects of repair processes in adjacent tissues.  Some neurodegenerative diseases have been linked to decreases in NGF.  Clinical trials of replacement NGF have resulted in a wide variety of undesirable effects.  These effects occur in many tissues throughout the bodies of humans and animals, demonstrating the widespread utilization of NGF and the need to target NGF delivery in a clinical setting.
+Embryonic development of the nervous system depends on NGF.  NGF is also a critical intercellular signal utilized in many tissues over the life of an organism.  The discovery of NGF led to an award of the 
+		Nobel Prize in Physiology or Medicine to 
+		Rita Levi-Montalcini and 
+		Stanley Cohen in 1986.  Research on NGF significantly increased in the 1990s as the fine details of its mechanism were discovered and analyzed.  In recent years, NGF has been studied in clinical trials as a treatment for neurodegenerative diseases such as Alzheimer’s disease.  NGF is an important signal in the development and maintenance of the nervous system and a variety of tissues throughout the life of an organism.
+
+
+Sources
+Cowan, W. Maxwell.  “Viktor Hamburger and Rita Levi-Montalcini: The Path to the Discovery of Nerve Growth Factor.” Annual Review of Neuroscience 24 (2001): 551–600.
+Frade, José Mariá, and Yves-Alain Barde.  “Nerve Growth Factor: Two Receptors, Multiple Functions.” BioEssays: News and Reviews in Molecular, Cellular and Developmental Biology 20 (1998): 137–145.
+Levi-Montalcini, Rita. “The Nerve Growth Factor 35 Years Later.” Science 237 (1987): 1154–62.
+Sofroniew, M. V., C. L. Howe, and W. C. Mobley. “Nerve Growth Factor Signaling, Neuroprotection, and Neural Repair.” Annual Review of Neuroscience 24 (2001): 1217–81.
+
+
+How to cite
+Navis, Adam R., "Nerve Growth Factor". Embryo Project Encyclopedia (2007-10-30). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/1674.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 25, 2013 - 15:53
+ Topic
+Subject
+Nerve Growth Factor; Nerve growth factor; Concept

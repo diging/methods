@@ -1,0 +1,41 @@
+By Julia Damerow
+Published: 2010-06-25
+Keywords: Morphogenesis, Models
+ “The Chemical Basis of Morphogenesis,” by Alan M. TuringIn 1952 the article “The Chemical Basis of 
+		Morphogenesis” by the British mathematician and logician 
+		Alan M. Turing was published in 
+		Philosophical Transactions of the Royal Society of London. In that article Turing describes a mathematical model of the growing embryo. He uses this model to show how embryos develop patterns and structures (e.g., coat patterns and limbs, respectively). Turing’s mathematical approach became fundamental for explaining the developmental process of embryos. In the 1970s, for instance, scientists 
+		Alfred Gierer and 
+		Hans Meinhardt used Turing’s model to work out how the patterns on seashells develop.
+“The Chemical Basis of Morphogenesis” has thirteen sections. In section one, Turing introduces his mathematical model. He splits the model into two parts. The first part describes the mechanical elements of the model, such as the masses and positions of cells. The second part defines the chemical processes taking place in the cells, such as the composition of the cells or possible chemical reactions. Then Turing defines the core element of his model, the 
+		morphogens, which he defines as substances present in the cells of the embryo that react chemically with each other or diffuse between the cells (move from one cell to another). If a certain type of morphogen reaches a specific level of concentration, then it prompts the embryo’s growth by, for example, activating other types of genes involved in the process of embryogenesis, and thereby stimulates the development of other structures.
+In section two, Turing gives an overview of the mathematical background that is necessary to an understanding of his model. Section three explains the rules controlling the chemical reactions. For instance, he states that the “law of diffusion” requires that substances (morphogens) always move from regions (cells) with a higher concentration of the substance to regions with a lower concentration.
+In sections four and five, Turing considers the problem of symmetry and embryos. The embryo in its early state, the blastula, has a spherical shape with spherical symmetry. That means that if one cuts the blastula in half through the center one gets two identical halves. If the blastula were perfectly spherical and symmetrical, it would always keep this symmetry in its further development and only shapes with spherical symmetry could develop. For example, a horse could not be made from a blastula because a horse is not spherically symmetrical. But, Turing argues, the blastula is never perfectly symmetrical; there are small deviations from absolute symmetry, which Turing calls “instabilities.” For instance, the concentrations of the morphogens can differ slightly between the cells, so that in one cell the concentration of a certain morphogen is higher than in its neighboring cells. In general, however, the concentrations of the different kinds of morphogens are in balance. That means that the morphogens can react with each other, but their concentrations do not change. However, the instabilities can lead to an imbalance of the concentrations. When the concentrations become unbalanced, they begin to increase or decrease and lead to morphogenetic changes. Hence, the instabilities make it possible that the embryo can develop a shape that is not spherically symmetrical.
+Sections six and seven introduce an example of Turing’s model. A ring of cells, or tissue, demonstrates how structures or patterns can develop. Turing considers a case with two different morphogens. One morphogen, called the activator, causes its own production and the production of the other morphogen called the inhibitor. The inhibitor is able to diffuse more easily than the activator from one cell to another because, for instance, of smaller size. The concentrations of the two morphogens are in balance. As described above, however, various factors can disturb this balance. If this happens, the concentration of the activator will increase, but because the inhibitor diffuses faster in the surrounding cells, the production of the activator in these cells is blocked. In section eight, Turing describes the pattern that can evolve from the given example. The simplest result is the development of spots of higher activator concentration surrounded by higher inhibitor concentration. By modifying parameters in his model, such as the speed with which the morphogens react or diffuse, different patterns will develop.
+In section nine, Turing gives a more detailed description of the mathematics used in the above example. In the beginning he states that this section is only of interest to readers who want to do further research on the topic. Section ten gives a numerical sample for the ring example described before.
+Turing summarizes the results of the example and a biological interpretation of the results in section eleven and twelve. He states that the morphogens could, for instance, be accountable for the development of “dappled” coat patterns. Referring to the blastula, the increasing production of certain morphogens on only one end of the spherical shape of the blastula, for example,  could cause its further development.
+In the last section of the article, Turing speculates about the future of the field. He suggests using “digital computers” for calculating more complex examples. The year 2006 brought more complete experimental confirmation of Turing’s model. 
+		Stefanie Sick and colleagues identified two types of molecules that play an important role in the growth of hair. These molecules have all the characteristics of Turing’s morphogens. Sick and her group were able to simulate on the computer hair growth in mice when modifying the concentrations of these morphogens. They then confirmed the computer simulations with experimental data. Although Turing’s article was only a theoretical approach that discussed mainly the mathematical fundamentals of pattern and structure creation, it was an important basis for further research in this area.
+
+Sources
+Beck, Christina, “Mustermacher der Natur.” MaxPlanckForschung 2 (2008): 34–39.
+Maini, Philip K., and Hans G. Othmer. Mathematical Models for Biological Pattern Formation. New York: Springer, 2001.
+Maini, Philip K., Ruth E. Baker, and Cheng-Ming Chuong, “The Turing Model Comes of Molecular Age.” Science 314 (2006): 1397–98.
+Turing, Alan M., “The Chemical Basis of Morphogenesis.” Philosophical Transactions of the Royal Society of London B, Biological Sciences 237 (1952): 37–72.
+
+
+How to cite
+Damerow, Julia, ""The Chemical Basis of Morphogenesis" (1952), by Alan M. Turing". Embryo Project Encyclopedia (2010-06-25). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/2036.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Thursday, April 2, 2015 - 00:23
+ Topic
+Subject
+Morphogenesis; Turing, Alan Mathison, 1912-1954; Literature

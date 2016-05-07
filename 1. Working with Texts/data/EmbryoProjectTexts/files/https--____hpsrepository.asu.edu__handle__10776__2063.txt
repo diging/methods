@@ -1,0 +1,79 @@
+By Cera R. Lawrence
+Published: 2010-10-02
+Keywords: Philosophy, Reproduction, Generation
+ On the Generation of Animals, by AristotleAristotle’s On the Generation of Animals is referred to in Latin as De Generatione Animalium. As with many of Aristotle’s writings, the exact date of authorship is unknown, but it was produced in the latter part of the fourth century B.C. This book is the second recorded work on embryology as a subject of philosophy, being preceded by contributions in the Hippocratic corpus by about a century. It was, however, the first work to provide a comprehensive theory of how generation works and an exhaustive explanation of how reproduction works in a variety of different animals.  As such, De Generatione was the first scientific work on embryology. Its influence on embryologists, naturalists, and philosophers in later years was profound. Among these were 
+		Hieronymus Fabricius, 
+		William Harvey, 
+		St. Thomas Aquinas, and 
+		Charles Darwin.
+A brief overview of the general theory expounded in De Generatione requires an explanation of Aristotle’s philosophy. The Aristotelian approach to philosophy is teleological, and involves analyzing the purpose of things, or the cause for their existence. These causes are split into four different types: final cause, formal cause, material cause, and efficient cause.  The final cause is what a thing exists for, or its ultimate purpose.  The formal cause is the definition of a thing’s essence or existence, and Aristotle states that in generation, the formal cause and the final cause are similar to each other, and can be thought of as the goal of creating a new individual of the species. The material cause is the stuff a thing is made of, which in Aristotle’s theory is the female 
+		menstrual blood. The efficient cause is the “mover” or what causes the thing’s existence, and for reproduction Aristotle designates the male semen as the efficient cause. Thus, while the mother’s body contains all the material necessary for creating her offspring, she requires the father’s 
+		semen to start and guide the process.
+De Generatione consists of five books, each containing multiple chapters. Books I and II are of most interest to embryology. Book III is a comparative study of zoology that applies principles from Book II to different species of animals. Book IV contains miscellaneous information about aspects of reproduction, such as how 
+		heredity works and 
+		birth defects occur. Book V compares the characteristics that all animals share, and is primarily a discussion of sensory organs and the physical appearance of animals, focusing on characteristics like hair, coloration, voice, and teeth.
+Book I begins with a discussion of maleness and femaleness, which Aristotle separates into active and passive principles, again underlining male semen as the efficient cause of generation and the female menstrual blood as the material cause. He gives reasons for the various shapes of male and female reproductive organs. Chapters 8 through 11 are a comparative anatomy of 
+		uteri and 
+		eggs, in which Aristotle classifies animals by uterine form and position and as well as whether the species is 
+		viviparous (live birth), 
+		oviparous with hard-shelled eggs, oviparous with shell-less eggs, or 
+		ovoviviparous as in fishes that hatch from eggs contained within the mother. Chapters 12 and 13 discuss why uteri are internal, why 
+		testes are not always internal, and how the urinary anatomy is related to the genitals. In chapters 14 through 16 Aristotle describes copulation in some mobile non-sanguinous animals (insects, crustaceans, and cephalopods) that do not have red blood. He returns to the definition of seminal fluids in chapters 17 through 20. He refutes the idea that the male seed is composed of particles from every part of the parent’s body—a theory that was resurrected in the eighteenth century as “
+		pangenesis” as support for the concept of generation known as spermist preformationism, and later used by Darwin to account for heredity. Aristotle asserts that the female does not have a seminal fluid, but rather that her contribution to her offspring is only in the form of the nutritive menstrual blood that is the material of generation.
+Book II begins with a systematic classification of all animals based on embryological traits. An informative chart of this system can be found in Needham’s History of Embryology in the section about Aristotle. This first chapter also includes a discussion of 
+		epigenesis versus 
+		preformationism, though Aristotle does not use those terms. He refutes the idea that the embryonic parts could exist in the semen (preformationism) since in his observations of the embryos of many different animals, he had clearly seen the heart formed first and other parts formed only gradually afterwards (epigenesis). Aristotle’s theory of epigenesis remained the dominant model for 
+		embryogenesis until the middle of the seventeenth century.
+Chapter 3 of Book II defines the degree of “aliveness” at various stages of embryological development. This is the section in which Aristotle discusses three different types of human souls: a nutritive soul, imbued from the very beginning; a sensitive soul, imbued later; and finally the intellective soul, imbued forty days safter conception for a male embryo and eighty days for a female embryo.  The nutritive soul, also called the vegetative soul, is the essence possessed by all living things , including plants, and can be considered the lowest level of soul. The sensitive soul is what separates plants from animals, and provides animals the ability to move and to interact with the world around them. The intellective soul is what separates humans from all other animals, and allows humans to think and reason. 
+Chapters 6 and 7 of Book II explain the process and order of embryo development. In Aristotle’s account, based in part on observations of chicken eggs, the heart is formed first, the rest of the internal parts next, and finally the external parts. Anterior parts are formed before posterior parts. Aristotle asserts that the order of formation is determined by the importance of each part to the adult form, making it clear that the process of embryo development is aimed towards the final cause of producing an individual of its species. He states that no part of the forming embryo creates any other part, which denies other philosophers’ assertions that the heart causes the formation of the rest of the body. The emphasis Aristotle places on the orderly development of the parts of the embryo is a precursor to the processes proposed by two later scientists. The 
+		laws of embryology proposed by 
+		Karl Ernst von Baer and the 
+		recapitulation theory of 
+		Ernst Haeckel  both placed a similar emphasis on the epigenetic development of the embryo.
+Book III discusses in detail the reproductive process of each class of animal other than the viviparous group identified by Aristotle in chapter 1 of Book II. It begins with a discussion of avian eggs, which, like reptilian eggs, are “perfect eggs” not requiring a second fertilization after they are laid. He explains how so-called unfertilized “wind eggs” are produced by birds such as 
+		chickens and asserts that the yolk of the egg is the nutritive substance and not the white albumen. Chapter 3 is a similar discussion of oviparous fishes, which lay imperfect eggs that must be fertilized by the male a second time. Aristotle maintains that all animals with two sexes must engage in sexual union and fish are no exception, though according to Aristotle they copulate very quickly. Chapter 8 discusses 
+		cephalopod procreation, asserting again that sexual union has been observed in squid. Chapter 9 is about insects, which Aristotle says sometimes arise spontaneously and sometimes generate offspring. Generation of offspring is done by producing a scolex, which he says is an egg laid too soon, as evidenced by the fact that it grows in size before hatching. He attributes metamorphosis to the natural outcome of spontaneous generation. Those metamorphic insects that arise spontaneously, in Aristotle’s observations, rather than from beings that look like themselves, cannot produce offspring that look like themselves. Their offspring must be perfected through metamorphic stages. Chapter 10 is about bees, which Aristotle says are very difficult to explain. From his observations, he concludes that queen bees produce both workers and other queens, workers produce drones, and drones produce nothing. Book III ends with a chapter about testacea (bivalve and univalve mollusks), which Aristotle says are like plants because they do not move during the entirety of their life.
+Book IV contains an explanation of why offspring resemble their parents. In Aristotle’s view, heredity is the result of the form carried by the paternal seed. If the development of the embryo proceeds perfectly successfully, the offspring will be male, and closely resemble his father. Female offspring are the result of less perfect development and resemble their mothers. Males who resemble their mothers or females who resemble their fathers are examples of development in between these first two levels, and even less perfect developments will cause the offspring to resemble more and more distant ancestors. Aristotle’s 
+		teratology describes the defects that occur with extremely disturbed gestations, a model of birth defects that persisted for centuries after Aristotle.  This view of heredity and birth defects, along with the writings by Galen on the same subject, persisted through the Middle Ages in both Europe and the Islamic Caliphate. The reproductive role that Aristotle ascribed to the female, who contributes only the material for the offspring and influences the form only when gestation is “less perfect," influenced reproductive medicine for nearly two millennia.
+The remainder of De Generatione is not of great concern to embryology. Book IV concludes with miscellaneous information about milk production, how natural births proceed, and the reasons for differing periods of gestations in different animal species. Book V consists mostly of a comparison of the sense organs in animal species, as well as traits in hair coloration, voice pitch, and teeth.
+Aristotle’s embryological work was highly influential after his death and throughout the Middle Ages. Two notable medieval scholars influenced by De Generatione were 
+		St. Albertus Magnus and 
+		St. Thomas Aquinas. The latter was specifically influenced by Aristotle’s ideas of ensoulment, and developed a theory of 
+		delayed hominization, in which first the vegetative soul enters the fetus, then the animal soul, then the human soul at around forty days for males and eighty days for females. Aquinas and 
+		St. Augustine before him both used this idea to define when human life begins, and their ideas were used by the 
+		Catholic Church to promulgate anti-abortion law.
+The European Enlightenment era, so concerned with experimentalism, saw a revival in interest in the observational aspects of Aristotle’s work. William Harvey, anatomist and author of his own 
+Exercitationes de Generatione Animalium (1651), was an adherent of the Aristotelian idea of epigenesis, influenced by his teacher Hieronymus Fabricius. Both Fabricius and Harvey built on Aristotle’s work with their own observations, making corrections to the original where necessary. In his 1672 
+De Mulierum Organis Generationi Inservientibus,  
+		Reinier de Graaf, discoverer of the ovarian 
+		Graafian follicles and champion of the female role in reproduction, wrote about the clear evidence that offspring often resembled both parents and discussed the problems thus created for Aristotle’s theories. In the latter part of the 19th century, Charles Darwin famously wrote that Aristotle had been one of his chief influences.
+Aristotle’s De Generatione Animalium marks the beginning of the history of Western embryology. Though a great deal of Aristotle’s work in De Generatione was based on observation, these observations were not made in the controlled style expected of scientists in modern times, and many of the conclusions he drew were based on anecdotes and second-hand information. The modern reader is privy to much more information about the lives and habits of members of the animal kingdom than Aristotle was, and many of his assertions thus seem absurd. However, Aristotle’s concern with observation, and his method of examining as many different kinds of animals as possible and comparing and contrasting their traits, was a precursor to the modern style of investigation.  Before Aristotle, ideas about generation and reproduction were confused, more than half supernatural, and by no means comprehensive. In writing De Generatione, Aristotle left a number of unsolved problems of reproduction for researchers who followed him to build on, while providing a framework in which to conduct that research. Before De Generatione, those who wanted to study reproduction had to start from scratch; after De Generatione, future research could be fit into Aristotle’s scheme and thus become part of the body of scientific knowledge.
+
+Sources
+Aristotle. On the Generation of Animals. Trans. Arthur Platt. eBooks@Adelaide 2007 http://etext.library.adelaide.edu.au/a/aristotle/generation/complete.html (Accessed June 12, 2008).
+Balme, D. M. “Aristotle: Natural History and Zoology.” Dictionary of Scientific Biography 1: 258–66.
+Bearn, J. G. “Review: Reinier De Graaf’s De Mulierum Organis Generationi Inservientibus 1672.” Medical History 10:3 297–9 July 1966.
+Cobb, Matthew. The Egg and Sperm Race: The Seventeenth-Century Scientists Who Unravelled the Secrets of Sex, Life and Growth. London: The Free Press, 2006.
+Cole, Francis Joseph. Early Theories of Sexual Generation. Oxford: Clarendon Press, 1930.
+Coppens, C. Trans. Tomas Hancil. “Abortion.” The Catholic Encyclopedia, Volume I. New York: Robert Appleton, 1907. http://www.newadvent.org/cathen/01046b.htm (Accessed April 24, 2007).
+Maienschein, Jane. “Epigenesis and Preformationism.” Stanford Encyclopedia of Philosophy. http://plato.stanford.edu/entries/epigenesis/ (Accessed 22 Feb 2008).
+Needham, Joseph. A History of Embryology. New York: Abelard-Schuman, 1959.
+Pinto-Correia, Clara. The Ovary of Eve. Chicago: University of Chicago Press, 1997.
+Uschmann, Georg. “Ernst Haeckel.” Dictionary of Scientific Biography 6: 6–10.
+
+
+How to cite
+Lawrence, Cera R., "On the Generation of Animals, by Aristotle". Embryo Project Encyclopedia (2010-10-02). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/2063.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 25, 2013 - 15:53
+ Topic
+Subject
+Reproduction; Aristotle; Literature

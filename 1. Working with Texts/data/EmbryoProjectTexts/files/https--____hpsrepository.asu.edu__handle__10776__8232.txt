@@ -1,0 +1,105 @@
+By Sarah Taddeo, Jason S. Robert
+Published: 2014-11-04
+Keywords: HFEA
+ "Hybrids and Chimeras: A Consultation on the Ethical and Social Implications of Creating Human/Animal Embryos in Research" (2007), by the HFEATo educate its citizens about research into chimeras made from human and non-human animal cells, the United Kingdom's Human Fertilisation Embryology Authority published the consultation piece "Hybrids and Chimeras: A Consultation on the Ethical and Social Implications of Creating Human/Animal Embryos in Research," in 2007. The document provided scientific and legal background, described ethical and social issues associated with research using part-human part-animal embryos, supplied a questionnaire for citizens to return to the HFEA with their opinions, and offered a list of resources for further reading to stimulate public debate. The strategy of surveying the public provided a template for developing further policy in the United Kingdom and other countries, as well as for educating citizens on embryological research.
+		
+
+The Human Fertilization and Embryology Authority (HFEA) is a regulatory institute of the Health and Social Services department in the United Kingdom, which oversees and monitors all practices related to embryological research and reproductive techniques in the UK. Specifically, the HFEA is responsible for licensing and managing all research involving human embryos, genetic material, and stem cells, which are cells that can perpetually divide and have the potential to differentiate. 
+
+
+	In November of 2006, two research teams, one led by Lyle Armstrong from Newcastle University in Newcastle upon Tyne, UK, and the other by Stephen Minger from King's College in London, UK, submitted applications to the HFEA for approval to derive stem cells from human embryos. Unlike previous proposals to conduct research with human embryonic cells, the research groups wanted to use animal egg cells, or ova, as an alternative to human ova to form the embryos. Because there were not enough human ova available for research, the use of animal ova potentially provided a viable alternative option to create human embryonic cells. 
+	
+
+Scientists can obtain suitable human-like cells through interspecies somatic cell nuclear transfer (iSCNT), a procedure in which scientists transplant the nucleus of a somatic cell (a differentiated cell) from an individual of one species into an egg cell from another species whose nucleus has been removed (enucleated). To create human stem cells for their projects, Armstrong and Minger proposed to use iSCNT to produce a type of cytoplasmic hybrid embryo called an interspecies SCNT-derived humanesque blastocyst (iSHB). However, scientists in the UK had never performed the technique called cell nuclear transfer (CNT), which may occur between any two types of cells, between human and animal cells. To guide the HFEA in their decision about how to legislate the creation of cytoplasmic hybrid embryos, the HFEA sponsored surveys and debates to gather information on the opinions of the scientific community and of the public.  
+
+
+	The HFEA put the information on their website on 26 April 2007 as a publically accessible document that has six sections: "Introduction", "Scientific Background", "Legal Background", "Ethical and Social Issues", "Your Views", and "Further Reading". The document begins with a note from Shirley Harrison, the chair of the HFEA and the Human Tissue Authority. Harrison discusses the value of stem cell research to describe mechanisms of human disease, such as Alzheimer's disease. She also discusses a belief shared by many scientists that stem cell research may lead to therapies for a variety of human diseases and disorders. She notes that safety regulations, socio-political and ethical considerations, and the shortage of ova physically limit the availability of human stem cells for this research. She says that by providing the public with scientific facts and other relevant information surrounding the creation of cytoplasmic hybrid embryos, combined with fostering an open public forum, the social, political, and ethical questions surrounding this technique will be addressed and begin to be resolved in the UK. 
+	
+
+	After Harrison's note, the "Introduction" says that research using stem cells has been a prominent field of science in the previous decade, with the development of mammalian genetic engineering techniques such as the procedure that led to the birth of Dolly the Sheep via somatic cell nuclear transfer, or cloning. In 2007, scientists aimed to use stem cells to develop therapies for human disease. The document introduces the HFEA, its history, and its responsibilities. The segment titled "Introduction" explains that the HFEA received requests to create cytoplasmic hybrid embryos. The HFEA postponed a license to the scientists until the HFEA could survey the opinions of the public, interest groups, and scientific community. The consultation states that its primary goal is to consider the creation of cytoplasmic hybrid embryos in the broader context of research involving embryos, stem cells, and the combination of human and animal genetic material or cells. 
+	
+
+	Section two of the consultation document, "Scientific Background", provides an account of the techniques and history of cell nuclear transfer techniques. The section also defines stem cells, how scientists obtain stem cells, how scientists preserve stem cells, as well as the use of stem cells in research. The HFEA provides accounts of cell nuclear transfer and the procedures that enable an embryo to develop to describe for readers the procedures involved in creating cytoplasmic hybrid embryos. The HFEA highlights three purposes for stem cell research. First, researchers use human embryonic stem cells to study pluripotency, which is a cell's ability to differentiate into any cell type. Second, scientists use human embryonic stem cells to study specific diseases, because those cells hold the potential to provide a genetically identical model for the disease in question. Third, scientists use human embryonic stem cells to study how an adult cell that is specialized, or has a highly specific function, can return to an unspecialized state.
+	
+
+The consultation document next discusses human egg donation, describing what types of ova researchers use, where they come from, and the restrictions on acquiring them for research purposes. The document acknowledges that some research programs may seek eggs from patients receiving fertility treatments, while others may seek out women who are not patients to donate their ova. Sometimes, other organizations donate leftover human ova used for these procedures from in vitro fertilization (IVF) treatments, a procedure in which a female ovum is fertilized outside the body and is implanted in a woman's uterus to develop into a fetus. These ova, however, may be defective. Therefore, some researchers may recruit egg donors from outside the context of IVF treatment. However, the document notes that there are safety and ethical risks for egg donors because extracting ova physically stresses women, and it poses health risks. The consultation stresses that the demand for human ova and embryonic stem cells far exceeds their availability, so using animal ova in research may help overcome the shortage.
+
+
+The section on "Scientific Background" distinguishes between five types of human-animal embryos, and it discusses how scientists create embryos, and how scientists use embryos. The document defines cytoplasmic hybrid embryos as embryos created through human cell nuclear transfer using animal ova. Hybrid embryos are embryos created by mixing human sperm and animal ova, or animal sperm and human ova. Human chimera embryos are human embryos that have had animal cells added to them during early development. Conversely, animal hybrid embryos are animal embryos that have had human cells added to them during early development. Lastly, transgenic human embryos are human embryos that have had animal genes inserted into them early in development.
+
+
+	Section three, "Legal Background", discusses legal aspects of chimera research and cytoplasmic hybrid embryo creation. It begins by explaining that legally permitted human embryo research requires that scientists should terminate any embryo that is not transferred to a woman's womb before the fourteenth day of development. The HFEA also prohibits mixing human and animal ova and sperm, or the creation of a true hybrid, except for the testing of human sperm in IVF treatment. As no legislation existed in 2007 that addressed the creation of chimera or cytoplasmic hybrid embryos, the HFEA issued the consultation to assist in drafting such laws. 
+	
+
+	The consultation document notes that in the UK, the creation of any embryo in a laboratory without a license from the HFEA is a criminal offense. The Research License Committee of the HFEA reviews all applications for a license in context of UK legislation. In cases when the HFEA has a preexisting permit policy for specific areas of clinical work or research, the committee considers the ethical acceptability of the application. For the HFEA to accept the application, the committee must demonstrate that the application's aims fall within jurisdiction of the HFEA, and that the creation or use of embryos for the purpose of research could not be satisfied by other means. The section on legal background also lists actions that are legal and illegal under the Human Fertilisation and Embryology Act 1990, the ruling law on all use of human embryos in the United Kingdom in 2007. 
+	
+
+	Next, the "Legal Background" section notes that in December 2006, the Parliament of the United Kingdom published a white paper, or a government report, which recommended a ban on the creation of all types of chimera and hybrid embryos. The proposed ban also endorsed the creation of a regulation-making organization that would advise Parliament to permit the HFEA to license particular types of hybrid or chimera embryo research. The HFEA clarifies that no scientist, research team, or clinician had expressed interest in implanting any chimeric or hybrid embryo in a uterus for the purpose of gestating and producing live offspring. Even if they did, producing live chimeric or hybrid offspring would be illegal and punishable by law in the United Kingdom. 
+	
+
+The "Legal Background" section concludes with a review of other countries' policies about embryo use. Some countries forbid human embryo research of any kind, and therefore cytoplasmic hybrid embryo research has not affected their laws. Canada decided to ban the creation of true hybrid and cytoplasmic hybrid embryos in 2004, while Australia also prohibited the creation of all types of hybrid and chimera embryos in 2006.
+
+
+	Next, the "Ethical and Social Issues" section addresses moral issues about how researchers create  and use cytoplasmic hybrid embryos. The consultation document states that despite the subject's complexity, multiple, often strong, opinions, and continual debate, UK law had found a ground for compromise in the past on whether or not human embryos should be used and destroyed in scientific research. To facilitate discussion of the use of human embryos, the HFEA lists six types of laboratory-created embryos used in research. Scientists refer to embryos donated by IVF patients as spare embryos. Scientists define research embryos as those created through donated gametes. Cell nuclear replacement embryos, or CNR embryos, are those created through CNR using human ova. The term cytoplasmic hybrid embryo refers to CNR embryos using animal ova. Researchers define a true hybrid embryo as an embryo created through mixing human and animal gametes. Lastly, human embryos created through normal fertilization but are subsequently injected with animal cells are termed human chimera embryos.
+	
+
+	The remainder of the "Ethical and Social Issues" section provides arguments both for and against the various types of human-animal embryos. In opposition to the creation of human-animal embryos, the consultation document notes that some philosophers argue that social taboos makes such research morally repulsive. Some philosophers claim that because such reports are widespread and often deeply emotional, and that many people report those feelings, then the feelings have moral significance. Second, some people claim that human embryos have a special status, which is disrespected by adding animal cells or DNA to a human embryo. Others say that the creation of a hybrid or chimera violates human dignity, blurring the distinction between humans and animals. Though prohibited by law, some say that the prospect of having one of these hybrid or chimeric embryos implanted in a woman is enough to justify banning their creation altogether. 
+	
+
+The consultation document also adressed the concern that government approval of the technology could lead to the creation of cloned babies, or to subsequent permission to create any kind of human/animal embryo. Some worry that creating the embryos will potentially produce irreversible, immoral, or harmful results. Organizations, the document notes, can remedy the worry by enacting laws or policies to prevent publically disputable results. Lastly, some people morally opposed the use of animals or embryos in scientific research. The HFEA notes that as organizations already allow animals for research, the continued use of animals or embryos in research is not an argument that the HFEA will address in the consultation document. 
+
+
+Conversely, some say that utilitarian incentives would justify the creation of a human-animal embryo. Even if human embryos deserve respect and have greater moral status than other types of embryos, when the purpose of research will provide humanity with a greater good and improve the lives of many, their creation and use might be justified. For some, the search for potential benefits and for improving the lives of others may justify research using cytoplasmic hybrid embryos. Furthermore, some argue that creating cytoplasmic hybrid embryos saves the use of human ova. Some may consider cytoplasmic hybrid embryos as a more ethical source of cells than human embryos because animal ova are more accessible and plentiful, and researchers who use them will not expose women to risks and discomfort of ovum extraction. Lastly, some see no difference between cytoplasmic hybrid embryos and normal cell nuclear replacement using human ova and human nuclei. As the nuclear DNA is human, the resulting embryo has what some scientists consider a near negligible animal component. Within this view, some may ascribe to a distinction between cytoplasmic hybrid embryos and true hybrids, such that people consider cytoplasmic hybrid embryos as human, and true hybrids are not. 
+
+
+The fifth section of the consultation document, titled Your Views, provides a questionnaire for people to complete and return to the HFEA. Citizens are instructed to respond electronically on the HFEA's website to five questions about what type of embryo research should be legally permitted, licensing for particular types of research, what types of practices should be considered in the future, and what limits should be placed on human embryo research. The HFEA accepted responses for a period of three months, until 20 July 2007. The consultation document concludes with a section for further reading, a series of links on the HFEA, UK legislation on embryo use, and debates that advanced such legislation.
+
+
+	According to the HFEA, in October of 2007, responses to the consultation showed that the public opposed cytoplasmic hybrid research unless the HFEA tightly regulated the research. The public were also opposed unless the research of cytoplasmic hybrid embryos was likely to lead to scientific or medical advancements. In September of 2007, those in the HFEA met to reflect on the accumulated results of the consultation process. The meetings aimed to develop a legislative policy about engineering human-animal embryos. In October of 2007 after meeting and considering the opinions of the public, scientific community, and established legal parameters, the HFEA reported six general conclusions. First, the HFEA could legally license research involving cytoplasmic hybrid embryos. Second, the HFEA would not permit the creation of cytoplasmic hybrid embryos except under license granted by the HFEA. Next, they found no reason in principle to prevent cytoplasmic hybrid embryo research. Fourth, if the HFEA granted permission for such research, it would follow a general principle, which was that the Research License Committee would consider each application on an individual basis. Along with the fourth conclusion, the HFEA stated it would be inappropriate for it to decide about broader hybrid and chimera research at that time without more expansive data. Finally, the HFEA would watch for new technologies and practices that develop within the field, through what it calls its horizon-scanning programme. 
+	
+
+	The HFEA's consultation piece on hybrids and chimeras surveyed public and scientific opinions about how to shape policy on the creation of human-animal embryos for research purposes. It provided the public with scientific, legal, and ethical considerations, a questionnaire to return to the HFEA, and literature for further reading. Due to the feedback gained from the consultation, the HFEA decided to allow the creation of such embryos. With strict licensing and monitoring, the HFEA deems cytoplasmic hybrid embryos legally acceptable to create for some research purposes. 
+
+
+Sources
+
+Assisted Human Reproduction Act. Government of Canada. SC 2004, c 2. March 29, 
+2004. http://laws-lois.justice.gc.ca/eng/acts/a-13.4/ (Accessed April 28, 2014).
+
+Human Fertilisation and Embryology Act 1990. Chapter 37 (Passed 1 November 1990). http://www. legislation.gov.uk/ukpga/1990/37/contents" (Accessed September 13, 2014).
+
+
+Human Fertilization and Embryology Authority. "Hybrids and Chimeras: A Consultation 
+on the Ethical and Social Implications of Creating Human/Animal Embryos in Research." London: April, 2007. http://www.hfea.gov.uk/docs/Hybrids_Chimera_review.pdf (Accessed March 2, 2013)
+
+
+Human Fertilization and Embryology Authority. "HFEA Review of Hybrids and 
+Chimeras." London: October, 2007. http://www.hfea.gov.uk/519.html (Accessed March 24, 2013).
+
+Prohibition of Human Cloning for Reproduction and the Regulation of 
+Human Embryo Research Amendment Act 2006, 2006. Australia  Parliament, Act 172, 2006. http://www.comlaw.gov.au/Details/C2006A00172 (Accessed April 26, 2014).
+
+Department of Health. "Review of the Human Fertilisation and Embryology Act: 
+Proposals for Revised Legislation (Including Establishment
+of the Regulatory Authority for Tissue and Embryos)."  London: December, 2006.  http://webarchive.nationalarchives.gov.uk/20130107105354/http:/www.dh.gov.uk/en/Publicationsandstatistics/Publications/PublicationsPolicyAndGuidance/DH_073098?IdcService=GET_FILE&dID=135664&Rendition=Web (Accessed April 28, 2014)
+
+"Stephen Minger." Centre for 
+Commercialization of Regenerative Medicine. http://www.ccrm.ca/StephenMinger (Accessed April 28, 2014).
+
+
+
+How to cite
+Taddeo, Sarah,, Robert, Jason S., ""Hybrids and Chimeras: A Consultation on the Ethical and Social Implications of Creating Human/Animal Embryos in Research" (2007), by the HFEA". Embryo Project Encyclopedia (2014-11-04). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/8232.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+Copyright Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, November 5, 2014 - 01:20
+ Topic
+Subject
+Chimera; Chimerism; Great Britain. Human Fertilisation &amp; Embryology Authority; Human reproductive technology; Human cloning; Fertilization in vitro, Human; Stem cells; embryonic stem cells; Cloning; Human Fertilisation and Embryology Act 1990; Literature

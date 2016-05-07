@@ -1,0 +1,48 @@
+By Angel Lopez
+Published: 2010-10-11
+Keywords: Stem cells, Medicine, Cancer
+ Hematopoietic Stem Cells (HSCs)The discovery of hematopoietic stem cells (HSCs) provided a pioneering step in 
+		stem cell research. HSCs are a type of 
+		multipotent 
+		adult stem cell, characterized by their ability to self-renew and differentiate into erythrocyte (red blood cell) and leukocyte (white blood cell) cell lineages. In terms of function, these cells are responsible for the continual renewal of the erythrocytes, leukocytes, and platelets in the body through a process called 
+		hematopoiesis. They also play an important role in the formation of vital organs such as the liver and spleen during fetal development. The early biological knowledge obtained from the studies of HSCs established the base of knowledge for understanding other stem cell systems. In addition, these cells have a vital role in furthering stem cell research for clinical applications. 
+		Regenerative medicine is a field of medicine that has applied HSCs to the treatment of blood-borne diseases such as leukemia and lymphoma and of cancer patients undergoing chemotherapy. 
+Indications of blood-forming cells in humans first appeared in 1945 from studies on the citizens of Hiroshima and Nagasaki during 
+		World War II. After surviving the atomic bomb explosions, those individuals who had encountered low radiation exposure died over an extended period; later research indicated that they had a compromised hematopoietic system. Their compromised systems did not allow the individuals to produce sufficient leukocytes to fight nonpathogenic infections or enough platelets to prevent excessive bleeding. Subsequent research with mice explored the details behind this observed phenomenon. It was discovered that when mice were given minimal lethal dosages of radiation, they all died within two weeks due to the failure of their hematopoietic systems. This mirrored what had happened to the Japanese citizens. Curiously, another experiment demonstrated that mice were able to recover from irradiation if a single bone or their spleen was protected from radiation. Researchers also discovered that a mouse exposed to a lethal dose of radiation could be saved by infusing healthy cells from blood-forming organs of healthy mice. Since the mice were inbred, there was little risk of rejection of the transplant. This basic research revealed the important function of the hematopoietic system, including the bone marrow’s role in renewal of blood and immune cells, but did not identify the source of treatment or the mechanism by which the hematopoietic system is renewed.
+In 1956, three research groups discovered the source of renewal of the hematopoietic system in the irradiated mice. They concluded that the transplanted cells were directly responsible for rebuilding the blood-forming system rather than working indirectly by releasing factors that might help repair the compromised system of the host. In the 1960s 
+		James Till and 
+		Ernst McCulloch began assessing the radiation sensitivity of bone marrow in response to the growing use of radiation to treat cancer. Through an experiment that used genetically marked spleen cells, they discovered two characteristics that define an HSC: the property of self-renewal and the ability to differentiate into all cells of the erythrocyte and leukocyte lineage. 
+This early research mostly centered on differentiating HSCs from the other cells. One study identified two distinct types of HSCs: long-term and short-term stem cells. 
+		Long-term HSCs have the ability to self-renew for the life of the organism. 
+		Short-term HSCs are derived from long-term HSCs and are characterized by their ability to reproduce and proliferate in vivo for a few months. These cells are thus considered precursor cells—immature cells capable of differentiating into only one cell type. Distinguishing between short-term and long-term HSCs is important because long-term HSCs are the cells that have both scientific and clinical implications.
+Isolation of HSCs has been difficult mostly due to the resemblance of their morphological characteristics and behavior to that of white blood cells in culture. The “gold standard” for identifying the presence of HSCs originally entailed removal of a suspension of cells from a mouse with a healthy hematopoietic system and transplanting it into an irradiated mouse. If within a few months the irradiated mouse had a functional hematopoietic system, then the suspension was considered to have had stem cells in it. Increased knowledge about HSCs, however, has led to new methods. One way in which HSCs can be identified is to use specific cell surface proteins as markers. In 1992 Stanford University researcher 
+		Irving Weissman proposed a set of markers that can assist in identifying human HSCs. According to Weissman and his collaborators, the following cell surface proteins can be used to identify a human HSC: CD34+, CD59+, Thy1+, CD38-, C-kit-, and lin-. Using these cell surface proteins and a technique called fluorescence-activated cell sorting (FACS), stem cells can be isolated and separated from white blood cells. This technique uses fluorescent monoclonal antibodies that bind to the specific protein markers on the cell surface. After identification by fluorescence, HSCs can be isolated and produce a near 100% pure sample.
+There are several sources of hematopoietic stem cells in the human body. The first discovered source was the bone marrow, which was confirmed by Till and McCulloch. Very few HSCs can actually be extracted from bone marrow as only one in 10,000 cells is a long-term blood-forming cell. Another source of HSCs is in the peripheral blood (newly formed blood leaving the bone marrow). Low concentrations of HSCs normally circulate in the blood, but the concentration can be augmented through stimulation of the bone marrow by drugs or chemotherapy, resulting in 
+		mobilized peripheral blood (MPB). MPB contains a much higher concentration of HSCs than does peripheral blood. In the late 1980s HSCs were also discovered in umbilical cord blood (
+		UCB stem cells). Similar to MPB, umbilical cord blood is rich in HSCs, but only a small amount of blood can be obtained from an umbilical cord. Nevertheless, another source for HSCs was discovered by an Israeli scientist in 1999, who demonstrated that 
+		human embryonic stem cells could be induced to differentiate into HSCs. 
+In addition to providing basic understanding for other stem cell systems, HSCs have major clinical applications. Since 1959 HSCs have been clinically used in regenerative medicine for the treatment of cancer patients undergoing chemotherapy as well as some blood-borne diseases. The most prominent procedure that uses HSCs is 
+		hematopoietic stem cell transplantation (HSCT). In this 
+		tissue engineering technique, a healthy donor provides HSCs to a host in order to renew the recipient’s hematopoietic system. The most commonly used source of HSCs for these procedures is mobilized peripheral blood, which is easy to acquire from a donor, compared to using bone marrow as a source. More research is in progress to discover more applications of HSCs including treatment for rheumatoid arthritis and systemic lupus erythematosis. Other research seeks to determine whether these stem cells can differentiate into cells of different organs such as the heart and liver.
+
+Sources
+Kraft, Daniel L., and Irving L. Weissman. “Hematopoietic Stem Cells: Basic Science to Clinical Applications.” In Stem Cells: From Bench to Bedside, eds. Ariff Bongso and Eng Hin Lee, 253–292. Hackensack, NJ: World Scientific, 2005.
+National Institutes of Health. “Regenerative Medicine.” U.S. Department of Health and Human Services. (2006). http://stemcells.nih.gov/info/2006report/ (Accessed September 20, 2009).
+National Institutes of Health. “Stem Cells: Scientific Progress and Future Research Direction.” U.S. Department of Health and Human Services. (2001). http://stemcells.nih.gov/NR/exeres/3E41E0AE-C73C-4842-ADE8-83A17CD7563B,frameless.htm?NRMODE=Published (Accessed September 20, 2009).
+
+
+How to cite
+Lopez, Angel, "Hematopoietic Stem Cells". Embryo Project Encyclopedia (2010-10-11). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/1960.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 25, 2013 - 15:53
+ Topic
+Subject
+Hematopoietic Stem Cells; Hematopoietic stem cells; Concept

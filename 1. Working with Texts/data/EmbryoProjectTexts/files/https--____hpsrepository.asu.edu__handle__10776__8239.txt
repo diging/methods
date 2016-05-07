@@ -1,0 +1,241 @@
+By M. Elizabeth Barnes
+Published: 2014-11-14
+Keywords: developmental constraints, von Baer's Laws, adaptationism
+ "The Spandrels of San Marco and the Panglossian Paradigm: A Critique of the Adaptationist Programme" (1979), by Stephen J. Gould and Richard C. Lewontin"The Spandrels of San Marco and the Panglossian Paradigm:
+	A Critique of the Adaptationist Programme," hereafter called
+	"The Spandrels," is an article written by Stephen J. Gould and
+	Richard C. Lewontin published in the Proceedings of the Royal
+	Society of London in 1979. The paper emphasizes issues with
+	what the two authors call adaptationism or the adaptationist
+	programme as a framework to explain how species and traits evolved. The paper
+	is one in a series of works in which Gould emphasized the
+	role of development in evolutionary theories. The article suggests
+	that constraints on how organisms can develop and constraints on how species can evolve from others play a
+	central role in explaining how species and traits evolve. The
+	authors note that organisms from different species develop as
+	embryos through stages similar across species, genera, and higher
+	classes. Gould and Lewontin hypothesize that those stages
+	constrained the possible pathways of evolution and has therefore
+	guided the history of life. Throughout the paper, the authors rely on analogy of some parts of organisms to architectural structures called spandrels, marked in this image as 'a'.
+Gould and Lewontin both worked at Harvard
+	University in Cambridge, Massachusetts, from 1967 until 2002 when
+	Gould died of lung cancer. When "The Spandrels" was published in
+	1979, Gould had already published Ontogeny and Phylogeny,
+	which explores the relationship between how organisms develop and
+	how species evolved from other species.
+During this time, Lewontin studied how constraints on how organisms can develop (developmental constraints) related to the
+	diversification of species from one another. Gould and Lewontin challenged the use of
+	adaptation stories to explain how all of organisms' traits evolved,
+	and they  warned the scientific community against a theory of
+	biological determinism. Proponents of biological determinism, which
+	is the claim that many organisms' traits are determined primarily by
+	their genetic makeup, argued that evolution could explain social
+	behaviors such as altruism and aggression. Theories of biological
+	determinism worried Gould and Lewontin because, in the past,
+	individuals with similar theories had used them to justify
+	violations of civil rights, based on claims that some people in some populations had innate criminality or poor
+	intellect, whereas people in other populations did not. An example was the eugenic movement at the beginning of
+	the twentieth century, when many people were sterilized against
+	their will to prevent those who were seen as weak or feeble minded
+	from reproducing. But in addition to their concerns about biological
+	determinism, Gould and Lewontin noted that biologists
+	continually disregarded non-selective forces like phyletic and
+	developmental constraints when they described the history of life on
+	earth. Gould and Lewontin argued that these forces shaped the diversity of life.
+Gould and Lewontin described
+	the adaptationist program as a framework with which researchers described the causes
+	of particular forms and functions in animals, which those researchers conceived as
+	collections of separate parts. According to Gould and Lewontin, the adaptationist
+	program, each part of an organism had a particular shape due to the
+	action of natural selection. Adaptationists created  evolutionary stories
+	without collecting any evidence about how traits actually evolved,
+	and Gould and Lewontin described this procedure as making up just-so
+	stories. The authors argued that this explanatory method 
+	falters often because it ignores constraints, which limit the number of
+	possible forms into which organisms can develop. Furthermore, the authors
+	claimed that constraint theories often provide better explanations of
+	structure and function than adaptationist theories do. 
+"The Spandrels" has six sections. The
+	first three sections describe Gould and Lewontin's interpretation of
+	the adaptationist program. The last three sections offer
+	an alternative interpretation of evolutionary processes by pointing
+	to phyletic and developmental constraints as main causes of the
+	evolution of traits.
+In the introduction, Gould and Lewontin
+	describe what they call the shortcomings of the adaptationist
+	program using an analogy. The authors describe the spandrels in the
+	church of St. Mark's Cathedral in Venice, Italy. After the cathedral was built, artists painted images in the spandrels. 
+	If we investigated the spandrels without that information, we might conclude that the architects designed the cathedral to have spandrels to bear images. Spandrels, then, provide an example of
+	how something that looks intricately designed may lead us to
+	believe that architects purposefully created the spandrels for the
+	decorations themselves. However, Gould and Lewontin note that the
+	spandrels result when builders place a domed ceiling upon a square room
+	that has arched doorways, and although spandrels only exist for structural
+	purposes, they also host artistic decorations. Anytime a building
+	has domed ceiling on a square room with arched doorways, the
+	structure will have spandrels.
+	Lewontin and Gould argue that if we understand the origin of the spandrels, then we can analogously understand the origin of some biological structures.
+	Maybe, Gould and Lewontin hypothesize, developmental constraints are
+	the cause of many traits, as they explain the origin of particular
+	traits better than does adaptation, just as architectural
+	constraints explain the origin of spandrels better than does the
+	intricate artwork inside them.
+In sections two and three,
+	Gould and Lewontin claim that adaptationists see natural selection
+	as the only and all-powerful force that can overcome any constraint
+	to species' traits. The authors compare the
+	adaptationists view to the character of Dr. Pangloss, a parody of
+	Gottfried W. von Leibniz in one of Voltaire's 1759 pamphlets. In the
+	story, Dr. Pangloss, a naive optimistic philosopher, claims that our
+	world is the best of all possible worlds. Like Dr. Pangloss,
+	adaptationists are naive according to Gould and Lewontin. They
+	say that adaptationists naively atomize organisms into particular
+	traits and then provide optimality stories about how those parts evolved. If an optimality story
+	proves false, the adaptationists then set another optimality
+	story instead of exploring the different possibilities that do not
+	involve adaptation.
+In the fourth section of the article,
+	Gould and Lewontin describe how Charles Darwin's 1859 theory of
+	evolution is similar to their view and not to adaptationists'
+	approaches. The authors note that Darwin consistently showed a
+	pluralistic approach to the causes of evolution, considering several alternatives to natural selection. Gould and
+	Lewontin argue that Darwin did not claim that natural selection was
+	the only important cause of evolution.
+In the fifth
+	section of the article, Gould and Lewontin highlight several
+	instances in which adaptation is not the primary cause of the form and
+	function of particular traits.  According to the authors,
+	selection does not necessarily result in a trait being adapted to the environment, whereas
+	adaptation cannot occur without selection. The authors point to
+	genetic drift, an evolutionary process due to random mating in finite populations, as
+	a process that requires neither selection nor adaptation. Furthermore,
+	the authors show that selection without adaptation can occur in the
+	hypothetical scenario where a mutation doubles the amount of
+	offspring an organism can birth at once. The mutation would spread
+	throughout the population, but if environmental resources didn't
+	also double, then parents in the evolved population would have no
+	more offspring than parents in the ancestral population, and thus
+	would be no better adapted to their environment. Also, adaptation
+	without selection occurs when the environment itself physically
+	causes adaptive traits. For example, the currents in the ocean
+	physically change sponges and corals. These changes, although not
+	selected, increase the chances of survival of the organisms. Gould
+	and Lewontin highlight the difficulties in distinguishing the origin
+	of a part adapted to its environment, because that part might have been
+	originally adapted for a different function than it later serves,
+	and it might have undergone multiple adaptations for different
+	functions throughout the evolutionary history of the species.
+The final section of the article proposes a theory of how species
+	evolve with developmental constraints. The authors stress the
+	importance of integrating developmental constraints with adaptive
+	explanations into evolutionary biology. Additionally, they discuss
+	the concept of body plan or Bauplan, which is analogous to a
+	blue print by which an organism develops. For instance, humans are poorly
+	adapted to walking on two legs, because
+	the majority of the human Bauplan has evolved for walking on arms and legs, as apes do. Proponents of the Bauplan consider organisms as
+	integrative wholes, not as mere collections of parts.
+To support
+	their claim that developmental constraints operate in
+	evolutionary processes, Gould and Lewontin describe Karl Ernst von
+	Baer's 1828 embryological laws. Von Baer's laws state that early
+	developmental stages are highly conserved throughout species,
+	meaning that there are not many changes made early on in the
+	development of organism from across many animal species.  Changes
+	made early in development will accumulate and affect all systems in
+	later stages of development so that, if a change occurs at early
+	stages, it can disrupt the further development of the organism. The
+	authors state that this conservation leads to developmental
+	constraints, and they claim that there are a limited number of
+	developmental pathways an organism can follow without dying. Therefore, organisms are constrained to a particular
+	evolutionary pathway.
+Gould and Lewontin conclude their
+	article by emphasizing that the adaptationists' theory is not
+	compatible with the theory of organisms as integrative wholes. In
+	early developmental stages, an organism cannot be pulled apart piece
+	by piece into different traits that can then each be described for a
+	specific function. All parts of a system depend upon one
+	another. Small changes to the Bauplan can be explained by
+	adaptation, but adaptation cannot explain the origin of variation between individuals within the same species.
+"The Spandrels"
+	prompted Gould and Elisabeth Vrba to publish a further article in
+	1982, suggesting the term exaptation to describe a trait once
+	adapted for a function but that natural selection has remodeled for
+	a different use.
+ Sources Amundson, Ron.
+		"Two Concepts of Constraint: Adaptationism and the Challenge
+		from Developmental Biology." Philosophy of Science 61
+		(1994): 556–578.
+Bendall, Derek S., and Patrick Forber.
+		"Spandrels and a pervasive problem of evidence." Biology and
+		Philosophy 24 (2009): 247–66.
+Darwin, Charles.
+		On the Origin of Species by Means of Natural Selection.
+		London: John Murray, 1859. http://dx.doi.org/10.5962/bhl.title.68064 (Accessed October 9, 2014).
+Davidson, Thomas. Chambers's Twentieth Century Dictionary
+		of the English Language. London: W. & R. Chambers, 1903.
+		
+		https://archive.org/details/chambersstwentie00daviiala
+		(Accessed April 3, 2014).
+Dawkins, Richard. "Universal
+		Darwinism." Evolution from Molecules to Man. Ed. Derek
+		S. Bendall. Cambridge: Cambridge University Press,
+		1983: 403–25.
+Gould, Stephen J., and Richard C. Lewontin. "The
+		Spandrels of San Marco and the Panglossian Paradigm: A Critique
+		of the Adaptationist Programme." Proceedings of the Royal
+		Society of London 205 (1979): 581–98. http://rspb.royalsocietypublishing.org/content/205/1161/581.abstract (Accessed November 11, 2014).
+Gould,
+		Stephen J. "The evolutionary biology of constraint."
+		Daedalus 109 (1980): 39–52. http://www.jstor.org/stable/20024665 (Accessed November 12, 2014).
+Mayr, Ernst. "How
+		to Carry Out the Adaptationist Program?" The American
+		Naturalist 121 (1983): 324–34.  http://www.jstor.org/stable/2461153 (Accessed November 12, 2014).
+McKitrick, Mary.
+		"Phylogenetic Constraint in Evolutionary Theory: Has It Any
+		Explanatory Power?" Annual Review of Ecological Systems
+		24 (1993): 307–30. http://www.jstor.org/stable/2097181 (Accessed November 12, 2014).
+Orzack, Steven H., and Patrick
+		Forber, "Adaptationism." The Stanford Encyclopedia of
+		Philosophy. http://plato.stanford.edu/archives/win2012/
+		entries/adaptationism/ (Accessed January 15, 2013).
+Pigliucci, Massimo and Jonathan Kaplan. "The fall and rise
+		of Dr. Pangloss: adaptationism and the Spandrels paper 20 years
+		later." Trends In Ecology and Evolution 15 (2000):
+		66–70.
+Smith, J. Maynard, Richard Burian, Stuart
+		Kauffman, Pere Alberch, John Campbell, Brian Goodwin, Russell
+		Lande, David Raup, and Lewis Wolpert. "Developmental constraints
+		and evolution: a perspective from the Mountain Lake conference
+		on development and evolution." Quarterly Review of
+		Biology (1985): 265–87. http://www.jstor.org/stable/2828504 (Accessed November 12, 2014).
+Sober, Elliot. "Evolution
+		and optimality: feathers, bowling balls, and the thesis of
+		adaptationism." Philosophic Exchange 26 (1996):
+		41–55.
+Sober, Elliot. Philosophy of Biology, 2nd
+		ed. Boulder: Westview, 2000. 121–47.
+Voltaire.
+		Candide ou l'Optimisme. Paris: Cramer, 1759. 
+		https://archive.org/details/candideouloptim02voltgoog
+		(Accessed April 17, 2014).
+von Baer, Karl Ernst. Über
+		Entwickelungsgeschichte der Thiere. Beobachtung und
+		Reflexion [On the Developmental History of Animals.
+		Observation and Reflection]. Königsberg: Bornträger, 1828. http://www.biodiversitylibrary.org/item/28306#page/7/mode/1up (Accessed November 12, 2014).
+
+
+How to cite
+Barnes, M. Elizabeth, ""The Spandrels of San Marco and the Panglossian Paradigm: A Critique of the Adaptationist Programme" (1979), by Stephen J. Gould and Richard C. Lewontin". Embryo Project Encyclopedia (2014-11-14). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/8239.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+Copyright Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Thursday, November 20, 2014 - 22:36
+ Topic
+Subject
+ Gould, Stephen Jay. Spandrels of San Marco and the Panglossian Paradigm; Gould, Stephen Jay; Lewontin, Richard C., 1929-; Evolution; adaptation; Spandrels; Harvard University; Baer, Karl Ernst von, 1792-1876; Literature

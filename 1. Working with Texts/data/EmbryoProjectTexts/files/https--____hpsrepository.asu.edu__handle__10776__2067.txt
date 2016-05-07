@@ -1,0 +1,50 @@
+By Tristan Cooper-Roth
+Published: 2010-09-12
+Keywords: Estrogen, Human development
+ The Effects of Diethylstilbestrol on Embryonic Development
+		Estrogen plays a key role in the regulation of gene transcription. This is accomplished by its ability to act as a ligand and to bind to specific 
+		estrogen receptor (ER) molecules, such as ERα and ERβ, which act as nuclear transcription factors.  There are three major nuclear estrogen receptor protein domains: the estrogen binding domain, the protein interaction domain, and the DNA binding domain.  The domain responsible for the regulation of transcription is the DNA binding domain, which binds to DNA sequences called estrogen-responsive elements (EREs), found in enhancer regions of specific genes. By the binding of estrogen or an estrogen mimic to these enhancers, the target genes become activated and the proteins produced are involved in numerous cellular processes. With an estrogen mimic or 
+		xenoestrogen, such as diethylstilbestrol (DES), the negative regulation of certain genes during embryonic development can be devastating to the developing anatomy, especially the reproductive system. 
+DES was first synthesized by 
+		Sir Charles Dodds and colleagues in 1938, two years after their creation of a similar chemical named 
+		bisphenol A (BPA). DES was also found to be an effective estrogen mimic, and was mainly prescribed to pregnant women to alleviate hormonal imbalances that could potentially lead to miscarriage or premature labor. Advertised as a “miracle drug,” this artificially synthesized xenoestrogen in fact produced in serious side effects in developing fetuses, side effects that the US 
+		Food and Drug Administration (FDA) failed to identify. 
+A controlled, double-blind study involving 1,646 women at the 
+		University of Chicago, conducted by 
+		William J. Dieckmann and colleagues in 1953, showed that DES provided no improvement to pregnancy outcome. Even with this evidence, doctors continued to prescribe the drug for use during pregnancy for almost another two decades. Then in 1971 
+		Arthur Herbst and 
+		Robert Scully published the results of a study of women who had been exposed to DES during their eighteenth week of development in the womb. Herbst and Scully found clear cell adenocarcinoma (CCA) of the vagina and the cervix of many of these now-adult women. CCA in young women came as a rather odd finding because this type of cancer is rarely seen in younger women. The basis for an apparent association between DES exposure in utero and a potential genital abnormality was then established, thus giving ample reason for its banning by the FDA in 1971. An estimated one million fetuses were exposed to DES between the years 1947 to 1971, providing a paradigmatic model of how synthesized chemicals disrupt endocrine functionality and negatively affect sexual organ development in utero. 
+
+Specific regions, such as the 
+		mullerian duct in the female reproductive system, develop by the dictation of HOXA gene expression. 
+		Hox genes, found on human chromosome 7, are a conserved group of genes that specify axis and pattern formation during embryonic development. Specifically, HOXA-9, 10, 11, and 13 are responsible for pattern formation in the female reproductive system. To understand how xenoestrogens affect sexual development, in respect to these genes, 
+		Gail V. Benson and colleagues studied the effects of DES on the female mouse reproductive tract in 1996. They found that DES-affected female offspring had an altered Hoxa-10 expression in the mullerian duct. They then pinpointed where DES affects the female reproductive system by finding Hoxa-10 repression predominantly in the 
+		mesenchyme of the oviduct. By this repression, the proximal quarter of the uterus transforms into oviduct tissue, which results in a deformity between the uterus and the oviduct. 
+The mechanism behind Hoxa-10 gene repression in these regions can be linked to 
+		Wnt protein signaling. The Wnt7a protein, responsible for cell proliferation and the prevention of 
+		apoptosis, is found in the epithelium and communicates with Hoxa-10 in the mesenchyme to become transcriptionally active. Wnt7a also induces expression of the Wnt5a gene, which encodes for a protein responsible for cell proliferation, as well as the maintenance of Wnt7a gene expression. With DES inducing a hyperestrogenic state upon the developing embryo, the Wnt7a pathway becomes repressed leading to the repression of Hoxa-10 and Wnt5a. This then leads to improper cell specification and disorganization of the smooth muscle through uterine cell death. 
+The Wnt pathway may also play a role in regulating embryonic development epigenetically by means of 
+		DNA methylation. DNA methylation directly affects the stability of the chromosome and gene expression by the addition of methyl groups to the DNA backbone. The effects of DNA methylation on female mice were tested by 
+		Sheng Li and colleagues in 2003. They showed that DES exposure to mice during the critical stages of sexual reproductive organ development in utero resulted in abnormal DNA methylation patterns in the promoters of estrogen responsive genes. This leads to an unusual expression of genes in these organs. Abnormal DNA methylation patterns are also seen in tumors, such as clear cell adenocarcinoma.
+
+Sources
+Gail V. Benson, Hyunjung Lim, B. C. Paria, Ichiro Satokata, Sudhansu K. Dey, and Richard L. Maas. “Mechanisms of Reduced Fertility in Hoxa-10 Mutant Mice: Uterine Homeosis and Loss of Maternal Hoxa-10 expression.” Development 122 (1996): 2687–96.
+Gilbert, Scott F. Developmental Biology, 8th ed. Sunderland, MA; Sinauer Associates, 2006, 671–72.
+Li, Sheng, S. D. Hursting, B. J. Davis, J. A. McLachlan, and J. C. Barrett. “Environmental Exposure, DNA Methylation and Gene Regulation: Lessons from Diethylstilbestrol-Induced Cancers.” Annals of the New York Academy of Sciences 983 (2003): 161–69.
+
+
+How to cite
+Cooper-Roth, Tristan, "The Effects of Diethylstilbestrol on Embryonic Development". Embryo Project Encyclopedia (2010-09-12). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/2067.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 25, 2013 - 15:53
+ Topic
+Subject
+Diethylstilbestrol; Diethylstilbestrol; Concept

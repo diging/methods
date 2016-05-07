@@ -1,0 +1,52 @@
+By Steve Elliott
+Published: 2010-06-10
+Keywords: Sea urchins, Parthenogenesis
+ “On the Nature of the Process of Fertilization and the Artificial Production of Normal Larvae (Plutei) From the Unfertilized Eggs of the Sea Urchin,” by Jacques Loeb
+Jacques Loeb developed procedures to make 
+		embryos from unfertilized 
+		sea urchin eggs in 1899. Loeb called the procedures “artificial parthenogenesis," and he introduced them and his results in “On the Nature of the Process of Fertilization and the Artificial Production of Norma Larvae (Plutei) from the Unfertilized Eggs of the Sea Urchin” in an 1899 issue of The American Journal of Physiology. In 1900 Loeb elaborated on his experiments. Following those publications, however, he discovered he had used inaccurately labeled salts and redid his experiments to determine the correct amount of salts needed for artificial parthenogenesis.
+Loeb’s experiments reinforced his 
+		mechanistic thinking and his idea that scientific explanation of a phenomenon resulted from experimental control of that phenomenon, both detailed in his 
+		Mechanistic Conception of Life.  Furthermore, Loeb’s experiments were a landmark for scientists’ understandings of the earliest stages of 
+		development. For example, Loeb showed that contrary to others’ suggestions, development for some species was a process distinct from fertilization by spermatozoa, and as such, was not the effect of the spermatozoa’s heritability “factors.” 
+Loeb had noticed prior to his artificial parthenogenesis experiments that various mixtures of salt water affected segmentations of fertilized eggs and caused frogs’ muscles to beat when those mixtures were the immediate environs of the eggs and muscles.  
+		Thomas Hunt Morgan also used salt water mixtures of potassium chloride to cause unfertilized sea urchin eggs to segment without developing into 
+		blastulae.  Loeb’s goal for his experiments was to make sea urchin
+plutei, at that time the most developed stage that embryos could reach in a laboratory, using different salt water treatments.  
+Loeb experimented with potassium chloride, calcium chloride, sodium chloride, and magnesium chloride solutions. At the 
+		Marine Biological Laboratory in Woods Hole, Massachusetts, he used sea urchins of the type 
+		Arbacia. He placed sea urchin eggs in a solution of 5000 (10/8)n magnesium chloride and 5000 cubic centimeters of normal salt water for two hours. Next he washed the eggs with normal salt water and placed them into a solution of normal salt water.  Some of the eggs developed to the blastula stage, some of these developed further to the 
+		gastrula stage, and some of those made it to the pluteus stage, though the development to the pluteus stage took longer than fertilized eggs. Loeb concluded that the egg cells contained all the essential elements for plutei. At the end of his report Loeb speculated that scientists might be able to extend artificial parthenogenesis, the name for human-caused development of unfertilized eggs, to mammals.
+Loeb elaborated on his experiments in his 1900 “On the Artificial Production of Normal Larvae from the Unfertilized Eggs of the Sea Urchin (Arbacia),” published in The American Journal of Physiology.  In it, Loeb outlined nine series of experiments he employed to determine which salt-water mixtures and lengths of time best induced parthenogenesis.  The best results came from submerging the eggs in a given mixture for a period, removing them and washing them with normal sea water, then submerging them in normal sea water.   
+Loeb determined three conditions were necessary for artificial parthenogenesis.  First, the salt water for the experiments’ first stage had to be hypertonic, meaning higher osmotic pressures than normal sea water. Second, the salt water had to have more magnesium ions than normal sea water. Finally, the salt water needed fewer ions of other salts than normal sea water. Even when he met those conditions, Loeb had difficulty making healthy embryos: until later experiments he failed to cause the formation of the fertilization ring around a newly fertilized egg, a characteristic of fertilization in sea urchin eggs.  
+By the last of his series of experiments, Loeb induced sea urchin eggs to develop parthenogenetically into healthy plutei, even without the fertilization rings. In his article, Loeb discussed at length the precautions and control tests he used to prevent sea urchin sperm from contaminating his samples.  
+Loeb concluded that magnesium chloride best caused artificial parthenogenesis, and that questions of fertilization belonged to physico-chemical inquiry and not to morphological inquiry. Furthermore, he argued his results showed that the fertilization qualities of spermatozoa differed from the spermatozoa’s transmission of hereditable factors. Loeb’s 1899 experiments became the basis for his 1913 book 
+Artificial Parthenogenesis and Fertilization.   
+	Loeb failed to reproduce his results when he traveled to Pacific Grove, California, to work for the winter months at Stanford University’s 
+	Hopkins Marine Station.  Using the eggs of a sea urchin species indigenous to the Bay Area, 
+	Strongylocentrotus, he discovered he used inaccurately labeled salts in his 1889 experiments. He then repeated his experiments and published the new results in “
+	Further Experiments on Artificial Parthenogenesis and the Nature and Process of Fertilization”.  
+
+Sources
+Loeb, Jacques. “On the Nature of the Process of Fertilization and the Artificial Production of Normal Larvae (Plutei) from the Unfertilized Eggs of Sea Urchins.”  The American Journal of Physiology 3 (1899): 135–38. 
+Loeb, Jacques.  “On the Artificial Production of Normal Larvae from the Unfertilized Eggs of the Sea Urchin (Arbacia).” The American Journal of Physiology 3 (1900): 434–71; reprinted in Jacques Loeb, Studies in General Physiology. Chicago: Chicago University Press, 1905: 575–623.  
+Loeb, Jacques. “Further Experiments on Artificial Parthenogenesis and the Nature of the Process of Fertilization.” The American Journal of Physiology 4 (1900): 178–84; reprinted in Jacques Loeb, Studies in General Physiology. Chicago: Chicago University Press, 1905: 638–45.  
+Loeb, Jacques.  The Mechanistic Conception of Life.  Ed. Donald Fleming. Cambridge,	MA: Harvard University Press, 1964. 
+Pauly, Philip. Controlling Life: Jacques Loeb and the Engineering Ideal in Biology. New York: Oxford University Press, 1987.
+
+
+How to cite
+Elliott, Steve, ""On the Nature of the Process of Fertilization and the Artificial Production of Normal Larvae (Plutei) From the Unfertilized Eggs of the Sea Urchin" (1899), by Jacques Loeb". Embryo Project Encyclopedia (2010-06-10). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/1976.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 25, 2013 - 15:53
+ Topic
+Subject
+Parthenogenesis; Loeb, Jacques, 1959-1924; Experiment

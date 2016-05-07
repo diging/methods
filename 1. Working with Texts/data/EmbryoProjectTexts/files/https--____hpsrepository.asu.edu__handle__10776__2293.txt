@@ -1,0 +1,45 @@
+By Jack Resnik
+Published: 2012-01-01
+Keywords: Congenital disorders, US Supreme Court, Government
+ Bowen v. American Hospital Association (1986)The 1986 US Supreme Court decision Bowen v. American Hospital Association rejected the federal government's use of Section 504 of the Rehabilitation Act of 1973 to intervene in a hospital's treatment for neonates born with severe congenital defects. This case set a precedent for the role of government involvement in cases where parents refused consent for care of disabled newborns.
+The American Hospital Association (AHA), joined by the American Medical Association (AMA), brought the suit against the US Department of Health and Human Services (HHS) and its then-director Otis R. Bowen, to have a series of requirements for neonatal care struck down. These requirements—the first set of Baby Doe Rules—were created by the HHS and US President Ronald Reagan's Administration in 1983. The Rules mandated that all federally funded hospitals provide maximal treatment to handicapped infants and report any case where parental consent is withheld if medical neglect is suspected. However, in a 5 to 3 decision, the US Supreme Court ruled that Congress never intended for Section 504 to address an infant's civil rights, and that the clause cannot be invoked without evidence of discrimination.
+The AHA first brought suit against the HHS in US District Court of New York in March 1984. The lawsuit came as a challenge to provisions issued by the HHS entitled the Baby Doe Rules. The HHS issued the Rules in response to the high-profile case of Baby Doe, a baby born with Down syndrome and other severe deformities. In 1982, Baby Doe's situation caught national attention when the parents, with the advice of their physicians, chose not to perform life-saving surgery. Baby Doe instead received medication to reduce suffering, but received no food or water. Baby Doe died of dehydration several days after birth, but not before the Reagan Administration, buoyed by pro-life and disability groups, began to draft a federal policy for intervening in such cases.
+On 3 March 1983, eleven months after Baby Doe's death, the HHS issued its interim set of Baby Doe Rules based on Section 504 of the Rehabilitation Act of 1973. The Act prohibits any program or position that receives federal funding from discriminating against disabled persons. Section 504 declares in part that,
+"[n]o otherwise qualified handicapped individual…shall, solely by reason of his handicap, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any program or activity receiving federal financial aid assistance." 
+The policy proposed by the HHS would have forced every public hospital to post signs throughout neonatal wards detailing the law and providing a 24-hour phone number that allowed individuals to anonymously report possible cases of neglect. State child protective agencies would also have had to establish systems to monitor and prevent impaired neonates from medical neglect. For reported cases, the policy enabled HHS and state agencies to investigate and gave unhindered access to pertinent medical records.
+If the investigation teams determined that the hospital was withholding potentially life-saving procedures or nutrition, the policy then required the HHS and state child protective agencies to intervene immediately. If a hospital failed to act, it could potentially lose funding. The structure of the Baby Doe Rules heavily favored treatment, and the only exceptions to such a course were if the infant was irreversibly comatose, if treatment would only prolong the inevitability of death, or if the treatment was inhumane.
+The regulations encountered opposition from medical groups almost immediately. In April, the American Academy of Pediatrics sued the HHS in US District Court in Washington, DC to stop the interim rules. The ruling, American Academy of Pediatrics v. Heckler, invalidated the HHS provisions on the grounds that they did not allow for relevant procedures outlined in the Administrative Procedures Act, but did not directly take issue with what the rules required. As the suit against Heckler did not directly challenge the Baby Doe Rules, Reagan and the HHS drafted an almost identical set of rules by July 1983, this time in accordance with federal procedure.
+In January of 1984, the government issued its final version of Baby Doe regulations. By March, the AHA and AMA took their suit on the final Rules to US District Court in New York. The court, and later the Second Circuit Court of Appeals, both ruled in favor of the AHA, declaring the regulations unlawful. Upon further appeal by the Reagan Administration, the case reached the US Supreme Court in early 1986. In its suit, the AHA addressed the applicability of Section 504 of the Rehabilitation Act of 1973 to the final Baby Doe Rules, and did not specifically challenge the rule itself. HHS Director Otis J. Bowen, however, contended that non-treatment due to lack of parental consent, as well as a hospital's failure to report such an incident, would violate Section 504 and thereby justify federal oversight.
+However, in the majority opinion fielded delivered by Justice John Paul Stevens, the court ruled that both of Bowen's justifications were unfounded. Joined by Justices Thurgood Marshall, Harry Blackmun, Lewis F. Powell, Jr., and Warren E. Burger, the court observed that cases of withheld treatment were exclusively ones where no parental consent was given, and precisely because no consent was given, the neonates were not denied hospital care purely due to handicap. Furthermore, the decision also held that by requiring state agencies to allocate employees and resources to enforce the Baby Doe Rules, the HHS had overstepped its jurisdiction. Finally, the majority concluded that the naïveté shown by the HHS in propagating these rules, as well as the dearth of evidence that any discrimination actually occurred, made the usage of Section 504 an invalid one. Chief Justice Warren E. Burger concurred.
+Justices Byron White, Sandra Day O'Connor, and William J. Brennan dissented. Justices White and Brennan believed that the Supreme Court should have remanded the case to the Second Circuit Court of Appeals to clarify a part of the Second Circuit's earlier decision. Justice O'Connor, however, wrote that the HHS did, in fact, have the jurisdiction to mandate the Baby Doe Rules.
+Although the decision rendered by the Burger Court set a precedent for parental rights of consent and the ability of government to intervene in medical care, it ultimately did not stop the Reagan Administration from presenting Congress with a set of Baby Doe Rules. Those rules, added as a 1984 amendment to the Child Abuse Prevention and Treatment Act of 1974, have changed little from those propagated by the HHS. The Baby Doe Rules also do not make allowances for medical decisions aimed for comfort and not treatment. Health care providers have largely complied with the newest set of Baby Doe Rules and the debate that once raged has since diminished.
+
+Sources
+Administrative Procedures Act, 5 U.S.C. 500 et seq, P.L. 79–404 (1946).
+American Hospital Association v. Heckler, 585 F.Supp. 541 (D.N.Y. 1984).
+American Academy of Pediatrics v. Heckler, 561 F.Supp. 395 (D.D.C. 1983).
+Annas, George J. "The Baby Doe Regulations: Governmental Intervention in Neonatal Rescue Medicine." American Journal of Public Health 74 (1984): 618–20.
+Bowen v. American Hospital Association, 476 U.S. 610 (1986). http://scholar.google.com/scholar_case?q=Bowen+v.+American+Hospital+Association,+476+U.S.+610+(1986).&hl=en&as_sdt=806&case=8505748306076031074&scilh=0 (Accessed January 9. 2014).
+Child Abuse Prevention and Treatment Act, 42 U.S.C. 5101 et seq (1974).
+Finkelman, Paul. Encyclopedia of American Civil Liberties. New York: Routledge, 2006.
+Keeping Children and Families Safe Act of 2003, 42 U.S.C. 5101 (2003).
+Kopelman, Loretta M. "The Best Interests Standard for Incompetent or Incapacitated Persons of All Ages." Journal of Law, Medicine & Ethics (2007): 187–96.
+Rehabilitation Act of 1973, P.L. 93–112 § 504 (1973).
+Stevenson, David K., Ronald L. Ariagno, Jean S. Kutner, Thomas A. Raffin, and Ernle W. D. Young. "The 'Baby Doe' Rule." Journal of the American Medical Association 255  (1986): 1909–12.
+
+
+How to cite
+Resnik, Jack, "Bowen v. American Hospital Association (1986)". Embryo Project Encyclopedia (2012-01-01). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/2293.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Thursday, January 9, 2014 - 22:09
+ Topic
+Subject
+  Law

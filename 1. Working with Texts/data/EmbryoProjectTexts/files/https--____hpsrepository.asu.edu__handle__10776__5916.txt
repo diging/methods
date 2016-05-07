@@ -1,0 +1,144 @@
+By Lindsey O'Connell
+Published: 2013-07-10
+Keywords: recapitulation, Laws of Development, Meckel-Serres law
+ The Meckel-Serres Conception of RecapitulationJohann Friedrich Meckel and Antoine Etienne Reynaud Augustin Serres developed in the
+	early 1800s the basic principles of what later became called the Meckel-Serres Law. Meckel and
+	Serres both argued that fetal deformities result when development prematurely stops, and they
+	argued that these arrests characterized lower life forms, through which higher order organisms
+	progress during normal development. The concept that the embryos of higher order organisms
+	progress through successive stages in which they resemble lower level forms is called
+	recapitulation. Meckel, a professor of anatomy at the University of Halle in Halle, Germany, and
+	Serres, a physician at Hôtel-Dieu de Paris in Paris, France, did not work together.
+	Rather, in the late nineteenth and early twentieth centuries, their similar approaches, in which
+	they compared the anatomy and embryos of different species so as to relate stages of embryonic
+	development to the scala naturae, led other scientists to generalize their individual
+	concepts into one general theory. The recapitulation ideas of Meckel and Serres became part of
+	the mid-eighteenth century debate about how to explain morphological similarities between
+	species.
+The concept of scala naturae, or the great chain of being, had an early
+	proponent in Aristotle, who worked in Greece four centuries before the common era.
+	Aristotle’s scala naturae arranged all organisms into a hierarchy based on the
+	complexity of their form. Humans topped Aristotle's hierarchy. After Aristotle, various groups
+	restructured the scala naturae to reflect God’s place in creating the hierarchy of
+	nature. In this new framing of the scala naturae, humans maintained their position at the
+	top of the earthly creatures because of their likeness to the Deity, but were placed under God
+	and the Angels.
+During the early 1800s, when Meckel and Serres first articulated their
+	doctrines of recapitulation, many accepted the scala naturae as the main explanation for
+	the large variety of species found on earth. Aristotle had hinted at recapitulation, or the idea
+	that embryos pass through the morphological stages of beings lower on the scala naturae.
+	Following Aristotle, many scientists attempted to find examples of recapitulation in developing
+	embryos, such as in the chick (Gallus gallus). Meckel and Serres took these ideas of a
+	scala naturae and recapitulation and applied them to their own embryological studies.
+Meckel was born in 1781 in Halle, Germany. He grew up helping his father prepare specimens
+	for the family’s anatomical collection, and he became professor of anatomy at the
+	University of Halle. Meckel was meticulous in his comparative study of abnormal embryological
+	specimens, which he collected from all over the world. During Meckel’s lifetime, he wrote
+	multiple treatises on comparative anatomy and in his 1811 text, Beyträge zur
+	vergleichenden Anatomie (Contributions to Comparative Anatomy), Meckel outlines the
+	idea that embryonic stages of higher forms recapitulate the forms of animals that reside lower
+	on the great chain of being. Meckel used malformations, which he saw as the results of early
+	terminations to development, to help support his theory of recapitulation. To do so, he compared
+	the arrested organs from organisms high on the scala naturae to the normally developed
+	organs of organisms lower on the scala. Meckel’s method of comparison between
+	higher and lower organisms enabled him to argue that the organs of the higher life forms
+	developed through the stages of lower morphologies; thus, development mirrored the hierarchy of
+	organisms within the scala naturae. 
+Serres, a physician at Hôtel-Dieu de
+	Paris in Paris, France, worked with Etienne Geoffroy Saint-Hilaire, a professor of zoology at
+	Muséum National d'Histoire Naturelle (National Museum of Natural History) in
+	Paris. Serres published two volumes of comparative work on vertebrate brains in 1821, for which
+	he received an award from the Académie des Sciences (Academy of Sciences). Serres
+	argued that the developing human brain progressed through the hierarchy of nature as it
+	developed; at first it looked like the brain of a fish, then a reptile, then a bird, and
+	lastly a general mammalian brain before finally settling into the form of a human brain. This
+	order of brain development appeared to mirror the scala naturae. Serres argued that a
+	formative force propelled the development of species, but the organisms in lower species had too
+	little of the formative force to have their organs develop into the more complex organs found in
+	higher species. For this theory, humans are the most complex life form because they have the
+	greatest amount of what some later called Serres’ force.
+In 1828 Karl Ernst von
+	Baer, professor of anatomy at the University of Königsberg, in Königsberg, Germany,
+	criticized the recapitulation theories of Meckel and Serres in his publication, Über
+	Entwickelungsgeschichte der Thiere. Beobachtung und reflexion (On the Developmental History
+	of the Animals. Observations and Reflections). Von Baer disagreed with the theory that Meckel
+	and Serres had constructed to explain similarities in embryonic development across the animal
+	kingdom. Von Baer opposed the strict linearity that Meckel and Serres embraced, which saw all
+	organisms placed on a single chain of life. Instead, von Baer embraced the separation of the
+	animal kingdom into four distinct archetypes, or fundamental body plans: the radiate, like the
+	starfish; the mollusca, like clams and octopus; the articulate, like insects and lobsters; and
+	the vertebrata, like fish and humans. He classified organisms into each of the four archetypes
+	according to how those organisms developed from embryos. Von Baer reasoned that because animals
+	could be divided into four archetypes, embryos could not recapitulate all lower forms throughout
+	their development. Instead, von Baer argued that embryos appeared similar to their archetype at
+	the beginning of development, and grew more specialized over time. Von Baer’s account of
+	the relationship between development and the natural hierarchy of animals, articulated in his 1828
+	text, formed the basis of what later scientists called von Baer’s Laws.
+Following
+	public dismissal by von Baer and by Richard Owen, Hunterian Professor at the Royal College of
+	Surgeons, in London, England, the recapitulation ideas of Meckel and Serres fell out of favor
+	among scientists beginning in the late 1830s. In 1859, Charles Darwin, who worked mainly at his
+	country estate near Kent, England, argued for the theory of common descent among species in his
+	book, On the Origin of Species. Darwin’s book prompted Ernst Haeckel, professor of
+	comparative anatomy at the University of Jena, in Jena, Germany, to resurrect the main points of
+	Meckel and Serres.  Haeckel’s new iteration of Meckel’s and Serres’
+	ideas of recapitulation, for Haeckel called the biogenetic law, abandoned the explicit
+	connection to the scala naturae. Instead, Haeckel embraced Darwin's theory of common
+	descent as the framework that unites all organisms. The biogenetic law connected the study of
+	embryonic development, called ontogeny, with the study of the relationships of descent between
+	species, called phylogeny.
+ Sources von Baer, Karl Ernst. Über Entwickelungsgeschichte der Thiere.
+				Beobachtung und reflexion. [On the Developmental History of the Animals.
+				Observations and Reflections]. Königsberg: 1828. 
+				http://www.biodiversitylibrary.org/item/28306 (Accessed May 3, 2012).
+Breidbach, Olaf. “Post-Haeckelian Comparative Biology—Adolf
+				Naef’s Idealistic Morphology.” Theory in Biosciences 122 (2003):
+				174–93.
+Gasking, Elizabeth B. “Serres, Antoine Étienne Reynaud
+				Augustin.” Complete Dictionary of Scientific Biography 12:
+				315–6.
+George, T. Neville. “Palingenesis and Paleontology.” Biological
+				Reviews 8 (1933):107–35.
+Gliboff, Sander. H. G. Bronn, Ernst Haeckel, and the Origin of German
+				Darwinism: A Study in Translation and Transformation. Cambridge, MA: MIT Press,
+				2008.
+Gould, Stephen Jay. Ontogeny and Phylogeny. Cambridge, MA: Harvard
+				University Press, 1977.
+Haeckel, Ernst. Generelle morphologie der organismen. [General Morphology
+				of the Organisms]. Berlin: G. Reimer, 1866. 
+				http://www.biodiversitylibrary.org/item/22319#page/11/mode/1up (Accessed May 4,
+				2012).
+Hopwood, Nick. “Embryology.” In The Cambridge History of Science
+				Vol. 6: The Modern Biological and Earth Sciences, eds. Peter J. Bowler and John
+				V. Pickstone, 285–315. Cambridge: Cambridge University Press, 2009.
+Kluge, Arnold G., and Richard E. Strauss. “Ontogeny and
+				Systematics.” Annual Review of Ecology and Systematics 16 (1985):
+				247–68.
+Mayr, Ernst. “Recapitulation Reinterpreted: The Somatic Program.”
+				The Quarterly Review of Biology 69 (1994): 223–32.
+Meckel, Johan Friedrich. Beyträge zur vergleichenden Anatomie.
+				[Contributions to Comparative Anatomy]. Halle: Reclam, 1811.
+Rieppel, Olivier C. Fundamentals of Comparative Biology. Boston, MA:
+				Birkhäuser Verlag, 1988.
+Risse, Guenter B. “Meckel, Johann Friedrich.” Complete Dictionary
+				of Scientific Biography 9: 252–3.
+Russell, Edward Stuart. Form and Function: A Contribution to the History of
+				Animal Morphology. London: J. Murray, 1916. 
+				http://www.biodiversitylibrary.org/item/15993#page/7/mode/1up (Accessed May 4,
+				2012). 
+
+How to cite
+O'Connell, Lindsey, "The Meckel-Serres Conception of Recapitulation". Embryo Project Encyclopedia (2013-07-10). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/5916.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+Copyright Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Tuesday, February 17, 2015 - 22:55
+ Topic
+Subject
+ Meckel, J. F. (Johann Friedrich), 1781-1833; Serres, Etienne Renaud Augustin, 1786-1868; Fetal development; Fetal growth; Birth defects; Fetus--Abnormalities; Embryological development; Developmental biology; Embryos; Embryology; Aristotle; Baer, Karl Ernst von, 1792-1876; Concept

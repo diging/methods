@@ -1,0 +1,81 @@
+By Brock Heathcotte
+Published: 2008-05-09
+Keywords: Fertilization, Bioethics
+ Davis v. Davis (1992)Court: Supreme Court of Tennessee
+		Citation: Davis v. Davis, 842 S.W.2d 588 (Tenn. 1992)
+		Status as current law: Probable
+		Value as precedent: Medium
+Associated case:
+Davis v. Davis, Case No E-14496 (Tenn. C.C., Blount Cty, Div. 1 1989)
+Case significance:
+This case was the first of its kind to address questions of 
+			personhood in the context of 
+			in vitro fertilization of a human 
+			embryo. It laid a foundation for future cases to work from: specifically, this case established the importance of prior written agreements for disposition of 
+			frozen embryos. This was also the first court decision to borrow the word “pre-embryo” from bioethics to describe the in vitro 
+			embryo. This terminology has been copied by many states.
+Case Summary:
+Facts—Junior Lewis Davis filed for divorce from Mary Sue Davis after several failed courses of attempted 
+			IVF using Junior’s sperm with Mary’s eggs. All issues in the divorce were resolved except who would have control over the remaining cryogenically preserved 
+			embryos stored at the Knoxville Fertility Clinic. Junior wanted them destroyed. Mary wanted to use them herself or donate them to another infertile couple. There was no advance agreement between the parties as to the disposition of the 
+			frozen embryos in the case of divorce.
+Law—No statute or case law directly addressed the dispute over 
+			frozen embryo disposition upon divorce. The court looked to 
+			abortion case law, Tennessee constitutional law concerning abortion and privacy, and journal articles commenting on the 
+			personhood of the 
+			embryo and 
+			fetus.
+Ruling—Disputes involving the disposition of pre-embryos produced by 
+			IVF should be resolved in a three step process. First look to the current preferences of the progenitors. If their wishes cannot be determined, or if there is a disagreement, the second step is to look to their prior written agreement concerning disposition. If no prior agreement exists or it is unclear, then the third step is to look to the relative interests of the parties in using or not using the pre-embryos. Ordinarily, the party that wishes to avoid procreation should prevail on this third step, assuming that the other party had a reasonable possibility of achieving parenthood by means other than use of the pre-embryos in question. But the rule does not contemplate the creation of an automatic veto by one progenitor over the wishes of another.
+Quotes:
+“One of the fundamental issues the inquiry poses is whether the pre-embryos in this case should be considered ‘persons’ or ‘property’ in the contemplation of the law. The Court of Appeals held, correctly, that they cannot be considered ‘persons’ under Tennessee law: The policy of the state on the subject matter before us may be gleaned from the state's treatment of 
+			fetuses in the womb.... The state's Wrongful Death Statute, Tenn.Code Ann. § 20-5-106 does not allow a wrongful death for a viable
+fetus that is not first born alive. Without live birth, the Supreme Court has said, a 
+			fetus is not a ‘person’ within the meaning of the statute.” 842 S.W.2d 594
+“Certainly, if the state's interests do not become sufficiently compelling in the 
+			abortion context until the end of the first trimester, after very significant developmental stages have passed, then surely there is no state interest in these pre-embryos which could suffice to overcome the interests of the gamete-providers. The abortion statute reveals that the increase in the state's interest is marked by each successive developmental stage such that, toward the end of a pregnancy, this interest is so compelling that 
+			abortion is almost strictly forbidden. This scheme supports the conclusion that the state's interest in the potential life embodied by these four- to eight-cell pre-embryos (which may or may not be able to achieve implantation in a uterine wall and which, if implanted, may or may not begin to develop into fetuses, subject to possible miscarriage) is at best slight. When weighed against the interests of the individuals and the burdens inherent in parenthood, the state's interest in the potential life of these pre-embryos is not sufficient to justify any infringement upon the freedom of these individuals to make their own decisions as to whether to allow a process to continue that may result in such a dramatic change in their lives as becoming parents.” 842 S.W.2d 602
+“Previously, courts have dealt with the child-bearing and child-rearing aspects of parenthood. Abortion cases have dealt with gestational parenthood. In this case, the Court must deal with the question of genetic parenthood. We conclude, moreover, that an interest in avoiding genetic parenthood can be significant enough to trigger the protections afforded to all other aspects of parenthood. The technological fact that someone unknown to these parties could gestate these pre-embryos does not alter the fact that these parties, the gamete-providers, would become parents in that event, at least in the genetic sense. The profound impact this would have on them supports their right to sole decisional authority as to whether the process of attempting to gestate these pre-embryos should continue.” 842 S.W.2d 603
+“Resolving disputes over conflicting interests of constitutional import is a task familiar to the courts. One way of resolving these disputes is to consider the positions of the parties, the significance of their interests, and the relative burdens that will be imposed by differing resolutions. In this case, the issue centers on the two aspects of procreational autonomy-- the right to procreate and the right to avoid procreation. We start by considering the burdens imposed on the parties by solutions that would have the effect of disallowing the exercise of individual procreational autonomy with respect to these particular pre-embryos.” 842 S.W.2d 603
+This case cites to these authorities:
+Roe v. Wade, 410 U.S. 113 (1973)
+		An unborn “potential life” is not a legal person pursuant to the Fourteenth Amendment to the US Constitution.
+Thornburgh v. American College of Obstetricians and Gynecologists, 476 U.S. 747 (1986)
+		The Supreme Court has never recognized the “unborn” as legal persons.
+Grobstein, C., Science and the Unborn, Basic Books, Inc., New York (1988)
+Webster v. Reproductive Health Services, 492 U.S. 490 (1989)
+		Viability is the critical stage of development for recognizing a compelling state interest in protecting unborn “potential life.”
+York v. Jones, 717 F.Supp. 421 (E.D.Va.1989)
+		Frozen embryos are property held under a bailment contract.
+Robertson, J., In the Beginning: The Legal Status of Early Embryos, 76 Va.L.Rev. 437 (1990)
+This case was cited in:
+Kass v. Kass, 696 N.E.2d 174 (N.Y. 1998)
+		Prearranged agreement between progenitors of frozen embryos regarding the disposition of their “pre-zygotes” in the event of divorce is binding.
+A.Z. v. B.Z., 725 N.E.2d 1051 (Mass. 2000)
+		Prior written agreement between a husband and wife regarding the disposition of frozen embryos in the event of a divorce was unenforceable.
+J.B. v. M.B., 783 A.2d 707 (N.J. 2001)
+		Prior written frozen embryo disposition agreement was unenforceable because it would infringe on the fundamental right to not procreate.
+Litowitz v. Litowitz, 48 P.3d 261 (Wash. 2002)
+		Pursuant to an embryo disposition contract, a husband and wife had to petition the court for instructions because they could not reach an agreement about what to do with the frozen embryos.
+In re Marriage of Witten, 672 N.W.2d 768 (Iowa 2003)
+		If no agreement can be reached between the parties, the frozen embryos cannot be used regardless of what a prior written disposition agreement states.
+Jeter v. Mayo Clinic Arizona, 121 P.3d 1256 (Ariz.App. Div. 1 2005)
+		The word “person” in Arizona’s wrongful death statute does not include an in vitro frozen embryo.
+Roman v. Roman, 193 S.W.3d 40 (Tex.App.-Hous. (1 Dist.) 2006)
+		The embryo agreement between former husband and wife which provided that frozen embryos were to be discarded in the event of divorce was valid and enforceable. 
+
+How to cite
+Heathcotte, Brock, "Davis v. Davis [Brief] (1992)". Embryo Project Encyclopedia (2008-05-09). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/1780.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, October 9, 2013 - 22:30
+ Topic
+Subject
+Fertilization;  Law

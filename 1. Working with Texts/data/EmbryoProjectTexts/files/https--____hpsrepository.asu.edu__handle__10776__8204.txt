@@ -1,0 +1,111 @@
+By Dorothy R. Haskett
+Published: 2014-09-19
+Keywords:     
+   "The Role of Maternal Mitochondria during Oogenesis, Fertilization and Embryogenesis" (2002), by James M. CumminsJames M. Cummins published "The Role of Maternal Mitochondria during Oogenesis, Fertilization and Embryogenesis" 30 January 2002 in the journal Reproductive BioMedicine Online. In the article, Cummins examines the role of the energy producing cytoplasmic particles, organelles called mitochondria. Humans inherit mitochondria from their mothers, and mechanisms have evolved to eliminate sperm mitochondria in early embryonic development. Mitochondria contain their own DNA (mtDNA) separate from nuclear DNA (nDNA). Cummins's article describes how mitochondria influence the development of egg cells called oocytes. Mitochondria also function in the union of oocyte and sperm, early formation of the embryo, and in in vitro fertilization (IVF) techniques, such as the transfer of donor cytoplasm into an oocyte resulting in a technique called ooplasmic transfer.
+		
+
+In the years surrounding the publication of the article in 2002, Cummins researched the evolution of mitochondria and the co-evolution of nDNA and mtDNA in humans. Cummins states in the article that he was interested in early twenty-first century theories about how mitochondrial evolution affected egg cell development, called oogenesis. He was also interested in the union of egg cells with sperm, called fertilization, as well as the development of the embryo, or embryogenesis. Cummins discusses the role of mitochondria in cloning, and their functions in cytoplasmic and in nuclear transfer technologies. 
+
+
+Cummins divided the article into eight sections, with an introduction discussing different roles and functions of mitochondria. Cummins states that in addition to energy production, mitochondria function in programmed cell death (apoptosis) by controlling the release of an essential protein called cytochrome c, which when released in the cell, induces apoptosis. He also explains how the oocyte develops in the female ovary in a structure called a follicle. In females from many species, when their follicles degrade, they lose their egg cells. Apoptosis regulates degradation of the follicle. To substantiate the role of mitochondria outside of energy generation, Cummins cites other review articles that focus on different aspects of mitochondria in the life cycle. 
+
+
+Cummins gives a brief evolutionary history of mitochondria in the second part of the article, titled "Evolutionary History of Mitochondria." He argues that mitochondria evolved through the symbiosis of two cells, a major group of bacteria (α-proteobacteria, or alphaproteobacteria), and primitive cells that had nuclei (ancestral proto-eukaryotic cells) that lived together for mutual gain around two billion years ago. The α-proteobacteria, with their ability to use oxygen for energy production, enabled the proto-eukaryotic cells to survive in the oxygen that was accumulating in the environment of the early Earth. Proto-eukaryotes probably exploited the bacteria for food and the benefits of oxygen utilization emerged as a secondary benefit. The incorporation of mitochondria into modern eukaryotic cells resulted in the loss of most, but not all, of the bacteria's genes. The bacterial genes were lost completely if they were not needed, or the genes transferred to the nuclear DNA (n-DNA). Once mitochondria transferred their genes to the nDNA of the host cell, mitochondria could no longer live independently. The remaining mitochondria genes and the nuclear genes co-evolved, a process that required cooperation between the two genomes.
+
+
+In the section "Control and Nuclear&Cytoplasmic Interactions" Cummins describes mitochondria as semi-autonomous organelles, with each containing several copies of the mtDNA genome. The mitochondrial genome is a circular genome greater than 16,000 base pairs that code for thirty-seven genes. Thirteen genes code for proteins used in the mitochondria to produce energy, two genes code for subunits of structures to assemble proteins, called ribosomes, made of ribosomal RNA (rRNA), and twenty-two genes code for the molecules that carry the protein building blocks, called transfer RNAs (tRNA). More than 200 control genes are located in the nuclear genome and control mitochondrial functions like replication of the mitochondrial genome. The control of the function of mtDNA involves exchange of information between the nucleus and the many copies of mtDNA. Chemical changes (mutations) in either the mtDNA or the nDNA can lead to lethal disorders in humans, affecting the oxidative phosphorylation (OXPHOS) pathway, which is the chemical pathway mitochondria use to produce energy.
+
+
+In the next section, "Oogenesis," Cummins reviews how egg cells develop in human females, a process that starts during fetal life. In a female fetus, primary germ cells become immature oocytes, called oogonia (singular: oogonium), which proliferate and produce the primary oocytes. The number of primary oocytes in the fetal ovary falls from two million at birth to around 300,000 at puberty, and each cell contains approximately 6,000 mitochondria. At puberty, the growth and differentiation of the egg cells from primary oocytes to mature oocytes takes place. A mature oocyte in a human contains from 100,000 to 600,000 mitochondria that each contain one molecule of mtDNA. After fertilization and around day six of embryonic development, when mtDNA replication starts, the number of mtDNA molecules increases rapidly in a process called a bottleneck. A bottleneck event occurs when a population, in this case, a population of mitochondria, reduces to one or a few individuals, and then rapidly amplifies from a small population to a large population.  
+
+
+In the "Oogenesis" section, Cummins presents an illustration that summarizes several reviews representing the life cycles of mammalian mtDNA for both oocytes and sperm. The figure starts with the primary germ cell line, or the origin of oocytes, which Cummins claims probably contain fewer than ten mitochondria each. The number of mitochondria increases to around two hundred, with each primordial oocyte (oogonium) containing from one to one hundred mtDNA copies as it matures. In human females, from the fourth to the seventh month of fetal life, oogonia divide by mitosis and mtDNA multiply from between one to one hundred mtDNA copies, to approximately 100,000 to 300,000 copies of mtDNA per cell. 
+
+
+The primary germ cells in male humans, however, divide and produce sperm. Sperm mitochondria develop and grow during maturation, called spermatogenesis, and the sperm mitochondria have a protein called ubiquitin. At day two after fertilization, mtDNA transcription starts. At three days after fertilization, enzymes that break down protein (proteases) remove sperm mitochondria that have ubiquitin. At five to six days after fertilization, the fertilized egg (zygote) implants in the uterus and mtDNA begins to replicate itself, and one to ten mtDNA per cell becomes one hundred mtDNA per cell. Cummins says that the behavior of mitochondria in human oocytes and embryos needs more research because researchers do most of the studies in animals, as opposed to humans.
+
+
+In the "Fertilization" section, Cummins mentions that eukaryotic cells maternally inherit organelles such as mitochondria, and the cytoplasm because the egg cell is much larger than the sperm cell, which contains mostly nucleus and comparatively little cytoplasm. At the union of male and female sex cells, called fertilization in mammals, the sperm mitochondria marked with the protein ubiquitin enter the egg but do not survive more than a few days. Cummins states that researchers have not described the mechanism by which molecules in egg cells recognize ubiquitin and decompose paternal mitochondria. Cummins also mentions that the mechanisms must differ across species because in interspecies hybrids, the paternal mtDNA can survive. 
+
+
+In the section "Embryogenesis," Cummins discusses some factors that are involved in the transition from maternal control of the embryo to semi-autonomous control of the embryo. Scientists recognize mitochondria by the energy production of the mitochondria in the form of Adenosine-5 Triphosphate (ATP), but Cummins says that the mitochondria's role in early embryogenesis is unclear. An early embryo does not seem to depend on mitochondria for the first few cell divisions of the fertilized egg, called cleavage. 
+
+
+Oocytes and embryos require more than mitochondria to function in normal embryonic development. Many other factors are involved in the development potential of the embryo including oxygen supply, follicular growth dynamics, RNA transcription, and other factors that change gene expression, called epigenetic factors. Cummins claims that understanding events outside of the nucleus in the cytoplasm is critical to understanding and controlling embryogenesis outside the body (in vitro), and within the body (in vivo). 
+
+
+In the next to the last section, called "Transmission and the Mitochondrial Bottleneck," Cummins discusses how the selective bottleneck of mtDNA in embryogenesis influences the inheritance of healthy, functional mitochondria. Each oocyte receives a select number of mtDNA molecules that rapidly expand during maturation, which produces mature oocytes. The bottleneck of mtDNA in development may help mitochondria escape the accumulation of deleterious mutations from asexual reproduction with high mutation rates, called Müller's ratchet, after Hermann Müller who studied mutations while in the US during the early and mid twentieth century. 
+
+
+In the final section, "Implications for Cloning and Ooplasmic Transfer," Cummins notes that public alarm about cloning humans might lead to a backlash that could prevent development of legitimate treatments for mitochondrial diseases.  Despite the potential for cloning technologies that scientists can use to treat mitochondrial diseases, Cummins cautions that unpredictable results may arise from attempts at cloning by using the nucleus of a non-germ cell (somatic cell nuclear transfer) without considering the specific mitochondrial genes. Cummins says that clinical attempts to rescue poor quality oocytes or embryos by injecting donor egg cytoplasm, called ooplasmic transfer, also need similar cautions. He notes that experiments of cytoplasmic transfer in mice suggest that some mitochondrial combinations are compatible with normal development and function. Moreover, cytoplasmic transfers in the early twenty-first century are untested, he says, and for many of these treatments there is no suitable animal model. However, Cummins states that proceeding with research despite a lack of previous studies is not new to in vitro fertilization (IVF) research. Cummins gives an example in which scientists introduced an IVF technique by which they injected sperm into an oocyte directly, called intra-cytoplasmic sperm injection, with no prior animal studies. In the last section, Cummins argues that the co-evolution of the nuclear and mitochondrial genomes and the rapid mutation rate of mtDNA drives the need for close co-operation of nuclear and mitochondrial genomes. 
+
+
+"The Role of Maternal Mitochondria during Oogenesis, Fertilization and Embryogenesis" is one of a group of articles by Cummins and others that review the roles of mitochondria oogenesis and embryogenesis. Researchers often cited the article in other research and review articles. The paper led to other works by Cummins and by others on the function of mitochondria in oogenesis and the ethics of oocyte rescue.
+
+
+Sources
+Cummins, James M. "The Role of Maternal Mitochondria During Oogenesis, Fertilization and Embryogenesis." Reproductive BioMedicine Online 4 (2002): 176–82.
+		
+
+Cummins, James M. "Mitochondria: Potential roles in Embryogenesis and Nucleoctoplasmic transfer." Human Reproduction Update 7 (2001): 217–28. http://humupd.oxfordjournals.org/content/7/2/217.full.pdf+html (Accessed April 17, 2014).
+
+
+Cummins, James M. "Mitochondrial dysfunction and ovarian aging." Studies in ProFertility (2000): 207–224.
+
+
+Giles, Richard E., Hugues Blanc, Howard M. Cann, and Douglas C. Wallace. "Maternal Inheritance of Human Mitochondrial DNA." Proceedings of the National Academy of Science 777 (1980): 6715–9. http://www.pnas.org/content/77/11/6715.full.pdf+html (Accessed April 17, 2014).
+
+
+Jansen, Robert P.S., and Kylie de Boer. "The Bottleneck: Mitochondrial Imperatives in Oogenesis and Ovarian Follicular Fate." Molecular and Cellular Endocrinology 145 (1998.): 81–8.
+
+
+John, Rosalind M. and M. Azim Suani. "Imprinted Genes and Regulation of Gene Expression by Epigenetic Inheritance." Current Opinion in Cell Biology 8 (1996): 348–53. 
+
+
+Latham, Keith E. "Epigenetic Modification and Imprinting of the Mammalian Genome during Development." Current Topics in Developmental Biology 43 (1999): 1–49.
+
+
+May-Panloup, Pascale, Marie-Francoise Chretien, Yves Malthiery, and Pascal Reynier. "Mitochondrial DNA in the Oocyte and the Developing Embryo." Current Topics in Developmental Biology 77 (2007): 51–83.
+
+
+Müller, Herman J. "The relation of recombination to mutational advance." Mutation Research/Fundamental and Molecular Mechanisms of Mutagenesis 1 (1964): 2–9.
+
+
+Ozawa, Takayuki. "Genetic and functional changes in mitochondria associated with aging." Physiological Reviews 77 (1997): 425–64.
+
+
+Pikó, Lajos and David G. Chase. "Role of the Mitochondrial Genome during Early Development in Mice Effects of Ethidium Bromide and Chloramphenicol."  The Journal of Cell Biology 58 (1973): 357–78. http://jcb.rupress.org/content/58/2/357.full.pdf+html (Accessed April 17, 2014).
+
+
+Smith, Lawrence C. and Acacia A. Alcivar. "Cytoplasmic Inheritance and Its Effects on Development and Performance." Journal of Reproduction and Fertility Supplement 48 (1993): 31–43.
+
+
+Wallace, Douglas C., Michael D. Brown, Marie T. Lott. "Mitochondrial DNA Variation in Human Evolution and Disease." Gene 238 (1999): 211–30. 
+
+
+Wallace, Douglas C. "Mitochondrial Diseases in Man and Mouse." Science 283 (1999): 1482–8. 
+
+
+Wallace, Douglas C. "Mitochondrial DNA in Aging and Disease." Scientific American 277 (1997): 49–7.
+
+ 
+Wallace, Douglas C. "Mouse Models for Mitochondrial Disease." American Journal of Medical Genetics 106 (2001): 71–93.
+
+
+
+
+How to cite
+Haskett, Dorothy R., ""The Role of Maternal Mitochondria during Oogenesis, Fertilization and Embryogenesis" (2002), by James M. Cummins". Embryo Project Encyclopedia (2014-09-19). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/8204.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+Copyright Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Friday, September 19, 2014 - 17:39
+ Topic
+Subject
+ Mitochondria; Embryology; Fertilization (Biology); Egg cell; Gametes; Evolution; Apoptosis; Literature

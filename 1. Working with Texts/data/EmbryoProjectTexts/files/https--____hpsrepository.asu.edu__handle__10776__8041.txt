@@ -1,0 +1,270 @@
+By Yawen Zou
+Published: 2014-07-20
+Keywords: pangenesis, gemmule, The Variation of Animals and Plants under Domestication
+ Charles Darwin's Theory of PangenesisIn 1868 in England, Charles Darwin proposed his
+	pangenesis theory to describe the units of inheritance between
+	parents and offspring and the processes by which those units control
+	development in offspring. Darwin coined the concept of gemmules, which he said referred to hypothesized
+	minute particles of inheritance thrown off by all cells of the body.
+	The theory suggested that an organism's environment could modify the gemmules in any parts of the body, and that
+	these modified gemmules would congregate in the reproductive organs
+	of parents to be passed on to their offspring. Darwin's theory of pangenesis
+	 gradually lost popularity in the 1890s when biologists increasingly 
+	abandoned the theory of inheritance of acquired characteristics
+	(IAC), on which the pangenesis theory partially relied. Around the turn of the
+	twentieth century, biologists replaced the theory of pangenesis with
+	germ plasm theory and then with chromosomal theories of inheritance, and they
+	replaced the concept of gemmules with that of genes.  
+Pangenesis theory
+	originated from the claim that characteristics acquired during an
+	organism's life were heritable. A theory of inheritance of acquired
+	characteristics (IAC) had persistent for almost two thousand years,
+	since Greek antiquity. For example, Hippocrates, who lived during the
+	fifth to fourth centuries BCE in Hellas, which later became Greece, used this theory to explain why
+	some people had longer than normal heads. Hippocrates said that some parents by custom bandaged their children in such a way that the
+	children developed long heads as they grew. He said that nature would reinforce this
+	custom after many generations, so that even if parents stopped using
+	bandages, the heads of their offspring would be still grow long. Many
+	scientists and philosophers in the eighteenth and nineteenth century
+	favored some form of IAC theory, including Jean-Baptiste Lamarck in Paris,
+	France, Charles Lyell in London, England, and, to some extent, Charles Darwin.
+	Lamarck's contribution to the theory of IAC garnered for it the
+	label Larmarckian. Lamarck stated that all the characters acquired
+	during an individual's life transmitted to their offspring.
+	Darwin at times adopted forms of an IAC theory, and he attempted to further describe the unit
+	of inheritance that passed between parents and offspring.
+During the nineteenth century, many scientists sought to explain
+	how traits passed from one generation to another, although most
+	hypotheses lacked experimental support. For example, Herbert Spencer
+	in London, England, propounded the theory of physiological units in his
+	1864 book Principles of Biology. Spencer postulated that
+	cells contained physiological units, an intermediate structure
+	between what he called chemical units, such as proteins, and
+	morphological units, such as cells. Spencer implied that those
+	physiological units in parents transmitted to their offspring, so that parents and
+	offspring looked similar to each other. Spencer continued to explain that use or
+	disuse of structures could alter physiological units. Darwin had
+	noted the concept, and later admitted that Spencer's theory
+	coincided with his own.
+In 1868, Darwin  proposed the
+	pangenesis theory in the concluding chapter of his book The
+	Variation of Animals and Plants under Domestication. In Darwin's
+	account, the theory of pangenesis complemented his theory of natural
+	selection, described in his 1859 On the Origin of Species by
+	Means of Natural Selection. The theory of natural selection said that
+	species adapted to their environments through selection on those
+	organisms to fit in those environments. Critics highlighted the
+	theory's lack of mechanisms for inheritance and development. In his
+	1859 book, Darwin had not explained how environments caused
+	different organisms in the same population to vary in their traits, or how offspring inherited those variations from their
+	parents. 
+Darwin proposed pangenesis theory to complement his 1859 theory of evolution via
+	natural selection. Darwin coined the term
+	pangenesis, with "pan-" meaning whole, and "genesis" indicating
+	origin. With the term pangenesis, Darwin suggested that all parts of the
+	parents could contribute to the evolution and development of the
+	offspring.
+Darwin postulated the existence of a hereditary
+	material inside cells. Nonetheless, Darwin had not experimented on
+	cells to demonstrate his theory, so he called it a provisional
+	hypothesis. Darwin argued that, in what he called higher animals or plants, every
+	cell in their bodies emitted small particles, which were units of
+	heredity, that he called gemmules. The gemmules could either
+	circulate and disperse in the body system, or they could aggregate
+	in the sexual cells located in reproductive organs. As hereditary
+	units, the gemmules transmitted from parents to offspring, where
+	they developed into cells that resembled the parents' cells.  It
+	was not sexual cells alone that generated a new organism, but rather
+	all cells in the body as a whole. Darwin argued that
+	environments could cause variations to gemmules of body
+	cells or to those in sexual cells, so a collection of gemmules could reflect changes
+	that had occurred to all parts of an organism's body.
+Darwin used the
+	concept of gemmules to explain some phenomena regarding
+	heredity, variation, and development. These phenomena included
+	regeneration of body parts, reversion, and sexual and asexual
+	reproduction. For example, Darwin offered an explanation for
+	reversion, the phenomenon that a trait of remote ancestors would
+	reappear in organisms whose more immediate ancestors lacked the trait. He claimed that gemmules could either go into
+	the state of dormancy or be active. Darwin said that, in the
+	phenomenon of reversion, a gemmule transmitted from the remote
+	ancestors to immediate parents and then to the offspring, but the
+	gemmule was dormant in direct parents, and it was only active in remote
+	ancestors and in the offspring.
+Darwin also used gemmules to explain
+	sexual reproduction and asexual reproduction. Sexual reproduction
+	involves two parents of different sexes, while asexual reproduction
+	concerns reproduction from only one parent, often involving budding.
+	Darwin claimed that, in asexual reproduction, gemmules from every
+	cell type in a parent aggregated in a bud, which would develop into
+	a new individual. In sexual reproduction, gemmules from both parents
+	blended in the sexual organs to be passed to the offspring.
+Darwin never had any experimental results to support the
+	existence of gemmules. Darwin based his pangenesis theory, as well
+	as the theory of natural selection, on his observation of turtles,
+	finches, and other species in different environments, and on fossils
+	he had gathered from his voyage on the Beagle, a ship of the British Navy, in the 1830s. Darwin's
+	pangenesis theory lacked details at cell and molecular
+	levels.
+Many criticized Darwin's theory of pangenesis. To test the theory, Darwin's
+	cousin Francis Galton in London, England, conducted a series of
+	blood transfusion experiments. Galton transfused blood
+	between different colored rabbits. Galton hypothesized that the blood
+	contained gemmules that would shape the color of the offspring. By
+	transfusing the blood from a white rabbit to a black rabbit, the
+	black rabbit would have different colored descendents than normal
+	black rabbits, which did not get transfused blood. But the result of the
+	experiment contrasted Darwin's prediction, black rabbits with the blood from white rabbits produced offspring that were black, and Galton claimed that
+	gemmules did not exist.  Darwin responded by implying that
+	gemmules might exist in other bodily fluid, and he did not
+	explicitly say they were in blood.
+Scientists such as Hugo de Vries in the
+	Netherlands and August Weismann in Germany
+	formulated theories of heredity shortly after Darwin. De Vries
+	propounded the intracellular pangenesis theory in 1889, a modified
+	theory of pangenesis. According to De Vries, gemmules cannot
+	transfer from body cells to sexual cells. De Vries argued that
+	gemmules could only move between the nucleus and the cytoplasm
+	inside a single cell, so his theory was called intracellular
+	pangenesis theory. To distinguish between his theory and Darwin's, De Vries used the term pangene to replace the term gemmules for
+	the unit of hereditary materials. By 1909, Wilhelm Johannsen in Denmark shortened the term pangene to the term gene. 
+In a passage of his 1893 book
+	The Germ Plasm: a theory of heredity, Weismann stated that
+	small units of materials in the cells of organisms pass from parents to their
+	offspring. Nonetheless, Weismann argued that only the hereditary
+	material in the sexual cells, or germ cells, could transmit to
+	offspring. Weismann called his theory germ-plasm theory. Principles of the
+	germ-plasm theory gradually replaced Darwin's pangenesis theory, but biologists adopted little of Weismann's terminology.
+Darwin's theory of pangenesis proved obsolete after the rediscovery of
+	Gregor Mendel's laws of heredity in 1900. In the 1860s in Brno, Austrian
+	Empire, which later became the Czech Republic, Mendel had studied how
+	heritable factors in sexually reproducing plants behaved across generations, and he had inferred laws to describe those behaviors. Mendel did not study the actual units of
+	inheritance, but only the phenotypes or traits hypothesized to develop in organisms that had those factors. With his laws, Mendel could predict
+	phenotypes among the offspring from data about the phenotypes of
+	parents. Mendel's laws, unstudied for decades, were rediscovered in 1900, and Walter Sutton in the US and Theodor Boveri in Europe soon paired those laws to the mechanistic descriptions of how chromosomes behaved in replicating cells, creating a chromosomal theory of inheritance.
+Following William Bateson
+	in  England and Wilhelm Johannsen in Denmark, most biologists eventually 
+	rejected theories of the inheritance of acquired characteristics and Darwin's pangenesis theory, and they used the term gene to refer to those things that Mendel had called factors. Furthermore, they followed Weismann and held that only genes from sex cells, and not genes from body cells, transmitted from parents to offspring.  
+	Additionally, many adopted the chromosomal theory of inheritance, which held that the mechanisms of replicating cells and chromosomes physically explained the behaviors, postulated by Mendel, of genes, which biologists postulated to be in the chromosomes of cells. Scientists in the early and middle decades of the twentieth century worked to fit the chromosomal and genetic theories of inheritance with Darwin's theory of the evolution of species by natural selection. 
+ Sources Bateson,
+		William. Problems of Genetics. London: Oxford University
+		Press, 1913. http://www.biodiversitylibrary.org/bibliography/1517#/
+		summary (Accessed November 24, 2013).
+Boveri, Theodor. Ergebnisse über die Konstitution der Chromatischen Substanz des Zellkerns. [Results of the Constitution of the Chromatic Substance of the Nucleus]. Gustav Fischer, 1904. http://dx.doi.org/10.5962/bhl.title.9070 (Accessed April 17, 2014).
+Darwin,
+		Charles. On the Origin of Species by Means of Natural
+		Selection. London: John Murray, 1859. http://darwin-online.org.uk/content/
+		frameset?pageseq=1& itemID= F373&viewtype=text
+		(Accessed March 4, 2014).
+Darwin, Charles. The
+		Variation of Animals and Plants under Domestication. London:
+		John Murray, 1868. http://www.biodiversitylibrary.org/bibliography/61215#/
+		summary (Accessed November 24, 2013).
+Deichmann,
+		Ute. "Gemmules and Elements: On Darwin's and Mendel's Concepts
+		and Methods in Heredity." The Journal for General Philosophy
+		of Science 41 (2010): 85–112.
+de Vries, Hugo. Intracellular Pangenesis: including a paper on
+fertilization and hybridization. Ed. Gager, Stuart C. Chicago: Open
+Court, 1910. 
+http://www.biodiversitylibrary.org/bibliography/3778#/summary
+(Accessed November 24, 2013).
+Galton, Francis. "Experiments in
+pangenesis, by breeding from rabbits of a pure variety, into whose
+circulation blood taken from other varieties had previously been largely
+transfused." Proceedings of the Royal Society of London 19
+(1870): 393–410 http://rspl.royalsocietypublishing.org/content/19/123-129/393.full.pdf  (Accessed March 4
+2014).
+Geison, Gerald. "Darwin and Heredity: The Evolution of His
+Hypothesis of Pangenesis." Journal of the History of Medicine and
+Allied Sciences 24 (1969): 388–91.
+Hippocrates. The
+Genuine Works of Hippocrates. Trans. Francis Adams. New
+York: W. Wood and Company, 1886. http://books.google
+.com/books?id=HYIIAAAAIAAJ  (Accessed November 24, 2013).
+Hodge, Jonathan. "The Darwin of Pangenesis." Comptes Rendus
+Biologies 333 (2010): 129–33.
+Johannsen, Wilhelm Ludvig.
+Über Erblichkeit in Populationen und reinen Linien. Eine Beitrag
+zur Beleuchtung schwebender Selektionsfragen. [On Heredity in Pure
+Lines and Populations. A Contribution to Pending Questions of
+Selection]. Jena: Gustav Fischer, 1903. https://archive.org/stream/uebererblichkei00johagoog#page/n3/mode/2up (Accessed
+://March
+4, 2014).
+Johannsen, Wilhelm Ludvig. Elemente der Exakten Erblichkeitslehre. [The Elements of an Exact Theory of Heredity]. Jena: Gustav Fischer, 1909. http://dx.doi.org/10.5962/bhl.title.1060 (Accessed November 16, 2012).
+Johannsen, Wilhelm Ludvig. “The Genotype Conception of Heredity.” The American Naturalist 45 (1911): 129–59.
+Lamarck, Jean-Baptiste. Philosophie zoologique:
+ou, Exposition des considérations relatives à l'histoire
+naturelle des animaux. [Zoological Philosophy: Exposition with Regard
+to the Natural History of Animals]. Vol. 1. Paris: F. Savy, 1873. 
+http://www.biodiversitylibrary.org/bibliography/26297#/summary
+(Accessed November 24, 2013).
+Liu, Yongsheng. "Reversion: Going
+Back to Darwin's Works." Trends in Plant Science 10 (2005):
+471–72.
+Liu, Yongsheng. "A New Perspective on Darwin's
+Pangenesis." Biology Review 83 (2008): 141–49. http://onlinelibrary.wiley.com/doi/10.1111/j.1469-185X.2008.00036.x/full (Accessed July 16, 2014)
+Lyell,
+Charles. Principles of Geology: or the Modern Changes of the Earth
+and Its Inhabitants Considered as Illustrative of Geology. London:
+John Murray, 1867–1868. 
+http://www.biodiversitylibrary.org/bibliography/50587#/summary
+(Accessed November 24, 2013).
+Mendel, Gregor Johann. "Versuche
+über Pflanzen-Hybriden" [Experiments Concerning Plant Hybrids].
+Verhandlungen des naturforschenden Vereines in Brünn
+[Proceedings of the Natural History Society of Brünn] IV (1865): 3–47.
+Reprinted in Fundamenta Genetica, ed. Jaroslav Kříženecký, 15–56.
+Prague: Czech Academy of Sciences, 1966. http://www.mendelweb.org/
+Mendel.html (Accessed January 30, 2014).
+McComas, William
+F. "Darwin's Invention: Inheritance and the 'Mad Dream' of Pangenesis."
+The American Biology Teacher 74 (2012): 86–91.
+McComas,
+William F. "Darwin's Error: Using the Story of Pangenesis to Illustrate
+Aspects of Nature of Science in the Classroom." The American Biology
+Teacher 74 (2012): 151–56.
+Stanford, Kyle P. "Darwin's
+Pangenesis and the Problem of Unconceived Alternatives." British
+Journal for the Philosophy of Science 57 (2006): 121–44. 
+Spencer, Herbert. The Principles of Biology. New York: D.
+Appleton and Company, 1881. 
+http://www.biodiversitylibrary.org/bibliography/60804#/summary
+(Accessed November 24, 2013).
+Sutton, Walter. "The Chromosomes in Heredity." Biological Bulletin 4 (1903): 231–50. https://archive.org/stream/biologicalbullet04mari#page/230/mode/2up (Accessed April, 17, 2014).
+Veuille, Michel. "A Non-Darwinian
+Darwin: An Introduction." Comptes Rendus Biologies 333 (2010):
+83–86.
+Weismann, August. The Germ-Plasm: A Theory of
+Heredity. New York: C. Scribner's sons, 1893. 
+http://www.biodiversitylibrary.org/bibliography/25196#/summary
+(Accessed November 24, 2013).
+Winther, Rasmus G. "Darwin on
+Variation and Heredity." Journal of the History of Biology 33
+(2000): 425–55.
+Zirkle, Conway. "The Inheritance of Acquired
+Characters and the Provisional Hypothesis of Reviewed Pangenesis."
+The American Naturalist 69 (1935): 417–45.
+Zirkle,
+Conway.  "Further Notes on Pangenesis and the Inheritance of Acquired
+Characters." The American Naturalist 70 (1936): 529–46.
+Zirkle, Conway. "The Early History of the Idea of the Inheritance of
+Acquired Characters and of Pangenesis." Transactions of the American
+Philosophical Society 35 (1946): 91–151.
+
+
+How to cite
+Zou, Yawen, "Charles Darwin's Theory of Pangenesis". Embryo Project Encyclopedia (2014-07-20). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/8041.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+Copyright Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Monday, July 21, 2014 - 17:02
+ Topic
+Subject
+ Heredity; Darwin, Charles, 1809-1882; Reproduction; Evolution; Natural selection; Inheritance of acquired characters; Variation (Biology); Johannsen, W. (Wilhelm), 1857-1927; Weismann, August, 1834-1914; Bateson, William, 1861-1926; Sutton, Walter Stanborough, 1877-1916; Boveri, Theodor, 1862-1915; Vries, Hugo de, 1848-1935; Concept

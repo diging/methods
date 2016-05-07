@@ -1,0 +1,163 @@
+By Dorothy R. Haskett
+Published: 2014-12-19
+Keywords: Mitochondrial genome, Fredrick Sanger
+ Mitochondrial DNA (mtDNA)Mitochondrial DNA (mtDNA) is a type of DNA located outside the nucleus in the liquid portion of the cell (cytoplasm) and inside cellular organelles called mitochondria. Mitochondria are found in all complex or eukaryotic cells, including plant, animal, fungi, and single celled protists, which contain their own mtDNA genome. In animals with a backbone, or vertebrates, mtDNA is a double stranded molecule that forms a circular genome, which ranges in size from sixteen to eighteen kilo-base pairs, depending on species. Each mitochondrion in a cell can have multiple copies of the mtDNA genome. In humans, the mature egg cell, or oocyte, contains the highest number of mitochondria among human cells, ranging from 100,000 to 600,000 mitochondria per cell, but each mitochondrion contains only one copy of mtDNA. In human embryonic development, the number of mitochondria, the content of mtDNA in each mitochondrion, and the subsequent mtDNA activity affects the production of the oocytes, fertilization of the oocytes, and early embryonic growth and development. 
+		
+
+Mitochondria were once free-living bacteria that took up residence inside a primitive eukaryotic cell in the process called endosymbiosis. Much of the evidence for the claim is in the mtDNA genome and the nuclear genome. The genomes co-evolved, and control of mitochondria involves exchange of information between the nucleus and the many copies of the mtDNA. In the developing embryo, ninety-nine percent of the mitochondria, and therefore the mtDNA, come from the mother. Point mutations and deletions in the mtDNA can lead to serious developmental mitochondrial diseases.
+
+
+		In 1890, Richard Altmann, who studied diseases in Germany, observed the occurrence of mitochondria in many different animal cell types and noted they were similar to bacteria. Altmann proposed that mitochondria were the fundamental particles of life, or the living part of the cell, and in 1896 he called them bioblasts. In 1901, Carl Benda, a physician from Germany, named the organelles mitochondria from Greek mitos, meaning thread, and chondros, meaning grains.
+		
+		
+
+In 1963 Margit M. K. Nass and Sylvan Nass published "Intramitochondrial Fibers with DNA Characteristics: I. Fixation and Elewtron Staining Reactions," describing DNA in mitochondria from chick embryos. Nass and Nass, who worked at the Wenner-Gren Institute for Experimental Biology at the University of Stockholm, Sweden, used an electron microscope to detect DNA in chick embryos. The paper provided early evidence that mitochondria contained DNA (mtDNA), supporting the hypothesis that mitochondria were direct descendants of bacteria. In her 1967 paper "On the Origin of Mitosing Cells", Lynn (Sagan) Margulis proposed the theory of endosymbiosis, which claimed that organelles, including mitochondria, were once free-living bacteria that came to reside inside of complex cells about two billion years ago.
+
+
+
+In the 1960s and 1970s, researchers investigated mtDNA by using yeast mitochondria. In 1975, Peter L. Molloy, Anthony W. Limmane, and H. B. Lukins published a yeast (Saccharomyces cerevisiae) mtDNA genome sequence map in "Biogenesis of Mitochondria: Analysis of Deletion of Mitochondrial Antibiotic Resistance Markers in Petite Mutants of Saccharomyces cerevisiae." The sequence was a rough draft of the entire yeast mtDNA genome. From 1974 to 1976, several laboratories began using enzymes to break DNA at specific places, a method called restriction enzyme analysis. The use of restriction enzyme analysis resulted in mtDNA maps of yeast and several other species including humans (Homo sapiens). In 1981, Fredrick Sanger's group in Cambridge, England, reported a complete sequence of the human mtDNA genome. 
+
+
+
+Sanger found that circular mtDNA in vertebrates consists of a light strand and a heavy strand. Both strands are coding sequences, and the process of DNA replication proceeds in both strands simultaneously in opposite directions. Sanger's team also found that vertebrate mtDNA is extremely compact and conserved through evolution, as most animals have the similar sets of mitochondrial genes. In vertebrates, mtDNA codes for thirty-seven gene products, and thirteen of the mtDNA genes code for proteins. Twenty-two mtDNA genes code for molecules that carry the building blocks of proteins (amino acids), called transfer RNAs (tRNA), and two genes code for the structures where cells assemble proteins, called ribosomal RNAs (rRNA).
+
+
+
+ In animal DNA, some of the protein and rRNA genes are located next to a tRNA gene. Justin C. St. John at Monash University in Melbourne, Australia, reported in 2010 that some coding regions overlap, meaning that a sequence of mtDNA codes for more than one product. The only region that does not code for a protein is the displacement loop (D-loop), which is organized as a triple-stranded structure that contains the main regulatory region involved with mtDNA replication. In contrast, the yeast mtDNA has non-coding sequences between protein and mtRNA gene coding sequences.
+ 
+ 
+
+The thirteen proteins coded for in mtDNA are all involved with the production of what the cell uses as energy, a molecule called adenosine-5'-triphosphate (ATP). Mitochondria generate ATP in a process called oxidative phosphorylation (OXPHOS). The large OXPHOS protein complexes requires hundreds of proteins, thirteen of which are coded in mtDNA. The DNA from the cell's nucleus (nDNA) encodes the remaining proteins. Specific systems transport the proteins into the mitochondria from the cytoplasm. Transcription of mtDNA is under the control of both the nuclear and mitochondrial genomes. The mtDNA genome and the nuclear genome work together to regulate the energy production, otherwise several problems can occur in the cell that can affect the entire organism and may lead to disease.
+
+
+
+Researchers first reported a patient suffering from a mitochondrial disease in 1959, a few years before they discovered mtDNA. The patient was a woman from Sweden who had the highest human metabolic rate then recorded. Researchers stated that the problem she had related to a defect in mitochondria. Her mitochondria produced energy in the form of ATP and heat; even when the woman was at rest, she would sweat. The mitochondrial defect, called Luft disease after the endocrinologist Rolf Luft, who first described it in 1962, is one of the rarest of all mitochondrial disorders. 
+
+
+In 1988, scientists began to describe pathogenic mutations in mtDNA. Researchers had studied mtDNA since 1963, but clinical scientists paid little attention to it.  In 1988, Ian Holt's group at the Institute of Neurology in London, United Kingdom, identified large-scale deletions of base pairs of mtDNA in patients with mitochondrial muscle disease (myopathies). In the same year Douglas Wallace's group at Emory University School of Medicine in Atlanta, Georgia, described mutations in mtDNA in a human family whose members had Leber hereditary optic neuropathy (LHON). LHON results in optic nerve degeneration and blindness. Mutations within the mtDNA link to a number of primary neurological disorders. With a prevalence of ten in one-hundred thousand people, the disorders are one of the most common inherited neurological disorders. Mitochondrial diseases result from substitutions of a single mtDNA base, deletions of one or several bases, rearrangement of gene sequences, and duplication of genes. There are hundreds of mitochondrial diseases.
+
+
+Humans inherit mitochondria from their mothers and mtDNA through the oocyte. In a human female embryo, the first primary oocytes develop from the primordial germ cells from two to three weeks into the process of embryo development. As reported by various scientists, the number of mitochondria in the primary oocyte ranges from fewer than ten to two hundred. Robert P.S. Jansen in his 2000 article "Germline Passage of Mitochondria: Quantitative Considerations and Possible Embryological Sequelae" reports fewer than ten mitochondria per human primordial germ cell. However, by the time the female infant is born, each primary oocyte has approximately 10,000 mitochondria per cell. There is another tenfold increase in mitochondrial number during adult growth and development. For most female mammals, the mature oocyte has from 100,000 to 600,000 mitochondria. The amount of mtDNA in each mitochondria in the female germ-line is slightly more mtDNA than the number of mitochondria. Ovarian insufficiency is associated with major depletion of mtDNA in the oocyte. 
+
+
+In the late 1990s, Jacques Cohen at Saint Barnabas Medical Center in Livingston, New Jersey, and his colleagues investigated the phenomenon of ovarian insufficiency. They transferred a small amount of cytoplasm from a cells of a donor who was fertile into the oocytes of a woman who had undergone several rounds of IVF without success. The procedure used by Cohen and his colleagues became called ooplasmic transfer or cytoplasmic transfer. Over the course of four years, at least thirty infants were born using this technique. One problem with ooplasmic transfer, which researchers noted, was that the offspring can retain mtDNA from the mother as well as from the donor. The mixture of mtDNA, called heteroplasmy, can lead to mitochondrial diseases. For example, scientists showed how mice experience problems if their normal mtDNA mixes with dissimilar mtDNA. In 2012, Mark S. Sharpley at the University of Pennsylvania in Philadelphia, Pennsylvania, and his group published a study on mice in which they generated mice with mixtures of different strains of mtDNA. The mice with mixtures had abnormal behavior and cognition.
+
+
+
+Scientists correlated mtDNA mutations with a increasing number of diseases, and into the first decades of the twentieth century there were few treatments to alleviate the symptoms. Nuclear transfer is an alternate technique for preventing mitochondrial disease. There are several nuclear transfer techniques. These techniques use a donor oocyte with healthy mtDNA that has its nucleus removed. In 2010, Helen Tuppen's group in the UK at Newcastle University transferred fertilized oocytes to a donor oocyte that had its nucleus removed. A group led by Shoukhrat Mitalipov at Oregon Health and Science University in Beaverton, Oregon, used an unfertilized oocyte, removed the nucleus, transferred it to an unfertilized oocyte of a healthy donor, and then fertilized the oocyte with sperm.
+
+
+
+ In the United States, the US Food and Drug Administration (FDA) headquartered in Silver Spring, Maryland, regulates reproductive technologies, and the FDA must approve any such techniques before further use. Mitalipov of the Oregon group submitted an application in January of 2012 to use the nuclear transfer procedures. The Human Fertilisation and Embryology Authority headquartered in London, UK, considered permitting mitochondria replacement therapy, and asked for public opinion in early 2013.
+ 
+ 
+
+Sources
+Altmann, Richard. Die Elementarorganismen und ihre Beziehungen zu den Zellen. Zweite 
+vermehrte Auflage (The Elementary Organisms and Their Relationships to the Cells. 
+Second Extended Edition). Leipzig: Verlag Von Veit and Company, 1894. https://archive.org/details/dieelementarorg00altmgoog (Accessed December 18, 2014). 
+
+
+Anderson, Stephan, Alan T. Bankier, Bart G. Barrell, Maarten H. L. de Bruijn, Alan R. Coulson, Jacques Drouin, Ian C. Eperon, Donald P. Nierlich, Bruce A. Roe, Fredrick Sanger, Peter H. Schreier, Andrew J. H. Smith, Rodger Staden and Ian G. Young. "Sequence and Organization of the Human Mitochondrial Genome." Nature 290 (1981): 457–65.
+
+
+Andersson, Siv G.E., Olof Karlberg,  Björn Canbäck, and Charles G. Kurland. "On the Origin of Mitochondria: A Genomics Perspective." Philosophical Transaction of the Royal Society London B 358 (2003): 165–79. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1693097/ (Accessed December 18, 2014).
+
+
+Archibald, John M. "Origin of Eukaryotic Cells; 40 Years on." Symbiosis 54 (2011): 69–86.
+
+
+Benda, Carl. "Die Mitochondriafärbung und andere Methoden zur Untersuchung der 
+Zellsubstanzen." (The Staining of Mitochondria and other Methods to Examine Cell Substances.) Verhandlungen der Anatomischen Gesellschaft (Proceedings of the Anatomical Society) 15 (1901): 155–74. http://babel.hathitrust.org/cgi/pt?id=coo.31924056350063;view=1up;seq=169 (Accessed December 18, 2014).
+
+
+Cohen, Jacques, Richard Scott, Tim Schimmel, Jacob Levron, and Steen Willadsen. "Birth of Infant after Transfer of Anucleate Donor Oocyte Cytoplasm into Recipient Eggs."  The Lancet 350 (1997): 186–7.
+
+
+Cummins, James M. "The Role of Maternal Mitochondria during Oogenesis, Fertilization and Embryogenesis." Reproductive BioMedicine Online 4 (2002): 176–82. http://www.rbmojournal.com/article/S1472-6483(10)61937-2/pdf (Accessed May 13, 2014).
+
+
+Cyranoski, David. "DNA-swap Technology Almost Ready for Fertility Clinic: Mitochondrial 
+Transfer Could Reduce the Risk of Childhood Disease." Nature News, 24 October 2012. 
+http://www.nature.com/news/dna-swap-technology-almost-ready-for-fertility-clinic-1.11651 (Accessed May 13, 2014).
+
+
+ DiMauro, Salvatore. "A History of Mitochondrial Diseases." Journal of Inherited Metabolic Diseases 34 (2011): 261–76.
+ 
+
+Ernster, Lars, and Gottfried Schatz. "Mitochondria: A Historical Review." The Journal of Cell Biology 91 (1981): 227s –55s. http://jcb.rupress.org/content/91/3/227s.full.pdf (Acccessed May 13, 2014).
+
+
+Gray, Michael W., Gertraud Burger, Bernd Franz Lang. "Mitochondrial Evolution." Science 283 (1999): 1476–81.
+
+
+Holt, Ian J., Anita E. Harding, and John A. Morgan-Hughes. "Deletions of Muscle Mitochondrial DNA in Patients with Mitochondrial Myopathies." Nature 331(1988): 712–9.
+
+
+Jansen, Robert P. S. "Germline Passage of Mitochondria: Quantitative considerations and Possible Embryological Sequelae." Human Reproduction 15 (2000): 112–8. http://humrep.oxfordjournals.org/content/15/suppl_2/112.full.pdf+html (Accessed May 13, 2014).
+
+
+Katsnelson, Alla. "Freeing Human Eggs of Mutant Mitochondria: Transmission of Mitochondrial Diseases from Mother to Offspring Could Be Prevented." Nature News,
+14 April 2010. http://www.nature.com/news/2010/100414/full/news.2010.180.html (Accessed May 13, 2014).
+
+
+Lane, Nick. Power, Sex, Suicide: Mitochondria and the Meaning of Life.  New York: Oxford University Press Inc., 2005.
+
+
+Luft, Rolf, Denis Ikkos, Genaro Palmieri, Lars Ernster, and Björn Afzelius. "A Case of Severe Hypermetabolism of Nonthyroid Origin with a Defect in the Maintenance of Mitochondrial Respiratory Control: a Correlated Clinical, Biochemical, and Morphological Study." Journal of Clinical Investigation 41 (1962): 1776–804. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC291101/ (Accessed December 18, 2014). 
+
+
+May-Panloup, Pascale, Marie-Françoise Chretien, Yves Malthiery, Pascal Reynier. "Mitochondrial DNA in the Oocyte and the Developing Embryo." Current Topics in Developmental Biology 77 (2007): 51–83.
+
+
+Molloy, P.L., Anthony W. Linnane, and H. B. Lukins. "Biogenesis of Mitochondria: Analysis of Deletion of Mitochondrial Antibiotic Resistance Markers in Petite Mutants of Saccharomyces cerevisiae." Journal of Bacteriology 122 (1975): 7–18. http://jb.asm.org/content/122/1/7.full.pdf+html (Accessed May 13, 2014).
+
+
+Nass, Margit M. K., and Sylvan Nass. "Intramitochondrial Fibers with DNA Characteristics. I. Fixation and Electron Staining Reactions."  Journal of Cell Biology 19 (1963): 593–611. http://jcb.rupress.org/content/19/3/593.full.pdf+html (Accessed April 28, 2014).
+
+
+Sagan, Lynn. "On the Origin of Mitosing Cells." Journal of Theoretical Biology 14 (1967): 225–74.
+
+
+Sanger, Frederick. "Determination of nucleotide sequences in DNA." Bioscience Reports 1 (1981): 3–18. http://www.bioscirep.org/bsr/024/0237/0240237.pdf (Accessed December 19, 2014).
+
+
+Sharpley, Mark S., Christine Marciniak, Kristin Eckel-Mahan, Meagan McManus, Marco Crimi, Katrina Waymire, Chun Shi Lin, Satour Masubuchi,Nicole friend, Maya Koike, Dimitra Chalkia, Grant MacGregor, Paolo Sassone-Corsi, and Douglas C. Wallace. "Heteroplasmy of Mouse mtDNA Is Genetically Unstable and Results in Altered Behavior and Cognition." Cell 151 (2012): 333–43. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4175720/ (Accessed December 19, 2014).
+
+
+St. John, Justin C. "Mitochondrial DNA Transmission, Replication and Inheritance: A Journey from the Gamete through the Embryo and into Offspring and Embryonic Stem Cells." Human Reproduction Update 16 (2010): 488–509. http://humupd.oxfordjournals.org/content/16/5/488.full.pdf+html (Accessed May 13, 2014).
+
+
+Tachibana, Masahito, Michelle Sparman, Hathaitip Sritanaudomchai, Hong Ma, Lisa Clepper, Joy Woodward, Ying Li, Cathy Ramsey, Olena Kolotushkina, and Shoukhrat Mitalipov. "Mitochondrial gene replacement in primate offspring and embryonic stem cells." Nature 461 (2009): 367–372. 
+
+
+Tuppen, Helen A.L., Emma L. Blakely, Douglass M. Turnbull, and Robert W. Taylor. "Mitochondrial DNA mutations and human disease." Biochimica et Biophysica Acta (BBA)-Bioenergetics 1797 (2010): 113–128. http://www.sciencedirect.com/science/article/pii/S0005272809002618 (Accessed December 19, 2014).
+
+
+Van Blerkom, Jonathan. "Mitochondria as Regulatory forces in Oocytes, Preimplantation Embryos and Stem Cells." Reproductive BioMedicine Online 16 (2008): 553–69.
+
+
+Wallace, Douglas C., Gurparkash Singh, Marie T. Lott, Judy A. Hodge, Theodore G. Schurr, Angela M. S. Lezza, Louis J. Elsas II, and Eeva K. Nikoskelainen. "Mitochondrial DNA Mutation Associated with Leber's Hereditary Optic Neuropathy." Science 242 (1988): 1427–30.
+
+
+Zick, Michael, and Andreas S. Reichert. "Mitochondria." In Cellular Domains. Ed. Ivan R. Nabi. New York: John Wiley & Sons, Inc., 2011. 87–111.
+
+
+
+
+
+How to cite
+Haskett, Dorothy R., "Mitochondrial DNA (mtDNA)". Embryo Project Encyclopedia (2014-12-19). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/8269.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+Copyright Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Friday, December 19, 2014 - 23:03
+ Topic
+Subject
+ Mitochondrial DNA; Mitochondria; Mitochondrial disorders; Mitochondria--Diseases; Mitochondrial pathology; Mitochondrial DNA--Abnormalities; Genetic disorders; Origin of mitochondria; Cell organelles; Altmann, Richard; Benda, C. (Carl), 1857-1932; Margulis, Lynn, 1938-2011; Adenosine triphosphatase; Concept

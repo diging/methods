@@ -1,0 +1,36 @@
+By Mary E. Sunderland
+Published: 2009-06-10
+Keywords: Ova, Differentiation
+ Susceptibility Assay
+Charles Manning Child designed an experimental test, the susceptibility assay, to measure the effects of different toxins on developmental processes.  The susceptibility assay measured an organism’s vulnerability to death when it was submerged in a noxious solution.  The assay involved immersing an organism in a solution that contained a depressant or inhibitory substance, such as alcohol, and then measuring the responses of the organism.  Child interpreted these measurements as revealing information about the relative levels of metabolic activity within the organism.  Child predicted an organism’s susceptibility to death should vary directly with its metabolic rate.  An organism with a high metabolic rate would be expected to die more quickly in a noxious chemical solution than an organism with a lower metabolic rate:  the higher the rate, the more quickly death should ensue.  He also predicted young organisms should have higher metabolic rates than older organisms, since children were known to metabolize drugs more quickly than adults. 
+The susceptibility assay aimed to determine how 
+		metabolic gradients functioned during development.  Child suggested the major axis of the embryo was actually a metabolic gradient initially established by an external stimulus.  His theory therefore predicted that it should be possible to identify the major axis of the early 
+		embryo, or unfertilized 
+		egg, by subjecting it to his susceptibility assay.  This was important because when Child proposed this idea many had suggested unfertilized eggs were homogenous and completely undifferentiated.  Child, on the other hand, demonstrated that even different areas of unfertilized eggs responded variably to the susceptibility assay and therefore were heterogeneous from the beginning. 
+By immersing unfertilized eggs of various marine species into noxious solutions, Child observed one area degenerated, or died, more quickly than did other parts of the organism.  He interpreted this result as an indication metabolic rates were higher in the area that degenerated most quickly and furthermore this area was destined to become the head or apical region of the organism.  When organisms were immersed in various noxious environmental conditions later in development, Child observed development in the apical regions would slow down most drastically.  If conditions were severe enough, this area was the first to die.  
+Child’s susceptibility assay was central to his experimental methodology.  It was questioned by many of his contemporaries, such as 
+		Thomas Hunt Morgan, who employed a more opportunistic, diverse approach to experimentation.  The susceptibility assay highlights a central component of Child’s experimental approach: metabolic gradients exhibit differential and predictable responses in the susceptibility assay.
+
+Sources
+Child, Charles M. Senescence and Rejuvenescence. Chicago: University of Chicago Press, 1915.
+Child, Charles M. Individuality in Organisms. Chicago: University of Chicago Press, 1915.
+Child, Charles M. “A Dynamic Conception of the Organic Individual.” Proceedings of the National Academy of Sciences of the United States of America 1 (1915): 164–72.
+Child, Charles M. “Age Cycles and Other Periodicities in Organisms.” Proceedings of the American Philosophical Society 55 (1916): 330–39.
+Child, Charles M. “The Problem of Pattern in Organism.” The American Naturalist 58 (1924): 115–26.
+
+
+How to cite
+Sunderland, Mary E., "Susceptibility Assay". Embryo Project Encyclopedia (2009-06-10). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/1972.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 25, 2013 - 15:53
+ Topic
+Subject
+ Child, Charles Manning, 1869-1954; Technology

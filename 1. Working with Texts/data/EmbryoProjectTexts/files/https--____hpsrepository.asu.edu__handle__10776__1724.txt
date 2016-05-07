@@ -1,0 +1,83 @@
+By Adam R. Navis
+Published: 2007-11-08
+Keywords: Chicks, Ducks
+ Experiments on the Development of Chick and Duck Embryos, Cultivated in vitro
+		Conrad Hal Waddington’s “Experiments on the Development of Chick and Duck Embryos, Cultivated in vitro,” published in 1932 in Philosophical Transactions of the Royal Society of London, Series B, compares the differences in the development of 
+		birds and 
+		amphibians.  Previous experiments focused on the self differentiation of individual tissues in 
+		birds, but 
+		Waddington wanted to study 
+		induction in greater detail.  The limit to these studies had been the amount of time an embryo could be successfully cultivated ex vivo.  
+		Waddington applied in vitro cell culturing techniques to this experiment, as opposed to the chorio-allantoic technique used in many earlier studies.  Culturing in vitro consisted of placing the embryo on a clot of adult chicken blood plasma and 
+		chick embryo extract in a watch glass.  Experiments reported in this paper were divided into three main sections: the development of the embryos in vitro, 
+		induction by the endoderm, and 
+		induction by the 
+		primitive streak.
+The development of the embryos in vitro was slower and less complete than normal development.  Development also failed to continue beyond two days after cultivation.  
+		Waddington made no effort to improve the time of development or determine the degree of slowdown in this study because these limitations did not impact the results of this experiment.  Another complication was that the endoderm also had a tendency to form cysts during in vitro cultivation.  However, 
+		Waddington was able to cultivate the embryos long enough to observe 
+		primitive streak formation, gastrulation, and the 
+		induction of neural tissue.  This work provided the foundation for the experiments in this study.
+
+		Waddington first focused on the 
+		primitive streak.  After a short introduction to gastrulation in the 
+		chick embryo, the paper describes the manipulation of the 
+		primitive streak.  
+		Waddington’s first test was to cut the streak in various places and observe the effect of these manipulations on gastrulation.  He discovered that a cut anterior to the primitive pit, or Hensen’s node, still allowed the formation of many structures.  The further back the cut was applied, the fewer structures developed in the embryo.  Once 
+		Waddington cut posterior to the middle of the 
+		primitive streak, no more structures developed.  
+The influence of the endoderm on the 
+		primitive streak was studied to determine whether the endoderm had any organizing effects during development.  First, 
+		Waddington removed the endoderm from the rest of the embryo and allowed both to develop separately.  Differentiation still occurred in the remaining embryo, but 
+		Waddington was not satisfied with this result; some endodermal material may have remained on the embryo, causing induction.  His next experiment was to rotate the 
+		primitive streak relative to the axis of the endoderm.  This produced embryos with bent 
+		primitive streaks.  As the 
+		primitive streak developed, it changed direction to follow the axis of the endoderm, demonstrating the formative influence on the 
+		primitive streak by the endoderm.
+In order to study the effects of the mesoderm on the developing system, 
+		Waddington placed an inverted embryo in the 
+		primitive streak stage on another embryo of a similar stage so that the 
+		primitive streaks faced each other.  This setup was adapted to different angles between the axis of each embryo.  In many cases, the ectoderm of the upper embryo formed two neural plates instead of the normal one.  These plates were formed in the same directions as both 
+		primitive streaks.  
+		Waddington’s conclusion from this experiment was that the ecotoderm is competent to form neural plates in any orientation, demonstrating induction of neural tissue by the 
+		primitive streak.
+
+		Waddington’s final experiment in this paper was a 
+		grafting experiment.  In this experiment, a 
+		primitive streak from one embryo was grafted to another embryo.  Grafts were made from different thirds of the 
+		primitive streak.  The anterior third of the streak, including the primitive node, was shown to induce neural tissue in the host ectoderm.  The posterior third of the streak never induced neural tissue, implying that the posterior portions of the 
+		primitive streak are not capable of induction.  
+In these experiments, 
+		Waddington identified the anterior portions of the 
+		primitive streak to be the organizing tissue.  He first improved the cultivation of 
+		birds in vitro and then performed experiments on the 
+		primitive streak.  He sliced the streak at various positions to show that by disrupting gastrulation before the anterior portions of the streak, 
+		induction of many structures failed.  He also showed that the endoderm had a formative influence on the 
+		primitive streak, since the 
+		primitive streak followed the axis of the endoderm.  He demonstrated that the 
+		primitive streaks of two blastoderms arranged adjacent to each other at varying angles could induce similarly oriented neural tissue.  He showed that grafts from one embryo into a pocket between the endoderm and ectoderm could induce a second axis in the host.  
+		Waddington used these experiments to show that the higher vertebrates did have tissues equivalent to an 
+		organizer.  This tissue was centered around Hensen’s node, demonstrating that higher vertebrates had similar developmental mechanisms to the previously studied 
+		amphibians. 
+
+Sources
+Slack, Jonathan M. W.  “Conrad Hal Waddington: The Last Renaissance Biologist?”  Nature Reviews Genetics 3 (2002): 889–95.
+Stern, C. D.  “Conrad H. Waddington’s Contributions to Avian and Mammalian Development, 1930–1940.”  The International Journal of Developmental Biology 44 (2000): 15–22.
+Waddington, Conrad H.  “Experiments on the Development of Chick and Duck Embryos, Cultivated in vitro.” Philosophical Transactions of the Royal Society of London. Series B, Containing Papers of a Biological Character 221 (1932): 179–230.
+
+
+How to cite
+Navis, Adam R., ""Experiments on the Development of Chick and Duck Embryos, Cultivated in vitro" (1932), by Conrad Hal Waddington". Embryo Project Encyclopedia (2007-11-08). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/1724.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, March 18, 2015 - 17:56
+ Topic
+Subject
+ Waddington, C. H. (Conrad Hal), 1905-1975; Experiment

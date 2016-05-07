@@ -1,0 +1,46 @@
+By Christina Raup
+Published: 2010-06-14
+Keywords: Stem cells, Medical procedures
+ Stem Cell TourismWhen 
+		James Thomson of the University of Wisconsin announced in 1998 that he had derived and cultured 
+		human embryonic stem cells (hESCs), Americans widely believed—and accepted—that 
+		stem cells would one day be the basis of a multitude of regenerative medical techniques. Researchers promised that they would soon be able to cure a variety of diseases and injuries such as cancer, diabetes, Parkinson’s, spinal cord injuries, severe burns, and many others. But it wasn’t until January 2009 that the Food and Drug Administration approved the first human clinical trials using hESCs. The trials were put on hold in August of 2009 before they were ever begun. After more than a decade of being promised curative stem cell therapy, many people have been unwilling to wait for American doctors to provide stem cell treatments. Some people have opted not to wait or rely on other treatments, and have chosen to receive stem cell therapy from international institutions. This phenomenon has been dubbed stem cell tourism, and it has garnered much media attention, both in support and in opposition.
+A number of countries offer stem cell therapies, including Panama, Mexico, China, and the Ukraine. 
+		EmCell, a medical center in the Ukraine founded in 1994, claims to have begun treating types 1 and 2 diabetes mellitus with hESCs in 1992. The company applied for and was granted patents for treatment of AIDS and multiple sclerosis (MS) in the 1990s, and it began working on treatments for amyotrophic lateral sclerosis and muscular dystrophies before 2000. EmCell has since begun to offer treatments for ALS, cancer, liver diseases, hypertension, and Parkinson’s. Treatments at EmCell involve administering stem cells intravenously or subcutaneously, after which the cells are said to migrate to the correct site, engraft and multiply, and eventually undergo correct specialization, or 
+		differentiation. Once properly differentiated, the cell growth is expected to replace damaged tissues and restore impaired functions. EmCell treatments are entirely outpatient and are reported to be effective within one to two months.
+The biggest concern with stem cell therapies, and the reason why the FDA halted human trials, is that undifferentiated, or 
+		pluripotent, stem cells can be influenced to differentiate by a number of factors (including growth factors, growth matrices or media, and physical forces). Under certain (as yet unknown) conditions, hESCs can form tumors or 
+		teratomas, a type of tumor composed of tissue derived from all three 
+		germ layers. As of 2009, no American research was able to ensure that tumors would never form when hESCs were injected into damaged tissues, or even that the cells would differentiate into healthy cells of the correct type. EmCell, however, claims that teratomas only form when hESCs are one to two weeks old, and that its cells, injected when they are four to eight weeks old, are differentiated enough that they are incapable of uncontrollable growth that can lead to tumor formation. Presently, EmCell claims that its therapies have produced no negative side effects. Despite these claims, however, the EmCell website does not provide any conclusive success stories or patient interviews.
+Mexico has a stem cell clinic as well, the Cancun Stem Cell Clinic (CSCC). The clinic conducts stem cell treatments as well as phase I, II, and III clinical studies, and encourages clinicians to perform studies at the clinic. The CSCC offers one-day and one-week self-donor (autologous) bone marrow transplants, whereby bone marrow is taken from a patient’s leg, mixed with 
+		growth factors, and re-circulated through the patient’s body. Women who have had a cesarean section can opt to have their fresh placenta delivered to the CSCC, where clinicians remove portions of the amniotic membrane and mix it with a growth factor solution. The mixture is then intra-abdominally injected into the woman’s belly, to help the incision heal. For advanced disease treatment, the CSCC offers treatments that use 
+		umbilical cord stem cells, 
+		amniotic fluid stem cells, and embryonic live cell therapy. The company’s website does not explain how its treatments are administered, nor is there any discussion of potential risks or negative side effects.
+The 
+		International Society for Stem Cell Research believes that clinics such as EmCell and the Cancun Stem Cell Clinic are “exploiting patients’ hopes,” since the treatments are costly (over $20,000) and unproven. The society established a task force of doctors, researchers, ethicists, and regulatory officials from thirteen countries to establish guidelines for stem cell therapy, hoping to target clinics that might take advantage of patients by using experimental procedures without transparency, patient protections, or proper oversight. Experts cautiously estimate that the number of people who have opted for these procedures is in the thousands.
+Critiques of the EmCell clinic are representative of the myriad problems that Western scientists have with stem cell tourism. EmCell has been criticized for its treatment methods and for the lack of conclusive evidence that the treatments are working as advertised. Some researchers question why there are subcutaneous injections of stem cells for treatment of disorders like motor-neuron disease, since it would be difficult for the cells to reach the appropriate tissues. Once injected, the stem cells often die because they are in a foreign environment, and are receiving a number of cues that may cause them to differentiate incorrectly. The leading scientist at EmCell, who devised the procedure and administers the treatments, is Alexander Ivanovich Smikodub. Smikodub has published no studies proving the effectiveness of his treatments, nor has he conducted any placebo studies to confirm that the effects of his procedures are really the result of the application of embryonic stem cells. This has led a number of Western scientists and clinicians to be highly skeptical of EmCell and Smikodub’s claims that their treatments cure anything at all. Smikodub, however, claims that he doesn’t want to waste his time publishing papers in Western journals; he believes his real purpose is to administer treatments and cure sick patients. He has also refused to allow other scientists to investigate his clinic and perform studies of their own, eliciting further rebuke and suspicion of Smikodub’s work. In a BBC news story on EmCell, one scientist explains his fears that in the years to come, as people start to realize that treatments from clinics such as EmCell are not effective and provide no cures, that there will be a backlash against stem cell research, turning people against more traditional research that may someday provide more reliable results.
+
+Sources
+Aldhous, Peter. “Stem Cell Spinal Injury Trial Put on Hold.” New Scientist, August 24, 2009.
+Committee on the Biological and Biomedical Applications of Stem Cell Research. “Stem Cells and the Future of Regenerative Medicine.” Washington, DC: National Academy Press, 2002.
+Discher, Dennis E., David J. Mooney, and Peter W. Zandstra. “Growth Factors, Matrices, and Forces Combine and Control Stem Cells.” Science, 324 (2009): 1673–77.
+EmCell. “Stem cell treatments, cell therapy, stem cells.” http://www.emcell.com (Accessed November 18, 2009).
+O’Reilly, Kevin B. “Guidelines Target Stem Cell Medical Tourism.” American Medical News, February 2, 2009.
+Stein, Rob. “Government Approves Study Using Human Embryonic Stem Cells.” The Washington Post, January 24, 2009, Health Section.
+
+
+How to cite
+Raup, Christina, "Stem Cell Tourism". Embryo Project Encyclopedia (2010-06-14). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/2006.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 25, 2013 - 15:53
+ Topic
+Subject
+Stem Cells; Stem cells.; Concept

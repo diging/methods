@@ -1,0 +1,37 @@
+By Sarah Ly
+Published: 2011-03-27
+Keywords: Microscopy, Models
+ “Visualizing Human Embryos,” by Bradley Richard Smith In March 1999 Bradley Richard Smith, a professor at the University of Michigan, unveiled the first digital magnetic resonance images of human embryos. In his article “Visualizing Human Embryos” for Scientific American, Smith displayed three-dimensional images of embryos using combinations of Magnetic Resonance Microscopy (MRM), light microscopy, and computer editing. He created virtual embryo models that are possible to view as dissections, animations, or in their whole 3D form. Smith’s images constitute a new way of visualizing embryos. They served to help students, researchers, clinicians and the general public interested in the study and investigation of human embryonic development.
+Given his expertise in magnetic resonance imaging, in 1996 the National Institute of Child Health and Human Development contacted Smith to create a catalog of human embryo images that could be available to the public on the internet. The embryo images published in Scientific American were a small fraction of the completed pictures published online for public access in 2001 in the website of “The Multidimensional Human Embryo”, a project aimed at providing the public with an easily accessible database to human embryo images.
+Smith rendered the images published in the Scientific American article using specimens from the Carnegie Human Embryo Collection, a collection hosted since 1990 in the National Museum of Health and Medicine in Washington, DC. In the 1880s, Franklin Paine Mall started the collection, which contains embryos in every stage of development before they become a fetuses. The specimens were originally obtained from abortions or miscarriages, but they now also include also embryos collected from autopsies. 
+To create good visualizations of the embryos, Smith selected embryos that were whole and in good condition. To scan the embryo samples, he used MRM technology. MRM is similar to the Magnetic Resonance Imaging (MRI) commonly used in medicine to view parts of the internal body. However, MRM is different from MRI, as it uses stronger magnets that are able to detect resolutions a million times higher. Furthermore, unlike MRI machines, which are large enough to scan an entire human body, MRM machines are small and made for specimens on a millimeter-scale.
+Before placing the preserved embryos in the MRM machine for scanning, Smith inserted them into glass vials so as to prevent them from shifting. He then placed the vials in a magnet where radio-frequency signals detected the protons present in the tissue liquids. with those methods, Smith produced three-dimensional images on a computer while leaving the embryos completely intact. Prior to the use of MRM, embryos had to be dissected to see the inner structures. With the use of this new technique, instead, the machine provided a view from the inside of the embryo without any physical destruction. 
+Smith used the computer to create virtual dissections as if the embryos had been sliced. The scanned images were finalized by using computer technology that allowed Smith to add color or to select specific tissues and layers. Through the dissections, it was possible to view the inner structures of the embryo. Smith completed the computer editing at the School of Art and Design at the University of Michigan.
+The images in "Visualizing Human Embryos" consisted of embryos in the stages 17, 18, and 19, according to the Carnegie classification of embryonic development. Those stages correspond to days 41, 44, and 47 after conception, respectively. Each of the images displayed was a result of Smith’s unique visualization techniques and revealed new layers of embryonic development. 
+At Carnegie stage 17, Smith used three embryo images to illustrate that different MRM techniques could help to highlight different structures of the embryo and to provide a fuller image of the small structure. The T1 technique revealed blood vessels and T2 technique highlighted other tissues. Diffusion-weighting techniques made it easy to see detail in neural structures. The techniques all detected water inside the embryo to produce the image. However, by directing the MRM to detect different types of water movement, Smith successfully created images that highlighted different body parts in the embryo. 
+In an image of a stage 18 human embryo, it is possible to view three different cross sections of the embryo. The virtual model is split by top to bottom, left to right, and front to back. The image reveals the inner organs and even the developing brain of the embryo. By digitally "cutting" the embryo at different cross sections, it is possible to see the internal structures from angles that traditional dissections did not permit before.
+ At Carnegie stage 19, Smith used two different computer imaging techniques. First, he digitally edited the embryo image to highlight the embryonic neural tube, which he captures in three different pictures. Each of them shows the neural tube viewed from a different angle.  Second, Smith edited the embryo images with pseudocoloring. He highlighted different structures in the embryo with specific colors, making it easy to distinguish structural details within the embryo.
+Using the MRM, Smith did not need to section the embryo specimen to see its internal structures. According to Smith, the virtual images could help the general public, educators, physicians, and scientists alike. Since the publication of the article in Scientific American, Bradley Smith completed the "Multidimensional Human Embryo" database, which contains images and virtual simulations. Through the combination of traditional images and computer technology, Smith made it possible to visualize the dynamic processes of embryonic development.
+
+Sources
+Morgan, Lynn M. Icons of Life. A Cultural History of Human Embryos.  Berkeley: University of California Press, 2009, 210–211.
+National Museum of Health and Medicine. “Carnegie Timeline.” http://nmhm.washingtondc.museum/collection s/hdac/history_timeline.htm (Accessed October 16, 2010). 
+Smith, Bradley R. “Visualizing Human Embryos,” Scientific American 280 (1999): 76–81.
+Smith, Bradley R. "The Multidimensional Human Embryo." http://embryo.soad.umich.edu/index.html (Accessed March 27, 2011).
+
+
+How to cite
+Ly, Sarah, ""Visualizing Human Embryos" (1999), by Bradley Richard Smith". Embryo Project Encyclopedia (2011-03-27). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/2105.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Thursday, April 9, 2015 - 21:15
+ Topic
+Subject
+Magnetic Resonance Imaging; Magnetic resonance microscopy; Image

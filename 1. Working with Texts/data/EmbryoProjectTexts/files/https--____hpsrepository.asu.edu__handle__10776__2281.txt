@@ -1,0 +1,29 @@
+By Maria Doty, Corinne DeRuiter
+Published: 2011-06-21
+Keywords: Chicks, Gastrulation
+ Hensen’s NodeA node, or primitive knot, is an enlarged group of cells located in the anterior portion of the primitive streak in a developing gastrula. The node is the site where gastrulation, the formation of the three germ layers, first begins. The node determines and patterns the anterior-posterior axis of the embryo by directing the development of the chordamesoderm. The chordamesoderm is a specific type of mesoderm that will differentiate into the notochord, somites, and neural tube. Those structures will later form the vertebral column. In the chick embryo, the node is called Hensen’s node because of its discoverer, Viktor Hensen, who first described the node in 1875. The discovery of Hensen’s node has helped to explain axis formation and has allowed experimental embryologists to further investigate vertebrate embryonic development.
+Hensen’s research focused on the embryonic development of guinea pigs and rabbits. While studying those organisms he noticed something previously undiscovered—an enlarged area above the primitive streak. He referred to that area as the node in his article, “Beobachtungen uber die Befruchtung und Entwicklung des Kaninchens and Meerschweinchens” (Observations on the fertilization and development of the rabbit and guinea pig).  Hensen’s article was meant to describe development and encourage other researchers to further investigate the node. After the article, people researched nodes, and in 1924 Hans Spemann and Hilde Mangold published their work on the node in African clawed frogs (Xenopus laevis), for which they called the node the organizer. Hensen’s node and the organizer have nearly the same characteristics—in both chick and frog embryos they become the head processes.  Kupffer’s vesicle which was later discovered in fish is also similar to the organizer and Hensen’s node
+In the 1930s Conrad Hal Waddington invented a way to cultivate chick embryos on plasma clots, consisting of the organism’s plasma. With this new technique, Waddington was able to remove Hensen’s node and observe the effects when it was placed in another area of the chick. The notochord, somites, and neural tube began to form in the new location suggesting that Hensen’s node controlled axis formation and the development of those subsequent structures. Experiments such as Waddington’s initiated further investigations into the node’s mechanistic properties, such as gene expression. Those experiments found that two sets of gene expression occur in the region of Hensen’s node. The first set of genes includes those that are expressed in the posterior part of Koller’s sickle and later appear throughout the entire length of the primitive streak. Koller’s sickle is another area of thickened cells which acts as a margin separating the blastoderm from the hypoblast layer during migration of the primitive streak. Those genes are Vg1 and Nodal. The gene Vg1 plays a crucial role in forming the primitive streak. When Vg1 is expressed in the anterior marginal zone of the blastoderm, Nodal will be subsequently expressed and an anterior-posterior axis will form. The second set of genes are those whose expression is only in the anterior part of the primitive streak and includes chordin and sonic hedgehog (shh). Expression of chordin and shh is later found in Hensen’s node. 
+In chicks and all other vertebrates, dorsal mesoderm induces overlying ectoderm to become the precursor population of the central nervous system and notochord. In chicks, cells of Hensen’s node secrete proteins that dorsalize the ectoderm and mesoderm. The proteins secreted are chordin, Noggin, and Nodal, all of which repress bone morphogenetic proteins (BMPs). Fibroblast Growth Factors (FGFs) are also critical for induction of mesoderm, for BMP repression, and for signaling the beginning of neurulation. FGFs and Nodal are responsible for activating the genes Brachyury and Tbx6 in cells going through the primitive streak. FGFs signal for mesoderm ingression to cease and for stabilization of the epiblast in preparation for neurulation. Hensen’s node is homologous to Kupffer’s vesicle in fish and the Spemann-Mangold organizer in amphibians. Though there is current research to understand the mechanism for the formation and regression of Hensen’s node, much is still unknown. Hensen’s node continues to be a source for new information regarding axis specification and notochord development.  
+
+Sources
+Boettger, Thomas, Hendrik Knoetgen, Lars Wittler, and Michael Kessel. "The Avian Organizer." International Journal of Developmental Biology 45 (2001): 281-87. 
+Gilbert, Scott. Developmental Biology. 8th Edition. Sunderland, MA: Sinauer, 2006.
+Hensen, Viktor. "Beobachtungen uber die Befruchtung und Entwicklung des Kaninchens and Meerschweinchens." Zoological Anatomy Entwickl Gesch 1 (1876): 353–423. 
+
+
+How to cite
+Doty, Maria,, DeRuiter, Corinne, "Hensen's Node". Embryo Project Encyclopedia (2011-06-21). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/2281.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 25, 2013 - 15:53
+ Topic
+Subject
+Gastrulation; Hensen, Victor, 1835-1924; Concept

@@ -1,0 +1,65 @@
+By Adam R. Navis
+Published: 2007-10-30
+Keywords:     
+   Epidermal Growth FactorEpidermal growth factor is a signaling molecule that stimulates the growth of epidermal tissues during development and throughout life.  
+		Stanley Cohen discovered epidermal growth factor (EGF) during studies of 
+		nerve growth factor as a side effect of other experiments.  EGF stimulates tissue growth by initiating a variety of cellular mechanisms.  This work led to the 1986 
+		Nobel Prize in Physiology or Medicine awarded to 
+		Cohen and 
+		Rita Levi–Montalcini. At the Nobel Award ceremony 
+		Levi–Montalcini focused her acceptance speech on 
+		nerve growth factor, while 
+		Cohen focused his on epidermal growth factor.  Although they presented different topics, they were close collaborators and their combined effort led to the discovery of 
+		nerve growth factor.  They had worked together in 
+		Viktor Hamburger’s laboratory at 
+		Washington University in St. Louis.
+The first indication of epidermal growth factor was observed in newborn 
+		mice injected with a crude extract from the 
+		mouse salivary gland.  The salivary gland is an abundant source of 
+		nerve growth factor (NGF), and was used by 
+		Cohen and 
+		Levi–Montalcini to characterize 
+		NGF.  The extract of 
+		mouse
+nerve growth factor led to “side effects” in 
+		mice: their eyelids opened and teeth erupted earlier than normal.  This effect was not seen in purifications of 
+		nerve growth factor, so 
+		Cohen decided to look for an epidermal growth factor in the other fraction of the salivary gland extract.  
+		Cohen published the initial discovery of EGF in 1960.  At the time it was not clear if epidermal growth factor was acting directly or was stimulating another developmental response.  The term “epidermal growth factor” was not used until 1965 when in vitro studies demonstrated that the growth factor was acting directly on the affected tissue.
+Epidermal growth factor is a protein that signals tissue growth through many mechanisms.  It was first discovered as a short, single protein and was later discovered in a larger, two protein interaction.  One function of EGF is an alteration of metabolic activity in a given cell or tissue that accelerates the growth of the tissue.  EGF was also found to stimulate fibroblasts to grow new mitochondria, used in energy processing.  Scratched rabbit corneas were also discovered to heal more quickly in the presence of epidermal growth factor.  EGF was found to be highly conserved in vertebrates, including humans, in 1973, indicating an integral role in development.  As the name implies, epidermal growth factor accelerates growth in epidermal tissues.
+Epidermal growth factor has also been discovered in embryonic development, in the nervous system, and many epidermal cancers. The role of epidermal growth factor in development has been studied extensively in 
+Drosophila and 
+Caenorhabditis elegans. EGF is utilized in 
+		axis determination, for the formation of 
+		imaginal disks, and is required for limb formation.  The growth of some epidermal tumors requires the activation of EGF receptors.  It is possible to produce an antibody to block the supply of epidermal growth factor to the tumor, which is a treatment for related cancers.
+Epidermal growth factor was discovered after 
+		nerve growth factor.  These were the first growth factors discovered and they earned 
+		Cohen and 
+		Levi–Montalcini the 1986 
+		Nobel Prize for Physiology or Medicine.  EGF has been discovered in neural tissue and cancers, in addition to epidermal tissue.  Many measures of cellular growth are increased by epidermal growth factor, specifically to cellular metabolism.  Antibodies to EGF have been produced as a treatment to certain cancers that rely on a supply of the growth factor.  Epidermal growth factor is a highly conserved, widely studied growth factor integral to development.
+
+
+Sources
+Bogdan, Sven, and Christian Klambt.  “Epidermal Growth Factor Receptor Signaling.”  Current Biology 11 (2001): R292–5.
+Carpenter, Graham, and Stanley Cohen.  “Epidermal Growth Factor.”  Journal of Biological Chemistry 265 (1990): 7709–12. http://www.jbc.org/content/265/14/7709.full.pdf (Accessed November 10, 2014).
+Carpenter, Graham, and Stanley Cohen.  “Epidermal Growth Factor.”  Annual Reviews of Biochemistry 48 (1979): 193–216.
+Cohen, Stanley.  “Nobel Lecture–Epidermal Growth Factor.”  Bioscience Reports 6 (1986): 1017–28. http://www.bioscirep.org/bsr/006/1017/0061017.pdf?origin=publication_detail (Accessed November 10, 2014).
+Fallon, J. H., K. B. Seroogy, S. E. Loughlin, R. S. Morrison, R. A. Bradshaw, D. J. Knaver, and D. D. Cunningham.  “Epidermal Growth Factor Immunoreactive Material in the Central Nervous System: Location and Development.”  Science 224 (1984): 1107–09.
+Mendelsohn, J.  “The Epidermal Growth Factor Receptor as a Target for Cancer Therapy.”  Endocrine Related Cancer 8 (2001): 3–9. http://erc.endocrinology-journals.org/content/8/1/3.long (Accessed November 10, 2014).
+
+
+How to cite
+Navis, Adam R., "Epidermal Growth Factor". Embryo Project Encyclopedia (2007-10-30). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/1719.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Monday, November 10, 2014 - 23:25
+ Topic
+Subject
+Epidermal Growth Factor; Nerve Growth Factor; Imaginal Discs; Cohen, Stanley, 1937-; Levi-Montalcini, Rita; Hamburger, Viktor, 1900-2001; Embryology; Embryos; Developmental biology; Concept

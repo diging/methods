@@ -1,0 +1,303 @@
+By B. R. Erick Peirson
+Published: 2014-09-16
+Keywords: Dauermodifikationen, pure line experimental technique
+ Victor Jollos
+(1887-1941)Victor Jollos studied fruit flies and microorganisms in
+	Europe and the US, and he introduced the concept of
+	Dauermodifikationen in the early 1900s. The concept of
+	Dauermodifikationen refers to environmentally-induced traits
+	that are heritable for only a limited number of generations. Some
+	scientists interpreted the results of Jollos's work on Paramecium and
+	Drosophila
+	as evidence for cytoplasmic inheritance. Jollos was forced to
+	emigrate from Germany to the United States due to anti-semitic
+	government policies in the early 1930s. Nevertheless, his work on
+	Dauermodifikationen remained central to theoretical discourse
+	among German zoologists concerning heredity, development, and
+	evolution. Jollos was born on 12 August 1887 in Odessa,
+	Ukraine, then a part of Russia. Jollos's parents, Rosa Jurowsky and
+	Gregor Jollos, emigrated to Germany while he was young, and Jollos
+	attended high-school in Heidelberg and Berlin. As an undergraduate
+	at the University of Berlin, Jollos studied with zoologist Max
+	Hartmann, who studied reproduction in unicellular organisms. 
+Jollos also studied with experimental embryologist and
+	protozoologist Richard von Hertwig at the University of Munich in
+	Munich, Germany, where Jollos received his PhD in zoology in 1910. 
+	Jollos pursued protozoology, the study of single-celled eukaryotic
+	organisms called protists, after the first taxonomic system for
+	classifying Protozoa was constructed. Jollos's graduate mentor,
+	Hertwig, founded on of the first German protozoological research
+	institutes in Munich in 1885. While Jollos was a student,
+	protozoologists began to publish in their own journals and train new
+	researchers specifically in the field of protozoology.
+	Protozoologists, including Hertwig, preferred to study the large
+	freshwater protist Paramecium. Paramecium became
+	Jollos's experimental organism of choice for the next two decades.
+	 From 1912 to 1914 Jollos worked as a research assistant at
+	the Robert Koch Institute (RKI), previously called the Prussian
+	Institute for Infectious Diseases, in Berlin. During this time
+	Jollos reported his first observations of Dauermodifikationen
+	in Paramecium. Jollos used a technique called the pure line
+	experimental technique to study heredity in Paramecium.
+	Wilhelm Ludvig Johannsen in Denmark had developed the pure line
+	method for use in plants in the early 1900s, and microbiologist
+	Herbert Spencer Jennings in the US had adapted the method for use
+	with microorganisms in the 1910s.  For his studies, Jollos
+	induced asexual or parthenogenetic reproduction in Paramecium
+	to produce lineages of genetically identical individuals. After
+	exposing Paramecium from those lineages to an environmental
+	stressor, such as high levels of toxins or extreme heat, Jollos
+	found that the Paramecium exhibited new characteristics, such
+	as resistance to specific toxins, that persisted in the offspring
+	for hundreds of generations, even after Jollos removed the stressor
+	from the environments of those lineages. Jollos called those
+	modifications Dauermodifikationen, or permanent
+	modifications. Although Jollos critiqued theories of
+	cytoplasmic inheritance, some embryologists saw Jollos's
+	Dauermodifikationen  as evidence that the cytoplasm of
+	germinal cells function in heredity. During this period, biologists
+	debated whether the nucleus or the cytoplasm of germ cells was
+	primarily responsible for transmitting characteristics from parents
+	to their offspring. Geneticists, who largely accepted Gregor
+	Mendel's recently rediscovered principles of heredity, said that the
+	nuclei of germ cells contained hereditary material and produced
+	heritable characteristics in organisms as those organisms developed.
+	Many embryologists resisted these claims, however, and maintained
+	that the cytoplasm, not the nucleus, of the germ cell was primarily
+	responsible for heredity, either by controlling the action of
+	nuclear genes or by containing hereditary factors themselves.
+	Plasmon theorists, who claimed that the traits characteristic of
+	taxonomic groups above the rank of species—groups such as
+	genera, classes, and orders—are rooted in cytoplasmic factors
+	rather than nuclear genes, also claimed Dauermodifikationen
+	as evidence of cytoplasmic inheritance. With the onset of
+	World War I in 1914, Jollos left his newly-acquired post as acting
+	director of the protozoology department at RKI to pursue medical
+	qualifications for the war effort. Jollos studied medicine at the
+	University of Berlin, and he passed his Medizinisches
+	Staatsexamen (state medical exams) in 1918. When the war ended,
+	Jollos resumed his experimental work as a research assistant at the
+	Kaiser Wilhelm Institute for Biology (KWI), in the Dahlem district
+	of Berlin, where he remained until 1925. In 1920 Jollos married
+	pianist Ilse Raven, with whom he later had two daughters, Eva and
+	Inge. From 1921 to 1925 Jollos also held the position of
+	privatdozent (private lecturer), a pre-tenure position, at
+	the University of Berlin. In 1925 Jollos relocated to Cairo,
+	Egypt, upon the invitation of the Egyptian Government. As a
+	professor at the Egyptian University in Cairo, Jollos organized the
+	new zoology department. Meanwhile, Jollos became special adviser to
+	the Egyptian Ministry of Agriculture in Cairo, concerning sheep and
+	poultry breeding experiments. Jollos also served as president of the
+	Royal Zoological Society of Egypt in Cairo, and he sat on the board
+	of examiners for medical and veterinary schools in Cairo. In 1929
+	Jollos returned to the KWI in Berlin, where he oversaw a research
+	laboratory in Max Hartmann's Department for Protistology. Jollos was
+	also reinstated at the University of Berlin, where he became an
+	associate professor of zoology.  Jollos saw his experimental
+	work as a contribution to the theory of orthogenetic evolution.
+	Wilhelm Haacke, director of the Natural History Museum in Adelaide,
+	Australia, coined the term orthogenesis in his 1883 book
+	Gestaltung und Vererbung (Design and Inheritance). Zoologist
+	Theodor Eimer in Tübingen, Germany, further articulated and
+	promoted the theory of orthogenesis in his 1888 book  Die
+	Entstehung der Arten auf Grund von Vererben erworbener Eigenschaften
+	nach den Gesetzen organischen Waschsens  (Organic Evolution as
+	the Result of the Inheritance of Acquired Characters According to
+	the Laws of Organic Growth). Haacke and Eimer said that natural
+	selection acting on random mutations couldn't explain patterns of
+	directional change in the fossil record, such as the sequential
+	reduction of limbs in the evolution of snakes. Orthogenesists
+	claimed that such directional change involved either an external
+	directive force, or constraints internal to the organism that
+	determined specific directions in which a species could evolve.
+	Jollos theorized that one source of directionality in evolution was
+	directed mutation, the claim that environmental factors, such as
+	high temperature, could elicit specific and predictable heritable
+	mutations. After returning to Berlin in 1929, Jollos read a
+	report on a new method for producing mutations in fruit flies (Drosophila
+	melanogaster) published by geneticist Richard Goldschmidt,
+	who was also affiliated with the KWI. Over the next five years
+	Jollos used Goldschmidt's method, which involved exposing
+	Drosophila larvae to high temperatures at a key point in
+	their development. That method enabled Jollos to investigate the
+	capacity of environmental factors to produce directional mutations
+	in Drosophila for eye color. In the course of those
+	experiments, Jollos generated mutations in what he claimed were
+	orthogenetic series. For example, when Jollos exposed larval flies
+	to high temperatures, those flies developed into adults with light
+	colored eyes, a phenomenon that intensified when he applied the same
+	technique to the flies' offspring. Jollos interpreted these results
+	to corroborate orthogenetic theory, and he thought them consistent
+	with observations from paleontologists, who said that periods of
+	climatic warming correlated with high frequencies of speciation.
+Although Jollos was raised as a Protestant, he had Jewish
+	ancestry, and he fell victim to antisemitic policies that took
+	effect with the installation of Adolf Hitler as chancellor of the
+	Third Reich in 1933. Jollos was expelled from his post at the KWI in
+	autumn of that year. Unable to acquire a job in Germany, Jollos and
+	his family emigrated to the UK, where he worked in Francis A. E.
+	Crew's animal breeding lab at the University of Edinburgh in
+	Edinburgh, Scotland, in early 1934. In late 1934 Jollos accepted a
+	fellowship from the Institute of International Education,
+	headquartered in New York, New York, via the Emergency Committee in
+	Aid of Displaced German Scholars, as well as an offer of research
+	facilities at the University of Wisconsin in Madison, Wisconsin.
+Jollos lacked incubators for his heat induction experiments for
+	the first six months of his time at the University of Wisconsin.
+	Even with the incubators, Jollos struggled to continue his research
+	given his financial woes. When Jollos's fellowship from the
+	Emergency Committee ended in summer of 1935, he obtained no academic
+	employment, despite the efforts of Goldschmidt and fellow
+	protozoologist Tracy Morton Sonneborn. Jollos and his family were
+	supported financially by temporary funding from the National
+	Coordinating Committee for Aid to Refugees and Emigrants Coming from
+	Germany, honoraria from guest lectures, and a few friends at the
+	university. Jollos's lack of research funding prevented him from
+	continuing the heat induction experiments. With the help of
+	colleagues, Jollos secured limited funding from the National
+	Research Council's Committee on Radiation, headquartered in
+	Washington, D.C., to investigate the mutagenic effects of cosmic
+	radiation in Drosophila. In autumn of 1937 the University of
+	Wisconsin rescinded Jollos's access to laboratory facilities. That
+	year, Jollos suffered two heart attacks. Already suffering from
+	diabetes, his health deteriorated rapidly. In 1937 Jollos completed
+	a lecture tour in the eastern US, visiting Yale Univerity, Johns
+	Hopkins University, the University of Rochester, and Amerherst
+	University. Jollos died on 5 July 1941, at the age of 54, leaving
+	his family in poverty. 
+ Sources Bajohr, Frank.
+		"The 'Aryanization' of Jewish Companies and German Society."
+		Paper presented at the International conference on German
+		Society's Responses to Nazi Anti-Jewish Policy 1933–1941,
+		Yad Vashem, Israel, February 10–13, 1995. Bowler,
+		Peter J. "Theodore Eimer and Orthogenesis: Evolution by
+		'Definitely Directed Variation.'" Journal of the History of
+		Medicine and Allied Sciences 34 (1979): 40–73.
+Brink, Royal Alexander. "Victor Jollos, 1887–1941."
+		Science 94 (1941): 270–2. Dietrich,
+		Michael R. "On the Mutability of Genes and Geneticists: The
+		'Americanization' of Richard Goldschmidt and Victor Jollos."
+		Perspectives on Science 4 (1996): 321–45. 
+Dolezal, Helmut. "Hartmann, Max(imilian), Biologie."
+		Allgemeine deutsche Biographie und Neue deutsche Biographie
+		(Digitale Register) (General and New German Biogrphy,
+		Digital Version). 8: 1–2. 
+		http://daten.digitale-sammlungen.de/bsb00016409/image_17
+		(Accessed November 25, 2011). Eimer, Theodor. Die
+		Entstehung der Arten auf Grund von Vererben erworbener
+		Eigenschaften nach den Gesetzen organischen Waschsens.
+		(Organic Evolution as the Result of the Inheritance of Acquired
+		Characters According to the Laws of Organic Growth). Jena: G.
+		Fischer, 1888. http://
+		books.google.com/books?id=l8MlAAAAMAAJ (Accessed August 21,
+		2014). Goldschmidt, Richard Benedit. "Experimentelle
+		Mutation und das Problem der sogenannten Parallelinduktion.
+		Versuche an Drosophila." (Experimental Mutation and the Problem
+		of So-called Parallel Induction. Experiments on Drosophila.)
+		Biologisches Zentralblatt (Biology Central) 49 (1929):
+		437–48. Goldschmidt, Richard Benedict.
+		Physiological Genetics. New York and London: McGraw-Hill,
+		1938. Haacke, Wilhelm. Gestaltung und Vererbung: Ein
+		Entwicklungsmechanik der Organismen. (Design and
+		Inheritance: A Developmental Mechanics of Organisms). Leipzig:
+		Weigel, 1893. Harwood, Jonathan. "Geneticists and the
+		Evolutionary Synthesis in Interwar Germany." Annals of
+		Science 42 (1985): 279–301.  Harwood,
+		Jonathan. Styles of Scientific Thought: The German Genetics
+		Community, 1900–1933. Chicago: University of Chicago
+		Press, 1993. Jacobs, Natasha X. "From Unit to Unity:
+		Protozoology, Cell Theory, and the New Concept of Life."
+		Journal of the History of Biology 22 (1989):
+		215–42. Jennings, Herbert Spencer. "Pure lines in
+		the study of genetics in lower organisms." American
+		Naturalist 45 (1911): 79–89. http://www.jstor.org/
+		stable/2455466 (Accessed August 21, 2014).
+Johannsen, Wilhelm Ludvig. Über Erblichkeit in
+		Populationen und reinen Linien. Eine Beitrag zur Beleuchtung
+		schwebender Selektionsfragen [On Heredity in Pure Lines and
+		Populations. A Contribution to Pending Questions of Selection].
+		Jena: Gustav Fischer, 1903. Jollos, Victor.
+		"Experimentelle Untersuchungen an Infusorien." (Experimental
+		Investigations on Infusoria). Biologisches Centralblatt
+		(Biology Central) 33 (1913): 222–36. http://www.biodiversitylibrary.org/item/17853#page/238
+		/mode/1up (Accessed August 21, 2014). Jollos,
+		Victor. "Variabilität und Vererbung bei Mikro-organismen."
+		(Variability and Inheritance in Microorganisms). Molecular
+		and General Genetics 12 (1914): 14–35.
+Jollos, Victor. Experimentelle Protistenstudien:
+		Untersuchungen über Variabilität und Vererbung bei
+		Infusorien. (Experimental Studies on Protists: Studies on
+		Variability and Inheritance in Infusoria). Jena: Gustav Fischer,
+		1921. http://dx.doi.
+		org/10.5962/bhl.title.11942 (Accessed August 20, 2014).
+		 Jollos, Victor. "Inherited changes produced by
+		heat-treatment in Drosophila melanogaster." Genetica 16
+		(1934): 476–94. Jollos, Victor. "Some Attempts to
+		Test the Role of Cosmic Radiation in the Production of Mutations
+		in Drosophila melanogaster." Genetics 22 (1937):
+		534–42. http
+		://www.ncbi.nlm.nih.gov/pmc/articles/PMC1208986/ (Accessed
+		August 21, 2014). Jollos, Victor. "Further Tests of the
+		Role of Cosmic Radiation in the Production of Mutations in
+		Drosophila melanogaster." Genetics 24 (1939):
+		113–30. http
+		://www.ncbi.nlm.nih.gov/pmc/articles/PMC1209031/ (Accessed
+		August 21, 2014). Mendel, Gregor Johann. "Versuche
+		über Pflanzen-Hybriden" [Experiments Concerning Plant
+		Hybrids]. Verhandlungen des naturforschenden Vereines in
+		Brünn [Proceedings of the Natural History Society of
+		Brünn] IV (1865): 3–47. Reprinted in Fundamenta
+		Genetica, ed. Jaroslav Kříženecký, 15–56. Prague:
+		Czech Academy of Sciences, 1966. http://www.mendelweb
+		.org/Mendel.html (Accessed August 21, 2014).
+Morgan, Thomas Hunt. "Cytoplasmic Inheritance." In The
+		Physical Basis of Heredity, eds. Jacques Loeb, Thomas Hunt
+		Morgan, and Winthrop John van Leuven Osterhout, 219–226.
+		Philadelphia and London: J. B. Lippincott Company, 1919. http://www.biodiversitylibrary.org/item/116899#page/
+		237/mode/1up (Accessed August 20, 2014).  Rieppel,
+		Olivier, David M. Williams, and Malte C. Ebach. "Adolf Naef
+		(1883–1949): On Foundational Concepts and Principles of
+		Systematic Morphology." Journal of the History of Biology
+		46 (2013): 445–510. Sapp, Jan. "The Gradual
+		Disappearance of Victor Jollos." In Beyond the Gene:
+		Cytoplasmic Inheritance and the Struggle for Authority in
+		Genetics, 60–5. Oxford: Oxford University Press,
+		1987. Sapp, Jan. "The Struggle for Authority in the
+		Field of Heredity, 1900–1932: New Perspectives on the Rise of
+		Genetics." Journal of the History of Biology 16 (1983):
+		311–42. Sapp, Jan. Where the Truth Lies: Franz
+		Moewus and the Origins of Molecular Biology. Cambridge:
+		Cambridge University Press, 1990. Ulett, Mark A.
+		"Making the case for orthogenesis: The popularization of
+		definitely directed evolution (1890–1926)." Studies in
+		History and Philosophy of Science Part C: Studies in History and
+		Philosophy of Biological and Biomedical Sciences 45 (2014):
+		124–32. United States Holocaust Memorial Museum.
+		"Anti-Jewish Legislation in Prewar Germany." Holocaust
+		Encyclopedia. http://www.ushmm.org/wlc/en/article.php?ModuleId=10005681
+		(Accessed November 25, 2011). Wolf, Matthias, and Klaus
+		Hausmann. "Protozoology from the Perspective of Science Theory:
+		History and Concept of a Biological Discipline." Linzer
+		Biologische Beitrage (Linzer Biological Contributions) 33
+		(2001): 461–88. http://www.landesmuseum.at/pdf_frei_remote/
+		LBB_0033_1_0461-0488.pdf (Accessed August 21, 2014). 
+
+
+How to cite
+Peirson, B. R. Erick, "Victor Jollos
+(1887-1941)". Embryo Project Encyclopedia (2014-09-16). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/8200.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+Copyright Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Tuesday, September 16, 2014 - 18:52
+ Topic
+Subject
+ Jollos, Victor, 1887-1941; Paramecium; Drosophila; Heredity; Protists; Protozoology; Robert
+Koch-Institut; Cytoplasmic
+inheritance; Evolution; Egypt; Emergency Committee in Aid of Displaced German Scholars; People

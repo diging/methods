@@ -1,0 +1,63 @@
+By Adam R. Navis
+Published: 2007-10-30
+Keywords:     
+   In vitro Experiments on the Effects of Mouse Sarcomas 180 and 37 on the Spinal and Sympathetic Ganglia of the Chick Embryo (1954) by Rita Levi-Montalcini, Viktor Hamburger, and Hertha Meyer“In vitro Experiments on the Effects of Mouse Sarcomas 180 and 37 on the Spinal and Sympathetic Ganglia of the Chick Embryo” were experiments conducted by 
+		Rita Levi-Montalcini in conjunction with 
+		Viktor Hamburger and 
+		Hertha Meyer and published in Cancer Research in 1954.  In this series of experiments, conducted at the 
+		University of Brazil, 
+		Levi-Montalcini demonstrated increased nerve growth by introducing specific tumors (sarcomas) to 
+		chick ganglia.  Ganglia are clusters of nerve cells, from which nerve fibers emerge.  This work led to the discovery of 
+		nerve growth factor (NGF) and later the 
+		Nobel Prize in Physiology or Medicine in 1986.
+This experiment is based on related work performed by 
+		Elmer Bueker, who discovered sarcomas capable of being invaded by nervous tissue, and also earlier work by 
+		Levi-Montalcini, who confirmed and expanded his results by showing local increases in nerve growth by implanting tumors into a developing embryo.  This paper is an extension of that earlier work, demonstrating that the ganglia are responding to direct effects of the tumor, and not a latent effect of all tumors.  
+		Levi-Montalcini isolated the ganglia and the tumor in a tissue culture to determine the effects of the tumor separate from normal 
+		chick development.
+
+		Levi-Montalcini used a 
+		hanging drop tissue culture for this investigation.  This was in opposition to previous studies which had examined the effects of the sarcomas in vivo.  The tissue culture technique allows for a more direct study of the ganglia and tumor interactions than experimentation during 
+		chick development.  The technique involves explanting ganglia from six and seven day chick embryos and placing it in the tissue culture.  Five 
+		mouse sarcomas were selected for the study of nerve growth effects: sarcoma 180, sarcoma 37, sarcoma 1, adenocarcinoma dbrB, and neuroblastoma C1300.  In addition the 
+		chick ganglia were introduced to two types of heart tissue, embryonic 
+		chick heart tissue and embryonic 
+		mouse heart tissue, as a control to demonstrate the effects of normal tissue.  In general the tumors were placed between 1 to 2 mm from the sarcoma; however, in another experimental series, the distance between the sarcomas was varied to study chemical action at a distance.
+The in vitro development of an isolated 
+		chick ganglion proceeded more slowly than in vivo.  In the first sixteen hours no nerve fiber outgrowth occurred in the explanted tissue.  Between twenty-four and forty-eight hours the nerve fibers associated with the spindle-cells and grew radially into rows and columns.  By the third day, many of the neurons began to degenerate and were removed by macrophages, which digest many types of dead or foreign tissue.  
+In the presence of sarcomas 180, 37, and 1, the development of the ganglia was accelerated.  The acceleration was not limited to nerve fiber growth, rather all milestones were affected.  Many nerve fibers had erupted from the ganglion within the first sixteen hours, concentrated on the side facing the tumor.  
+		Levi-Montalcini described this pronounced growth as a “halo” of nerve fibers.  At about forty-eight hours, the degeneration of the cells had begun.  These tumors stimulated much more nerve growth in the ganglia than normal, but the specificity of the growth was not fully understood.  These sarcomas were introduced to spinal cord tissue to determine whether the effect of these tumors also stimulates extra nerve growth in other nervous tissues.  In the presence of sarcomas 180, 37, and 1, spinal development proceeded without any disruption or acceleration, demonstrating that the nerve growth effect was localized to the ganglia.  The proximity of the tumor to the ganglion was also tested.  In these experiments the distance of 1 to 2 mm was shown to be optimal for nerve growth, but the stimulation could be seen with a distance of 5 mm between the sarcoma and the ganglion.  They concluded that there was some diffusible factor acting on the ganglia at a distance.
+
+		Levi-Montalcini also introduced 
+		chick ganglia to adenocarcinoma dbrB and neuroblastoma C1300.  These tumors did not stimulate nerve growth like the previous tumors and the in vitro development of the ganglia proceeded normally.  These tumors demonstrated that the increased nerve growth was not a simple effect of all tumors, but was a specific effect elicited by only some tumors.  The ganglia were introduced to embryonic 
+		mouse and 
+		chick heart tissue as a control.  In the presence of 
+		chick heart tissue, each ganglion developed like the control ganglion, but mouse heart tissue promoted nerve growth similar to the sarcomas early in the experiment, although much less pronounced.  This indicated that normal mouse tissue may harbor the same factor as the stimulating tumors.
+In this paper 
+		Levi-Montalcini showed that the nerve growth inducing tumors are able to act at a distance.  The paper also notes that as the nerves approach the tumor they show a marked increase in density indicating the presence of a diffusible factor.  She also showed that this effect was due to a direct action of the tumor on the ganglion rather than a metabolic breakdown of the tissue’s normal resistance to nerve growth.  This work paved the way for future work characterizing the nature of 
+		nerve growth factor with 
+		Stanley Cohen and a 1986 
+		Nobel Prize in Physiology or Medicine.
+
+Sources
+Levi-Montalcini, Rita.  “The Nerve Growth Factor 35 Years Later.”  Science 237 (1987): 1154–62.
+Levi-Montalcini, Rita.  “Effects of Mouse Tumor Transplantation on the Nervous System.”  Annals of the New York Academy of Sciences 55 (1952): 330–44.
+Levi-Montalcini, Rita, and Viktor Hamburger.  “Selective Growth Stimulating Effects of Mouse Sarcoma on the Sensory and Sympathetic Nervous System of the Chick Embryo.”  The Journal of Experimental Zoology 116 (1951): 321–61.
+Levi-Montalcini, Rita, Hertha Meyer, and Viktor Hamburger.  “In vitro Experiments on the Effects of Mouse Sarcomas 180 and 37 on the Spinal and Sympathetic Ganglia of the Chick Embryo.”  Cancer Research 14 (1954): 49–57. http://cancerres.aacrjournals.org/content/14/1/49.full.pdf (Accessed November 10, 2014).
+
+
+How to cite
+Navis, Adam R., ""In vitro Experiments on the Effects of Mouse Sarcomas 180 and 37 on the Spinal and Sympathetic Ganglia of the Chick Embryo" (1954), by Rita Levi-Montalcini, Viktor Hamburger, and Hertha Meyer". Embryo Project Encyclopedia (2007-10-30). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/1714.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, March 18, 2015 - 16:34
+ Topic
+Subject
+Nerve Growth Factor; Ganglia; Sarcoma, Experimental; Levi-Montalcini, Rita; Chickens--Embryos; Levi-Montalcini, Rita; Hamburger, Viktor, 1900-2001; Developmental biology; Embryology; Tumors in animals; Experiment

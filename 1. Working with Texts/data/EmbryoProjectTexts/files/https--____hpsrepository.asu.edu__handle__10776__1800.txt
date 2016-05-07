@@ -1,0 +1,46 @@
+By Cera R. Lawrence
+Published: 2011-04-06
+Keywords: Biography, Genetics, Inheritance
+ Francis Galton (1822–1911)Sir Francis Galton was a British science writer and amateur researcher of the late nineteenth century. He contributed greatly to the fields of statistics, experimental psychology and biometry. In the history of biology, Galton is widely regarded as the originator of the early twentieth century 
+		eugenics movement. Galton published influential writings on 
+		nature versus nurturein human personality traits, developed a family study method to identify possible inherited traits, and devised laws of genetic inheritance prior to the rediscovery of Gregor Mendel’s work. His most important contribution to the field of embryology was his work in statistical models of heredity. 
+Galton was born on 16 February 1822 to Samuel Tertius Dalton and Francis Anne Violette Darwin, in Birmingham, England. He was the half-cousin of the famous naturalist Charles Darwin. Galton and Darwin shared the common grand father Erasmus Darwin, a famous naturalist and philosopher.
+The son of a wealthy banker family, Galton was raised as a member of the leisure class. Though he attended classes at 
+Cambridge and began a medical program in London, he never obtained a degree. However, he was regarded by contemporaries and later by historians as unusually intelligent, owing to the value of his writings and the breadth of his work.
+Upon his wealthy father’s death, Galton inherited a fortune that allowed him to leave his medical studies and travel. His expeditions through unexplored parts of Africa won him a silver medal from the French Geographical Society, and the election to the
+Royal Society. In 1853, he married Louisa Jane Butler upon returning from Africa, and settled into a London estate with his wife.
+Supported by his inheritance, Galton was free to live the life of a gentleman scientist, pursuing experiments and observing the natural world from the comfort of his home. He was chiefly engaged in measuring and quantifying everything he observed. One of his important contributions to the field of statistics was his description and explanation of the common phenomenon of the regression toward the mean. Galton observed that if a variable is extreme at its first measurement, it also tends to be closer to the average on a second measurement, and vice versa.
+Galton’s intensive use of measurement methodologies led him to discover and establish fingerprinting as a reliable method of identification. Having collected hundreds of fingerprint samples, Galton created a taxonomic classification system still largely in use by forensic scientists of the twenty-first century. The fingerprinting measurements were part of Galton’s increasing interest in heredity. However, he was disappointed to find no evidence that fingerprint types were heritable. 
+Galton’s chief interest in his later years was the inheritance of nobility and talent. His most famous work consisted in a statistical inquiry using the pedigrees of families with notable members. His results showed strong evidence that talent was heritable, and even when detractors tried to correct for environmental factors such as wealth and education, the evidence could not be entirely refuted. This work led to Galton’s best-known book, Hereditary Genius(1869) , and a later book English Men of Science: Their Nature and Nurture (1874), which was written as a response to his critics.
+In Inquiries into Human Faculty and its Development (1883), Galton coined the term eugenics, which would come to be his legacy. Galton’s definition of eugenics was broad and concerned with studying heredity to improve the genetic stock of the human race. He had in mind a purposeful breeding program, similar to agricultural animal husbandry.
+On the basis of his descriptive work showing heredity of talent, Galton believed that society ought to encourage the breeding of those who showed great talent. Galton’s method of eugenics came to be termed 
+positive eugenics, to distinguish it from later attempts to prevent the progeny of the untalented, sickly, or criminal. However, his arguments for increasing the fecundity of the noble, beautiful, and talented were easily turned to serve the task of 
+negative eugenics. The eugenics movements in America, Britain, Scandinavia, and Germany find their roots in Galton’s ideas.
+Galton’s work in heredity and genetics precedes the rediscovery of Mendel’s seminal work on pea plants. Galton did not ascribe to the idea of particulate inheritance with independent assortment – Mendel’s First and Second Laws. Rather, he was a proponent of 
+blended inheritance, the theory of inheritance as a blending of parental characteristics, which was commonly held in the nineteenth century. Galton’s mathematical law of genetics attributed an average of 1/4 contribution by each parent, and 1/16 by each grandparent, and so on through one’s ancestry, such that the sum of the contribution by all of one’s ancestors approached 1.
+Galton rejected the prevailing view that acquired characteristics could be passed from parent to offspring, both as described by Jean-Baptiste Lamarck and as described by Darwin’s theory of pangenesis. Due to his views on the pre-eminence of nature over nurture, Galton held the so called hard view of heredity, in which the hereditary material is transmitted unaltered from parent to offspring. His view was later supported by August Weismann’s theory of the continuity of the germ plasm.
+Towards the end of his life, Galton attempted to write a popular utopian novel, 
+The Eugenic College of Kantsaywhere, about a world in which eugenics programs had succeeded in creating a perfected human race. The book was never published, and most of the manuscript was lost. A portion is reprinted in Karl Pearson’s 4-volume biography of Galton. Pearson became Galton’s protégé and surrogate in the later years of Galton’s life. Galton’s will endowed a Chair of Eugenics at the University College in London, which Pearson was the first to occupy.
+Galton’s work in statistics and quantification of data alone would have made his life’s work important to the progress of science. However, it is as the father of eugenics that he is remembered. His contributions to the ideas of human breeding for social improvement were profoundly influential on biologists, social activists, and psychologists until World War II.  Galton was knighted in 1909, two years before his death on 17 January 1911, and left no genetic heirs. His cultural heirs, however, included many early twentieth-century intellectuals and scientists. 
+
+Sources
+Ellis, Havelock. The Task of Social Hygiene. London: Constable & Company, 1913. 44–5.
+Gridgeman, Norman T. “Galton, Francis.” Dictionary of Scientific Biography 5:265–67.
+Paul, Diane B. Controlling Human Heredity: 1865 to the Present. Eds. Margaret C. Jacob, Spencer Weart and Hal Cooke. Amherst, NY: Humanity Books, 1998.
+
+
+How to cite
+Lawrence, Cera R., "Francis Galton (1822-1911)". Embryo Project Encyclopedia (2011-04-06). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/1800.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 25, 2013 - 15:53
+ Topic
+Subject
+Genetics; Galton, Francis, 1822-1911; People

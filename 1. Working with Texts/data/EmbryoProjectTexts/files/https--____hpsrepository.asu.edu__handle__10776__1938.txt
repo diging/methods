@@ -1,0 +1,45 @@
+By Stephen Ruffenach
+Published: 2009-07-07
+Keywords: Sperm, Ova, Fertilization
+ Sperm CapacitationSperm capacitation refers to the physiological changes 
+		spermatozoa must undergo in order to have the ability to penetrate and fertilize an egg. This term was first coined in 1952 by 
+		Colin Russell Austin based on independent studies conducted by Austin  and  
+		Min Chueh Chang and published in 1951. Since the initial reports and emergence of the term, the details of the process have been elucidated due to technological advancements. Recognition of the phenomenon was quite important to early 
+		in vitro fertilization experiments as well as to the fields of embryology and reproductive biology. 
+These initial studies involved introducing sperm into the 
+		fallopian tubes of females of various animal species both hours before and immediately after 
+		ovulation. The experiments revealed that many more eggs were penetrated by sperm when the sperm was introduced hours before ovulation. Based on their initial findings, both Austin and Chang hypothesized that the sperm must need to go through some sort of physiological process in the female reproductive tract in order to have the capacity to penetrate the egg. Austin later referred to this process as capacitation in an issue of Nature published on 23 August 1952. His original use of the term capacitation referred to any physiological processes undergone by sperm while in the female reproductive tract that allowed the sperm to then penetrate an egg. As technology advanced and knowledge of the mechanisms of fertilization increased, this definition was updated for modern use.  
+
+J. Michael Bedford published an in-depth study of sperm capacitation in mammals in 1970 and was able to narrow down what the process entails by revealing what does not occur. In Bedford’s studies an electron microscope was used to reveal what, if any, structural changes occurred in sperm after capacitation, but none were found. Bedford reported that the sperm remain in the same morphological state from the time they are introduced into the female to the time they undergo the 
+		acrosome reaction, the point at which the sperm fuses with the egg. He reasoned that while structural changes were not occurring to the sperm, it was more likely that some sort of chemical change was underway. Based on evidence available at the time, the conclusion was that the events of capacitation consisted of the unmasking of receptors on the sperm itself, rendering it capable of reacting to the environment of the female genital tract. He also researched sperm capacitation among different species, finding that the time it took for sperm to acquire the capacity to penetrate an egg as well as the chemicals that were recognized by the aforementioned receptors were species-specific.  Further, because there are certain species in other phyla that ejaculate sperm immediately capable of completing the acrosome reaction, it would be inaccurate to include the 
+		acrosome reaction as a part of capacitation.
+Given Austin's broad initial definition, many contemporaries of Bedford contended that the 
+		acrosome reaction could technically be considered part of sperm capacitation. The discrepancy in the definition, particularly regarding the inclusion of the acrosome reaction as part of capacitation, resulted in a great deal of discussion and argument among scientists in later publications. In 1975, Austin published a report entitled “Membrane Fusion Events in Fertilization,” which contended that the actual process of capacitation consisted of removal of the glycoprotein coat on the sperm and facilitation of  
+		hyperactivation or improved motility, thus clarifying that he considered initiation of the acrosome reaction to be separate from sperm capacitation. Eventually, in an effort to clarify what processes should be included in the definition of sperm capacitation, 
+		Min Chueh Chang published an article in 1984 with an historical perspective on the meaning of sperm capacitation that included a suggestion for dealing with the discrepancy in the definition. In that article, Chang suggests that all processes leading up the acrosome reaction should be referred to as the first part of sperm capacitation in order to both honor the original definition while still recognizing the acrosome reaction as an independent process. Given this attempt at clarification, more modern studies involving capacitation define it as the sperm cell’s need to uncover receptors that may recognize the chemicals in the female reproductive tract that in turn initiate changes in both motility in the form of hyperactivation as well as the morphological changes involved in the acrosome reaction. 
+Despite confusion and some discrepancy in the study of capacitation, the concept remains integral to the study of fertilization. Its exploration has provided a more comprehensive understanding of all the mechanisms a sperm cell must undergo before it is ready to fertilize a female egg, adding to the general knowledge of the process of fertilization as a whole as well as contributing to medical technologies such as 
+		in vitro fertilization. 
+
+Sources
+Austin, Colin Russell. “The ‘Capacitation’ of the Mammalian Sperm.” Nature 170 (1952): 326.
+Austin, Collin Russell, and M.W.H. Bishop. “Capacitation of Mammalian Spermatozoa.” Nature 4612 (1958): 851.
+Bedford, J.M. “Sperm Capacitation and Fertilization in Mammals.” Biology of Reproduction, Supplement 2 (1970): 128–58.
+Chang, Min Chueh. “The Meaning of Sperm Capacitation.” Journal of Andrology 5 (1984): 45–50.
+Evans, Janice P., Daniel M. Hardy, and Bayard T. Storey.  “Sperm-Egg Interactions: Sperm-Egg Binding in Mammals.” Encyclopedia of Life Sciences. http://mrw.interscience.wiley.com/emrw/9780470015902/search/firstpage (Accessed March 3rd, 2008)
+
+
+How to cite
+Ruffenach, Stephen, "Sperm Capacitation". Embryo Project Encyclopedia (2009-07-07). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/1938.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 25, 2013 - 15:53
+ Topic
+Subject
+Sperm Capacitation;  Concept

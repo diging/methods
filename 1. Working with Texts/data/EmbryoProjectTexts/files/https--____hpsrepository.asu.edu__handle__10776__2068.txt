@@ -1,0 +1,67 @@
+By Tristan Cooper-Roth
+Published: 2010-09-07
+Keywords: Hormones, Human development
+ The Effects of Bisphenol A on Embryonic DevelopmentBisphenol A (BPA) is an organic compound that was first synthesized by 
+		Aleksandr Dianin, a Russian chemist from St. Petersburg, in 1891. The chemical nomenclature of BPA is 2,2-bis (4-hydroxyphenyl) propane. The significance of this synthesized compound did not receive much attention until 1936, when two biochemists interested in endocrinology, 
+		Edward Charles Dodds and 
+		William Lawson, discovered its ability to act as an 
+		estrogen agonist in ovariectomized, estrogen-deficient rats. Biochemists and endocrinologists found the results of Dodds and Lawson’s experiment to be particularly important because at that early stage of research into hormones, it was still difficult to isolate naturally occurring hormones. Since then, BPA has proven to have complex developmental effects, but it has taken many researchers to sort out the details.
+In the early 1950s, chemical engineers stumbled upon more productive uses for BPA. For instance, the organic compound provides a structurally strong backbone for the plastic polymer polycarbonate and for epoxy resins. The characteristics displayed by polycarbonate include transparency, heat resistance, high resilience to shattering, and an overall low weight. Epoxy resins were found to be capable of serving as sealants in food containers, preventing contamination and reducing corrosion. These qualities caught the attention of many global chemical manufacturers and from this point on, the use of polycarbonate and epoxy resins flourished due to the wide range of packaging uses, ranging from baby bottles to the linings of metal food cans. 
+BPA production has increased exponentially since its introduction nearly fifty years ago. In 1991, total annual production of BPA was reported by the 
+		Federal Drug Administration (FDA) to be about 16 million pounds; by mid-2004 it had risen sharply to 2.3 billion pounds. Indeed, BPA is now one of the top fifty chemicals used commercially, and a multi-billion dollar industry surrounds it.
+ The production of BPA continues to rise even though it was put under a strict evaluation for potential risks on human health by the 
+		National Toxicology Program (NTP) in 2007. NTP acknowledges BPA as an 
+		endocrine disrupting chemical (EDC) that has a variety of effects on the development of the organism, and especially on the 
+		pituitary, 
+		vagina, and 
+		prostate. 
+		Oocyte and 
+		sperm production and maternal behaviors are also affected. This is because BPA acts as an exogenous agent or 
+		xenoestrogen in hormonally mediated processes. Adverse effects caused by BPA, even in low doses, can result from both pre- and post-natal exposure. The more serious effects follow prenatal exposure of estrogen-responsive tissues to BPA, reflecting estrogen’s crucial role in the initial stages of sex differentiation. This concept of 
+		“the fragile fetus” was proposed in the early 1970s by a University of California–Berkley epidemiologist Howard Burn and confirmed by many experiments involving the exposure of developing mice embryos to BPA.
+A specific inbred strain of mice, the CD-1 
+		mouse, serves as the primary organism for experiments involving BPA because of its high sensitivity to estrogenic chemicals. The transition from the embryonic to fetal stages in mice occurs during the eleventh and twelfth days of pregnancy. After this point, the organization of reproductive tissues begins, which can be seen by the morphological changes in testis growth in male fetuses during the fifteenth and sixteenth days. This is a vital period in the fetus’s development and the application of an EDC can easily disrupt the intricate process of reproductive organ growth. 
+A team of scientists, namely 
+		Frederick vom Saal and colleagues, conducted an experiment in 1998 concerning prostate development of the CD-1 mouse in utero. Doses of BPA consisting of 2 μg/g of bodyweight, 2000 times lower than the “safe” dose recommended by the US government, were given to pregnant mice for seven days during the end of their pregnancy. Four of these days, the eighteenth to the twenty-first, are roughly equivalent to the period of human embryonic development when the reproductive organs are developing. The post-natal results of the experiment include a 30% increase in the size of the offspring’s prostate and very low sperm counts. The increase in size of the prostate gland size is hypothesized to reflect augmentation of 
+		prostatic androgen receptors and a resulting increase in the rate of 
+		mitosis in prostate cells. It is not presently known why the prostate grows, but the androgens responsible for its growth, such as estrogen and testosterone, are responsible for both prostatic cell proliferation and inhibition of cell death. 
+In 2000, another experiment was conducted by vom Saal and colleagues in relation to the effects of BPA on female sexual maturation in utero. Dosages of BPA, again near 2000 times lower than the “safe” dose, were given to pregnant CD-1 mice. The results of this experiment showed that the female mouse fetuses underwent sexual maturation at a much faster pace in utero. Post-natal analysis of sexual characteristics, such as the enlargement of the uterine muscle, was also described.
+
+		Paola Palanza and colleagues published in 2002 the results of an experiment that focused on maternal behaviors exhibited by both the offspring of pregnant CD-1 mice exposed to 10 μg/kg of bodyweight BPA during the fourteenth to eighteenth days of gestation and their mothers. Post-natal observations of the maternal behaviors portrayed by mice exposed to BPA as fetuses and/or in adulthood were conducted during days two to fifteen after they had given birth. In comparison to untreated mice, the BPA-affected mice spent much less time nursing their offspring and more time grooming and resting. This is due in part to the disruption to the central nervous system, specifically the 
+		neuroendocrine-gonadal axis, which regulates the critical neural developmental organization and accounts for adult expression behaviors responsible for reproduction as well as survival in mammals.
+Tests show that an increase in temperature and/or pH causes BPA to become unstable enough that it leaches out of the plastics that contain it. Another experiment with BPA was conducted by 
+		Patricia Hunt and colleagues in 2003. They saw signs of BPA-induced abnormalities in 
+		gametogenesis, specifically during meiosis of maturing CD-1 mouse oocytes. It is important to note that this experiment was inspired by an unintentional action by one of Hunt’s lab technicians, who mistakenly used a strong alkaline detergent on the old polycarbonate mice cages that housed the mice used in Hunt’s research. As a result, the ester bond holding BPA within the polycarbonate cage was subjected to hydrolysis and the female mice were exposed to high concentrations of BPA. Recognizing the significance of this event, Hunt and her colleagues studied the chemically exposed mice, which showed meiotic abnormalities in 40% of their oocytes, in contrast to the normal occurrence of abnormalities of about 1.5%. Hunt et al. then began to conduct controlled experiments with fixed daily dosages of BPA around 310 μg/liter (a concentration previously reported as being capable of reversing the sex of a frog), demonstrating that short, highly concentrated exposures to BPA resulted in meiotic abnormalities. Specifically, the chromosomes in the oocytes randomly aligned on the spindle poles during meiosis, causing aneuploidy and infertility due to incorrect numbers of 
+		chromosomes entering the egg and 
+		polar body, via the daughter cells. 
+Reacting to concerns stemming from these experiments on model organisms, and the NTP’s evaluations of BPA, the FDA published its “Update on Bisphenol A for Use in Food Contact Applications: January 2010,” itself a review of an article previously published by the FDA in 2008, titled “Draft Assessment of Bisphenol A for Use in Food Contact Applications.” The update identified human health concerns in relation to low-dosage exposure to BPA and addressed the potential for harm in sensitive populations, including pregnant women and infants. The effects seen with animal testing allowed the FDA to conclude that these two populations were most susceptible to irregularities caused by BPA. This is because of the critical developmental stages which can be potentially distorted as an embryo, fetus or infant. These stages involve the development of its neurological and endocrine systems as well as its immature liver with respect to the inability to fully detoxify the chemical. To act upon these potential harms, the FDA has announced its support in yielding the industrial production of BPA products and provides informative guidelines to avoid ingestion of BPA. The United States 
+		Department of Health and Human Services (HHS) also states that it will invest its efforts through its 
+		Centers for Disease Control and Prevention, the 
+		National Institutes of Health, and the FDA, to further examine the potential harms of BPA.
+
+Sources
+Dodds, Edward C., and William Lawson. “Molecular Structure in Relation to Oestrogenic Activity. Compounds without a Phenanthrene Nucleus.” Proceedings of the Royal Society London B 125 (1938): 222–32. 
+Gilbert, Scott F., and David Epel. Ecological Developmental Biology: Integrating Epigenetics, Medicine, and Evolution. Sunderland, MA: Sinauer, 2009, 221–25.
+Gilbert, Scott F. Developmental Biology, 8th ed. Sunderland, MA: Sinauer, 2006, 673–75.
+Khurana, S., S. Ranmal, and N. Ben-Jonathan. “Exposure of Newborn Male and Female Rats to Environmental Estrogens: Delayed and Sustained Hyperprolactinemia and Alterations in Estrogen Receptor Expression.” Endocrinology 141 (2000): 4512–17.
+Long, X., Ralf Steinmetz, Nira Ben-Jonathan, Andrea Caperell-Grant, Peter C. M. Young, Kenneth P. Nephew, and Robert M. Bigsby. “Strain Differences in Vaginal Responses to The Xenoestrogen Bisphenol A.” Environmental Health Perspectives 108 (2000): 243–247. 
+Paola Palanza, Kembra L. Howdeshell, Stefano Parmigiani, and Frederick S. vom Saal. “Exposure to a Low Dose of Bisphenol A During Fetal Life or in Adulthood Alters Maternal Behavior in Mice.” Environmental Health Perspectives 110 (2002): 415–422
+Steinmetz, R., Nancy G. Brown, Donal L. Allen, Robert M. Bigsby, and Nira Ben-Jonathan. “The Environmental Estrogen Bisphenol A Stimulates Prolactin Release in Vitro and Vivo.” Endocrinology 138 (1997): 1780–6. 
+U.S. Food and Drug Administration. January 2010. “Update on Bisphenol A for Use in Food Contact Applications.” http://www.fda.gov/NewsEvents/PublicHealthFocus/ucm197739.htm (Accessed March 20, 2010).
+
+
+How to cite
+Cooper-Roth, Tristan, "The Effects of Bisphenol A on Embryonic Development". Embryo Project Encyclopedia (2010-09-07). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/2068.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 25, 2013 - 15:53
+ Topic
+Subject
+bisphenol A; Bisphenol A; Concept

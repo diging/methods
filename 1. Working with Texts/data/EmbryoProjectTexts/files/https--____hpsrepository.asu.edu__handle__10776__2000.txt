@@ -1,0 +1,55 @@
+By Megan Kearl
+Published: 2009-07-20
+Keywords: Frogs, Ova
+ "Contributions to the Development of the Embryo. On the Artificial Production of One of the First Two Blastomeres, and the Later Development (Postgeneration) of the Missing Half of the Body." (1888), by Wilhelm Roux
+Wilhelm Roux was an influential figure in the early history of experimental embryology. Although he originally studied medicine, he was invited to be a Privatdozentur, or unsalaried lecturer, at the Anatomical Institute in Breslau (Wroclaw), Poland, in 1879. He spent the next ten years at this institute, working his way from Dozent to associate professor and finally, in 1889, to director of his own institute, 
+		Institut für Entwickelungsgeschichte und Entwickelungsmechanik, or Institute for Developmental History and Mechanics. It was here that he performed what is perhaps his most famous series of experiments, on eggs of the green frog (Rana esculenta). He published the results in 
+Virchows Archiv in an 1888 paper titled “Beiträge zur Entwickelungsmechanik des Embryo. Über die künstliche Hervorbringung halber Embryonen durch Zerstörung einer der beiden ersten Furchungskugeln, sowie über die Nachentwickelung (Postgeneration) der fehlenden Körperhälfte” [Contributions to the Development of the Embryo. On the Artificial Production of One of the First Two Blastomeres, and the Later Development (Postgeneration) of the Missing Half of the Body].
+The purpose of this experiment was to determine whether a whole fertilized 
+		egg and each individual part of that egg could develop in an artificial environment or whether the individual parts of the egg relied on one another to develop correctly. Before he could proceed, 
+		Roux had to show that an egg could develop normally in the artificial environment he created. This environment consisted of placing green 
+		frog eggs in a rotating, perpendicular plane so the eggs would have to constantly reorient themselves to gravity as well as the artificial sources of light and heat. Once he established that his process would not hinder or slow development, 
+		Roux proceeded to test whether the individual parts of the embryos could be cultivated.
+
+		Roux’s first experiment was not a success. He had placed the eggs of a green 
+		frog into separate glass dishes. He pricked one of the first two 
+		blastomeres, or fertilized egg cells, one or more times with a fine needle and observed the eggs. 
+		Roux found that the eggs either did not develop at all or else developed completely normally. To observe this development, he preserved and stained the eggs to study them under a microscope. After several days of experimentation, he decided to try a new method. 
+Beginning the third day of his experimentation, he heated the needle before pricking one of the blastomeres in each of the eggs. He inserted the hot needle only once and for a longer duration than he had in the first experiment, until he noticed a light brown coloration appearing in the vicinity of the eggs. He studied the punctured eggs and found that in a small percentage only the undamaged 
+		blastomere survived, that the majority of the 
+		frog eggs were completely destroyed, and that a very small number developed normally. In the cells that didn’t develop at all (those completely destroyed), the cells appeared gray and exhibited signs of death. Some went through several divisions and then died. 
+		Roux concluded that the cells’ death was most likely not due to their inability to interact with the other cell, but rather that these cells were affected by the insertion of the needle in some way.  In the percentage of eggs that survived, 
+		Roux found that the half-embryo continued along a normal path of development and was only slightly affected in the region directly neighboring the punctured cell.
+
+		Roux considered this an example of an organism undergoing 
+		mosaic development. He inferred from these findings that each egg cell at the 2- and 4-cell stage can develop separately and independently of one another and therefore these cells will develop independently of one another in the formation of the embryo.  Though 
+		Roux’s findings were quickly challenged by an 1892 experiment conducted by 
+		Hans Driesch and again in 1910 by 
+		Jesse Francis McClendon, 
+		Roux maintained that an organism’s cells underwent 
+		predetermined as opposed to 
+		epigenetic development, meaning the path of formation the cells took was already present from the outset. Although Driesch showed that the separated single cells from embryos could develop into a whole embryo, 
+		Roux simply argued that injured cells need a predetermined back-up plan to form a whole organism and to heal normally.
+
+
+Sources
+Churchill, Frederick B. “Roux, Wilhelm.” Dictionary of Scientific Biography 11: 570–74.
+Gradmann, Christoph. “Wilhelm Roux.” Encyclopedia of Life Sciences. John Wiley & Sons, 2001. http://mrw.interscience.wiley.com.ezproxy1.lib.asu.edu/emrw/9780470015902/els/article/a0002547/current/pdf (Accessed 07 October 2008).
+Roux, Wilhelm. “Beiträge zur Entwickelungsmechanik des Embryo. Über die künstliche Hervorbringung halber Embryonen durch Zerstörung einer der beiden ersten Furchungskugeln, sowie über die Nachentwickelung (Postgeneration) der fehlenden Körperhälfte.” Virchows Archiv für Pathologische Anatomie und Physiologie und für Klinische Medizin. (1888): 113–53. Translated as “Contributions to the Development of the Embryo. On the Artificial Production of One of the First Two Blastomeres, and the Later Development (Postgeneration) of the Missing Half of the Body.” In Foundations of Experimental Embryology, eds. Benjamin H. Willier and Jane M. Oppenheimer, 2–37. New York:  Hafner Press, 1964.
+
+
+How to cite
+Kearl, Megan, ""Contributions to the Development of the Embryo. On the Artificial Production of One of the First Two Blastomeres, and the Later Development (Postgeneration) of the Missing Half of the Body" (1888), by Wilhelm Roux". Embryo Project Encyclopedia (2009-07-20). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/2000.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Thursday, March 19, 2015 - 18:01
+ Topic
+Subject
+ Roux, Wilhelm, 1850-1924; Literature

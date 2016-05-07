@@ -1,0 +1,45 @@
+By Ke Wu
+Published: 2010-06-29
+Keywords: Stem cells, Pluripotency, Somatic cells
+ “Induced Pluripotent Stem Cell Lines Derived from Human Somatic Cells,” Science 2007On 2 December 2007, Science published a report on creating human induced pluripotent stem (iPS) cells from human somatic cells: “Induced Pluripotent Stem Cell Lines Derived from Human Somatic Cells.” This report came from a team of Madison, Wisconsin scientists: Junying Yu, Maxim A. Vodyanik, Kim Smuga-Otto, Jessica Antosiewicz-Bourget, Jennifer L. Frane, Shulan Tian, Jeff Nie, Gudrun A. Jonsdottir, Victor Ruotti, Ron Stewart, Igor I. Slukvin, and 
+		James A. Thomson. Earlier that year 
+		Shinya Yamanaka at 
+		Kyoto University, Japan published a similar paper, 
+		“Generation of Germline-Competent Induced Pluripotent Stem Cells,” in Nature. Both papers independently identified four genes used to reprogram human somatic cells to pluripotent stem cells, which are cells that have the ability to develop into any specialized cell type making up the body. The reprogrammed somatic cells were referred to as iPS cells and they exhibit fundamental qualities of 
+		human embryonic stem (ES) cells.
+The idea of reversing the biological process whereby ES cells differentiate into somatic (adult) cells comes from the concept that development derives from epigenetic rather than genetic events. Based on this principle, differentiation is reversible.  In cloning the sheep 
+		Dolly, scientists were able to demonstrate that nuclei taken from differentiated adult mammalian cells have the ability to be reprogrammed into an undifferentiated state using the technique known as 
+		somatic cell nuclear transfer (SCNT). In SCNT, an isolated nucleus from a differentiated adult cell is fused with an enucleated egg, an egg with the nucleus removed. The fused nuclei are reprogrammed by what is referred to as trans-acting factors, present in the egg cells. In 2006, Shinya Yamanaka and 
+		Kazutoshi Takahashi at Kyoto University identified four genes, Oct3/4, Sox2, c-Myc and Klf4, that caused cultured mouse skin cells to become undifferentiated, pluripotent stem cells. The same technique applied to human skin cells could generate patient-specific pluripotent cell lines without SCNT. The goal of this particular research was to identify these genes in humans; they certainly were not the same ones observed in mice. For example, the expression of c-Myc¬, though crucial in reprogramming mouse skin cells, led to differentiation and death in human ES cells. Thus, a lack of this gene is required to reprogram human adult cells.
+Yu, Thomson, and their Madison team cloned fourteen genes known to have higher expression in human ES cells in comparison to adult cells. Testing combinations of these fourteen genes, they identified four core genes—OCT4, SOX2, NANOG, and LIN28—capable of reprogramming mesenchymal cells derived from human ES cells. The presence of OCT4 and SOX2 was required for the appearance of geneticin-resistant colonies, which exhibited ES cell morphology. In addition to expressing the usual human ES cell-specific surface markers, geneticin-resistant clones formed 
+		teratomas, which have the potential to give rise to derivatives of all three primary 
+		germ layers—
+		endoderm, 
+		mesoderm and 
+		ectoderm. Since the three germ layers precede differentiation into all the cell types in the body, this observation suggested that the cultured cells were pluripotent. NANOG expression improved cloning efficiency in human ES cells and LIN28 also had an effect on reprogrammed mesenchymal cell clone recovery.
+After identifying the four core genes, the team tested the effects of these genes in reprogramming genetically unmodified diploid human fibroblasts. IMR90 cells were chosen for transduction with a combination of the four genes because the cell type was easily accessible, had been extensively studied and characterized, and had published DNA fingerprints. After twelve days, iPS colonies became visible and on the twentieth day, 198 iPS colonies were observed from the 0.9 million IMR90 cells initially used. Comparatively, no iPS colonies were seen on the nontransduced controls. Eventually four clones were selected for expansion and further analysis.
+Each of the four iPS(IMR90) clones exhibited similarity to human ES cell lines and dissimilarity to IMR90 cells.  The iPS(IMR90) clones exhibited the same morphology as typical human ES cells; they divided at the same rate as human ES cells and remained undifferentiated for a long period of time; the undifferentiated cells expressed particular human ES cell surface markers: SSEA-3, SSEA-4, Tra-1-60, and Tra-1-81; the clones maintained a normal and stable karyotype at both six and seventeen weeks; and embryoid body and teratoma formation suggested that all four iPS(IMR90) clones could give rise to derivatives of all three primary germ layers. These characteristics were not observed in IMR90 cells.
+Since the IMR90 cells came from fetuses, postnatal fibroblasts needed to be tested for comparison. The scientific team used human newborn foreskin. As with iPS(IMR90) clones, all four iPS(foreskin) clones exhibited characteristic human ES cell traits: particular morphology, normal karotype, telomerase expression, cell surface markers, and particular gene expression. However, neural differentiation was only seen in teratomas from half of the iPS(foreskin) clones.  This difference may be a result of a continued high expression of particular transgenes resulting from specific integration sites. Such expression partially blocked differentiation.
+Final analysis of the four transgenes showed that while three–OCT4, SOX2, and NANOG–integrated into all four iPS(IMR90) and iPS(foreskin) clones, LIN28 was absent from one iPS(IMR90) and one iPS(foreskin) clone. This suggests that the LIN28 gene is not absolutely necessary for initial reprogramming of somatic cells into pluripotent stem cells or expansion of reprogrammed cells.
+As with human ES cells, human iPS cells could lead to discoveries in human development, could enhance the field of pharmaceuticals, and could improve transplantation medicine. Particularly with transplantation medicine, patient-specific iPS cells could eliminate issues with immune rejection. Whereas human ES cells are difficult to produce due to limitations in pre-implantation embryo supply and political barriers concerning embryo use, human iPS cells rely on ample supplies of adult cells and bypass the controversies involved with the use of embryonic stem cells.
+
+Sources
+Baker, Monya. "James Thomson: Shifts from Embryonic Stem Cells to Induced Pluripotency." Nature Reports Stem Cells Q&A. Nature (2008). http://www.nature.com/stemcells/2008/0808/080814/full/stemcells.2008.118.html
+Yu, Junying, Maxim A. Vodyanik, Kin Smuga-Otto, Jessica Antosiewicz-Bourget, Jennifer L.  Frane, Shulan Tian, Jeff Nie, Gudrun A. Jonsdottir, Victor Ruotti, Ron Stewart, Igot L Slukvin, and James A. Thomson. “Induced Pluripotent Stem Cell Lines Derived from Human Somatic Cells,” Science 318 (2007): 1917–20.
+
+
+How to cite
+Wu, Ke, ""Induced Pluripotent Stem Cell Lines Derived from Human Somatic Cells" (2007), by Junying Yu et al.". Embryo Project Encyclopedia (2010-06-29). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/2048.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Monday, April 6, 2015 - 21:56
+ Topic
+Subject
+Stem Cells; Stem cells.; Literature

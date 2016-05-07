@@ -1,0 +1,46 @@
+By Brad Jacobson
+Published: 2010-10-11
+Keywords: Genetics
+ Homeobox Genes and the HomeoboxHomeobox genes are a cluster of regulatory genes that are spatially and temporally expressed during early embryological development. They are interesting from both a developmental and evolutionary perspective since their sequences are highly conserved and shared across an enormously wide array of living taxa. 
+Most homeobox genes contain a 180-base-pair region called a 
+		homeodomain. The homeodomain portion of the protein transcript has been shown to interact with DNA in a cis-regulatory fashion during the critical stages of early 
+		body plan specification and 
+		embryogenesis. These sorts of interactions demonstrate the importance of regulatory genes and their architectural role in time-specific expression of DNA. Because almost all multicellular life forms share at least some of these common sequences of DNA, focus has been placed on discovering their evolutionary and developmental significance.
+The discovery of the first homeobox in eukaryotes in the early 1980s can be attributed to a group of scientists working on 
+Drosophila, headed by 
+		Walter Jakob Gehring. Gehring was interested in the dramatic developmental effects associated with the gene Antennapedia (Antp), in which a head segment that normally would carry a pair of antennae develops into a body segment with a pair of legs. Several types of duplication mutations, such as Bithorax (BX-C) and fushi tarazu (ftz), led Gehring to believe that duplication mutations in regulatory genes could manifest as either partial or complete segmental transformations. Using existing methodologies for finding chromosomal homologies, Gehring did a chromosomal search using the Antp mutant as well as the BX-C mutant to see how if there were copies of these genes in the Drosophila genome. He found many. His results confirmed 
+		Edward B. Lewis’s postulations in the late 1970s of collinear tandem gene duplications. This encouraged him to hypothesize, with several of his closest peers, that these mutations are actually copies of the control genes that specify unique identities for the segments in which they appear. 
+Since Gehring’s discovery in the mid-1980s, more attention has been directed towards a growing area of biological study called 
+		evolutionary developmental biology or evo-devo for short. The scientists that comprise this group are generally focused on connecting the gap between shared evolutionary ontology and developmental biology. Based on an increasing effort from this wide array of biological disciplines, most of the Antp homeobox genes in Drosophila, as well as many others, have been located in vertebrates and invertebrates alike, including mice, chickens, humans, and even sea urchins. These discoveries have since led scientists to poke and prod at the functional role of these genes in determining the body plan during early embryogenesis. 
+Homeobox genes, since their discovery, have become significant to many different fields of biology. Using gene duplication technology to probe for homologous sequences, geneticists and developmental biologists have discovered an evolutionary pattern of what seems to be paralogous gene duplication followed by specification. That is, a regulatory gene is duplicated and then, because its current function is somewhat redundant, it becomes specialized through 
+		natural selection to perform a new function. The developmental significance of such duplications manifests in the constrained co-linearity between the timing of activation in development and its location on the chromosome.  
+Subsequent studies have shown that certain clusters of homeotic genes, such as the Antp cluster in Drosophila and its homologous cluster, called HoxA-D in vertebrates, are responsible for anterior-posterior specification of body segments as well as being functionally tied to limb generation in mammals, thus giving some theoretical insight into the shared evolutionary history of even the most diverse animals.
+The evolutionary origins of the dominant Antennapedia family of homeobox genes—i.e., the hypothetical common ancestor of all the Antp mutants—can be traced back to the origin of multicellularity, approximately one billion years ago. This ancestral homeobox gene has been given the title of “ProtoHox” or “Proto-ANTP” since it is inferred that it gave rise, via a series of duplication events, to three more homeobox clusters known as Hox, ParaHox, and NK. Because each sub-cluster is predominantly expressed in one of the three 
+		germ layers—ectoderm, endoderm, or mesoderm—it has been hypothesized that each duplication event marked the emergence of one of these germ layers. The most notable byproduct of these events is the creation of novel morphological characteristics due to paralogous duplications within each of the sub-clusters themselves. For instance, within the Hox sub-cluster in mammals, there are four more sub-cluster duplications, the A through D clusters, each of which becomes responsible for a portion of axial body plan specification as well as limb development. This trend of hierarchical diversification of regulatory genetics in body plan diversification has inspired an entirely new way of viewing and rooting phylogenies for most metazoans.
+Attempts to root the phylogenetic tree of the Proto-ANTP result in a few paradoxes. For instance, one can extrapolate that bilateral symmetry appears to have arisen before the radial symmetry of most cnidarians. This suggests that primitive cnidarians possibly had bilateral origins and three germ layers. Another interesting paradox is that of the co-linearity constraints in Hox and ParaHox gene clusters. In many of the model organisms—most of which share common characteristics of short life spans, rapid development, and easy handling—the co-linearity of Hox and ParaHox clusters tends to be more dispersed throughout the genome. It has been hypothesized that because of rapid embryological development, the inherent need for brevity has surpassed the evolutionary constraints of co-linearity. Lastly, the NK cluster, identified originally in Drosophila and later in vertebrates, appears to be dispersed and heavily derived throughout most vertebrate genomes. It remains largely intact in Drosophila and its phylogenetic neighbors. This suggests that the evolution of mesoderm characteristics in 
+		deuterostomes, such as vertebrates, is highly derived but shares a common ancestor with all 
+		protostomes, such as Drosophila, before the protostome-deuterostome split.
+Homeobox gene interactions become exponentially complex as the multidimensional nature of 
+		gene regulatory networks is explored. However, it has given rise to an entirely new perspective on developmental biology and molecular genomics. The notion that genes turn on and off at hierarchical developmental levels has spawned years of research into the processes of these networks. The resulting research from such ventures has yielded tremendous potential for useful applications.
+
+Sources
+Duboule, Denis, ed. Guidebook to the Homeobox Genes, 2–18. New York: Oxford University Press, 1994.
+Garcia-Fernandez, Jordi. “The Genesis and Evolution of Homeobox Gene Clusters.” Nature Reviews Genetics 6 (2005): 881–92. http://www.nature.com/reviews/genetics.
+Gehring, Walter, and Yasushi Hiromi. “Homeobox Genes and the Homeobox.” Annual Review of Genetics 20 (1986): 147–73. http://arjournals.annualreviews.org. 
+
+
+How to cite
+Jacobson, Brad, "Homeobox Genes and the Homeobox". Embryo Project Encyclopedia (2010-10-11). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/2070.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 25, 2013 - 15:53
+ Topic
+Subject
+Genes, Homeobox; Homeobox genes; Concept

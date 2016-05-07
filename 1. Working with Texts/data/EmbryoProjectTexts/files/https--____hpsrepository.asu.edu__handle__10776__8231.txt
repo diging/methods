@@ -1,0 +1,226 @@
+By Zane Bartlett
+Published: 2014-11-04
+Keywords: Dolly the sheep, Karl Illmensee, New York Stem Cell Foundation
+ Somatic Cell Nuclear Transfer in Mammals (1938-2013)In the second half of the
+	twentieth century, scientists learned how to clone some
+	species of mammals. Scientists have applied somatic cell nuclear transfer to clone human and
+	mammalian embryos as a means to produce stem cells for laboratory
+	and medical use. Somatic cell nuclear transfer (SCNT) is a technology applied in cloning, stem cell
+	research, and regenerative medicine. Somatic cells are cells that
+	have gone through the differentiation process and are not germ
+	cells. Somatic cells donate their nuclei, which scientists
+	transplant into eggs after removing their nucleuses (enucleated eggs).
+	Therefore, in SCNT, scientists replace the nucleus in an egg cell
+	with the nucleus from a somatic cell. 
+Although Karl Illmensee first cloned a mammal in 1981, other
+	scientists had theorized and developed the techniques needed for
+	SCNT in the form of nuclear transfer. Hans Spemann, who taught
+	zoology at the University of Freiburg in Freiburg, Germany, theorized about SCNT
+	in his 1938 book Embryonic Development and
+	Induction. Spemann proposed to transplant a nucleus from already
+	differentiated cell from an embryo into an egg after removing the egg's nucleus. However, the technology required for this kind of
+	experiment was not available to Spemann at that time, so he could
+	not test his theory of nuclear transfer or SCNT. Robert King
+	and Thomas Briggs developed the necessary protocol to conduct
+	preliminary nuclear transfer at the Institute for Cancer Research
+	and Lankenau Hospital Research Institute in Philadelphia,
+	Pennsylvania, in 1952. The same nuclear transfer techniques serve as
+	the basis for SCNT.
+While researching how embryos differentiate in 1952, Briggs and
+	King transplanted the nucleus from an early embryonic blastula cell
+	of a Rana
+	pipiens frog embryo to an unfertilized egg after removing
+	its nucleus. To enucleate the eggs, Briggs and King used a small
+	glass needle to puncture the cell membrane, enter the cytoplasm, and
+	suck out the nucleus of the egg cell. Briggs and King then
+	transplanted the donor nucleus from a separate blastula cell to
+	replace the nucleus that they removed from the egg cell. Briggs and
+	King observed that the embryo developed normally.
+Researchers struggled to clone mammals using the same procedure
+	that Briggs and King used on frogs. In 1975, Derek Bromhall in
+	Oxford, UK, conducted experiments using rabbit embryos and showed
+	that, after a certain stage in development called the morula stage,
+	embryos produced from nuclear transfer died. Bromhall hypothesized
+	that they died as the result of complications from the punctures
+	made in the cell membrane during the transfer.
+Scientists performed nuclear transfer only on amphibians until
+	1981, when Illmensee in Geneva, Switzerland, claimed to have cloned
+	mice using nuclear transfer technique. His work resulted in the
+	birth of three live mice. Illmensee's experiments came under
+	scrutiny and an investigation occurred concerning the veracity of
+	his claims. Although the investigators never found conclusive
+	evidence against Illmensee, the investigation cast doubts as to
+	whether or not he had used nuclear transfer to clone the mice.
+Scientists struggled to perform nuclear transfer on mammals
+	larger than mice. Steen Willadsen at the Institute of Animal
+	Physiology in Babraham Institute in Babraham, United Kingdom, was
+	the first to clone a sheep embryo in 1984. Willadsen modified the
+	technique of Briggs and King. After transferring the nucleus, Willadsen
+	fused the embryo together using an electrofusion apparatus that has
+	small electrodes that produce an electrical current. Willadsen
+	coated the embryo with an agar jelly made from algae to reduce the
+	damage caused by entry of the glass needle into the cell membrane.
+	Once he had coated the embryos with agar jelly, Willadsen placed the
+	embryos into the tied oviducts of a sheep, and he observed that the
+	embryos were growing. From this experiment, Willadsen made viable
+	mammalian embryos using his modified techniques, but they didn't
+	grow into adult organisms. 
+In 1996, Keith Campbell, Jim McWhir, William
+	Ritchie, and Ian Wilmut at the Roslin Institute in Edinburgh, UK, used nuclear transfer techniques to clone a sheep that was born and gre into an adult. The team  manipulated a stage in the cell
+	cycle called quiescence, when the cell undergoes a period of
+	supposed hibernation and ceases to develop. Campbell induced
+	quiescence in the donor blastocyst nuclei before transferring them
+	to recipient egg cells by depriving the cells of proteins called growth factors. The
+	change in the state of the donor nuclei before entering the
+	receiving egg cells enabled embryos to develop to term in surrogate
+	ewes.
+According to Wilmut, the next experiment applied the same
+	procedure to the nucleus of a fully differentiated adult cell as
+	opposed to a blastocyst cell. The Roslin team hypothesized that the
+	nuclear transfer procedure started by Briggs and King could be
+	applied to somatic cells, thus becoming somatic cell nuclear
+	transfer as opposed to just nuclear transfer.  The Roslin Institute
+	performed this step in 1997. The result of the experiment was Dolly
+	the sheep.
+Dolly was the first mammal cloned from a fully differentiated
+	adult cell. The main difference in the techniques producing Dolly
+	was that the scientists used adult cell nuclei as opposed to the
+	embryonic cell nuclei used in previous sheep experiments. After
+	Dolly was born, the scientists applied these techniques in
+	genetically modified mammalian embryos. Quiescence enabled the
+	scientists to perform genetic modifications on the nucleus of the
+	cell because growth factors were not altering the inserted DNA.
+	In 1997, a Roslin Institute team used similar techniques to genetically modify Polly the sheep to express a human
+	protein. After the success of Dolly and Polly, some
+	scientists worked to clone human embryos using SCNT, however there
+	were social, ethical and legal controversies over the practice. Many
+	disagreed with the claims that scientists could or should clone, or perhaps
+	genetically modify, humans using SCNT.
+Scientists sought ways to clone human embryos without causing
+	controversy. In 2011, Scott Noggle and his team at the New York Stem
+	Cell Foundation in New York, New York, used SCNT to retrieve human
+	embryonic stem cells. Although, Noggle's team did not perform SCNT
+	using the same methods that produced Dolly. In fact, Noggle and his
+	colleagues aimed to avoid the social and ethical implications of
+	working with human embryos. Instead of removing the nucleus of the
+	receiving egg cell before transfer, the scientists kept the egg
+nucleus and inserted the donor nucleus into the egg cell. As a
+	result, the embryo developed into the blastocyst stage where
+	scientists could extract stem cells. The chromosome count, however,
+	was sixty-nine as opposed to the normal forty-six, because it
+	contained the chromosomes from the full nucleus as well as the egg
+nucleus, which only contains half, or twenty-three of the
+	chromosomes in a zygote. This result meant that the blastocyst could not
+	result in a pregnancy leading to birth because the cells would not
+	progress to a further developmental state. Embryonic stem cells are
+	derived from these blastocyst cells.
+Scientists report that SCNT is a plausible technique for creating
+	human embryonic stem cells without extra chromosomes. In 2013,
+	scientists in Oregon succeeded in using SCNT to reprogram somatic
+	cells to become embryonic stem cells. After examining Noggle's
+	research, Masahito Tachibana and his team at the Oregon National
+	Primate Research Center in Hillsboro, Oregon, used the same methods
+	that Campbell and his team had used to clone Dolly, but they also added
+	a few extra procedures. The key differences were that they removed
+	the spindle apparatus, which is a responsible for movement of
+	chromosomes in cellular mitosis and meiosis, from the donor egg cell
+	before removing the egg cell nucleus. They reinserted the spindle
+	apparatus into the cell when they inserted the donor nucleus. After
+	removing the spindle apparatus, they also added caffeine, which
+	inhibits the enzyme protein phosphatase, which activates
+	proteins that begin cellular replication in the cytoplasm. Because
+	the spindle apparatus was removed and the cytoplasm inactivated, the
+	scientists could perform their procedures without risk of
+	premature activation of the cell resulting in cellular damage and
+	death. The results of the experiment showed that the cells altered
+	with SCNT reached the blastocyst stage and produced viable embryonic
+	stem cell lines of normal chromosome count. As of 2014, doctors use
+	this version of SCNT for medical therapies and treatment, described
+	as therapeutic cloning.
+Controversies due to SCNT largely arise from the possibility of
+	cloning humans. In 2003, a private company called Clonaid
+	headquartered in Las Vegas, Nevada, claimed to have cloned the first
+	human baby, called Eve, using SCNT. However, Clonaid did not allow
+	scientists to perform a DNA test on Eve to confirm that she was
+	indeed a clone, and therefore many in the scientific community doubted
+	their claims. As of 2014, controversies arose over the possibility
+	of human clones from SCNT. Some criticized the scientists who used
+	SCNT to clone human stem cells in Oregon. The Oregon scientists
+	justified their research by claiming that their only goal was to
+	produce embryonic stem cells and not to produce a fully developed
+	human being. 
+ Sources Associated
+		Press. "Clonaid Baby: A Clone or a Fake?" Wired Magazine.
+		http://archive.wired.com/medtech/health/news/2002/12/57001 
+		(Accessed April 13, 2013).
+Briggs, Robert, and Thomas J. King.
+		"Transplantation of Living Nuclei from Blastula Cells into
+		Enucleated Frogs Eggs." Proceedings of the National Academy of
+		Sciences of the United States of America 38 (1952): 455–63. http://www.pnas.org/content/38/5/455.long (Accessed November 3, 2014).
+Bromhall, Derek J. "Nuclear transplantation in the rabbit egg."
+		Nature 258 (1975): 719–22.
+Campbell, Keith. H. S., Jim McWhir,
+		William A. Ritchie, and Ian Wilmut. "Sheep cloned by nuclear
+		transfer from a cultured cell line." Nature 380 (1996): 64–6.
+Huxley, Aldous. Brave New World. Cutchogue: HarperCollins
+		Publishers, Inc., 1932.
+Illmensee, Karl, and Peter C. Hoppe.
+		"Nuclear transplantation in mus musculus: Developmental
+		potential of nuclei from preimplantation embryos." Cell 23
+		(1981): 9–18.
+Lederberg, Joshua. "Experimental Genetics and
+		Human Evolution". The American Naturalist 100 (1966): 519–31. http://www.jstor.org/stable/2459206 (Accessed November 3, 2014).
+Nobel Lectures, Physiology or Medicine 1922–1941. Amsterdam:
+		Elsevier Publishing Company, 1965.
+Noggle, Scott, Ho-Lim Fung,
+		Athurva Gore, Hector Martinez, Kathleen Crumm Satriani, Robert
+		Prosser, Kiboong Oum, Daniel Paull, Sarah Druckenmiller, Matthew
+		Freeby, Ellen Greenberg, Kun Zhang, Robin Goland, Mark V. Sauer,
+		Rudolph L. Leibel, and Dieter Egli. "Human oocytes reprogram
+		somatic cells to a pluripotent state." Nature 478 (2011): 70–5.
+Schmeck, Harold M., Jr. "Review Casts Some Doubt on Cloning
+		Data." The New York Times. February 26, 1984. http://www.nytimes.com/1984/02/26/us/review-casts-some-doubt-on-cloning-data.html (Accessed June 18, 2014).
+Schnieke Angelika
+		E., Alexander J. Kind, William A. Ritchie, Karen Mycock, Angela
+		R. Scott, Marjorie Ritchie, Ian Wilmut, Alan Colman, and Keith
+		H. Campbell. "Human factor IX transgenic sheep produced by
+		transfer of nuclei from transfected fetal fibroblasts." Science
+		278 (1997): 2130–3.
+Spemann, Hans. Embryonic Development and
+		Induction. New York: Hafner Publishing Company, 1962.
+Tachibana,
+		Masahito, Paula Amato, Michelle Sparman, Nuria M. Gutierrez,
+		Rebecca Tippner-Hedges, Hong Ma, Eunju Kang, Alimujiang Fulati,
+		Hyo-Sang Lee, Hathaitip Sritanaudomchai, Keith Masterson, Janine
+		Larson, Deborah Eaton, Karen Sadler-Fredd, David Battaglia,
+		David Lee, Diana Wu, Jeffrey Jensen, Phillip Patton, Sumita
+		Gokhale, Richard L. Souffer, Don Wolf, and Shoukhrat Mitalipov.
+		"Human Embryonic Stem Cells Derived by Somatic Cell Nuclear
+		Transfer." Cell 153 (2013): 1228–38.
+Weiss, Rick. "Human
+		Cloning's 'Numbers Game'." Washington Post. October 10, 2000.
+Willadsen, Steen M. "Nuclear Transplantation in Sheep Embryos."
+		Nature 320 (1986): 63–5.
+Wilmut, Ian, Angela E. Schnieke, Jim
+		Mcwhir, Alexander J. Kind, and Keith H.S. Campbell. "Viable
+		offspring derived from fetal and adult mammalian cells." Nature
+		385 (1997): 810–3.
+Wilmut, Ian, and Roger Highfield. After
+		Dolly: The Uses and Misuses of Human Cloning. New York: W.W.
+		Norton & Company, Ltd., 2006.  
+
+How to cite
+Bartlett, Zane, "Somatic Cell Nuclear Transfer in Mammals (1938-2013)". Embryo Project Encyclopedia (2014-11-04). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/8231.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+Copyright Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, November 5, 2014 - 01:20
+ Topic
+Subject
+ Cloning; Nuclear transfer; Campbell, Keith, 1954-2012; Wilmut, Ian; Roslin Institute; Spemann, Hans, 1869-1941; Willadsen, S. M. (Steen M.); Briggs, Thomas; Robert King; Genetic engineering; Concept

@@ -1,0 +1,70 @@
+By Mary E. Sunderland
+Published: 2008-05-09
+Keywords: Morphogenesis, Differentiation
+ MorphogenesisThe term morphogenesis generally refers to the processes by which order is created in the developing organism.  This order is achieved as differentiated cells carefully organize into tissues, organs, organ systems, and ultimately the organism as a whole.  Questions centered on morphogenesis have aimed to uncover the mechanisms responsible for this organization, and developmental biology textbooks have identified morphogenesis as one of the main challenges in the field.  The concept of morphogenesis is intertwined with those of differentiation, growth, and reproduction.  Each comprises the fundamental components of development that have commonly been used to categorize the problems that motivate developmental biology. 
+Previously, morphogenesis had appeared in discussions of embryology, particularly those regarding the processes responsible for the form of the organism.  After the discovery of the 
+			organizer by 
+			Hans Spemann and 
+			Hilde Mangold in 1927 there was a widespread effort to study those regions of the embryo that were capable of inducing the formation of body structures.  This search for the nature of the 
+			organizer also led many to adopt a biochemical approach to embryology in attempts to characterize the inductor substances and understand their action.
+
+Paul Weiss  used a sculptor analogy to describe morphogenesis in his 1939 book Principles of Development. He distinguished morphogenesis from growth and explained that growth was the creation of mass whereas morphogenesis was the shaping of that mass.  This process of morphogenesis was exemplified by 
+			amphibian 
+			gastrulation, which had been meticulously described by 
+			Johannes Holtfreter  and also by asexual reproduction in 
+Volvox.
+In 1934 
+			Julian Huxley  and 
+			Gavin De Beer  published Elements of Experimental Embryology wherein they discussed 
+			Spemann’s 
+			organizer in the context of 
+			Charles Manning Child’s  gradient theory.  Together, they suggested that these two interpretations offered an excellent theoretical framework to think about development, particularly problems of morphogenesis.  
+			Spemann, however, was not convinced by 
+			Child’s theory, which he found to be an over-simplified explanation, and therefore was also highly critical of Huxley and 
+			De Beer’s contribution.
+As evidence about the processes of morphogenesis accumulated additional concepts were created. For example, morphogenetic field and morphogenetic substratum were terms used by 
+			Joseph Needham  in his embryological text Biochemistry and Morphogenesis (1950).  
+			Needham defined morphogenesis as the process by which an organism acquired its characteristic form.
+In 1952 
+			John Tyler Bonner published 		
+			Morphogenesis: An Essay on Development wherein he surveyed a diverse selection of developmental phenomena across a wide range of organisms to determine if he could find shared processes.  Development was described as being composed of both constructive and limiting forces; those that built up the organism and those that kept it in check.  
+			Bonner identified the constructive processes as growth, differentiation, and morphogenetic movements—those processes that involved cellular movement.  
+			Bonner, like 
+			Weiss, described them as analogous to the process of a sculptor shaping clay.  
+			Bonner suggested that 
+			cellular slime molds offered an alternative approach to studying morphogenesis as their life cycle separated periods of growth and differentiation from those of morphogenesis.      
+In the 1970s morphogenesis was still identified as one of the least understood aspects of development and was described as the progressive acquisition of form during development.  A number of systems and processes were studied to investigate this problem such as limb development in 
+			chicks, limb regeneration in 
+			amphibians, and the development of 
+			neural crest cells .  
+Today those who study morphogenesis are asking many questions and trying to determine, for example, how tissues form from populations of cells, how tissues construct organs, how organs grow, how growth is coordinated, how migrating cells are oriented, and how polarity is achieved.  The problem of morphogenesis is recognized by many to be one of the most elusive questions of development as it is intertwined with questions of 
+			regulation  and how the organism functions as a whole. 
+
+Sources
+Berril, Norman John, and Karp, G. 1976. Development. New York: McGraw-Hill Book Company.
+Bonner, John Tyler. Morphogenesis. Princeton: Princeton University Press, 1952.
+Child, Charles Manning. Individuality in Organisms. Chicago: University of Chicago Press, 1915.
+Gilbert, Scott F. Developmental Biology, Fifth Edition. Sunderland, Massachusetts: Sinauer Associates, Incorporated Publishers, 1997.
+Gilbert, Scott F. Developmental Biology, Sixth Edition. Sunderland, Massachusetts: Sinauer Associates, Incorporated Publishers, 2000.
+Horder, Timothy J. “The Organizer Concept and Modern Embryology: Anglo-American Perspectives.” International Journal of Developmental Biology 45 (2001): 97–132.
+Huxley, Julian, and Gavin de Beer. Elements of Experimental Embryology. London: Cambridge University Press, 1934.
+Needham, Joseph. Biochemistry and Morphogenesis. Cambridge: Cambridge University Press, 1950.
+Weiss, Paul. Principles of Development: A Text in Experimental Embryology. New 
+			York: Henry Holt and Company, 1939.
+
+
+How to cite
+Sunderland, Mary E., "Morphogenesis". Embryo Project Encyclopedia (2008-05-09). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/1776.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 25, 2013 - 15:53
+ Topic
+Subject
+Morphogenesis; Morphogenesis.; Concept

@@ -1,0 +1,285 @@
+By M. Elizabeth Barnes
+Published: 2014-10-21
+Keywords: Developmental biology, Neoteny, Epigenesis, recapitulation, Preformationism, Cope's Law of Acceleration, Heterochrony, biogenetic law, Evo-Devo
+ Ontogeny and
+Phylogeny (1977), by Stephen Jay Gould Ontogeny and Phylogeny is a book published in 1977,
+	in which the author Stephen J. Gould, who worked in the US, tells a history of the theory of recapitulation. A theory of
+	recapitulation aims to explain the relationship between the
+	embryonic development of an organism (ontogeny) and the evolution of
+	that organism's species (phylogeny). Although there are several
+	variations of recapitulationist theories, most claim that during
+	embryonic development an organism repeats the adult stages of
+	organisms from those species in it's evolutionary history. Gould
+	suggests that, although fewer biologists invoked recapitulation
+	theories in the twentieth century compared to those in the
+	nineteenth and eighteenth centuries, some aspects of the theory of
+	recapitulation remained important for understanding evolution. Gould
+	notes that the concepts of acceleration and retardation during
+	development entail that changes in developmental timing (heterochrony) can result in a trait appearing either earlier or later
+	than normal in developmental processes. Gould argues that these
+	changes in the timing of embryonic development provide the raw
+	materials or novelties upon which natural selection acts.
+Gould wrote Ontogeny and Phylogeny while working at
+	Harvard University in Cambridge, Massachusetts, as a professor of
+	zoology. He had studied the relationship between ontogeny and
+	phylogeny early in primary school in the New York City public
+	schools. One of his colleagues at the American Museum of Natural
+	History, Ernst Mayr, in the late 1970s encouraged him to write a
+	book on the subject.
+Gould noted that Ernst Haeckel in Germany proposed an 1866
+	recapitulation theory that he termed the biogenetic law, and that
+	biologists appealed to the law into the early decades of the
+	twentieth century, after which time experimental evidence disconfirmed
+	the law. Gould argues
+	that the dismissal of Haeckel's biogenetic law led to a more general
+	dismissal of the theory of recapitulation. Therefore, the bad
+	reputation attached to the theory of recapitulation impacted the way
+	scholars eventually theorized about developmental processes as part
+	of the mechanism of evolution.
+Ontogeny and Phylogeny is divided into two parts. The
+	first part is entitled "Recapitulation" and reconstructs the history
+	of the theory of recapitulation from Greek roots to Ernst Haeckel's
+	biogenetic law and to its demise in the first half of the twentieth
+	century. The second part is entitled "Heterochrony and
+	Paedomorphosis." In this section, Gould proposes his own theories
+	about the relationship between ontogeny and phylogeny and the way
+	developmental processes help to explain evolution.
+Part one of Ontogeny and Phylogeny begins with chapter
+	two, "The Analogistic Tradition from Anaximander to Bonnet". In this
+	chapter, Gould describes pre-recapitulation theories as various ways
+	of paralleling ontogeny with the hierarchies of life. For example,
+	some categorized the hierarchy of things as progressing from mere
+	matter, to unconscious life, to the conscious animal, to the
+	rational human. The ontogeny of a human repeats this hierarchy.
+	Starting from the bottom of the hierarchy, the human begins as
+	unformed, unconscious matter and then progresses to form complex
+	living matter. Later in development, the human fetus resembles an
+	animal and then finally progresses to be a rational human. For
+	instance, Aristotle in ancient Greece described the sequence of development in a human
+	embryo as analogous to a sequence of progressively higher souls
+	unfolding inside the organism as it develops, starting with the
+	vegetative or nutritive soul, then progressing to the animal or
+	sensitive soul, and then finally to the human or rational soul.
+Next, in the same section, Gould focuses on recapitulation theories
+	of the sixteenth century and describes how embryologists attempted
+	to explain ontogeny through theories either of preformationism or of
+	epigenesis.  Preformationists stated that structures of adults were
+	preformed in the sex cell, and merely unfolded from prebuilt
+	complexity. In contrast, epigenesists hypothesized that organisms
+	began formless and subsequently increased in complexity and form during
+	development. Gould states that historians had characterized
+	preformaitonism in an attempt to retell the history of embryology as
+	a good guy (epigenesicists) and bad guy (preformationists) narrative
+	in which epigenesists triumphed. However, Gould says that
+	preformationist theories were much more rational and respectable
+	then historians portrayed them.
+In Chapter three, entitled "Transcendental Origins, 1793 – 1860,"
+	Gould describes the triumph of epigenesis over preformationism and
+	the subsequent rise of the theory of recapitulation in the movement called
+	Naturphilosophie (philosophy of nature) in Germany during the early nineteenth century.
+	Embryologists claimed that physical laws could explain all natural
+	phenomena, and that motion was the only irreducible property. From
+	these premises, recapitulation became a central theory because it
+	relied on purely natural explanations. Gould describes in detail two
+	contemporary leading theories of recapitulation by Lorenz Oken and
+	Johann F. Meckel, both located in Germany.  Meckel stated in the title of his 1811 essay
+	"Entwurf einer Darstellung der zwischen dem Embryozustande der
+	h ö heren Tiere und dem permanenten der niederen stattfindenen
+	Parallele" (Sketch of the Portrayal of the Parallels that Exist
+	Between the Embryonic Stages of Higher Animals and the Adults of
+	Lower Animals) that early embryonic stages of so-called higher
+	animals somehow related to the adult stages of lower animals. Oken, in his 1843 Lehrbuch
+	der Naturphilosophie (Textbook of Natural Philosophy),
+	classified animals based on the linear addition of organs as they
+	developed in the animals.
+Gould next discusses Karl E. von Baer, who worked on embryos in
+	Dorpat, later Tartu, Estonia. Gould shows that von Baer argued
+	against the theory of recapitulation. Von Baer stated that many of
+	the features present in embryonic stages are not apparent in the
+	adult, and therefore one could not claim any correspondence between
+	embryos belonging to different species. Von Baer's 1828 laws of
+	embryology claim that embryos of one species can only resemble the
+	embryonic form of ancestors, but never their ancestors' adult forms.
+	Von Baer argues that organisms from different species develop from a
+	common general form and then diverge from one another in a branching
+	manner as development proceeds.
+Chapter four, "Evolutionary Triumph, 1859–1900", discusses the period
+	in which Charles Darwin introduced the theory of evolution. Before
+	this theory, biologists struggled to explain the patterns
+	described in Meckel's recapitulation theory. The claim that life
+	 evolved from a common ancestor enabled biologists to view
+	embryonic stages of animals as the actual product of those animals'
+	 ancestries. Scientists developed at least two interpretations
+	of the relationship between ontogeny and phylogeny. First, some
+	biologists interpreted evolution with von Baer's laws of embryology.
+	This interpretation described development as progressing from the
+	general characters of a large group to the specialized
+	characteristics of that organism's species. The second
+	interpretation described embryonic stages as the adult forms of our
+	ancestors. Gould notes that Darwin's embryological arguments
+	for evolution in Origin of Species relied on von Baer's
+	laws.
+Gould then describes how the second interpretation presupposed
+	two claims. First, evolutionary changes must occur through the
+	addition of traits to the end of ontogeny, a claim called the
+	principle of terminal addition. Second, there must be a mechanism
+	that shortens ontogeny across generations, otherwise development would be much longer
+	than what we observe today, a claim called the principle of
+	condensation. In the latter half of the nineteenth century, many
+	theories attempted to explain how terminal addition and condensation
+	occurred.
+In the last part of chapter four, Gould discusses Ernst Haeckel's
+	theory of recapitulation, which had an evolutionary perspective.
+	Evolutionary recapitulation differed from other forms of
+	recapitulation as it integrates the theory of common ancestry for all organisms. Haeckel
+	aimed to reconstruct phylogenetic lineages of organisms and used
+	the parallels between ontogeny and phylogeny as evidence
+	for his hypothesized lineages. Haeckel's biogenetic law claimed that
+	phylogeny, which is the evolution and diversification of a species,
+	physically caused the embryonic stages in animals'
+	development. Moreover, Haeckel addressed the principles of terminal
+	addition and condensation as the mechanics of recapitulation. Gould
+	emphasizes how other biologists such as Edward D. Cope and Alpheus
+	Hyatt, both in the US, independently proposed the biogenetic law. All
+	of them proposed similar principles and laws of acceleration and
+	retardation. Gould ends chapter four describing how by the late
+	nineteenth century, von Baer's laws of embryology fared poorly
+	amongst scientists, whereas Haeckel's biogenetic law gained
+	popularity.
+Chapter five, "Pervasive Influence," provides excerpts from
+	doctors, poets, writers, physicists, and educators who wrote about
+	recapitulation. Gould speculates that recapitulation was not just
+	influential to evolutionary and developmental biologists, but also
+	to much of society.
+In "Decline, Fall, and Generalization," Gould describes the
+	decline of the biogenetic law in the first half of the twentieth
+	century, and he identifies several factors influencing the decline.
+	First, he notes that the empirical critiques addressing acceleration and
+	retardation  made the biogenetic law untenable. Then, Gould
+	says that in the 1920s Walter Garstang, in UK, emphasized a
+	contradiction in the biogenetic law: that late stages of development
+	sometimes retain the juvenile characters of the ancestors. Garstang
+	called this phenomena paedomorphisis, and  he described its occurrence in
+	the salamanders from Mexico. Garstang argued that, as the biogenetic
+	law required that adult stages of ancestors appear in the juvenile
+	stages of development, it was disconfirmed by evidence of juvenile
+	features of ancestors expressed in the adult forms of organisms.
+	Additionally, Gould notes the difficulties that arose for the biogenetic
+	law once Gregor Mendel's 1865 theory of genetics and experimental
+	embryology became popular. According to Gould, once new causal
+	explanations accounted for variations in the features of organisms
+	within the same species, the biogenetic law became irrelevant.
+Section two of Ontogeny and Phylogeny has four chapters.
+	The first two chapters in this section, chapters seven and eight in
+	the book, are entitled "Heterochrony and the Parallel of Ontogeny
+	and Phylogeny" and "The Ecological and Evolutionary Significance of
+	Heterochrony". In these chapters, Gould emphasizes the mechanics of
+	developmental timing rather than the results of those processes. He
+	argues that, once Haeckel's biogenetic law declined in popularity,
+	it prompted the design of many complex theories about the
+	connections between ontogeny and phylogeny, theories that focused on the
+	results of changes in developmental timing, recapitulation and
+	paedomorphosis, but did not focus on its mechanisms, acceleration
+	and retardation.
+Gould argues that scientists should study the processes of
+	developmental timing. He identifies two processes causing
+	recapitulation and paedomorphosis: acceleration and retardation of
+	development. Furthermore, the ubiquitous presence of these processes
+	in development shows that heterochrony constitutes the mechanics of
+	evolution, as it can result in different evolutionary phenomena such
+	as the number of offspring an organism has or the age at which an organism reproduces.
+In "Progenesis and Neoteny" and "Human Evolution," Gould explains
+	progenesis and neoteny. Progenesis occurs when the sexual maturation
+	of an organism still in a juvenile stage accelerates. For example,
+	some salamanders are able to reproduce during their larval life.
+	Gould argues that neoteny and progenesis are adaptations to
+	different ecological environments. Progenesis enables species to
+	reproduce quickly and in large numbers. Neoteny, on the other hand,
+	causes species to reproduce slowly and in small numbers. Progenesis
+	can result in the evolution of new taxa, because it can relax the
+	developmental constraints that later arise in the development of
+	organisms. Gould points to neoteny as an important process in the
+	development of complex social and cerebral behavior in the higher
+	vertebrates. He says that the ability for an organism to delay its
+	growth can lead to features that would support complex social and
+	cerebral behaviors. For instance, rapid growth of the brain later in
+	the development of humans could support complex cerebral functions.
+	Gould claims that neoteny is the most important factor of human
+	evolution.
+In the decades that followed its publication, Ontogeny and
+	Phylogeny became widely cited within the evolutionary and
+	developmental sciences. It helped revive research on acceleration
+	and retardation and sparked research about paedomorphosis as a
+	possible factor affecting the evolution of the human lineage.
+	Moreover, Ontogeny and Phylogeny, along with other work by
+	Gould, such as "The Spandrels of san Marco and the Panglossian
+	Paradigm" is often credited for influencing the rise of a biological
+	approach called evolutionary developmental biology or evo-devo,
+	which worked to integrate evolutionary and developmental biology.
+	
+ Sources Aristotle. On
+		the Generation of Animals. Trans. Arthur Platt under the Editorship of J.A. Smith and W.D. Ross as Volume V of  The Works of Aristotle Translated into English Oxford: Clarendon Press, 1912. https://ebooks.adelaide.edu.au/a/aristotle/generation/index.html (Accessed October 9, 2014).
+Cope, Edward. The Primary Factors of Organic
+		Evolution. Chicago: Open Court Publishing, 1896. http://
+		www.biodiversitylibrary.org/page/1959466 (Accessed April 26,
+		2014).
+Darwin, Charles. On the Origin of Species by Means of
+		Natural Selection. London: John Murray, 1859. http://dx.doi.org/10.5962/bhl.title.68064
+		(Accessed October 9, 2014).
+Garstang, Walter. "The Theory of Recapitulation: A Critical
+		Restatement of the Biogenetic Law." Zoological Journal of the
+		Linnaean Society 35 (1922): 81–101.
+Gorman, James. "The History of an Idea." New York Times,
+November 20, 1977. http
+://www.nytimes.com/books/97/11/09/home/gould-darwin.html (Accessed
+February 16, 2013).
+Gould, Stephen J. Ever Since Darwin. New York: Norton &
+Company, 1977.
+Gould, Stephen J.  Ontogeny and Phylogeny. Cambridge: Harvard
+University Press, 1977. http://www.
+sjgarchive.org/library/ontogeny.html (Accessed 17 April 2014).
+Haeckel, Ernst. Generelle Morphologie der Organismen.
+[General Morphology of the Organisms]. Berlin: G. Reimer, 1866. http://www.biodiversitylibrary.org/item/22319#page/11/mode/
+1up (Accessed May 4, 2012).
+Hyatt, Alpheus. "Cycle in the Life of the Individual (Ontogeny) and
+in the Evolution of Its Own Group (Phylogeny)." Science 5 (1897):
+161–71. http://www.jstor.org/stable/20020691 (Accessed October 9, 2014).
+McKinney, Michael and Kenneth McNamara. "Heterochrony, Disparity,
+and Macroevolution." Paleobiology 31 (2005): 17–26.
+Meckel, Johann Friedrich. "Entwurf einer Darstellung der zwischen dem Embryozustande der höheren Thiere und dem permanenten der niederen stattfindenden Parallele." [Sketch of the Portrayal of the Parallels that Exist Between the
+Embryonic Stages of Higher Animals and the Adults of Lower Animals]. In Beyträge zur Vergleichenden Anatomie [Contributions to Comparative Anatomy] Vol. 2. Ed. Johann Friedrich Meckel. Leipzig: Reclam, 1811: 1–60.
+Mendel, Gregor Johann. "Versuche über Pflanzen-Hybriden"
+[Experiments Concerning Plant Hybrids]" [1866]. Verhandlungen des
+naturforschenden Vereines in Brünn [Proceedings of the Natural
+History Society of Brünn] IV (1865): 3–47. Reprinted in Fundamenta
+Genetica, ed. Jaroslav Kříženecký, 15–56. Prague: Czech Academy of
+Sciences, 1966. http://www.mendelweb.org/
+Mendel.html (Accessed April 17, 2014).
+Oken, Lorenz. Lehrbuch der Naturphilosophie. Zürich:
+Schultheß, 1843. https://
+archive.org/details/lehrbuchdernatu04okengoog (Accessed April 17,
+2014).
+von Baer, Karl Ernst. Über Entwickelungsgeschichte der
+Thiere. Beobachtung und Reflexion [On the Developmental History of
+Animals. Observation and Reflection]. Königsberg: Bornträger,
+1828. http://babel.hathitrust.org/cgi/pt?id=inu.
+32000003298751;page=root;view= 1up;size=100;seq=7;orient=0 (Accessed
+October 3, 2012).
+Wake, David. "Shape, Form, Development, Ecology, Genetics, and
+Evolution." Paleobiology 4 (1978): 96–9.  
+
+How to cite
+Barnes, M. Elizabeth, "Ontogeny and Phylogeny (1977), by Stephen Jay Gould". Embryo Project Encyclopedia (2014-10-21). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/8226.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+Copyright Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Friday, October 24, 2014 - 23:44
+ Topic
+Subject
+ Theories; Gould, Stephen Jay; Evolution; Haeckel, Ernst, 1834-1919; Ontogeny; Embryology; Meckel, J. F. (Johann Friedrich), 1781-1833; Darwin, Charles, 1809-1882; Garstang, Walter, 1868-1949; Baer, Karl Ernst von, 1792-1876; Naturphilosophie; Phylogeny; Aristotle; Literature

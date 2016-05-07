@@ -1,0 +1,26 @@
+By Sarah Ly
+Published: 2011-03-03
+Keywords: Differentiation
+ Embryonic Differentiation in AnimalsEmbryonic differentiation is the process of development during which embryonic cells specialize and diverse tissue structures arise. Animals are made up of many different cell types, each with specific functions in the body. However, during early embryonic development, the embryo does not yet possess these varied cells; this is where embryonic differentiation comes into play. The differentiation of cells during embryogenesis is the key to cell, tissue, organ, and organism identity. Once an egg is fertilized by a sperm, a zygote is formed. The zygote divides into multiple cells in a process known as cleavage, triggering the beginning of embryonic differentiation. During cleavage, the zygote divides but maintains its size in the process. This zygotic division produces blastomeres which later make up the hollow sphere known as the blastula. Cells migrate within the blastula to locations that will later define the structure of the embryo and consequent organism. In this process, called gastrulation, three germ layers arise: the endoderm, mesoderm, and ectoderm. Cells in these three layers will give rise to different parts of the organism. The endoderm eventually becomes the gut. The mesoderm develops into muscle, the skeletal system, some organs, and connective tissue. The ectoderm differentiates into the nervous system and skin. As the embryo continues to develop, individual cells continue to differentiate. These differentiated cell types are made from what were initially the same types of pluripotent embryonic stem cells. An assortment of physiological mechanisms guides certain cells towards particular developmental pathways, creating varying cell types. This is made possible by the cell’s inherent ability to control what genes are expressed and translated into proteins. Every cell contains DNA within the nucleus, containing the blueprint to build many different proteins in the cell. Different signals can cause embryonic cells to select specific parts of the DNA which can then be used to synthesize proteins, eventually building different cell types. Differentiation of cells in the embryo is brought about by both internal cellular factors as well as extracellular factors that act on the cell from the outside. Much remains to be understood about the exact molecular interactions that govern cellular differentiation. It is understood, however, diversifying the ratio of and types of internal and external influences on certain cells, allows many divergent cell types to arise. There are two main types of cellular development that pertain to embryos: mosaic development or regulative development. In mosaic development (which is not characteristic of mammals, but of organisms such as annelids) differentiation occurs in steps that are set in order and progression, without input occurring between neighboring cells. On the other hand, regulative development involves the interaction of adjacent cells, within what is known as embryonic fields. The advantage of regulative development is the flexibility that it confers to differentiation. For example, a cell’s pathway may change depending on the cellular environment in which it is placed, not merely by its internal mechanisms.The process of embryonic differentiation is crucial to proper animal development. The processes involved in embryonic differentiation continue to be explored and have relevance to studies involving embryonic stem cells and in vitro cell differentiation. As scientists continue to study the physiological mechanisms of embryonic development the process of embryonic differentiation should continue to be understood in greater and greater detail.
+
+Sources
+Keller, Gordon.”In Vitro Differentiation of Embryonic Stem Cells,” Current Opinion in Cell Biology (1995): 862–69.
+Markert, Clement L. "Embryonic Differentiation," in AccessScience, McGraw-Hill 2008, http://accessscience.proxy.mpcc.edu/content.aspx?id=230100 (Accessed December 15, 2010).
+Surani, Azim, Hayashi Katsuhiko, and Petra Hajkova. “Genetic and Epigenetic Regulators of Pluripotency.” Cell 128 (2007): 747–62. 
+
+
+How to cite
+Ly, Sarah, "Embryonic Differentiation in Animals". Embryo Project Encyclopedia (2011-03-03). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/2082.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 25, 2013 - 15:53
+ Topic
+Subject
+  Concept

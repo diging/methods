@@ -1,0 +1,53 @@
+By Zane Bartlett
+Published: 2015-03-24
+Keywords:     
+   Elizabeth Blackburn, Carol Greider and Jack Szostak's Telomere and Telomerase Experiments (1982-1989)Experiments conducted by Elizabeth Blackburn, Carol Greider, and Jack Szostak from 1982 to 1989 provided theories of how the ends of chromosomes, called telomeres, and the enzyme that repairs telomeres, called telomerase, worked. The experiments took place at the Sidney Farber Cancer Institute and at Harvard Medical School in Boston, Massachusetts, and at the University of California in Berkeley, California. For their research on telomeres and telomerase, Blackburn, Greider, and Szostak received the Nobel Prize in Physiology or Medicine in 2009. Telomeres and telomerase affect the lifespan of mammalian cells and ensure that cells rapidly develop within developing embryos.
+The scientists involved in the experiments with telomeres and telomerase came from a variety of disciplines. Blackburn worked at the University of California in Berkeley (UC Berkeley) from 1982 to 1989. In 1975, she had received her PhD in molecular and cellular biology from the University of Cambridge in Cambridge, England, after which she did postdoctoral work with Joseph Gall at Yale University in New Haven, Connecticut from 1975 to 1977.
+As Blackburn's graduate student, Greider studied telomeres and telomerase at UC Berkeley from 1984 to 1987.  Greider received her PhD in molecular biology in 1987 from UC Berkeley and continued her research with Blackburn through 1989. Szostak had received his PhD in biochemistry from Cornell University in Ithaca, New York, in 1977, where he specialized in cloning yeast and in manipulating genes. Szostak began to study telomeres and telomerase after hearing a conference presentation given by Blackburn in 1980, during which she explained her work on telomeres in 
+Tetrahymena, a single-celled freshwater organism. After meeting Blackburn and discussing her work, Szostak accepted a position at Harvard Medical School in 1982, where he and Blackburn collaborated to investigate the functions of the telomeres of Tetrahymena in yeast.
+Blackburn and Szostak's 1982 experiment addressed an issue with how DNA replicates copies of itself within a cell. The issue was that after replication, one of the two DNA strands remains incomplete. When a cell replicates itself, the end of a strand of chromosomal DNA, the telomere, shortens. The telomere shortens because the enzyme that replicates DNA, DNA polymerase, only works in one direction on DNA. This process creates what scientists call a leading and a lagging strand during DNA duplication. The leading strand is named such because DNA polymerase moves in one direction across the nucleotide sequence, and replicates the DNA without any breaks in the genetic material. The lagging strand is composed of individual fragments of DNA formed by DNA polymerase (Okazaki fragments) that are later sealed together by the enzyme DNA ligase to create one continuous strand. This strand is called the lagging strand because it can take longer to seal together the individual DNA fragments than the leading strand takes to continuously replicate a strand. The DNA polymerase detaches at the end of the lagging strand and leaves a space that measures a few nucleotides in length. The identity of those nucleotides remained unknown until Szostak and Blackburn published their results in 1982.
+To identify the nucleotides, Szostak and Blackburn removed what Blackburn hypothesized were the telomeres in Tetrahymena. The hypothesized telomeres were highly repetitive nucleotide segments of DNA at the ends of chromosomes. The researchers placed the telomeres in circular genetic material, called linearized plasmids, from yeast species. Blackburn and Szostak used yeast and Tetrahymena because of their distant evolutionary relationship from each other, and to see if the telomeres were similar across different species of eukaryotes. They found that the yeast added new DNA to the Tetrahymena telomeres, which led the researchers to conclude that telomeres were highly conserved evolutionarily, or similar across distantly related species, across yeast and Tetrahymena, and hypothetically across other species. Additionally, Blackburn and Szostak observed that the telomeres functioned similarly to each other in yeast and Tetrahymena. Blackburn and Szostak cut out pieces of the similar telomeres from each species and identified them by describing their sequences of nucleotides (DNA sequencing). The experiment confirmed the description of the telomere as a highly repetitive nucleotide segment, particularly rich in the nucleotide guanine, which accumulates at one end of chromosomal DNA. 
+In 1985, Greider and Blackburn further investigated the mechanism by which DNA was added to the ends of telomeres. Blackburn and Greider noted the composition of telomere ends, but they could not explain what was adding the guanine-rich ends to the DNA. In different species, the lengths of telomeres differ, and with the sequencing techniques available in the 1980s, scientists couldn't determine how DNA was added to the ends of telomeres. Telomeres also appeared to grow over time in Tetrahymena and yeast. Blackburn and Szostak hypothesized that a specific, not yet identified, enzyme added new DNA to the ends of telomeres. 
+In 1984 when Greider joined Blackburn's lab, they formulated a procedure to discover that unidentified enzyme. They took extracts of Tetrahymena chromosomes, cut them into small pieces and added radioactively labeled nucleotides to help identify parts of the original DNA sequence. They observed which nucleotides were added to the sequence and also examined the changes in length. The radiolabeled nucleotides, which Greider prepared, indicated that there was an enzyme responsible for telomere additions. Greider and Blackburn labeled this enzyme as telomere terminal transferase, a name later shortened to telomerase.  In 1985, Greider and Blackburn published the results of their experiment. The evidence that telomerase existed signified that cells contain a mechanism to repair the gap resulting from the lagging strand of DNA and polymerase detachment. Telomerase enabled cells to replicate themselves rapidly and without hindrance in developing organisms. 
+Greider and Blackburn continued to investigate the structure and function of telomerase by studying the origin of the guanine-rich repeat sequences of DNA. Greider hypothesized that RNA provided the necessary template for guanine-rich repeat sequences to be added to telomeres. Greider added RNase, an enzyme that breaks down RNA, and DNase, an enzyme that breaks down DNA, to the telomere extracts. She found that the RNase stopped the telomeres from getting longer. She and Blackburn published the results in 1987.  Their results concluded that telomerase had an RNA component and could serve as a template for the process of DNA replication.
+After further experimentation from 1987 to 1989, Greider sequenced the RNA component of telomerase. Greider created multiple RNA probes that could bind to the partial RNA fragments that she had obtained from the 1987 experiment. Greider diagrammed what she hypothesized was the mechanism by which telomerase added nucleotides to telomeres. She published her experiment and model on the RNA component of telomerase in 1989, with Blackburn as a coauthor.
+Along with the work of Blackburn, Greider, and Szostak, others have showed that mammals have telomeres. In 1978, Blackburn had hypothesized that telomeres affect cellular aging, in relation to the Hayflick Limit, or the cell's limited capacity to divide from forty to sixty times before it can no longer replicate. Scientists such as Geraldine Aubert and Peter M. Langsdorp at the University of British Columbia in Vancouver, British Columbia validated Blackburn's original hypothesis. In 2009, Blackburn, Greider, and Szostak received the Nobel Prize in Physiology or Medicine for their research on telomeres and telomerase. The results of their work have influenced research related to cellular aging. 
+
+Sources
+Aten, David, Kuo Anna, and Questell Adam. "What are telomeres and telomerase?" 
+Shay/Wright laboratory. http://www4.utsouthwestern.edu/cellbio/shay-wright/intro/facts/sw_facts.html (Accessed November 2, 2013).
+Aubert, Geraldine, and Peter M. Langsdorp "Telomeres and aging." Physiological Reviews 88 
+(2008): 557–79. http://physrev.physiology.org/content/88/2/557.short (Accessed February 5, 2015).
+Blackburn, Elizabeth H., and Joseph G. Gall. "A tandemly repeated sequence at the termini of 
+the extrachromosomal ribosomal RNA genes in Tetrahymena." Journal of Molecular Biology 120 (1978): 33–53. http://nobel.ucsf.edu/pdf/nobel/blackburn_and_gall_1978.pdf (Accessed February 5, 2015).
+Greider, Carol W., and Elizabeth H. Blackburn. "Identification of a specific telomere terminal 
+transferase activity in Tetrahymena extracts." Cell  43 (1985): 405–13. http://www.cell.com/cell/pdf/0092-8674(85)90170-9.pdf (Accessed February 5, 2015).
+Greider, Carol W., and Elizabeth H. Blackburn. "The telomere terminal transferase of 
+Tetrahymena is a ribonucleoprotein enzyme with two kinds of primer 
+specificity." Cell  51 (1987): 887–98.
+Greider, Carol W., and Elizabeth H. Blackburn. "A telomeric sequence in the RNA of 
+Tetrahymena telomerase required for telomere repeat synthesis." Nature  337 (1989): 331–7.
+Nobel Media. "Carol W. Greider–Biographical."
+http://www.nobelprize.org/nobel_prizes/medicine/laureates/2009/greider-bio.html (Accessed January 25, 2014).
+Nobel Prize. "The Nobel Prize in Physiology or Medicine 2009."   
+http://www.nobelprize.org/nobel_prizes/medicine/laureates/2009/ (Accessed October 5, 2013).
+Szostak, Jack W., and Elizabeth H. Blackburn. "Cloning yeast telomeres on linear plasmid 
+vectors." Cell 29 (1982): 245–55.
+
+
+
+How to cite
+Bartlett, Zane, "Elizabeth Blackburn, Carol Greider and Jack Szostak's Telomere and Telomerase Experiments (1982-1989)". Embryo Project Encyclopedia (2015-03-24). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/8308.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+Copyright Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Tuesday, March 24, 2015 - 23:01
+ Topic
+Subject
+ Telomere; Greider, Carol W.; Blackburn, Elizabeth H.; Szostak, Jack W.; Chromosome replication; Telomerase; DNA; DNA polymerases; Women Nobel Prize winners; Nobel Prize winners; Tetrahymena; Experiment

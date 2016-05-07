@@ -1,0 +1,159 @@
+By James Lowe
+Published: 2015-03-31
+Keywords: Amphioxus, mosaic theory, cleavage
+ "Amphioxus, and the Mosaic Theory of Development" (1893), by Edmund Beecher Wilson
+Edmund Beecher Wilson experimented with Amphioxus (Branchiostoma) embryos in 1892 to identify what caused their cells to differentiate into new types of cells during the process of development. Wilson shook apart the cells at early stages of embryonic development, and he observed the development of the isolated cells. He observed that in the normal development of Amphioxus, all three main types of symmetry, or cleavage patterns observed in embryos, could be found. Wilson proposed a hypothesis that reformed the Mosaic Theory associated with Wilhelm Roux in Germany. Wilson suggested that cells differentiated into other cells when influenced by physiological (dynamic) changes in the hereditary substance contained in cells, and not because of the qualitative division, or parcelling out, of the substance into daughter cells. Wilson published his results in August 1893. 
+		
+
+The experiment came at the end of Wilson's trip to Europe from 1891 to 1892, which included encounters with Theodor Boveri and Hans Driesch, researchers from Germany. Embryologists such as Roux and Driesch were at the forefront of a movement in experimental embryology called Entwicklungsmechanik or developmental mechanics. They sought to find out the mechanistic causes of generation and the formation of developing organisms, through controlled, analytical experiments. Roux and Driesch studied the physiology rather than comparative morphology, which was the predominant method for embryologists at the time. Wilson did not meet Roux, but he became friends with Driesch, at the Stazione Zoologica in Naples, Italy. 
+
+
+Wilson observed that early embryos from different species of annelids, such as Nereis, varied in their cleavage forms. Wilson designed his experiment to try to explain the formation of particular forms of cleavage, the process by which the egg divides without increasing in size. Aside from the rotational cleavage exhibited by mammals, embryologists observed spiral, bilateral, and radial forms of symmetry in embryos, which undergo full cleavage. Wilson also sought to resolve perceived contradictions in the experimental results of Roux and Driesch.
+
+
+Driesch had worked on sea urchins at the Stazione Zoologica. He built on results obtained by Roux with frogs from the species Rana esculenta in 1888. Roux had killed one of the cells of the frog embryo early in development, and he found that the remaining live portion of the embryo would only form part of an organism, rather than a whole. Those results led Roux to formulate the Mosaic Theory of development, or the theory that the cell separated hereditary materials in different amounts to daughter cells at cell division, a process called qualitative division. 
+
+ 
+Driesch had expected to find the Mosaic pattern of development that Roux had observed, in which the ability of cells to form various cell and tissue types diminished with every division. However, when Driesch shook apart the cells at various early stages of cleavage, he found that separated cells developed into normal, though smaller than normal, adults. He classified the ability of a cell to develop into a whole organism from only part of an embryo as regulatory development. In that type of development, the fate of a cell changes if its context changes, meaning that the cell only becomes part of an organism if it remains part of the embryo, but the cell gives rise to a whole organism if it becomes separated from the rest of the embryo early in development. 
+
+
+Wilson conducted his work at Faro, on the island of Sicily, Italy, in June and July of 1892. He worked with an organism that showed a great deal of variability, and was amenable to experimental manipulation. He chose the marine invertebrate Amphioxus, also called Branchiostoma lanceolatum. Amphioxus possesses a notochord, a rod-like structure that helps provide structure in embryos and some adult organisms. All vertebrates develop a notochord at some stage of their development, but few invertebrates do. Alexander Kovalevsky had observed that Amphioxus had a notochord in the late nineteenth century, which was a result pursued by morphologists of the time because many of them studied the evolutionary origins and ancestry of vertebrates. Wilson wanted to study the causes of the different forms of cleavage found in early development, and he was interested in evolutionary relationships found in Amphioxus. 
+
+
+Wilson collected adult organisms at sunrise from the surface of what he called a pantano, a lagoon that was connected to the sea by a canal. He placed those specimens in glass vessels that contained regularly refreshed water, which enabled the organisms to spawn. When they did, Wilson placed the eggs into smaller vessels, and he added fresh sperm to fertilize them. Wilson preserved and stained the embryos at a range of different stages of development. The stages of development usually related to the number of cells present in the embryo at that point, such as the two-cell stage, or the sixteen-cell stage. Wilson found that a mixture of different reagents provided the best means of preserving his samples, and he compared those samples against live embryos, and ones preserved in balsam, to ensure that they had not changed too much by his experimental process. 
+
+
+For an experimental control group, Wilson examined embryos at various stages that did not undergo experimental manipulation. He said the control group went through normal development.  Wilson found that there was a considerable range of variation within this normal development group, which encompassed all three main cleavage forms (bilateral, radial, and spiral) and some intermediate forms between those forms.
+
+ 
+The technique Wilson used in his experiment was previously introduced by Oskar Hertwig of the University of Munich, Germany, and was also used by Hans Driesch in his work with sea-urchins. Wilson shook the embryos in a small glass vessel that was half-filled with water, and then he placed the product in a larger vessel. He aimed to shake apart the blastomeres, or the cells produced by the cleavage process. He had to make sure he shook hard enough to completely separate the blastomeres, but not so hard that he damaged them. 
+
+
+Wilson examined the effects of his shaking at the two-cell and eight-cell stages. By shaking apart the blastomeres at those stages, he varied what he termed the mechanical conditions, or the effects on a cell and its descendants by the presence or absence of cells nearby. With that experiment, he hoped to observe the role and limits of mechanical factors that were external to the cell in development. Through this method, Wilson also tried to observe how the power of regulation or regeneration existed in the embryo and its cells, and for how long. 
+
+
+Wilson observed the embryos through a device called a camera lucida. The camera lucida comprises of a prism mounted on a table surface, which when attached to a microscope, refracts the image from the microscope. If there is some paper on the table, the user of the device can look into the prism to see the image and the paper at the same time, and the worker can use that image as a basis for drawing the sample under the microscope. The process is not tracing, as the image is not projected by the camera lucida. Wilson often used the camera lucida, and it enabled to discern the three-dimensional shape of embryos under the microscope. 
+
+
+The results Wilson obtained from his experiments led him to reject explanations of development and differentiation that wholly relied on either external mechanical factors or internal inherited factors. Wilson found that cells separated at the two-cell stage would each undergo a normal cleavage, and then produce larvae similar to the larvae developed in the non-manipulated normal development control, except they were half the size. Wilson found evidence of a similar result for the blastomeres that he shook apart at the four-cell stage, though with less frequency. By the eight-cell stage, some of the isolated blastomeres developed as far as the gastrula stage, but no further. He concluded that the regulative or regenerative capacity of early embryonic cells diminished with time, as development proceeded. Instead of forming whole organisms, Wilson observed that the blastomeres that separated at progressively later stages would only form parts. Wilson reasoned that the formation of parts at later stages meant that mechanical conditions were only part of the processes of differentiation and development. He reasoned that if mechanical conditions determined the whole process of development, the capacity of isolated blastomeres to form whole organisms would be just as strong at the sixteen-cell stage as at the two-cell stage. But Wilson's results proved otherwise. Wilson proposed that the hereditary substance contained in the cells, for which he used the term idioplasm, underwent changes as development proceeded. 
+
+
+In the concluding part of his experimental report, Wilson criticized the Mosaic Theory of Roux, and the alternative theories outlined by Driesch and Oskar Hertwig, and instead proposed his own hypothesis to account for his experimental results. Although his results suggested that inherited factors were important in development, Wilson interpreted the variation in cleavage forms to mean that inherited factors could not completely account for the generation of form. Additionally, the regulative capacity that Wilson observed in the early stages of Amphioxus development disconfirmed the theory that cells separated hereditary material to daughter cells during cleavage and subsequent cell divisions. Instead of that theory, Wilson proposed that chemical processes altered hereditary material during development, and that those processes were set in motion by different parts of the egg upon fertilization. In 1893, Wilson attributed that process of producing chemical changes to the action of the hereditary material in the egg.
+
+ 
+Wilson suggested that Amphioxus behaved so differently from Roux's frogs because of different timings their respective processes of differentiation and change. Wilson proposed that embryos take on more of a mosaic character as development proceeds. Wilson suggested that in different species, that process might take a longer or shorter amount of time, so at any one stage of development, one organism may appear to show mosaic development, and another regulative. However, Wilson considered that in the developmental processes of all organisms, regulative patterns of development turn into mosaic patterns as development proceeds. 
+
+
+Wilson published the results and interpretation in August 1893. The results of his experiment formed a key part of his theories about the different possible causes in differentiation and development. For example, in 1896 he revisited his experimental themes, and he recalled his experiment with Amphioxus in a paper discussing cleavage and mosaicism, as well as in his textbook The Cell in Development and Inheritance.
+
+
+Wilson's experiment with Amphioxus raised questions as to the usefulness of investigations of early development for the determination of evolutionary ancestry and relationships. His experiments contributed to the debate among scientists about the causes of the generation of differentiation and form in development. In a lecture delivered at the Marine Biological Laboratory at Woods Hole, Massachusetts, in 1893, Wilson spoke about the role of the environment of the organism in development. While he acknowledged that the environment was important, he also described how the activity of the idioplasm in the cells might help to create the environment within the organism, which then influences the future activities of the idioplasm. He also proposed a hierarchical view of development, in which early differentiation sets the pattern for future differentiation. 
+
+
+Wilson continued to study the themes raised by his Amphioxus experiment. In particular, he engaged with the theory of germinal localization, or that unequal distribution of certain form-generating substances in the egg causes differentiation through the distribution of those substances into different cells upon cleavage and division. In 1904, he published experiments that he conducted with the marine mollusc Dentalium, which confirmed his germinal localization hypothesis. In the twentieth-century, however, Wilson studied the role of the nucleus in development. In particular, he focused on chromosomes, and his work helped to develop the theory that the chromosomes were the material bearers in cells of hereditary characteristics. 
+
+
+Many scientists have cited Wilson's 1893 experiment, and many historians regard it as an important work. The editor of the embryology news section of the American Naturalist recognized Wilson's work with Amphioxus in both 1893 and 1894. Wilson's colleagues at the Marine Biological Laboratory at Woods Hole incorporated information derived from his work concerning the process and variation of cleavage, on the mosaic theory, and on the significance of his findings about cleavage for aspects of Roux's theory into their summer lectures. Wilson corresponded with Driesch during and after his experimental work, and the two discussed the significance of their respective findings. At the Stazione Zoologica, Thomas Hunt Morgan added to Wilson's experiment and methods in Morgan's 1895 work with Amphioxus in an early investigation of regeneration. Later scientists such as Scott F. Gilbert cited Wilson's experiment as an attempt to bring together mosaic and regulatory development under one common explanation.
+
+
+With the 1892 experiment with Amphioxus, Wilson entered the debates about the cause of differentiation in development, a key question in experimental embryology. He developed his hypothesis in experiments, lectures, and published works over the following decade. Wilson's theory shifted in the following years, when it was incorporated with the findings of Theodor Boveri, who studied chromosomes at the University of Munich, Germany. The change in Wilson's theory led to a theory of differentiation based on the role of chromosomes in cells by the end of the 1890s. Eventually, Wilson considered the role of inherited materials in the nucleus as central in development. He also studied chromosomes, and his acceptance of Gregor Mendel's theories of heredity. Mendel's theories and methods involved the study of the transmission of traits between generations. Wilson's acceptance of those theories led to work in the first decade of the twentieth century, when he independently discovered the role of chromosomes in the determination of sex in insects, as did Nettie Marie Stevens.
+
+
+
+
+Sources
+Andrews, E. A., ed. "Embryology." American Naturalist 27 (1893): 158–60. http://www.jstor.org/stable/2451726 (Accessed March 11, 2015).
+		
+
+Andrews, E. A., ed. "Embryology." American Naturalist 28 (1894): 77–9. http://www.jstor.org/stable/2452549 (Accessed March 11, 2015).
+
+
+Bateson, William. Mendel's Principles of Heredity. New York: G.P. Putnam's Sons, 1909. https://archive.org/details/mendelsprinciple00bate (Accessed July 31, 2014).
+
+
+Clapp, Cornelia M. "Relation of the axis of the embryo to the first cleavage plane." In Biological Lectures from the Marine Biological Laboratory, Woods Hole, Mass. 1898, 139–52. Boston: Ginn & Company, 1899. http://www.biodiversitylibrary.org/item/27269#page/149/mode/1up (Accessed July 31, 2014).
+
+
+Conklin, Edwin G. "Cleavage and differentiation." In Biological Lectures Delivered at the Marine Biological Laboratory of Woods Hole 1896–1897, 17–44. Boston: Ginn & Company, 1898. http://www.biodiversitylibrary.org/item/27260#page/25/mode/1up (Accessed July 31, 2014).
+
+
+Driesch, Hans. "The potency of the first two cleavage cells in echinoderm development. Experimental production of partial and double formations." Trans. Benjamin H. Willier and Jane M. Oppenheimer. In Foundations of Experimental Embryology (Second Edition), eds. Benjamin H. Willier and Jane M. Oppenheimer, 38–50. New York: Hafner Press, 1974. Originally published as Zeitschrift für wissenschaftliche Zoologie [Journal of Scientific Zoology] 53 (1892): 1–62. http://www.biodiversitylibrary.org/item/138614#page/170/mode/1up (Accessed July 31, 2014).
+
+
+Gilbert, Scott F. Developmental Biology, Ninth Edition. Sunderland, MA: Sinauer Associates, 2010.
+
+
+Hertwig, Oscar. Beiträge zur kenntniss der bildung, befruchtung und theilung des thierischen 
+	eies [Contributions to the Knowledge of the Formation, Fertilization and Division of 
+	Animal Eggs]. Leipzig: Verlag von Wilhelm Engelmann, 1875. http://hdl.handle.net/2027/chi.086138603 (Accessed March 11, 2015).
+	
+
+Kovalevsky, Alexander. "On the development of Amphioxus lanceolatus." Annals and Magazine of 
+Natural History 19 (1867): 69–70.  http://biodiversitylibrary.org/page/22192905
+(Accessed July 31, 2014).
+
+
+Maienschein, Jane "'It's a long way from Amphioxus.' Anton Dohrn and late nineteenth century debates about vertebrate origins." History and Philosophy of the Life Sciences 16 (1994): 465–78.
+
+
+McMurrich, J. Playfair. "Cell-division and development." In: Biological Lectures Delivered at the Marine Biological Laboratory at Woods Hole in the Summer Session of 1894, ed. Charles O. Whitman, 125–48. Boston: Ginn & Company, 1895. http://www.biodiversitylibrary.org/item/27273#page/141/mode/1up (Accessed July 31, 2014).
+
+Mendel, Gregor Johann. "Versuche über Pflanzen-Hybriden" [Experiments Concerning Plant Hybrids]" [1866]. In Verhandlungen des naturforschenden Vereines in Brünn [Proceedings of the Natural History Society of Brünn] IV (1865): 3–47. Reprinted in Fundamenta Genetica, ed. Jaroslav Kříženecký, 15–56. Prague: Czech Academy of Sciences, 1966. http://www.mendelweb.org/Mendel.html (Accessed June 27, 2014).
+
+Morgan, Thomas H. "The number of cells in larvae from isolated blastomeres of Amphioxus." Archiv für Entwicklungsmechanik der Organismen [Archives of Developmental Biology] 3 (1896): 269–94. http://babel.hathitrust.org/cgi/pt?id=umn.31951002726486q;view=1up;seq=305 (Accessed March 13, 2015).
+
+
+Morgan, Thomas H. "Edmund Beecher Wilson 1856–1939." Obituary Notices of Fellows of the Royal Society 3 (1940): 123–38.  http://rsbm.royalsocietypublishing.org/content/obits/3/8/123.full.pdf+html (Accessed July 31, 2014).
+
+
+Roux, Wilhelm. "Contributions to the developmental mechanics of the embryo. On the artificial production of half-embryos by destruction of one of the first two blastomeres, and the development (postgeneration) of the missing half of the body."  Trans. Benjamin H. Willier and Jane M. Oppenheimer. In: Foundations of Experimental Embryology (Second Edition), eds. Benjamin H. Willier and Jane M. Oppenheimer, 2–37. New York: Hafner Press, 1974. Originally published as "Beiträge zur Entwicklungsmechanik des Embryo. Über die künstliche Hervorbringung halber Embryonen durch Zerstörung einer der beiden ersten Furchungskugelin, sowie über die Nachentwicklung (Postgeneration) der fehlenden Köperhälfte." Virchows Archiv für pathologische Anatomie und Physiologie und für klinische Medizin  [Virchow's Archives of Pathological Anatomy and Physiology, and for Clinical Medicine] 114 (1888): 113–53 and 289–91. http://babel.hathitrust.org/cgi/pt?id=hvd.32044093331460;view=1up;seq=127 (Accessed March 13, 2015).
+
+
+Stevens, Nettie Maria. Studies in Spermatogenesis with Especial Reference to the Accessory Chromosome. Washington D.C.: Carnegie Institution of Washington publication 36, 1905. http://www.archive.org/details/studiesinspermat01stevrich#sthash.eCoaE9T1.dpuf (Accessed July 31, 2014). 
+
+
+Sunderland, Mary E. "Regeneration: Thomas Hunt Morgan's window into development." Journal of the History of Biology 43 (2010): 325–61.
+
+
+Willey, Arthur. Amphioxus and the Ancestry of the Vertebrates. New York: Macmillan and Co, 1894. http://www.biodiversitylibrary.org/item/116654#page/9/mode/1up (Accessed July 31, 2014).
+
+
+Wilson, Edmund B. "The cell-lineage of Nereis. A contribution to the cytogeny of the annelid body." Journal of Morphology 6 (1892): 361–480. http://www.biodiversitylibrary.org/item/90127#page/397/mode/1up (Accessed July 31, 2014).
+
+
+Wilson, Edmund B. "Amphioxus, and the Mosaic Theory of development." Journal of Morphology 8 (1893): 579–638.  http://www.biodiversitylibrary.org/item/43594#page/645/mode/1up (Accessed July 31, 2014).
+
+
+Wilson, Edmund B. "The embryological criterion of homology." In: Biological Lectures Delivered at the Marine Biological Laboratory at Woods Hole in the Summer Session of 1894, ed. Charles O. Whitman, 101–24. Boston: Ginn & Company, 1895. http://www.biodiversitylibrary.org/item/27273#page/117/mode/1up (Accessed July 31, 2014).
+
+
+Wilson, Edmund B. "The Mosaic Theory of development." In: Biological Lectures Delivered at the Marine Biological Laboratory at Woods Hole in the Summer Session of 1893, ed. Charles O. Whitman, 1–14. Boston: Ginn & Company, 1894. http://www.biodiversitylibrary.org/item/27262#page/9/mode/1up   (Accessed July 31, 2014).
+
+
+Wilson, Edmund B. "On cleavage and mosaic-work." Archiv für Entwicklungsmechanik der Organismen [Archives of Developmental Biology] 3 (1896): 19–26. http://babel.hathitrust.org/cgi/pt?id=umn.31951002726486q;view=1up;seq=29 (Accessed March 13, 2015).
+
+
+Wilson, Edmund B. The Cell in Development and Inheritance. New York: The Macmillan Company, 1896. http://www.biodiversitylibrary.org/item/28152#page/7/mode/1up (Accessed July 31, 2014).
+
+
+Wilson, Edmund B. "Experimental studies on germinal localization. I. The germ-regions in the egg of dentalium." Journal of Experimental Zoology 1 (1904): 1–72. http://www.biodiversitylibrary.org/item/42867#page/17/mode/1up (Accessed July 31, 2014)
+
+
+
+
+
+How to cite
+Lowe, James, "Amphioxus, and the Mosaic Theory of Development (1893), by Edmund Beecher Wilson". Embryo Project Encyclopedia (2015-03-31). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/8312.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+Copyright Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Tuesday, March 31, 2015 - 20:42
+ Topic
+Subject
+Lancelets; Wilson, Edmund B. (Edmund Beecher), 1856-1939; Amphioxus; Embryos; Embryological development; Developmental biology; Cell differentiation; Roux, Wilhelm, 1850-1924; Heredity; Embryology; Annelida; Driesch, Hans, 1867-1941; Boveri, Theodor, 1862-1915; Stazione zoologica di Napoli; Marine Biological Laboratory (Woods Hole, Mass.); Experiment

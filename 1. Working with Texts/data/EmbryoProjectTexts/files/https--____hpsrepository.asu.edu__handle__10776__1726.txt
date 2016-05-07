@@ -1,0 +1,66 @@
+By Adam R. Navis
+Published: 2007-11-08
+Keywords: Nuclear transplantation, Biography
+ Robert William BriggsRobert William Briggs was a prolific developmental biologist.  However, he is most identified with the first successful 
+		cloning of a 
+		frog by nuclear transplantation.  His later studies focused on the problem of how genes influence development.
+Briggs was born 10 December 1911 in Watertown, Massachusetts.  He was raised by his grandparents, as both his mother and brother died of tuberculosis before Briggs was two years old.  He lived with his grandparents until 1929 when he left for college.  Briggs described his aunt's lessons on the family piano as one of his most lasting boyhood experiences.  Even though he would eventually stop playing the piano, he noted that music was always an important influence on his life.
+Life was not easy for Briggs and he held several jobs during high school.  For example, in the summer of 1926 he worked in a shoe factory and during the winter he put his musical training to use as a banjo player in a dance band, traveling around southern New Hampshire two to three nights a week.  By his own account, it was Briggs’s high school biology teacher who stimulated his interest in biology by allowing students to explore their own projects.  Briggs chose to study small animals under a 
+		microscope, an experience he considered integral to his later work in science, because the 
+		microscope allowed him to view life on a completely different level.  Once Briggs completed high school, he left his grandparents’ house and enrolled at 
+		Boston University.  Initially, he took classes from the College of Business Administration.  One of the recurring themes of his education was that he was very concerned about making a living after school, and much of his education focused on that preparation.  However, he soon became disinterested in the business classes and instead took science classes in the College of Liberal Arts.  Ever concerned about his future prospects, Briggs supplemented his sciences classes with various teaching classes from the College of Education. 
+In 1934 Briggs graduated from 
+		Boston University with a bachelor of science degree and enrolled in Harvard Graduate School.  With his mentor, Leigh Hoadley, Briggs studied changes in the metabolic rate and density of developing frogs.  He was an Austin Teaching Fellow from 1935 to 1936 and received an assistantship in biology from 1936 to 1938.  Briggs received his PhD from 
+		Harvard in 1938.  From 1938 to 1942 he was a fellow at 
+		McGill University in the department of zoology, where he began to study 
+		tumorgenesis in developing 
+		frogs, focusing especially on the ability of a developing system to regress tumors. 
+Briggs’s career is marked by four distinct periods of research.  
+		Tumorgenesis in developing systems was his first.  His work was focused on the introduction of tumors in a developing embryo.  In 1940 Briggs became the first person to induce tumors in a developing system, which allowed him to study their effects on development.  In 1943 Briggs also discovered that removal of the pituitary or thyroid gland prevents 
+		metamorphosis, which is the transition from a larval 
+		frog to an adult 
+		frog. 
+In 1942 he joined the 
+		Lankenau Hospital Research Institute (later Institute for Cancer Research, and now Fox Chase Cancer Center).  There he began his second phase of research, studying the role of the nucleus in embryonic development.  His studies during this period focused on the effect of 
+		ploidy, the chromosome duplication in cells, on 
+		frog development.  In 1947 Briggs was able to produce anuran triploids using 
+		heat shock.  His research on 
+		ploidy led him to also study haploid embryos and haploid syndrome.  He correctly predicted that the cytoplasm of the egg was the cause of part of haploid syndrome and, in 1949, was able to show that reducing a haploid egg’s cytoplasm to the ratio between a normal egg cell and its nuclear material reduced the effects of haploid syndrome.  A year later, working with Rufus R. Humphrey and Gerhard Fankhauser, he discovered that the gonads of most female triploids were converting to male gonads.  This was also the same year he developed the 
+		triploid marker.  His further studies of the role of genes in development led him to discover that embryos with a cleavage center but without functional chromosomes can develop into a partially cleaved blastula. 
+His third period of research focused on solving the question posed by 
+		Hans Spemann in 1938: can somatic nuclei be transferred to an embryonic cell and initiate embryonic development in a new organism?  In 1952, working with 
+		Thomas J. King, he succeeded in transferring undifferentiated, embryonic nuclei to an embryonic cell, stimulating development.  This was the first successful 
+		nuclear transplantation, later known as 
+		cloning.  This research paved the way for later research into 
+		somatic cell nuclear transfer. 
+Briggs resigned as head of the embryology department at the 
+		Institute for Cancer Research in 1956 to become a professor of zoology at 
+		Indiana University.  This would begin his fourth and final phase of research, where he established 
+		amphibian developmental genetics.  In 1960 Briggs allowed 
+		cloned 
+		tadpoles to metamorphose into 
+		frogs.  In a 1966 study, he identified the o+ gene which, when inactivated, arrests development at gastrulation, the time when cells begin to migrate around the embryo.  His research in 1977 showed an inverse relationship between the differentiation of cells and their effectiveness at developing after 
+		transplantation, demonstrating that cells cannot normally regress to an earlier state.  Briggs retired in 1982 and became a research professor emeritus at 
+		Indiana University.  On 4 March 1983, Briggs died of kidney cancer.  A paper describing his final project was published a year later. 
+Throughout his career Briggs received many awards.  These include induction into the American Academy of Arts and Sciences in 1960 and the National Academy of Sciences in 1962.  In 1963 he was named a research professor of zoology at Indiana University and a Fellow of the International Institute of Embryology.  From 1969 to 1972 he served as the Chair of Zoology at Indiana University.  He received honorary PhDs from the Medical College of Pennsylvania and Indiana University in 1971 and 1983 respectively.  In 1973 Briggs and King received the Charles-Leopold Mayer prize from the French Academy of Sciences.  
+
+Sources
+Di Berardino, Marie A.  “Robert W. Briggs.”  Biographical Memoirs.  National Academy of Sciences 76 (1999): 50–63.
+Di Berardino, Marie A. and Robert G. McKinnell.  “The Pathway to Animal Cloning and Beyond—Robert Briggs (1911–1983) and Thomas J. King (1921–2000).”  Journal of Experimental Zoology. Part A, Comparative Experimental Biology 301 (2004): 275–9.
+
+
+How to cite
+Navis, Adam R., "Robert William Briggs (1911-1983)". Embryo Project Encyclopedia (2007-11-08). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/1726.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, March 18, 2015 - 18:01
+ Topic
+Subject
+Nuclear Transfer Techniques; Briggs, Robert W.; People

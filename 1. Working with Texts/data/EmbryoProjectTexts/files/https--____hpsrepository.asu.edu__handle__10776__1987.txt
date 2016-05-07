@@ -1,0 +1,53 @@
+By Steve Elliott
+Published: 2010-06-15
+Keywords: Mechanism
+ The Mechanistic Conception of Life, by Jacques Loeb
+Jacques Loeb published The Mechanistic Conception of Life in 1912.  Loeb’s goal for the book was to further disseminate his explanations of organic processes—such as 
+		embryonic development and organisms’ orientations to their environments—which relied on physics and chemistry.  Loeb also wanted to provide an alternative explanatory framework to 
+		vitalism and what he called 
+		romantic evolutionism, then both widespread.  Loeb mined his work on 
+		tropisms and 
+		artificial parthenogenesis, both of which he considered central to biology, to show that physicochemical explanations accounted for some of the most perplexing organic phenomena.  Thus, for those processes, anyone who appealed to vitalism or romantic evolutionism offered only impotent explanations.  The Mechanistic Conception of Life established Loeb’s widespread reputation as a mechanist, both to the public and to generations of biologists.  
+In The Mechanistic Conception of Life ten popular lectures were presented, each originally published elsewhere beginning in 1893.  
+		The University of Chicago Press published the first edition in 1912.  In 1964 
+		Donald Fleming edited a second edition through the 
+		Harvard University Press.  Fleming’s edition included his biography of Loeb as well as notes appended to each essay relating its contents to contemporary biology.  
+In the opening and closing essays, Loeb discussed what biologists studied and the nature of their explanations.  In the first essay, the book’s title piece, Loeb promulgated two principles that ground biology, make it a rigorous discipline, and by which biologists explain phenomena.  The first principle stated that biological inquiry results in complete control of organisms and organic processes.  Loeb considered his work on artificial parthenogenesis a paramount example of explanation by control. The second principle stated that biological inquiry aims to establish numerical relations between an experiment’s conditions and its effects.  Loeb considered 
+		Mendel’s Laws a paramount example of the second principle.  
+The two principles implied that biology was an experimental science and that descriptions of its experimental results come in physicochemical terms.  Loeb admitted he could not prove that all accounts of organic phenomena reduced to only physicochemical explanations, but he treated such reductions as safe expectations and as the goal of biology.  Furthermore, he said that judging from the recent work of 
+		Edmund Beecher Wilson  and 
+		Thomas Hunt Morgan, scientists would one day provide physicochemical solutions to the problems of 
+		heredity  and 
+		sex-determination.     
+Loeb also provided a principle defining “life” as based on oxidation:  an organism’s life begins when an egg increases its rate of oxidation after development begins and ends when its body stops all oxidations.  That principle presupposed that the organism as a whole is a fundamental unit of experimental biology, a presupposition Loeb acknowledged and returned to in his later book 
+The Organism as a Whole .  
+At the end of the titular essay, Loeb held that scientists would one day be able to explain ethics in terms of instincts and all instincts in physicochemical terms—that is through physics and chemistry—because humans were every bit machines, just as all organisms were.  The second essay examined how tropisms could wedge physicochemical explanations into all of psychology.
+The middle essays discussed Loeb’s refinements on artificial parthenogenesis and tropisms, physiological accounts of reflexes, and various experiments with eggs, embryos, and salts.  Loeb stressed throughout the book that biologists must control life to explain life, a theme he emphasized in the final essay, arguing that scientists would fail to understand heredity until they could control it to produce new species.  That idea strongly influenced 
+		Hermann Joseph Müller.    
+Loeb’s mechanistic conception of life was that organisms were like machines.  By using the laws of physics and chemistry to analyze organisms as machines, biologists would learn how to control organic processes and control would enable explanation.  Loeb, in The Mechanistic Conception of Life, did not see the role of biologists as uncovering the 
+		mechanisms, the step-by-step processes by which organisms achieved their functions:  control rather than description enabled biological explanation.  By 1915, however, Loeb thought differently.  In “Mechanistic Science and Metaphysical Romance,” he argued that descriptions of mechanisms, as long as they were in physicochemical terms, allowed explanation and control did not.  That account of explanation was the epistemological ground on which Loeb concluded his career while investigating protein chemistry.
+
+Sources
+Allen, Garland E.  “Mechanism, Vitalism, and Organicism in Late Nineteenth and Twentieth-Century Biology: The Importance of Historical Context.” Studies in History and Philosophy of Biology and Biomedical Sciences 36 (2005): 261–83. 
+Loeb, Jacques. “Mechanistic Science and Metaphysical Romance.” Yale Review 4 (1915): 766–85.
+Loeb, Jacques.  The Mechanistic Conception of Life.  Chicago: University of Chicago Press, 1912.
+Loeb, Jacques.  The Mechanistic Conception of Life. Ed. Donald Fleming.  Cambridge, MA: Harvard University Press, 1964.
+Loeb, Jacques.  The Organism as a Whole: From a Physicochemical Viewpoint. New York: G.P. Putnam’s Sons, 1916.
+Pauly, Philip J. Controlling Life: Jacques Loeb and the Engineering Ideal in Biology. New York: Oxford University Press, 1987.  
+
+
+How to cite
+Elliott, Steve, "The Mechanistic Conception of Life (1912), by Jacques Loeb". Embryo Project Encyclopedia (2010-06-15). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/1987.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 25, 2013 - 15:53
+ Topic
+Subject
+ Loeb, Jacques, 1959-1924; Literature

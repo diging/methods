@@ -1,0 +1,67 @@
+By Adam R. Navis
+Published: 2007-11-13
+Keywords: Organizers, Transplantation
+ “Versuche zur Analyse der Induktionsmittel in der Embryonalentwicklung”In “Versuche zur Analyse der Induktionsmittel in der Embryonalentwicklung,” published in Naturwissenschaften in 1932, 
+		Hermann Bautzmann, 
+		Johannes Holtfreter, 
+		Otto Mangold, and 
+		Hans Spemann jointly reported on experiments each had conducted testing the activity of 
+		organizers killed by boiling, freezing, alcohol, and drying.  Each of the authors had been independently conducting similar experiments, when 
+		Holtfreter made a breakthrough allowing him to produce many more successful transplantations.  When he told 
+		Spemann the news, 
+		Spemann suggested that he tell 
+		Bautzmann, who had been working extensively on the question.  
+		Spemann then coordinated the joint paper to avoid a conflict among the researchers.
+The authors had each independently attempted to determine whether the 
+		organizer relied on a 
+		vital force to produce its inductive ability.  
+		Spemann assumed that the 
+		organizer relied on its structure for its function, but the others were testing the ability of the 
+		organizer to induce under a variety of stresses, including heat, cold, and chemical treatments.  The greatest significance of this paper was its joint publication, which prevented the four researchers from dueling in the literature.  
+At this time, producing viable embryos with an 
+		organizer transplant was difficult due to the pond water in which they were cultured.  Pond water is hypotonic, which is damaging to the embryos once their protective membranes have been compromised during microsurgery.  
+		Spemann’s 1924 paper on “Induction of embryonic primordia” that described the 
+		organizer had only five successful examples from hundreds of transplant attempts.  To improve the number of surviving specimens, 
+		Holtfreter developed Holtfreter’s medium, a balanced salt solution that allowed the embryos to be maintained for much longer periods of time.  Using his newly developed medium, 
+		organizer transplants were taken to later stages of development than had previously been possible and fewer transplants were required.  
+Since this paper was a joint report of the research of many scientists, their results differed slightly.  
+		Holtfreter provided the bulk of the successful organizer transplants, constituting one hundred thirty to the four cases that the other researchers contributed.  In their experiments, the 
+		organizer was explanted, then subjected to one of a variety of stresses.  Some 
+		organizers were boiled, some were dried, others were frozen, and one was treated with alcohol.  After the 
+		organizer was devitalized, it was implanted into another embryo using the Einsteck-method or “sandwich assay” which placed the piece of 
+		organizer material in a pocket between the ectoderm and the endoderm.  This allowed the 
+		organizer tissue to induce neural tissue in a new body axis of the developing embryo.  Once the 
+		organizer was implanted, the embryo was allowed to develop further.  The embryos developed a new axis in many of 
+		Holtfreter’s transplantations.  The other researchers observed an increase in neural tissue, since they did not have prior access to Holtfreter’s medium which would have allowed the embryos to develop to later stages.  
+Later observations by 
+		Viktor Hamburger and 
+		Sulo Toivonen noted that many of the examples provided by the researchers other than 
+		Holtfreter were dubious.  
+		Mangold’s example was most likely caused by contamination and 
+		Spemann’s was probably not a planned experiment.  History has awarded most of the recognition for this paper to 
+		Holtfreter, who provided the most conclusive and most numerous examples of killed 
+		organizer transplants. 
+
+Sources
+Bautzmann, Hermann, Johannes Holtfreter, Hans Spemann, and Otto Mangold. “Versuche zur Analyse der Induktionsmittel in der Embryonalentwicklung.” Naturwissenschaften 20 (1932): 971–974.
+Gerhart, J. “Johannes Holtfreter: January 9, 1901–November 13, 1992.” Biographical Memoirs National Academy of Sciences (US) 73 (1998): 209–228.
+Hamburger, Viktor.  “Washington University School of Medicine Oral History Project.”  Bernard Becker Medical Library, interviewed by Dale Purves, M.D., 1983. http://beckerexhibits.wustl.edu/oral/interviews/hamburger.html (Accessed 28 September 2007).
+Hamburger, Viktor. The Heritage of Experimental Embryology: Hans Spemann and the Organizer. Oxford: Oxford University Press, 1988.
+Spemann, Hans, and Hilde Mangold.  “Induction of Embryonic Primordia by Implantation of Organizers from a Different Species.”  Roux’s Archiv für Entwicklungsmechanik 100 (1924): 599–638.
+
+
+How to cite
+Navis, Adam R., ""Versuche zur Analyse der Induktionsmittel in der Embryonalentwicklung" (1932), by Hermann Bautzmann, Johannes Holtfreter, Otto Mangold, and Hans Spemann". Embryo Project Encyclopedia (2007-11-13). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/1738.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, March 18, 2015 - 20:01
+ Topic
+Subject
+Organizers, Embryonic;  Experiment

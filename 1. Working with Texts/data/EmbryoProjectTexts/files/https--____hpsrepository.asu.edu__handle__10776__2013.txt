@@ -1,0 +1,40 @@
+By Olivia Conley
+Published: 2010-06-19
+Keywords: Medical procedures, Medicine
+ EndoscopyEndoscopy is a medical procedure that enables the viewing and biopsy of, and surgery on, internal tissues and organs. Endoscopic examinations are characterized by the introduction of a tube containing a series of lenses into the body through either an incision in the skin or a natural opening or cavity. During the mid-twentieth century, photographer 
+		Lennart Nilsson used endoscopes to capture the now-familiar images of 
+		embryos and fetuses. Examples of endoscopic procedures beyond embryonic observation include colonoscopy, 
+		cystoscopy, neurosurgery, endoscopic sinus surgery, appendectomy, and many more.
+A German urologist, 
+		Phillip Bozzini, constructed the first endoscope in 1806. It consisted of concave mirrors, candlelight, and an open tube, and was intended for viewing of the esophagus, rectum, and bladder. In the late nineteenth century 
+		Jan Mikulicz-Radecki applied Thomas Edison’s invention of the filament globe to the development of endoscopy. Mikulicz-Radecki created a gastroscope with a miniature electric globe inside that enabled light to be transmitted within the upper gastrointestinal tract. Endoscopes were further advanced in 1930 when gynecologist 
+		Heinrich Lamm demonstrated the use of bundled glass fibers as a conduit for a light source even when bent. Prior to the development of optical fibers, light was directed from a small light source positioned at the distal end of the endoscope. Lamm’s discovery marked the beginning of flexible endoscopy.
+In 1965 
+		Harold Hopkins, a professor of applied physics in London, worked in conjunction with German manufacturer 
+		Karl Storz to produce flexible endoscopes that integrated Lamm’s bundled fibers throughout the tube of the endoscope. Around this same time, Storz built endoscopes specifically as tools for Lennart Nilsson and his photography. The result was endoscopes with higher-quality resolution, contrast, brightness, increased patient comfort, and improved diagnostic ability. Rigid endoscopes are generally used for the observation of internal structures that can be reached through natural openings in the body. These were originally used during diagnostic cystoscopy procedures, in which the urinary tract and bladder are examined by inserting an endoscope through the urethra. Both rigid and flexible endoscopes are used in twenty-first-century medical procedures.
+Endoscopic procedures cover a wide range of clinical applications. The introduction of chip video cameras in the late twentieth century allowed video transmission to be observed in real time by physicians performing endoscopy. 
+		Laser surgery on bleeding ulcers is one application of a procedure made possible through endoscopy. During this surgery, argon laser beams, transmitted via fiber optics, deliver heat and pressure, which induce coagulation and thus stop the bleeding. Because endoscopic surgery requires smaller incisions than open surgery, scarring is minimized, the risk of infection is reduced, and patient discomfort is significantly less than that experienced with open surgery. Another clinical application of endoscopy is the advancement of colonoscopy. Colonoscopy uses an endoscope to examine the colon and inspect for polyps, which are sometimes precancerous. It enables the removal of these polyps with snare-cautery devices and effectively stops the progression of cancer.
+Endoscopy has expanded from a passive method of internal observation to an array of active, practical medical procedures, and visualization techniques. The advancement of endoscopy photography and video transmission has allowed for improved methods of teaching, observation, surgery, and diagnosis.
+
+Sources
+Bax, N. M. “Ten Years of Maturation of Endoscopic Surgery in Children. Is the Wine Good?” Journal of Pediatric Surgery 39(2004): 146–51. http://www.ncbi.nlm.nih.gov/pubmed/14966729.
+Epstein, Max. “Endoscopy: Developments in Optical Instrumentation,” Science 210 (1980): 4467. http://www.sciencemag.org/cgi/content/abstract/210/4467/280.
+Morgenthal, C. B, W. O. Richards, B. J. Dunkin, K. A. Forde, G. Vitale, and E. Lin. “The Role of the Surgeon in the Evolution of Flexible Endoscopy.” Surgical Endoscopy 21 (2007): 6.
+Nilsson, Lennart. Lennart Nilsson Photography. http://www.lennartnilsson.com/biography.html (Accessed Oct 14, 2009).
+
+
+How to cite
+Conley, Olivia, "Endoscopy". Embryo Project Encyclopedia (2010-06-19). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/2013.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 25, 2013 - 15:53
+ Topic
+Subject
+Endoscopy; Endoscopy; Technology

@@ -1,0 +1,36 @@
+By Jonathan North
+Published: 2014-08-12
+Keywords:     
+   Angelman SyndromeAngelman syndrome is a disorder in humans that causes neurological symptoms such as lack of speech, jerky movements, and insomnia. A human cell has two copies of twenty-three chromosomes for a total of forty-six—one copy from its mother and one from its father. But in the case of Angelman syndrome, the maternal chromosome numbered 15 has a mutation or deletion in its DNA and a gene on the paternal chromosome 15 is inactivated in some parts the brain. The result is the paternal gene is silenced during development of the sperm, which is called genetic imprinting. Angelman syndrome was one of the first disorders described as caused by genetic imprinting.
+The symptoms of Angelman syndrome have been noted as far back as the 1500s, but in the twentieth century doctors named the disorder. In 1965, Harry Angelman wrote "'Puppet' Children: A Report of Three Cases." Angelman was a doctor in the pediatric wing of Warrington General Hospital in Lancashire, England. In "Puppet Children," Angelman details how three of his patients showed similar symptoms of inappropriate laughter, jerky mannerisms, and flapping of their hands. Angelman termed this collection of behaviors happy puppet syndrome. Later the syndrome was renamed as Angelman syndrome. Other symptoms such as hyperactivity, attention deficit disorder, insomnia, and speech impairment, were added to the diagnosis of Angelman syndrome. Typically, affected individuals have only up to ten words in their vocabulary, if they are able to speak at all. Angelman syndrome affects one in 12,000 to one in 40,000 births. 
+At the time of its discovery, scientists couldn’t determine genetic causes of the disorder. Without a way to investigate the cause of Angelman Syndrome, "Puppet Children" was little discussed until the 1980s. Then in 1987, Ellen Magenis, a doctor at the Oregon Health Science Center in Portland, Oregon, identified a genetic cause of Angelman Syndrome. She identified children with deletions of genetic material on their 15th chromosomes. The deletions occurred only on the maternal copy of chromosome 15, and not the paternal copy.   
+In 1997 a group of researchers at the Children's Hospital and Harvard Medical School in Boston, Massachusetts, found that deletion of specifically the UBE3A gene on the maternal chromosome 15 caused Angelman Syndrome. The UBE3A gene codes for an enzyme called ubiquitin protein ligase E3A, which helps to degrade cell proteins. Normally, both maternal and paternal copies of UBE3A are present and active in most of the body’s tissues. For persons affected by Angelman Syndrome, however, UBE3A is not produced in some parts of the brain, because the maternal copy is deleted or mutated, while the paternal copy is imprinted and disabled. Genetic imprinting occurs when a methyl group (one carbon attached to three hydrogens) is added to chromosome 15 at the location of the UBE3A gene and prevents the gene from producing any products, or proteins.
+Since the initial work done by Magenis in 1987, scientists have proposed four genetic mechanisms that cause Angelman Syndrome. First is a large deletion in the maternal copy of chromosome 15 that completely removes the UBE3A gene, which Magenis discovered. Second is when both copies of chromosome 15 are inherited from the father, a condition called paternal uniparental disomy. The third genetic mechanism is when genetic imprinting silences the maternal copy of the UBE3A gene. And fourth, a mutation called a single nucleotide polymorphism causes the maternal UBE3A gene to not produce the ubiquitin protein ligase E3A protein.  
+In the typical Angelman syndrome case, the condition is not diagnosed until a child develops abnormally, usually between the ages of three and five. Researchers may perform genetic and behavioral tests to check for abnormalities. The remainder of Angelman cases are identified by doctors.  
+As of 2014, there is no cure available for Angelman syndrome, but medications can alleviate the symptoms: anticonvulsant medications can counter epileptic seizures, melatonin can be used to promote sleep, laxatives can be used to encourage continence, and physical therapy helps with joint problems. Researchers also used the dietary supplements folate and betaine to increase the production of proteins from the parental copy of the UB3A gene, reducing or eliminating side effects.  
+
+Sources
+Angelman, Harry. "Puppet Children. A Report of Three Cases." Developmental Medical Child Neurology 7 (1965): 681–8. 
+Angelman, Harry, Charles Williams, Jill Clayton-Smith, Dustin Driscoll, Jill Hendrickson, Jane Knoll, Ellen Magenis, Albert Schinizel, Joseph Wagstaff, Elaine Whidden, and Roberto Zori. "Angelman Syndrome: Consensus for Diagnostic Criteria." American Journal of Medical Genetics 56 (1995): 237–8.  
+Clayton-Smith, Jill, and Landan Laan. "Angelman Syndrome: A Review of the Clinical and Genetic Aspects." Journal of Medical Genetics 40 (2003): 87–95.  
+Kishino, Tatsuya, Marc Lalande, and Joseph Wagstaff. "UBE3A/EP-AP Mutations Cause Angelman Syndrome." Nature Genetics 15 (1997): 70–3.
+Lossie, Andrew, and David Discoll. "Transmission of Angelman Syndrome by an Affected Mother." Genetic Medicine 6 (1999): 262–6.  
+Magenis, R. Ellen, Michael G. Brown, Deborah A. Lacy, Sarojini Budden, Stephen LaFranchi, John M. Opitz, James F. Reynolds, and David H. Ledbetter "Is angelman syndrome an alternate result of del(15)(qllql3)?" American Journal of Medical Genetics 28 (1987): 829–38.
+Genetics Reference Home. "UBE3A." US National Institutes of Health. http://ghr.nlm.nih.gov/gene/UBE3A (Accessed July 21, 2014).
+
+
+How to cite
+North, Jonathan, "Angelman Syndrome". Embryo Project Encyclopedia (2014-08-12). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/8143.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+Copyright Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, August 13, 2014 - 17:17
+ Topic
+Subject
+UBE3A protein, human; Angelman syndrome; Genomic imprinting; Human chromosome 15--Abnormalities; Human chromosome 15; Magenis, R. Ellen; Happy puppet syndrome; Syndromes; Chromosomes; neurological disorders; Concept

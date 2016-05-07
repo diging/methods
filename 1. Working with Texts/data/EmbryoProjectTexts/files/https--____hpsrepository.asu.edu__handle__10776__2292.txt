@@ -1,0 +1,34 @@
+By Jack Resnik
+Published: 2011-05-19
+Keywords: Models, Genetics
+ The French Flag ModelThe French flag model represents how embryonic cells receive and respond to genetic information and subsequently differentiate into patterns. Created by Lewis Wolpert in the late 1960’s, the model uses the French tricolor flag as visual representation to show how embryonic cells can interpret genetic code to create the same pattern even when certain pieces of the embryo are removed. Wolpert’s model has provided crucial theoretical framework for investigating universal mechanisms of pattern formation during development.Wolpert’s work was strongly influenced by the experiments of Hans Driesch during the late nineteenth century. Driesch was able to split fertilized sea urchin eggs at the two-cell stage and obtain normal, but smaller sea urchins. Driesch’s work was the first to demonstrate embryonic regulation, or the ability of an embryo to adjust to changes and develop normally. Based on his work, Driesch posited that stem cells develop in a coordinate plane where a force, which he called entelechy, orchestrates the position and development of each cell. Wolpert, who was also researching sea urchins, proposed the “French flag problem” as an analogy to Driesch’s sea urchin experiments. No matter the size of the French flag, it is always one-third blue, one-third white, and one-third red. In the same way, Driesch’s embryos, though halved, developed into smaller versions of normal sea urchins. In his 1969 paper,“Positional Information and the Spatial Pattern of Cellular Differentiation,” Wolpert addressed embryonic regulation and proposed several rules which governed that regulation in what he called the French flag model. 
+The mechanisms of the French flag model hinged on several thngs to establish a cell’s future identity, or its positional value. First, Wolpert suspected that the embryo utilized gene gradients that polar boundaries helped form. A polar boundary creates a gradient for communication in which positional instructions transport from cell to cell in a single, organized direction. Those positional instructions vary in concentration across the cells and dictate to each cell’s fate. For example, the instructions would help activate within a cell a signaling system or a specific gene, which would affect the cell’s development. Finally, Wolpert stipulated that the expression of such polarized signals occurs over small distances of 100 cells or fewer, which he called positional fields. If a portion of a positional field is removed, the remaining cell’s positional values will change, as will their genetic identities. Together, those principles of polarity and concentration gradients allow for regulation. The cells would, anthropomorphically speaking, know their relative location and subsequently know their developmental fate.
+Wolpert first proposed his model in a lecture at the International Union of Biological Sciences’ Third Serbelloni Meeting on Theoretical Biology in Bellagio, Italy, and in a Friday night lecture at the Woods Hole Marine Biological Laboratory in Woods Hole, Massachusetts. The work was well received in Serbelloni; however, Wolpert found his American audience hostile to the idea of gradients. In 1970 molecular biologist Francis Crick published “Diffusion in Embryogenesis” which offered a mechanism for Wolpert’s model. Given that positional fields were small, Crick proposed that a chemical, or morphogen, secreted by cells could create such a gradient. Further work continued over the next decade as Wolpert and two of his doctoral students, Dennis Summerbell and Cheryll Tickle, offered more evidence for positional information in chick limbs and hydra regeneration. Although Wolpert did not propose the idea of morphogens in his French flag model, the two have since become closely linked. That connection has emerged because morphogens offer a simple explanation for Wolpert’s concentration gradients. Morphogen gradients are particularly useful over other modes of intercellular communication because they can be quantitatively measured. In 1988 Christiane Nüsslein-Volhard discovered the first morphogen, the protein bicoid, in fruit flies (Drosophila melanogaster) that is responsible for pattern formation. Although many other morphogens have since been discovered, recent research has begun to question whether diffusible morphogens are the only factor in positional fields. When Wolpert first proposed the model in 1969, the notion of positional information determined by diffusible gradients was groundbreaking. Although the science underpinning Wolpert’s model has since become outdated, the French flag model has provided elementary framework for pattern formation in embryogenesis.
+
+Sources
+Crick, Francis H. C. “Diffusion in Embryogenesis.” Nature 225 (1970): 420–2
+Grimm, Oliver, Mathieu Coppey, and Eric Wieschaus. "Modeling the Bicoid Gradient." Development 137 (2010): 2253–64.
+Kerszberg, Michael, and Lewis Wolpert. "Specifying Positional Information in the Embryo: Looking Beyond Morphogens." Cell 130 (2007): 205–9.
+Lawrence, Peter A., and Michael Levine. "Mosaic and Regulative Development: Two Faces of One Coin." Current Biology 16 (2006): R236–9.
+Richardson, Michael K. "Diffusible Gradients Are Out - an Interview with Lewis Wolpert." International Journal of Developmental Biology 53 (2009): 659–62. 
+Wolpert, Lewis. "Positional Information and Patterning Revisited." Journal of Theoretical Biology 269 (2011): 359–65.
+Wolpert, Lewis. "Positional Information and the Spatial Pattern of Cellular Differentiation." Journal of Theoretical Biology 25 (1969): 1–47.
+Wolpert, Lewis. Principles of Development. 4th ed. New York: Oxford University Press, 2011.
+Wolpert, Lewis. The Triumph of the Embryo. Mineola, NY: Dover, 2008. 
+
+
+How to cite
+Resnik, Jack, "The French Flag Model". Embryo Project Encyclopedia (2011-05-19). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/2292.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 25, 2013 - 15:53
+ Topic
+Subject
+ Wolpert, L. (Lewis); Concept

@@ -1,0 +1,48 @@
+By Ke Wu
+Published: 2011-02-01
+Keywords: Stem cells, Human development
+  “Embryonic Stem Cell Lines Derived from Human Blastocysts,” by James ThomsonAfter becoming chief pathologist at the University of Wisconsin-Madison 
+		Wisconsin Regional Primate Center in 1995, 
+		James A. Thomson began his pioneering work in deriving embryonic stem cells from isolated embryos. That same year, Thomson published his first paper, “Isolation of a Primate Embryonic Stem Cell Line” in Proceedings of the National Academy of Sciences of the United States of America, detailing the first derivation of primate embryonic stem cells. In the following years, Thomson and his team of 
+		scientists—Joseph Itskovitz-Eldor, Sander S. Shapiro, Michelle A. Waknitz, Jennifer J. Swiergiel, Vivienne S. Marshall, and Jeffry M. Jones—advanced their work with embryonic stem cells, eventually isolating and culturing 
+		human embryonic stem cells. Their work with human embryos was reported in the 1998 Nature article “Embryonic Stem Cell Lines Derived from Human Blastocysts.” 
+ Thomson and his team derived the human embryonic stem cells (ESCs) used in experimentation from donated embryos originally produced for 
+		in vitro fertilization. After informed consent and institutional review board approval, the human embryos were cultured to the 
+		blastocyst stage. At this stage the cells are no longer 
+		totipotent (able to give rise to a complete organism including the extraembryonic tissues), but they are still 
+		pluripotent (able to give rise to all the tissues in the body). 
+     According to the US 
+		National Institutes of Health, a totipotent cell has the ability to give rise to all cell types, including extraembryonic tissue such as the amnion, while a pluripotent cell has the potential to differentiate into many cell types, though not 
+		extra-embryonic tissues. Thomson’s team isolated fourteen pluripotent inner cell masses and cultured five ESC lines via isolation from five different embryos. Similar to the 
+		rhesus monkey ESCs examined in “Isolation of a Primate Embryonic Stem Cell Line,” these cell lines exhibited a high ratio of nucleus to cytoplasm, prominent nucleoli, and a colony morphology. 
+     A distinct difference between human ESCs and diploid human somatic cells is the high level of 
+		telomerase activity in the ESCs. Telomerase maintains telomere length by adding telomeres to the ends of chromosomes, prolonging replicative life-span. Somatic cells, on the other hand, do not express telomerase and age with time via shortened telomeres. The authors concluded that shortening telomeres lead to a finite replicative life-span; therefore, the high telomerase activity indicates that human ESC lines surpass somatic cells in replicative life-span. 
+     In their experimentation with human ESC lines, Thomson and his team also identified several cell surface markers that human ESC lines have in common with nonhuman primate ESCs and human teratocarcinoma-derived pluripotent embryonal carcinoma (EC) cells: stage-specific embryonic antigen (SSEA)-3, SSEA-4, TRA-1-60, TRA-1-81, and alkaline phosphatase. As with human ESCs, Thomson’s team noticed that undifferentiated human ESCs did not express SSEA-1; however, differentiated cells did express the antigen. These observations in human development were contrary to those observed for early mouse [used] development: mouse inner cell mass cells, ESCs, and EC cells express SSEA-1, but not SSEA-3 or 4. This difference showed that studies in early 
+		mouse development cannot serve as an accurate reflection of early human development. 
+     All five cultured human ESC lines were tested to examine their potential to form derivatives of the three embryonic 
+		germ layers : endoderm, mesoderm, and ectoderm. The cell lines were injected into severe combined immunodeficient beige mice and each mouse formed a 
+		teratoma, a type of tumor with tissue and organ components. All the teratomas included gut epithelium 
+		(endoderm); cartilage, bone, smooth muscle, and striated muscle 
+		(mesoderm); neural epithelium, embryonic ganglia, and stratified squamous epithelium (ectoderm). In vitro experimentation showed that the ESCs were able to differentiate when cultured with or and without human leukemia inhibitory factor and without a mouse embryonic fibroblast feeder layer, which is traditionally used when culturing embryonic stem cells. The cells also exhibited spontaneous differentiation when grown in a mass and in the presence of fibroblasts. Futhermore, α-fetoprotein and human chronic gonadotropin were detected after two weeks of differentiation in one cell line, suggesting endoderm and trophoblast differentiation. 
+     The outcome of Thomson’s experimentation has paved the way for future experiments utilizing human ESCs. The ability to cultivate human ESCs could lead to discoveries in human developmental events that previously could not be studied due to limitations in access and environmental control. These studies could provide insights into such developmental areas as birth defects. Past studies in mammalian embryology and development have largely focused on mice, but as Thomson’s research has shown, details in mouse developmental processes differ significantly from human developmental processes. Other potential applications of derived human ESCs lie in understanding and exploiting the differentiation process of different tissues and cell types. This could lead to developments in gene therapy for such diseases as Parkinson’s, which involve the dysfunction of a specific cell type. 
+
+Sources
+Thomson, James A., Joseph Itskovitz-Eldor, Sander S. Shapiro, Michelle A. Waknitz, Jennifer J. Swiergiel, Vivienne S. Marshall, and Jeffry M. Jones. "Embryonic Stem Cell Lines Derived from Human Blastocysts." Science 282 (1998): 1145–147. 
+Stem Cell Information. Bethesda, MD: National Institutes of Health, U.S. Department of Health and Human Services. http://stemcells.nih.gov/info/glossary.asp (Accessed March, 2009).
+
+
+How to cite
+Wu, Ke, ""Embryonic Stem Cell Lines Derived from Human Blastocytes" (1998), by James Thomson". Embryo Project Encyclopedia (2011-02-01). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/2056.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Thursday, April 9, 2015 - 21:08
+ Topic
+Subject
+Stem Cells; Thomson, James A., Dr.; Experiment

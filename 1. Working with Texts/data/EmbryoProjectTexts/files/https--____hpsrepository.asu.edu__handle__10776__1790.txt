@@ -1,0 +1,55 @@
+By Brock Heathcotte
+Published: 2008-05-09
+Keywords: Fertilization
+ York v. Jones (1989)Court: United States District Court, Eastern District of Virginia, Norfolk Division
+		Citation:	York v. Jones, 717 F.Supp 421 (E.D. Va. 1989)
+		Status as current law: Questionable
+		Value as precedent: Low
+Case significance:
+The court treated  
+			frozen embryos  possessed by an 
+			in vitro fertilization  clinic as property owned by the parents and held under a bailment contract by the clinic. As such, the contract between the parties controlled disposition of the 
+			embryos but when the contract ended, control of the 
+			embryos reverted back to the parents. This decision had little effect on subsequent 
+			embryo cases because the circumstances were so unusual. Neither party contended the 
+			embryos had any rights.
+Case Summary:
+Facts—The Yorks contracted with the Medical College of Hampton Roads Jones Institute to perform 
+				IVF treatments in an attempt to impregnate Mrs. York. After a couple of failed attempts, the Yorks wished to switch treatment to a clinic in California. One cryogenically preserved embryo (called pre-zygote  in the consent forms and by the court) remained in storage at the Jones Insititute. In May 1988 the Yorks sought to have the 
+				frozen embryo transferred from the Jones Institute in Norfolk, Virginia, to the Institute for Reproductive Research at the Hospital of the Good Samaritan in Los Angeles, California. The Los Angeles clinic planned to thaw the 
+				embryo and impregnate Mrs. York through IVF. However, the Jones Institute refused to release the 
+				frozen embryo to another clinic for 
+				IVF treatment and argued that their contract only allowed for three possible dispositions in the event the Yorks did not wish to proceed with 
+				IVF at the Jones Institute. Those three options were 
+				embryo donation  to another infertile couple, donation for 
+				human embryo research, or destruction.
+Law—The Cryopreservation Agreement between the parties created a bailor-bailee relationship which obligated the bailee—The Jones Institute—to return the subject of the bailment upon termination of the relationship. The court cited cases on bailment (Morris v. Hamilton, 225 Va. 372, 302 S.E.2d 51 (1983) and Crandall v. Woodard, 206 Va. 321, 143 S.E.2d 923, 927 (1965)) and general bailment law (8 Am.Jur.2d Bailments § 178 (1980)) to support this characterization.
+Ruling—The Yorks were entitled to sue The Jones Institute for damages on a theory of contract, quasi-contract, and detinue for its refusal to release the 
+				frozen embryo. The defendants’ motion to dismiss the case was denied. Another issue concerned whether the Medical College of Hampton Roads was a state entity entitled to Eleventh Amendment protections. The court decided it was not, and therefore was subject to the same treatment as the Jones Institute.
+Quotes:
+“In the instant case, the requisite elements of a bailment relationship are present. It is undisputed that the Jones Institutes’ possession of the pre-zygote was lawful pursuant to the Cryopreservation Agreement. The defendants also recognized their duty to account for the pre-zygote by virtue of a paragraph in the Cryopreservation Agreement purporting to disclaim liability for any injury to the pre-zygote. Finally, the defendants consistently refer to the pre-zygote as the ‘property’ of the Yorks in the Cryopreservation Agreement. Although the Cryopreservation Agreement constitutes a bailment contract, the Agreement is nevertheless governed by the same principles as apply to other contracts.” 717 F.Supp 425
+“The Court finds that the incorporation of the Virginia Human Research statute into the Cryopreservation Agreement has no affect on the dispute between the parties. The purpose of the Human Research statute is to ensure a complete disclosure of information between the researcher and the subject. The statute envisions that through the legal mechanism of informed consent a human research review committee will promulgate ethical guidelines which protect both scientist and subject from the legal claims of the other. The Court finds that the terms of the statute, when made a part of the Agreement in dispute here, do not conflict with any other terms of the Agreement. The Court further finds that the failure of the human research review committee to consider the ramifications of the inter-institutional transfer of cryopreserved human pre-zygotes does not vitiate the contract between these parties nor does it usurp this Court's jurisdiction to settle a contractual dispute between these parties.” 717 F.Supp 426
+“The defendants take the position that the plain language of the Cryopreservation Agreement limits the plaintiffs' proprietary right to the pre-zygote to the ‘three fates’ listed in the Agreement: (1) donation to another infertile couple; (2) donation for approved research; and (3) thawing. The Court finds, however, that the applicability of the three fates is limited by the following language, “Should we [the Yorks] for any reason no longer wish to initiate a pregnancy, we understand we may chose one of three fates for our pre-zygotes that remain in frozen storage.” The allegations of plaintiffs’ Complaint, and the entire thrust of this litigation, suggest that plaintiffs continue to desire to achieve pregnancy. The Agreement does not state that the attempt to initiate a pregnancy is restricted to procedures employed at the Jones Institute. The ‘three fates’ are therefore inapplicable to the case at bar.” 717 F.Supp 427
+This case cites to these authorities:
+Virginia Human Research statute, Va. Code Ann. § 32.1-162.16, et seq. 
+This case was cited in:
+Davis v. Davis, 842 S.W.2d 588 (Tenn. 1992)
+		Prior written agreements usually control the disposition of frozen embryos in divorce cases.
+	
+		 
+
+How to cite
+Heathcotte, Brock, "York v. Jones [Brief] (1989)". Embryo Project Encyclopedia (2008-05-09). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/1790.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, October 9, 2013 - 22:19
+ Topic
+Subject
+Fertilization in Vitro;  Law

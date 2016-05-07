@@ -1,0 +1,260 @@
+By Valerie Racine
+Published: 2014-10-24
+Keywords: bricolage, tinkering
+ "Evolution and Tinkering" (1977), by Francois JacobIn his essay "Evolution and Tinkering," published in
+	Science in 1977, François Jacob argues that a common analogy
+	between the process of evolution by natural selection and the
+	methods of engineering is problematic. Instead, he proposes to
+	describe the process of evolution with the concept of
+	bricolage (tinkering). In this essay, Jacob does not deny the
+	importance of the mechanism of natural selection in shaping complex
+	adaptations. Instead, he maintains that the cumulative effects of
+	history on the evolution of life, made evident by molecular data,
+	provides an alternative account of the patterns depicting the
+	history of life on earth. Jacob's essay contributed to
+	genetic research in the late twentieth century that emphasized
+	certain types of topics in evolutionary and developmental biology,
+	such as genetic regulation, gene duplication events, and the genetic
+	program of embryonic development. It also proposed why, in future
+	research, biologists should expect to discover an underlying
+	similarity in the molecular structure of genomes, and that they
+	should expect to find many imperfections in evolutionary history
+	despite the influence of natural selection.
+The author of the
+	article, François Jacob, studied enzyme expression and regulation in
+	bacteria and bacteriophages at the Institut Pasteur in Paris,
+	France. In 1965, Jacob won the Nobel Prize in Physiology or Medicine
+	with André M. Lwoff and Jacques L. Monod for their work on
+	the genetic control of enzyme and virus synthesis. At the Institut
+	Pasteur, Jacob and his colleagues constructed a
+	model of gene regulation according to which regulatory proteins in
+	cells interact to switch on or off genes, and thus control
+	physiological processes. They named this regulatory mechanism an
+	operon, and hypothesized that it existed in the cells of all living
+	organisms. Subsequent research confirmed their hypothesis. The
+	ubiquity of regulation processes found at the molecular level led
+	Jacob to consider its implications for evolutionary biology.
+Jacob was also influenced by the work of Claude
+	Lévi-Strauss, who was affiliated to Collège de France in
+	Paris, France, and who applied the theoretical framework of structural
+	linguistics to anthropology. Lévi-Strauss argued that
+	researchers could analyze human communication through the various
+	relations between the signifier and the signified and the changes in
+	the relations between these units. In a similar way, Jacob said that
+	the study of evolution could benefit from the analysis of the main
+	units in molecular biology, such as the structural genes and the
+	regulatory genes, and from the analysis of the changes in the
+	relations between the units involved in the regulation of cell
+	physiology. In his 1977 essay, "Evolution and Tinkering," Jacob
+	assimilated his knowledge of molecular biology into his
+	philosophical ideas about the nature of science and scientific
+	method.
+The essay has ten sections. Jacob begins with an
+	outline of his conception of the scientific worldview and the
+	relationship between the natural and social sciences. In the first
+	two sections, Jacob states that science is a human product that
+	consists of a series of cultural attempts to delimit the possible by
+	framing explanatory systems and bestowing unity and coherence upon
+	the world. Like mythology, science attempts to explain the actual by
+	delineating the possible, including the unknown or the invisible.
+	Science, Jacob claims, can be differentiated from other cultural
+	myths by its commitment to experimentation, and its ongoing process
+	of criticism and revision. As such, science aims to provide only
+	partial and provisional answers to questions about the world. The
+	history of science, according to Jacob, depicts a pattern in which
+	scientific knowledge begins as isolated pieces of knowledge in
+	particular scientific domains, and develops into a unified account
+	of phenomena.
+In the third section, "The Hierarchy of
+	Object," Jacob addresses the challenges of studying objects, such as
+	living organisms, human language and behaviour, and social and
+	economic structures. Jacob argues against what he calls
+	methodological reductionism, stating that it would be absurd to try
+	to explain something complex, like democracy, by appealing to the
+	structure and properties of its elementary physical particles.
+	Nonetheless—Jacob notes—the laws that govern elementary physical
+	particles constrain every higher level object of study,
+	including political structures. Lower levels of the hierarchy of
+	objects limit the range of possibilities for objects in higher
+	levels.
+In the fourth section, "Constraints and History,"
+	Jacob states that most objects of scientific study are complex
+	organizations or systems influenced by a combination of constraints
+	and history. For instance, he argues that emergent properties of a
+	system can be explained by appealing to the components of the
+	system, but they cannot be deduced from them. In other words, one
+	can not predict the emergent properties of complex systems, like
+	cells' and organisms' properties, from the properties of their
+	components. The complex nature of the objects of study constrains
+	predictions. Thus, such objects require examination at more than one
+	level of analysis. Furthermore, Jacob argues that, because complex
+
+objects can result from evolutionary processes, they are also constrained by history.
+	 For example, scientists have shown that the structure of a
+	cell relies on its molecular elements and composition. However,
+	Jacob notes, any evidence of these molecular elements in prebiotic
+	time is not sufficient to explain the origin of life on earth.
+	Historical conditions, including highly contingent events, have
+	played a role in the origin of life.
+In the next two
+	sections, Jacob introduces and develops the metaphor of tinkering to
+	bring into focus the historical character of evolutionary theory.
+	Jacob begins, in the fifth section, by describing the process of
+	natural selection as an imposition of constraints on open systems,
+	or organisms. Natural selection, according to Jacob, is both a
+	negative and a positive force. It is negative in the sense that it
+	works to eliminate less fit variants in a population, and it is
+	positive in the sense that it works to integrate mutations that
+	accumulate over time to produce adaptations. Jacob states that
+	natural selection's creative force is evident in its ability to
+	recombine old material into novelties; new structures, new organs,
+	and even new species.
+In section six, "Evolution and
+	Tinkering," Jacob dismisses a comparison between natural selection
+	and engineering for three reasons. First, unlike natural selection,
+	an engineer works according to a pre-conceived plan of the final
+	product. Second, an engineer actively chooses her materials and has
+	access to the best tools designed for accomplishing the task at
+	hand. Natural selection, in contrast, affects the structurally and
+	functionally imperfect parts of the biotic world and reconfigures
+	existing systems into novel ones. Third, if the engineer is
+	successful, the final product achieves a level of perfection.
+	Evolution by natural selection, however, yields imperfect products.
+	For these three reasons, Jacob rejects an analogy between natural
+	selection and engineering, and instead he proposes the metaphor that
+	natural selection is like a bricoleur (tinkerer). Like
+	natural selection, a tinkerer works with no specific end in mind,
+	collecting any materials at his disposal, and rearranges them into a
+	workable object. Thus, contingency constitutes the main feature of
+	evolutionary processes.
+Jacob further elaborates this analogy
+	in the seventh section, "Evolution as Tinkering." Different
+	tinkerers, Jacob argues, likely develop different solutions to
+	similar problems. For example, evolution has resulted in different
+	types of eyes—pinhole, lens, and multiple tubes—to address the issue
+	of how organisms use light to perceive the world. In these
+	cases, natural selection used materials at its disposal to form
+	differently-structured adaptations to similar problems. Here, Jacob
+	underscores the claim that evolution never produces new forms from
+	scratch.
+Jacob argues that this tinkering characteristic of
+	evolutionary processes is most evident at the molecular level. In
+	section eight, "Molecular Tinkering," he explains that all living
+	organisms, both unicellular and multicellular, exhibit an underlying
+	unity in their chemical structures and functions. Jacob states that,
+	because all life shares the same organic molecules and similar
+	metabolic pathways, it is more probable that new functional proteins
+	have arisen from a rearrangement of genetic elements than it is that those proteins appeared
+	 anew. As evidence, Jacob cites the discovery that
+	similar DNA sequences from organisms as distantly related as fruit
+	flies and pigs help cause structures as different as wings and legs
+	to develop.
+To support his analogy, Jacob appeals to a
+	hypothesis of Susumu Ohno's, who worked at City of Hope Medical Center in
+	Duarte, California. Ohno presented the hypothesis in 1970, and it is about the logic of gene
+	duplication events in evolutionary history. When a gene gets
+	copied or duplicated in a genome, the new gene lacks the functional
+	constraints of the old gene. In such cases, the duplicated copy can
+	accumulate beneficial or neutral mutations with little deleterious
+	effect on the overall fitness of the organism. This accumulation can
+	lead to the re-arrangement of genetic elements, so that existing
+	structures can acquire new functions. This hypothesis of genomic
+	change, Jacob argues, illustrates the process of tinkering.
+According to Jacob, molecular biologists have shown that most
+	morphological change in vertebrates has not resulted from new
+	structural genes, but rather it is the consequence of a change in
+	the regulation of genetic components, including events like
+	heterotopy, a change in the spatial location of developmental
+	events, and heterochrony, a change in the timing of developmental
+	events. Jacob argues that these events occur in embryonic
+	development according to the precise schedule of a genetic program,
+	suggesting that gene regulation is the key factor in the generation
+	of animals' forms and functions.
+In the ninth section, Jacob
+	outlines two consequences of the metaphor of evolution as a process
+	of tinkering. First, if his analogy holds, then biologists
+	should expect to find similarities in the underlying molecular
+	elements of different species. For example, Jacob argues,
+	biochemists have discovered hormone peptides that
+	trigger a variety of chemical reactions in cells from organisms in different species. Second, biologists
+	should expect to see many imperfections or redundancies in the
+	design of organisms. For instance, Jacob explains, the human
+	reproductive system illustrates a less than perfect mechanism in
+	which almost half of the total number of conceptions result in no
+	viable fetuses.
+Jacob ends his essay with a final example of
+	tinkering, arguing that the human brain is a product of highly
+	contingent, historical events. Jacob contends that, in humans,
+	the addition of the neo-cortex to the rhinencephalon, a primitive
+	part of the brain responsible for the sense of smell and theorized
+	to control instinct, has set the conditions
+	for the evolution of the human brain. The human brain is thus the
+	result of an imperfect patchwork of a structure controlling visceral
+	or emotional drives, the rhinencephalon, and a structure controlling
+	more sophisticated cognitive abilities, the neo-cortex. This case
+	can be extrapolated, Jacob argues, to a general rule for evolution:
+	evolution is the net result of a particular sequence of historical
+	opportunities.
+Jacob's essay had, at first, a mixed
+	reception. Many biologists said that the description of evolution by
+	natural selection as a process of tinkering was blatantly obvious.
+	In 1983 Walter Gehring and his team at the
+	University of Basel in Basel, Switzerland, discovered of a standard set of DNA sequences called the Homeobox in genes that controlled the embryonic development
+	of body plans of animals. Scientists soon found the Homeobox in genes of diverse organisms from flies to humans. Given those results, scientists
+	explicitly  began referring to Jacob's essay and to his concept of
+	tinkering.
+In 1982, Jacob published a series of lectures
+	given at the University of Washington in Seattle, Washington, under
+	the title  The Possible and the Actual, which includes a
+	slightly modified version of his original essay, "Evolution and
+	Tinkering," as well as some essays expounding his philosophy of
+	science. In 2006, the Novartis Foundation in London, United Kingdom,
+	held a symposium on the concept of tinkering in evolution and
+	development. By the second decade of the twenty-first century, scientists had cited "Evolution and Tinkering" thousands of times. 
+ Sources Artmann, Stefan.
+		"Four Principles of Evolutionary Pragmatics in Jacob's
+		Philosophy of 	Modern Biology." Axiomathes 14 (2004):
+		381–395.
+Carroll, Sean B. Endless Forms Most Beautiful. New
+		York & London: W.W. Norton & Co., 2005.
+Jacob, François. "Evolution and Tinkering." Science
+		196 (1977): 1161–1166.
+Jacob, François. The Possible and the Actual. Seattle: University of Washington 	Press, 1982.
+Laubichler, Manfred. "Tinkering: a Conceptual and Historical
+		Evaluation." In Tinkering: The Microevolution of Development,
+		Novartis Foundation Symposium 284. New York: John
+		Wiley, 2007: 20–34.
+Lieberman, Daniel E., and Brian K. Hall. "The evolutionary
+		developmental biology of tinkering: an introduction to the
+		challenge." In Tinkering: The Microevolution of Development,
+		Novartis Foundation Symposium 284. New York: John
+		Wiley, 2007: 1–19.
+McGinnis, William, Michael, Levine, Ernst, Hafen, Atsushi,
+		Kuroiwa, Walter, Gehring. "A conserved DNA sequence in homoeotic
+		genes of the Drosophila Antennapedia and bithorax complexes."
+		Nature 308 (1984): 428–33.
+Morange, Michel. "French Tradition and the rise of
+		Evo-devo." Theory in Biosciences 126 (2007):
+		149–153.
+Nobel Prize Foundation. Nobel Prize in Medicine or
+		Physiology 1965. http://www.nobelprize.org/nobel_prizes/medicine/laureates
+		/1965/ (Accessed 16 March 2014).
+Ohno, Susumu. Evolution by Gene Duplication. New
+		York: Springer-Verlag, 1970.  
+
+How to cite
+Racine, Valerie, ""Evolution and
+Tinkering" (1977), by Francois Jacob". Embryo Project Encyclopedia (2014-10-24). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/8227.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+Copyright Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Friday, October 24, 2014 - 20:02
+ Topic
+Subject
+ Institut Pasteur (Paris, France); Jacob, Francois, 1920-2013; Operons; Genetic regulation; Nobel Prizes; Gene Expression Regulation; Evolution; Natural selection; Engineering; Homeobox genes; Literature

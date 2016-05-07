@@ -1,0 +1,110 @@
+By Dorothy R. Haskett
+Published: 2014-07-11
+Keywords: pronuclear transfer, maternal spindle transfer, Luft's Disease
+ Mitochondrial Diseases in HumansMitochondrial diseases in humans result when the small organelles called mitochondria, which exist in all human cells, fail to function normally. The mitochondria contain their own mitochondrial DNA (mtDNA) separate from the cell's nuclear DNA (nDNA). The main function of mitochondria is to produce energy for the cell. They also function in a diverse set of mechanisms such as calcium hemostasis, cell signaling, regulation of programmed cell death (apoptosis), and biosynthesis of heme proteins that carry oxygen. When mitochondria fail to fulfill those functions properly in the cell, many different maladies, including death, can occur. Humans inherit mitochondria from the mother through the egg cell, and all the mtDNA molecules in a person are identical to each other. But the mutation rate is much higher in the mtDNA than in nuclear DNA, and some individuals may have more than one type of mtDNA.  As egg cells develop, they divide via a process called meiosis. As egg cells divide, mitochondria of different types can randomly segregate in some new cells but not in others. As a result, two offspring from the same female might differ in their types of mitochondria. Random amounts of the two mitochondria types can lead to some offspring inheriting a mitochondrial disease or developmental abnormalities while others are normal. 
+		
+
+In general,  when mitochondria malfunction and fail to produce energy, the results affect high metabolism tissues like  nervous systems, muscles, kidneys, and livers. Researchers associate mitochondrial diseases with a  spectrum of symptoms in humans, including blindness, deafness, dementia, movement disorders, weakness, cardiac failure, diabetes, renal dysfunction, and liver disease. Many mitochondrial diseases are neuromuscular disorders involving either muscle, brain tissue, or both. Many mitochondrial diseases occur when an individual has more than one type of mtDNA, a condition called heteroplasmy. The common feature of mitochondrial diseases is that they become more severe with age. 
+
+
+In 1962, Rolf Luft's group at Karolinska University in Stockholm, Sweden, published an article describing the case of a Swedish woman, who in 1959 arrived at Luft's endocrine clinic with what Luft described as the highest metabolic rate ever recorded in a human. The patient's thyroid hormone levels were normal despite her high metabolic rate. The article was an early report that identified a mitochondrial disease, or an organelle disease, which caused the increased metabolism. Luft's group based their diagnosis on morphologically abnormal mitochondria from the cells in muscle biopsies, abnormal biochemical energy production of adenosine triphosphate (ATP), and clinical uncontrolled muscle metabolism. The researchers named the abnormal mitochondria as ragged red fibers. The patient had suffered from the disorder from the age of seven. There was no cure for the patient and she committed suicide in the 1970s. 
+
+
+In 1963, Margit M. K Nass and Sylvan Nass, who worked at the Wenner-Gren Institute for Experimental Biology at the University of Stockholm, Sweden, discovered DNA in mitochondria.  The work provided evidence that mitochondria were once free-living cells that took up residence inside another cell in a process called endosymbiosis. 
+
+
+In the 1970s, Salvatore DiMauro at the University of Pennsylvania in Philadelphia, Pennsylvania, reported another case of what was then called Luft's disease. By 2011, DiMauro reported that Luft's disease was the rarest of all mitochondria diseases, with only two cases reported as of 2011. From 1962 to 1988, doctors used three criteria to identify mitochondrial disorders. The criteria were abnormal morphology of the mitochondria in muscle biopsies, biochemistry of isolated mitochondria energy production of ATP, and clinical features such as seizures, dementia, migraine, and stroke-like episodes. 
+
+
+In 1988 Anita Harding and coworkers at the Institute of Neurology in London, UK, described single nucleotide deletions in mtDNA in cases of heart muscle diseases, called mitochondrial myopathies. In the same year Douglas C. Wallace and coworkers at Emory University School of Medicine in Atlanta, Georgia, described point mutations in a mtDNA gene in a human family with a history of Leber's heredity optic neuropathy, called LHON disease. Some symptoms in people with mitochondrial myopathies are weakness, fatigue, dementia, deafness, and often seizures. LHON is a disease of degeneration of the retinal ganglia, which leads to loss of central vision and blindness. After 1988, researchers began to indicate that many other neurological and muscle diseases related to mtDNA deletions, changes in single base pairs (point mutations), and rearrangements of mtDNA sequences. Diagnoses of mitochondrial diseases remained rare, but scientists discovered pathogenic mutations in mtDNA at the rate of ten mutations per year from 1989 to 2001. 
+
+
+Researchers considered mitochondrial disorders as rare, but epidemiological studies by several groups in the early twenty-first century such as Mar Tulin's group in Sweden, David Thorburn in Australia, and Douglas Turnbull and Patrick Chinnery in the United Kingdom, suggested otherwise. All groups concluded that mtDNA diseases occur in about one in 5,000 individuals. The incidence of mitochondrial diseases was higher than researchers previously had claimed. In 2008, Chinnery's research team reported that pathologic mitochondrial mutations could be as high as one mutation per two hundred healthy humans.  
+
+
+Mitochondrial disorders arise at any age from mutations in the nuclear DNA and from defects in mtDNA. Scientists claim that the precise prevalence of mitochondria disorders is difficult to judge because the disorder often affects only one tissue or cell type. In the twenty-first century, the list of diseases linked to mitochondrial dysfunctions grew. Treatment options mostly involve alleviating the symptoms of the disease as opposed to curing the mitochondrial disease itself. 
+
+
+Researchers said that the use of prenatal diagnosis and pre-implantation genetic testing to detect mutated mtDNA is difficult because there can be heteroplasmy of parental and mutated mtDNA, thus giving mixed results. One way to prevent defective mitochondria from transmitting from mother to offspring is to use assisted reproduction technologies. One of these methods is cytoplasmic transfer or ooplasmic transfer, in which scientists transfer a small amount of cytoplasm from a healthy donor egg cell to a patient's fertilized-egg cell to restore mitochondria competence. 
+
+
+In 1982, Audrey Muggleton-Harris, David G. Whittingham and Lynette Wilson in Surrey, UK, performed an early mammalian cytoplasmic transfer in mice. In 1997, Jacques Cohen at Saint Barnabas Medical, Livingston in New Jersey, and coworkers at Tel Hashomer Hospital in Tel-Aviv, Israel, announced the birth of an infant with the first human cytoplasmic transfer. From 1997 to 2003 approximately thirty children were born after cytoplasmic transfers. The 1982 and 1997 procedures enabled the possibility of mtDNA heteroplasmy in the resulting offspring, however, Cohen reported that maternal mtDNA replaced donor mtDNA by the sixteenth week of gestation.
+
+
+To prevent children from inheriting mitochondrial diseases, scientists can combine parental DNA with mtDNA from a third party. The resultant offspring have nuclear DNA from mother and father and mtDNA from a donor. By the early twenty-first century, scientists had developed at least two techniques to produce such results. In one technique, called maternal spindle transfer, scientists removed from an unfertilized egg with defective mitochondria the chromosomes and the fibers that pull the chromosomes apart, called the mitotic spindle. The scientists then transplanted the chromosome and mitotic spindle into an unfertilized donor egg that had had its mitotic spindle removed, and then they fertilized the egg in vitro In the second technique, called pronuclear transfer, scientists took the egg with defective mitochondria and fertilized it in vitro. The researchers then removed from the fertilized egg the pronucleus of the sperm cell and the pronucleus of the egg cell, before they fused together. They then transfered the pronuclei to a donor egg that also had had its pronucleus removed.. 
+
+
+In the UK, Douglass M. Turnbull's group at Newcastle University, in Newcastle upon Tyne, used the pronuclear transfer technique on defective human eggs. In 2010, Turnbull's group reported that a minority of treated eggs developed normally from six to eight days. Shoukhrat Mitalipov's group at the Oregon Health & Sciences University in Portland, Oregon, used the maternal spindle transfer technique on rhesus monkeys (Macaca mulatta) in 2009, which resulted in the births of three healthy monkeys. In 2012, the group published a paper in which they described a process that used pronuclear transfer with human oocytes. 
+
+
+Technologies such as pronuclear transfer highlight ethical dimensions to mitochondrial inheritance. Scientists use human embryos  for research, which some people claim is unethical. Furthermore, some argue that when researchers replenish damaged mitochondria in one egg with the healthy mitochondria from another, it causes a three-parent union that some consider some consider unnatural. By 2014, governments in the UK and the US debated whether or not to allow pronuclear transfer procedures. 
+
+ 
+
+
+Sources
+Bredenoord, Annelien L., Guido Pennings, and Guido de Wert. "Ooplasmic and nuclear transfer to prevent mitochondrial DNA disorders: conceptual and normative issues." Human reproduction update 14 (2008): 669–678. http://humupd.oxfordjournals.org/content/14/6/669.full.pdf+html (Accessed April 17, 2014).
+		
+Chinnery, Patrick F., Lyndsey Craven, Shoukhrat Mitalipov, James B. Stewart, Mary Herbert, and Douglass M. Turnbull. "The Challenges of Mitochondrial Replacement." PLoS Genetics 10 (2014): e1004315. http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1004315 (Accessed July 10, 2014).
+
+Cohen, Jacques, Richard Scott, Tim Schimmel, Jacob Levron, and Steen Willadsen. "Birth of Infant after Transfer of Anucleate Donor Oocyte Cytoplasm into Recipient Eggs."  The Lancet 350 (1997): 186–7.
+
+
+DiMauro, Salvatore. "A History of Mitochondrial Diseases." Journal of Inherited Metabolic Disorders 34 (2011): 261–76. 
+
+
+DiMauro, Salvatore, E. Bonilla, C. P. Lee, D. L. Schotland, A. Scarpa, H. Conn Jr, and B. Chance. "Luft's disease: further biochemical and ultrastructural studies of skeletal muscle in the second case." Journal of the Neurological Sciences 27  (1976): 217–232.
+
+
+Elliott, Hannah R., David C. Samuels, James A. Eden, Caroline L. Relton, and Patrick F. Chinnery. "Pathogenic mitochondrial DNA mutations are common in the general population." The American Journal of Human Genetics 83 (2008): 254–260. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2495064/ (Accessed July 10, 2014).
+
+
+Holt, Ian J., Anita E. Harding, and John A. Morgan-Hughes. "Deletions of Muscle Mitochondrial DNA in Patients with Mitochondrial Myopathies." Nature 331(1988): 712–9.
+
+
+Lane, Nick. Power, Sex, Suicide: Mitochondria and the Meaning of Life. New York, NY: Oxford University Press, 2005.
+
+
+Lane, Nick. "Mitochondrial Disease: Powerhouse of Disease." Nature 440 (2006): 600–2.
+
+
+Luft, Rolf, Denis Ikkos, Genaro Palmieri, Lars Ernster, and Bjӧrn Afzelius. "A Case of Severe Hypermetabolism of Nonthyroid Origin with a Defect in the Maintenance of Mitochondrial Respiratory Control: a Correlated Clinical, Biochemical, and Morphological Study." Journal of Clinical Investigation 41 (1962): 1776–804. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC291101/ (Accessed July 10, 2014).
+
+
+Mitalipov, Shoukhrat, and Don P. Wolf. "Clinical and ethical implications of mitochondrial gene transfer." Trends in Endocrinology and Metabolism 25 (2014): 5–7.
+
+
+Muggleton-Harris, Audrey, D. G. Whittingham, and Lynette Wilson. "Cytoplasmic Control of Preimplantation Development in vitro in the Mouse." Nature 299 (1982): 460–2.
+
+
+Rachel, Levy and Menezo Yves. "Cytoplasmic transfer: the risks?" Paper presented at The 4th World Congress on Controversies in Obstetrics, Gynecology & Infertility, Berlin, Germany, April 24–27, 2003. http://www.comtecmed.com/COGI/cogi4/proceedings/15-424.pdf (Accessed April 17, 2014).
+
+
+Wallace, Douglas C., Gurparkash Singh, Marie T. Lott, Judy A. Hodge, Theodore G. Schurr, Angela M. S. Lezza, Louis J. Elsas II, and Eeva K. Nikoskelainen. "Mitochondrial DNA Mutation Associated with Leber's Hereditary Optic Neuropathy." Science 242 (1988): 1427–30.
+
+
+Tachibana, Masahito, Michelle Sparman, Hathaitip Sritanaudomchai, Hong Ma, Lisa Clepper, Joy Woodward, Ying Li, Cathy Ramsey, Olena Kolotushkina, and Shoukhrat Mitalipov. "Mitochondrial gene replacement in primate offspring and embryonic stem cells." Nature 461 (2009): 367–372. 
+
+
+Thorburn, David R. "Diverse Powerhouses." Nature Genetics 36 (2004): 13–4. http://www.nature.com/ng/journal/v36/n1/pdf/ng0104-13.pdf (Accessed April 17, 2014).
+
+
+Tuppen, Helen AL, Emma L. Blakely, Douglass M. Turnbull, and Robert W. Taylor. "Mitochondrial DNA mutations and human disease." Biochimica et Biophysica Acta (BBA)-Bioenergetics 1797 (2010): 113–128. http://www.sciencedirect.com/science/article/pii/S0005272809002618 (Accessed July 10, 2014).
+
+
+
+How to cite
+Haskett, Dorothy R., "Mitochondrial Diseases in Humans". Embryo Project Encyclopedia (2014-07-11). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/8031.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+Copyright Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Saturday, July 12, 2014 - 00:33
+ Topic
+Subject
+Mitochondrial Diseases; Mitochondrial pathology; Mitochondria; Cell organelles; Nuclear transfer; Reproductive technology; Concept

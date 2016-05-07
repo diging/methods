@@ -1,0 +1,77 @@
+By Mary E. Sunderland
+Published: 2008-05-09
+Keywords: Morphogenesis
+ Morphogenesis: An Essay on DevelopmentThroughout his long and fruitful career 
+			John Tyler Bonner has made great strides in understanding basic issues of 
+			embryology and 
+			developmental-evolutionary biology.   Indeed, 
+			Bonner’s work on 
+			morphogenesis highlighted synergies between development and evolution long before “
+			evo-devo” became a part of the scientific lingua franca.  Princeton University Press published his first book, Morphogenesis: An Essay on Development, in 1952.  In his autobiography Lives of a Biologist, 
+			Bonner described his motivations for writing Morphogenesis as a book about developmental biology.  He wanted to show how the methods of “old embryology” could be applied to all organisms.  
+At the outset of Morphogenesis 
+			Bonner stated that those studying developmental phenomena were being presented with an increasing amount of data and were without a unifying theory with which to interpret this data.  Not only were they without a unifying theory to bring together different developmental phenomena relating to diverse organisms and processes.  They also lacked any sort of comprehensive theory that could accommodate the diverse range of data.  This led 
+			Bonner to question whether there was indeed a unifying theory to be found.  If there was a theory, what criteria could be used to help sort through the immense amount of experimental evidence?  
+			Bonner set out to provide an overview of the most important aspects of development, across a diverse range of species, and search for shared developmental mechanisms.  This approach led him to introduce a wide scope of related evidence about development that otherwise might not have been considered comparatively.  This foundation was needed to determine if any developmental processes were common to all living forms, which was necessary if there was to be a unified theory of development.  But what kind of theory?  Micro-theories were desirable, but not everything needed to be entirely reduced to physics and chemistry.   
+To investigate development, 
+			Bonner organized his text by separately discussing different aspects of the developmental process: size, growth, morphogenetic movements, polarity, and differentiation.  Although these chapter headings were justified for pragmatic reasons, 
+			Bonner acknowledged the artificiality of the imposed separations. 
+Although he devoted time to discussing the physics and chemistry of development, including an overview of the relationship between the growth of crystals and the growth of living organisms, 
+			Bonner concluded that it was not a particularly lucrative area of study.  Before delving into the realm of the inorganic, it was first important to get a handle on the diversity of development in living organisms.
+Size was described by 
+			Bonner as the ultimate extrinsic limit of development.  He therefore reasoned to begin his analysis with an investigation of size, an obvious and perhaps universal limit.  Size imparted mechanical, physical limitations on development thereby restricting the amount of possible developmental patterns.  It was important to consider organisms of different sizes, for size was relative; our perspective was biased by our tendency to consider ourselves as yardsticks. His chapter on “Size and Pattern” thus introduced size as a helpful conceptual tool to consider the limiting factors that affected development.  
+			Bonner then proceeded to detail those limits in his chapter on “Patterns of Growth.”  He was consistently careful with definitions and pointed out that growth was merely one aspect of development.  Investigating growth would therefore offer important insight into more global developmental controls.
+In “Patterns of Morphogenetic Movements” 
+				Bonner reasoned that the elaborate morphogenetic movements, particularly in plants and fungi, provided a rich resource for experimental investigation.  It was here that 
+				Bonner introduced his work with 
+				slime molds (Dictyostelium sp.)and offered a detailed description of their life cycle.  
+				Slime molds were described as a particularly useful model with which to investigate 
+				morphogenesis, as their unique life-cycle offered a separation between growth and 
+				morphogenesis.   
+
+			Dictyostelium’s life cycle begins with the spore stage.  Spores are small, capsule-shaped, and capable of sprouting an amoeba when plated on moist agar.  Soon after hatching, the amoebae enter a vegetative state, during which they feed by engulfing bacteria and divide repeatedly to generate free-swimming, independent daughter cells. Once the amoebae have reached a critical number (dependent on food supply), they start to aggregate and stream toward a central collection point. The beginning of aggregation marks the end of growth, feeding, and cell division. The resulting aggregation, or slug that varies in size, then begins a period of migration that lasts up to two weeks.  Last is the fruiting stage, during which the aggregated mass turns upright to form a stalk that supports a round mass of spores, which brings us full circle back to the spore stage. [wondering if the detailed description is too tangential to the rest of the entry]
+In “Polarity and Symmetry” 
+				Bonner identified polarity as the first sign of organization in the organism, and therefore the beginning of order.  He surveyed a variety of organisms that displayed plastic or regulatory development and that therefore were capable of transforming into a variety of different cell types at various developmental stages.  
+				Bonner presented examples of regulatory development because these organisms often exhibited polarity in particularly interesting ways and therefore would contribute to the growing pool of diverse examples.
+Bonner’s task in his chapter on “Patterns of Differentiation” was to examine the wholeness of organisms.  The term differentiation was presented in a very general sense, designated to refer to some sort of constitutional change in a living organism resulting from a process that involved a series of chemical reactions.  He delineated the many different processes that might be involved in differentiation.  For example unicellular organisms needed to distinguish their many cellular organelles.  Multinucleate organisms achieved differentiation without cell boundaries and multicellular organisms specified tissue types, organs, and also organ systems such as the vascular system of animals, all of which came together to form the organism.  
+Bonner clearly identified regulation as development’s most elusive quality.  There appeared to be something special about the concept of a regulated whole that was particularly difficult to conceptualize.  He attributed regulation’s mysterious nature to inspiring 
+			Hans Driesch to resort to entelechies in his explanations.  Although he recognized the challenge, 
+			Bonner sought out ways to investigate this wholeness and the role of the whole organism during differentiation.  
+			Slime molds, algae, and 
+			hydroids were some of the many organisms that offered opportunities for fruitful investigations. 
+In his final chapter, “Analysis of Development,” 
+				Bonner brought together the major ideas he had presented to construct a general statement about development that would be true of all living organisms.  He had identified and elucidated the three major constructive developmental processes: growth, morphogenetic movements, and differentiation, and had described many examples that illustrated how these constructive processes achieved developmental patterns through the action of limiting processes.  
+			Bonner sought to convince that development resulted from the interaction of constructive and limiting processes.
+Bonner aimed to expand our perception of development by introducing non-canonical organisms and their associated life cycles.  He encouraged contemplation of this diverse pool of organisms to determine if they shared any fundamental developmental mechanisms.  He was careful to point out the relationship between structure and function, highlighting the many intricate relationships that define living things.   Illustrating the abundant diversity of developmental mechanisms led him to propose that there were likely a variety of mechanisms that achieved similar ends.
+Published on the eve of James Watson and Francis Crick’s discovery of DNA, 
+			Bonner’s perspective in Morphogenesis points to genetic interpretations but is not bogged down in genetics or molecular detail.  The book remains rich with detailed morphological descriptions of unusual developmental processes. 
+			Bonner’s articulate prose made his first book accessible to a wide audience and was therefore recommended by reviewers to both specialists and lay people.  A prolific author, 
+			Bonner has since written numerous books many of which build on the ideas he first elucidated in Morphogenesis. 
+
+
+Sources
+Bonner, John Tyler. Lives of a Biologist. Cambridge: Harvard University Press, 2002. 
+Bonner, John Tyler. Morphogenesis: An Essay on Development. Princeton: Princeton 
+			University Press, 1952.
+Clovis, Jesse F. Review of Morphogenesis: An Essay on Development, by John Tyler Bonner. Castanea 29 (1964): 195.
+Hawkins, R. R. Review of Morphogenesis: An Essay on Development, by John Tyler Bonner. Library Journal 77 (1952): 1308.
+Nicholas, John S. “Morphogenesis: An Essay on Development.” Science 116 (1952): 491-92.
+Pfeiffer, John. Review of Morphogenesis: An Essay on Development, by John Tyler Bonner. Saturday Review 35 (1952): 40.
+Review of Morphogenesis: An Essay on Development, by John Tyler Bonner. US Quarterly Book Review 8 (1952): 312.
+
+
+How to cite
+Sunderland, Mary E., "Morphogenesis: An Essay on Development (1952), by John Tyler Bonner". Embryo Project Encyclopedia (2008-05-09). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/1793.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, March 18, 2015 - 23:05
+ Topic
+Subject
+Morphogenesis; Bonner, John Tyler.; Literature

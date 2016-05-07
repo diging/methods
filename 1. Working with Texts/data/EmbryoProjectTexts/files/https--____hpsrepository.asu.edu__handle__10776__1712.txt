@@ -1,0 +1,92 @@
+By Nicole Newkirk
+Published: 2007-10-30
+Keywords: Mice, Chimeras
+ Interspecific Chimeras in Mammals: Successful Production of Live Chimeras Between Mus musculus and Mus caroliIn 1980 
+		Janet Rossant and 
+		William I. Frels published their paper, “Interspecific Chimeras in Mammals: Successful Production of Live Chimeras Between Mus musculus and Mus caroli,” in Science.  Their experiment involved the first successful creation of  
+		interspecific mammalian chimeras.  Mammalian 
+		chimeras are valuable for studying early embryonic development.  However, in earlier studies, 
+		clonal analysis was restricted by the lack of a cell marker, present at all times, that makes a distinction between the two parental cell types in situ.  To battle this limitation, 
+		Rossant and 
+		Frels decided to make 
+		chimeras from embryos of two different species in order to have sufficient genetic differences so that, in any tissue type, the two cell types could be clearly identified.  In their paper 
+		Rossant and 
+		Frels describe the successful creation of live 
+		chimeras between Mus musculus and Mus caroli.  These two species of 
+		mice are more closely related than 
+		chimeras produced previously.  The 
+		chimeras created in the experiment showed no sign of selection against one cell type or the other.  Therefore, they are valuable for 
+		clonal analysis of development.  
+		Rossant and 
+		Frels were the first to successfully produce an 
+		interspecific mammalian chimera that experienced normal development.
+Previously, chimeras had been created between 
+		rat and 
+		mouse and between bank 
+		vole and 
+		mouse.  Scientists had seen successful implantation in mice uteri, but limited development after implantation and no live births.  Better results were obtained when creating rat-mouse chimeras by 
+		blastocyst injection.  The resulting mixed 
+		rat and 
+		mouse embryonic tissues existed at least until the midpoint of gestation.  However, these experiments produced few offspring with stunted growth, along with insignificant proof of 
+		rat tissue, suggesting selection against the 
+		rat cells had occurred during development.
+In their experiment, 
+		Rossant and 
+		Frels worked with M. musculus, a laboratory 
+		mouse, and M. caroli, a wild species originating from Southeast Asia.  These two species show multiple genetic differences and do not usually interbreed in nature.  The two species differ in pre-implantation development with M. caroli being complete sixteen to twenty hours earlier than M. musculus.  M. caroli also has a shorter gestation period.  The two species share similar morphological changes in relation to 
+		embryogenesis.  
+		Rossant and 
+		Frels created 
+		chimeras by injecting the 
+		inner cell masses of M. caroli into M. musculus blastocysts.  They used M. musculus blastocysts retrieved on the afternoon of the fourth day after the mating of albino, non-agouti mice that were homozygous for the b allele of the glucose phosphate isomerase (GPI) gene (Gpi-1b/Gpi-1b).  M. caroli females were super-ovulated and bred with males.  Seventy-six hours after a human chorionic gonadotropin (hCG) injection, 
+		Rossant and 
+		Frels rid the uteri of blastocysts with cell numbers close to those of M. musculus blastocysts.  
+		Rossant and 
+		Frels dissected the 
+		inner cell masses from M. caroli blastocysts and then injected them into M. musculus blastocysts.
+On the third day of artificial pregnancy these embryos were transferred into uterine horns of albino, non-agouti 
+		mice homozygous for the b allele of the GPI gene.  Right before the birth of the fetuses, nine were dissected to study fetal tissues and extra-embryonic structures.  Six out of the nine were determined, by GPI analysis and eye pigmentation, to be chimeric.  Each 
+		chimera showed M. musculus and M. caroli GPI enzymes in every tissue that was analyzed.  
+		Rossant and 
+		Frels noted that the proportions of the enzymes varied from tissue to tissue, similar to that observed in M. musculus-M. musculus
+chimeras.
+During the experiment 
+		Rossant and 
+		Frels found a hybrid GPI enzyme present in the skeletal muscles of the 
+		chimeras.  From this they concluded that normal interaction between M. musculus and M. caroli cells had occurred.  The myoblasts from both M. musculus and M. caroli fused to create myotubes with normal function.  Five other females were allowed to give birth.  Out of forty-eight offspring, thirty-eight were determined to be chimeric by hair and eye pigmentation and GPI analysis. Coat and eye pigmentation, as well as the percentage of M. caroli GPI enzyme in the blood, varied in each 
+		chimera.  Of those 
+		chimeras brought to term, twenty-seven were male and nine were female.  Similar to previous findings with M. musculus-M. musculus
+chimeras, there were more phenotypic males.  Rossant and Frels found that M. musculus-M. caroli
+chimeras and M. musculus-M. musculus
+chimeras showed striking similarities in their somatic tissue organization.  They concluded that there was no evidence to suggest that M. caroli cells were selected against.
+
+		Rossant and 
+		Frels were the first to successfully create an 
+		interspecific mammalian chimera.  Unlike in previous experiments, the M. musculus-M. caroli chimera survived after birth and developed normally.  Such 
+		chimeras may be valuable for studying early embryonic development.  
+		Rossant and 
+		Frels indicate that the creation of species-specific antiserums, or the identification of genetic differences between the two species in order to provide an in situ cell marker, would make 
+		interspecific chimeras more valuable for further studies of mammalian development.  
+		Rossant and 
+		Frels state that 
+		interspecific chimeras may also be beneficial for studying interactions between mother and fetus and the genetic control of mating behavior.
+
+Sources
+Rossant, Janet, and William I. Frels.  “Interspecific Chimeras in Mammals: Successful Production of Live Chimeras Between Mus musculus and Mus caroli.”  Science  208 (1980): 419–21.
+
+
+How to cite
+Newkirk, Nicole, ""Interspecific Chimeras in Mammals: Successful Production of Live Chimeras Between Mus musculus and Mus caroli" (1980), by Janet Rossant and William I. Frels". Embryo Project Encyclopedia (2007-10-30). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/1712.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, March 18, 2015 - 16:43
+ Topic
+Subject
+Chimera; Chimera; Experiment

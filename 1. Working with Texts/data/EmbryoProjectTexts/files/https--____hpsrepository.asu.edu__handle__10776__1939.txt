@@ -1,0 +1,59 @@
+By Karen Wellner
+Published: 2010-06-28
+Keywords: Biography, Transplantation
+ Benjamin Harrison WillierBenjamin Harrison Willier is considered one of the most versatile embryologists to have ever practiced in the US. His  research spanned most of the twentieth century, a time when the field of embryology evolved from being a purely descriptive pursuit to one of experimental research, to that of incorporating  molecular biology into the research lab. Willier was born on 2 November 1890 near Weston, Ohio to Mary Alice Ricard. He spent his childhood doing farming chores and running the farm while his father, David Willier worked as a banker. Willier graduated from high school with no immediate desire to attend college; his goal was to become a public school teacher. After a year of special study he was certified to teach.  But this desire took a turn when his cousin and public school teacher, Alice Ricard, convinced him to attend a six-week summer session of the State Normal College of Miami University (Ohio). It was here that Willier was introduced to nature study and where he made his decision to pursue a scholarly life.
+Willier entered Wooster Academy, a division of the University of Wooster (now the College of Wooster), in 1910. Upon graduation from the Academy in 1912, Willier entered the College of Wooster and received a BS in biology in 1915.  According to embryologist 
+		Ray Watterson, Willier’s potential for laboratory research was first noticed while he was nearing graduation. A fibroid uterus containing an embryo was removed from a woman in Wooster, Ohio, and shipped to 
+		Horace N. Mateer, head of the Biology Department at Wooster.  Mateer’s laboratory assistant was Willier, who prepared the specimen for microscopic study. The preparation involved embedding the embryo in paraffin, sectioning it, mounting the sections on microscope slides, and staining them. The slides were sent by Mateer to John’s Hopkins University. The embryo was so novel and the slides of it so well prepared that it came to the attention of 
+		Franklin P. Mall, Professor of Anatomy and Director of the 
+		Department of Embryology, Carnegie Institution of Washington. The embryo Willier prepared was a young 
+		presomite embryo, approximately sixteen to seventeen days in age. 
+		George L. Streeter, a member of the department, prepared a description while technicians prepared 
+		wax plate reconstructions of the embryo. Streeter named the specimen the 
+		Mateer embryo and gave credit to Willier for his role in preserving the embryo.
+In 1916, Willier enrolled as a graduate student in the Department of Zoology of the 
+		University of Chicago. In 1919 he married Helen Beatrice Shipman. It is unclear whether he went to Chicago to work specifically with 
+		Frank R. Lillie or whether the decision was made after Willier began his graduate program. In either case, Willier began his work just when Lillie was publishing his work on 
+		freemartin (a freemartin is a sterile genetic female calf born as a twin to a fertile male calf) studies, which resulted in a new direction for embryology: sex determination and 
+		sex hormones.
+While working with Lillie, Willier studied the gonad development of freemartins. He learned histological techniques to study the microscopic anatomy of postnatal gonads for his doctoral thesis. He provided evidence that the ovaries of freemartins in cattle can be completely transformed into morphologically complete testes. This led to Willier’s investigations on the role of sex hormones in the development of 
+		chick embryos’ reproductive systems. After Lillie completed his freemartin work, he began studies on the effect of female hormones on feather coloration and patterns in fowl. Willier also studied feather morphogenesis, with an emphasis on how hormones control the production of certain colors and color patterns and how hormones interact with pigment cells (melanocytes).
+After graduating with his PhD in 1920, Willier stayed at the University of Chicago as a postdoctoral fellow. He became an assistant professor in 1925, an associate professor in 1927, and full professor in 1931. In 1931 Lillie became Dean of Biological and Medical Sciences and Willie took over Lillie’s vacated position as Professor of Embryology in the Zoology Department. While an assistant professor, Willie began transplantation experiments with chick embryos. He was able to graft small pieces of thyroid glands from chickens to host embryos.  The hosts showed a reduction in size, which Willier interpreted as a symptom of hyperthyroidism. He was thus able to demonstrate that thyroid tissue secretes a hormone capable of affecting host metabolism and development.
+Willier soon joined the ranks of experimental embryologists who were using the highly vascularized 
+		chorioallantoic membrane (CAM) of birds and reptiles as a site for 
+		transplantation studies. The CAM technique involves incubating eggs for seven to ten days, locating the junction of two or more large blood vessels by placing the eggs above a bright light, removing the shell above the blood vessel intersection, slitting the membranes to expose the CAM, placing a small piece of donor graft tissue in the angle intersection of the blood vessels, closing the opening of the shell with paraffin, and placing the egg back into the incubator.
+With this technique Willier found that a sterile gonad can form and differentiate in the absence of primordial germ cells. Noted embryologist 
+		Mary Rawles joined Willier as a graduate student in 1928 and the two of them continued collaborative work with chorioallantoic graft work until 1957.  Another of Willier’s doctoral students was 
+		James D. Ebert, who used CAM to help demonstrate the graft-versus-host reaction by placing grafts of adult chicken spleens on the CAM of chick embryos.  Willier was later instrumental in the appointment of Ebert to become the fourth director of the Carnegie Institute’s Department of Embryology in 1956.
+In the late 1920s Willier and his students such as 
+		Libbie Hyman used the CAM technique to study the development of the adrenal glands of chick embryos, the relation of Hensen’s node to the formation of axial parts of chick embryos, and the development of the heart and liver.
+In 1933 Willier left the University of Chicago to become Professor of Zoology and Chairman of the Division of Biological Sciences at the University of Rochester. 
+		Dorothea Rudnick became a research fellow in the same department and set up one of the country’s first tissue culture labs. Willier soon attracted graduate students eager to work with him, including 
+		Hans Ris and 
+		Jane Oppenheimer. In the early 1930s sex hormones had been isolated and crystallized. This prompted Willier and others to investigate the effects of sex hormones on the development of gonads of genetic male and female chick embryos. The sex hormones were injected into the albumen of incubating eggs before sex differences appeared. Inoculation of female hormones led to the discovery that in terms of size, shape, and histological structure, the normal left testis of a genetic male was transformed into a typical left ovary, and the normal right testis transformed into a normal right ovary. When testosterone was injected into genetic females, there was less of an effect on sex-organ development. When testosterone, androsterone, and dehydroandrosterone were injected into genetic females there was degeneration of the cortex of the left ovary while the right ovary (normally lacking an ovarian cortex) enlarged and assumed a testicular form. Willier helped to show that sex reversal in chick embryos and amphibians can go either in the female or male direction. It is easier for chick embryos to be changed in the male-to-female direction because of the smaller quantity of sex hormones needed to initiate feminization of genetic males.
+From 1936 to 1937 Willier, Rawles, and 
+		Ernst Hadorn utilized transplantation techniques to gain new knowledge about feather pigmentation in birds. Pieces of skin ectoderm from the embryos of different breeds of fowl were grafted from head to wing regions (these regions in the adult bird both have feathers but they differ greatly in terms of size and shape) in order to examine the distribution of feather germ cells. In most of their grafts they found that the host developed an area of donor-colored down feathers. These feathers were later replaced by donor-colored juvenile feathers at the transplantation site. When the host epidermis was examined it was discovered that the donor skin ectoderm was no longer to be found. This helped prove that feathers growing in the transplanted area originated exclusively from host epidermis.  This was contrary to what was expected. Willier concluded that the transplanted epidermis served as a vehicle to transfer embryonic pigment cells called melanoblasts. The melanoblasts infiltrated host skin ecotoderm, developing into mature pigment cells (melanophores) that then contributed pigment granules to feathers. The resulting feathers were donor-specific in size, shape, and color.
+In 1940 Willier left the University of Rochester to become chairman of the Department of Zoology at 
+		Johns Hopkins University, Baltimore, Maryland. He took over editorship of 
+		The Quarterly Review of Biology, holding this position until 1957.  In 1958 Willier retired as Emeritus Professor of Biology at Johns Hopkins but continued with his research. In 1958 he received a grant from the Atomic Energy Commission to research metabolism pathways in chick embryos. In 1968, at the age of seventy-eight, Willier published a paper describing the development of the chick yolk sac. His methods included radioautography and electron microscopy. His final paper provides testament of how Willier, trained as a classical embryologist, was able to successfully navigate into experimental embryology and finally adapt his research to the evolving field of developmental genetics. Willier died on 3 December 1972 in Baltimore, Maryland.
+
+Sources
+Maienschein, Jane, Marie Glitz, and Garland E. Allen, eds. Centennial History of the Carnegie Institution of Washington: Volume V The Department of Embryology. Cambridge: Cambridge University Press, 2004.
+Watterson, Ray L.  Benjamin Harrison Willier 1890-1972.  Washington, D. C.: National Academy of Sciences, 1985.
+
+
+How to cite
+Wellner, Karen, "Benjamin Harrison Willier (1890-1972)". Embryo Project Encyclopedia (2010-06-28). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/1939.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Thursday, April 2, 2015 - 00:31
+ Topic
+Subject
+Transplantation; Willier, Benjamin H. (Benjamin Harrison), 1890-1972; People

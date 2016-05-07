@@ -1,0 +1,40 @@
+By Julia Damerow
+Published: 2010-06-10
+Keywords: Artificial embryology
+ "Genetic Programming: Artificial Nervous Systems, Artificial Embryos and Embryological Electronics," by Hugo de GarisIn 1991, 
+		Hugo de Garis’ article “Genetic Programming: Artificial Nervous Systems, Artificial Embryos and Embryological Electronics” was published in the book Parallel Problem Solving from Nature. With this article de Garis hoped to create what he envisioned as a new branch of artificial embryology called 
+		embryonics (short term for “embryological electronics”). Embryonics is based on the idea of adapting the processes found in embryonic development to build artificial systems.
+In the article, de Garis describes two different projects. In the 
+		LIZZY Project he develops an artificial nervous system. In the 
+		EMBRYO Project he describes the development of an artificial embryo. The artificial embryo consists of electronic circuits that “grow” in a special hardware called “Darwin Machines.”
+De Garis’s article has four sections. In section one, he describes 
+		genetic programming, a programming methodology based on 
+		genetic algorithms. Genetic algorithms are computational models that are based on a concept similar to natural selection. A genetic algorithm provides a method to find the best program to solve a given problem. The genetic algorithm first ranks a group of programs that are considered to solve a given problem by how good the solutions are and then lets the best ones “breed.” Two programs that breed create a new program that consists of parts of both of the original programs. The new program replaces a program that had a low rank in the ranking of the genetic algorithm. By repeating this ranking and breeding process the programs evolve towards the best solving program for the given problem.
+In sections two and three de Garis describes the LIZZY Project. LIZZY is an artificial lizard-like creature that is represented by a rectangular wire frame with four legs and a V-shaped antenna. De Garis uses genetic programming to evolve the motions LIZZY is capable of. He also describes LIZZY’s artificial nervous system, which enables LIZZY to recognize and react to prey, predators, and mates.
+In section four De Garis describes the EMBRYO Project, in which he uses the concept of 
+		cellular automata and genetic programming to build an artificial embryo. A cellular automaton is a theoretical model used to represent complex systems or processes, like the growth of plants. The automaton consists of components called “cells” that form a one- or multidimensional lattice. Each cell has a value, called a state. The states of the cells change at discrete time-steps. The new state of a cell is computed from the previous states of its neighboring cells using predefined rules. In the EMBRYO project there are two states for the cells: dead and alive. The rules that specify when a cell comes to life and when it dies are encoded as a sequence of zeros and ones and are called “chromosomes.” Living cells represent the “embryo.” De Garis gives an example of an embryo that grows in a two-dimensional lattice. He defines the desired shape of the embryo as a triangle and uses genetic programming to create chromosomes that let the embryo “grow” to a shape as close as possible to a triangle. His result is a 93% overlap of the embryo’s actual shape with the desired shape. At the end of section four de Garis describes his future work. He states that the EMBRYO Project will extend to create three-dimensional artificial embryos that are shaped like human babies.
+“Genetic Programming: Artificial Nervous Systems, Artificial Embryos and Embryological Electronics” is only a short summary of de Garis’s work on artificial embryos. In 1992, he contributed a chapter called “Artificial Embryology: The Genetic Programming of an Artificial Embryo” to the book Dynamic, Genetic, and Chaotic Programming. In this chapter he describes his work on this first attempt to “grow” an artificial embryo using a cellular automaton in much more detail.
+
+Sources
+De Garis, Hugo. “Genetic Programming: Artificial Nervous Systems, Artificial Embryos and Embryological Electronics.” In Parallel Problem Solving from Nature, eds. Hans-Paul Schwefel and Reinhard Männer, 117–23. Berlin: Springer, 1991.
+De Garis, Hugo. “Artificial Embryology: The Genetic Programming of an Artificial Embryo.” In Dynamic, Genetic, and Chaotic Programming, Branko Souček and The IRIS Group, 373–93. New York: Wiley, 1992.
+Holland, John H. “Genetic Algorithms.” Scientific American 267 (1992): 66–72.
+Ilachinski, Andrew. Cellular Automata: A Discrete Universe. Singapore: World Scientific, 2001.
+Zhang, Xuegong, Gabriel Dragffy, and Anthony G. Pipe. “Embryonics: A Path to Artificial Life?” Artificial Life 12 (2006): 313–32.
+
+
+How to cite
+Damerow, Julia, ""Genetic Programming: Artificial Nervous Systems, Artificial Embryos and Embryological Electronics" (1991), by Hugo de Garis". Embryo Project Encyclopedia (2010-06-10). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/2012.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, April 1, 2015 - 23:25
+ Topic
+Subject
+ De Garis, Hugo, 1947-; Literature

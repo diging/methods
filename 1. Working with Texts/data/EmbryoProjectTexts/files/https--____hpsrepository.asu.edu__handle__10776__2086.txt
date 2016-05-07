@@ -1,0 +1,39 @@
+By Nathalie Antonios
+Published: 2011-03-24
+Keywords: Congenital disorders, Abortion
+ Smith v. Cote (1986)The 1986 Supreme Court of New Hampshire case Smith v. Cote held that parents in New Hampshire could sue their physicians based on a claim of wrongful birth of their children, but that such suits warranted only qualified damages for emotional distress. Smith also held that children couldn't sue physicians for negligently allowing the lives of those children, a claim called 
+		wrongful life. In Smith, the court permitted medical and educational damages for wrongful birth.
+Wrongful birth is a malpractice claim brought by parents against a physician who has failed to inform a mother of the increased possibility that she will deliver a child with a disability. In such claims, parents often argue negligence either in 
+		prenatal diagnosis or testing. The failure on the doctor’s part must be shown to have influenced the mother’s decision to have her child. The claim of wrongful life, however, is brought on behalf of the child. With wrongful life, the child sues the physician for the physician’s failure to inform the parents about the risk of carrying a disabled child. Presumably, had the parents known the risks, they would have aborted the child. The 1973 US Supreme Court (USSC) case 
+		Roe v. Wade declared unconsitutional laws that illegalized abortions in the first trimesters of preganancies, and it protected women's choices to have such abortions under the implicit right to privacy protected in the 14th Amendment to the US Consitution.  After the USSC decided Roe, cases involving wrongful birth or wrongful life were brought to US state and federal courts.
+In early 1979, Linda Smith, who lived in New Hampshire, consulted with physicians that specialized in obstetrics and gynecology about her missed menstrual period, nausea, and abdominal pain. The physicians recommended that she take a pregnancy test if she missed another period and prescribed Keflex to treat a possible bacterial infection. Two days later, Smith visited the physicians again, as she had come down with a fever and a rash that was later determined to be rubella. At the time, the physicians concluded that her symptoms were caused by an allergic reaction to the Keflex, and they later determined that she was pregnant.
+When Smith was four months pregnant, her physicians diagnosed her with rubella, a virus that can cause birth defects. Smith carried the child to term and delivered a baby with congenital rubella syndrome in 1980. The child was legally blind, had multiple congenital heart defects, suffered from severe motor retardation, and was hearing impaired.
+ In March 1984, Smith filed suit in New Hampshire and claimed that her physicians, including Norman R. Cote, had negligently failed to inform her of the risks rubella posed to her unborn child, and of the probability that her child would be born with birth defects once exposed to the virus. Smith argued that the physicians negligently deprived her of the knowledge necessary to decide whether or not to abort the child, resulting in a wrongful birth. Furthermore, she sued her physicians on behalf of her child, arguing that the doctors' negligence had harmed the child and resulted in her wrongful life.
+Cote and his fellow physicians argued that New Hampshire law didn't recognize wrongful life or wrongful birth as legitimate reasons to sue, called causes of action.  The New Hampshire Superior Court transferred Smith to the New Hampshire Supreme Court to decide if the state would recognize the causes of action, and if it did, what kind of damages it would allow.  On 9 July 1986, Justice William Batchelder delivered the Court's opinion, with which the other Justices concurred; and Justice David Souter specially stressed the tension between a doctor's professional duty and that doctor's personal moral commitments.
+The New Hampshire Supreme Court recognized a cause for action for wrongful birth. The Court  stated that its decision did not imply that it encouraged or discouraged the practice of abortion, nor did it believe that the child should not have been born. Instead, the Court stated that its duty was to uphold compensation to the victims of medical negligence, and to deter medicial negligence. The Court then determined what kinds of damages were eligible for compensation in such suits. The Court held that the entire cost of raising the child, Heather Smith, would not be eligible, but the medical costs directly associated with her birth defects could be compensated. The Court also decided that Linda Smith could be compensated for her visits to a counselor due to the emotional stress of raising a child with a disability, but that she couldn't receive unqualified damages for emotional distress.
+Next, the Court turned to Heather Smith’s wrongful life claim. Linda Smith said that she would have had an abortion had her doctors diagnosed her earlier with rubella and properly informed of the multiple ways the disease can affect fetal development. Because Linda Smith wasn't informed, her daughter Heather bore the burden of living life with pain and suffering that could have been prevented. Contrary to the precedent set for California in 1982's Turpin v. Sortini, the New Hampshire Supreme Court denied Heather Smith’s claim of wrongful life, reasoning that the Court couldn't decide if a person’s life was worthwhile. The Court had no way of determining whether or not the child had an interest in avoiding her own birth, or if it would have been best had she not been born.  The Court then returned the case to the Superior Court to determine if Linda Smith's doctors had been negligent and had caused wrongful birth, and if so, the extent to which that negligence deserved punitive damages. 
+Since the mid-1970s, greater than twenty states have recognized wrongful birth actions, with parents being awarded at least a portion of their child’s care expenses if they can prove negligence on the part of a physician. Although Smith v. Cote didn't recognize the wrongful life claim, it did recognize the wrongful birth claim, and it allowed for certain kinds of damages for such claims.
+
+Sources
+Carey, Kristen N., and James McCartney. "Wrongful Life and Wrongful Birth: Legal Aspects of Failed Genetic Testing in Oocycte Donation." Penn Bioethics Journal 1(2005): 1–4. 
+DeGrandpre, Charles A. "LEX LOCI: Smith v. Cote." Bar Journal 27 (1986).
+Roe v. Wade, 410 U.S. 113 (1973). http://scholar.google.com/scholar_case?q=Roe+v.+Wade&hl=en&as_sdt=806&case=12334123945835207673&scilh=0 (Accessed January 3, 2014).
+Smith v. Cote, 128 N.H. 231 (1986). http://scholar.google.com/scholar_case?q=Smith+v.+Cote&hl=en&as_sdt=806&case=526611606199857437&scilh=0 (Accessed January 31, 2014).
+Turpin v. Sortini, 31 Cal. 3d 220; 643 P. 2d 954; 182 Cal. Rptr. 337 (1982). http://scholar.google.com/scholar_case?q=Turpin+v.+Sortini,+31+Cal.+3d+220%3B+643+P.+2d+954%3B+182+Cal.+Rptr.+337+(1982).&hl=en&as_sdt=806&case=7856354285265009649&scilh=0 (Accessed January 9, 2014).
+
+
+How to cite
+Antonios, Nathalie, "Smith v. Cote (1986)". Embryo Project Encyclopedia (2011-03-24). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/2086.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Friday, January 31, 2014 - 21:52
+ Topic
+Subject
+Congenital, Hereditary, and Neonatal Diseases and Abnormalities; Congenital diseases.; Law

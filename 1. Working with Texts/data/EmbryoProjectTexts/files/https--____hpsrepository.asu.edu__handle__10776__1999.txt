@@ -1,0 +1,42 @@
+By Mary E. Sunderland
+Published: 2010-03-15
+Keywords: Regeneration
+ Β-Catenin Defines Head Versus Tail Identity During Planarian Regeneration and Homeostasis
+		Alejandro Sánchez Alvarado’s laboratory group has employed molecular tools to investigate old questions about 
+		regeneration and as a result have identified some of the molecular mechanisms determining 
+		polarity.  Recent work by his group has shown Wnt-β-catenin signaling determines whether a tail or a head will form during regeneration in planarians.  This study was motivated by work 
+		Thomas Hunt Morgan conducted in the late nineteenth century.  Morgan observed that during regeneration a planarian cut into rather small pieces would sometimes regenerate a head at both the anterior and posterior ends of a pieace rather than a head and a tail.  This led Morgan to think the size of the piece must affect the regenerative process.  
+Sánchez Alvarado’s group returned to Morgan’s observation with the advantage of being able to manipulate the expression of different genes during the regenerative process in planarians.  Their conclusions were exciting, especially because they were published alongside corroborating results from 
+		Peter Reddien, a former postdoctoral fellow in the Sánchez Alvarado laboratory who had worked on developing the 
+		RNAi approach.  Reddien’s group at the 
+		Massachusetts Institute of Technology’s 
+		Whitehead Institute showed that when his laboratory used RNAi to shut down expression of β-catenin during the regeneration of trunk fragments, the posterior end would regenerate a head instead of a tail, thereby generating the same two-headed organisms Morgan observed.  These observations suggested that β-catenin was required for the formation of posterior structures, for in its absence only anterior structures would form. 
+	In support of this hypothesis Sánchez Alvarado’s laboratory performed a complementary experiment.  Rather than knocking out the expression of β-catenin they did the opposite and caused an abundance of β-catenin expression. To do this they ectopically expressed the Wnt-signaling pathway with a resulting upregulation of β-catenin.  A large quantity of β-catenin signaling prevented anterior structures from forming, thereby generating two-tailed organisms, rather than the two-headed organisms Reddien’s group observed.  Both groups performed an additional manipulation to investigate the effects of β-catenin signaling and showed that knocking down β-catenin expression in a full, intact planarian caused it to transform into a two-headed organism.  Together these results show the important role of the Wnt-β-catenin signaling pathway in polarity determination.  Manipulating the expression of β-catenin determines whether a head or tail will form.
+	What can these results tell us about regeneration more generally?  Sánchez Alvarado suggests the Wnt-β-catenin signaling pathway might be an ancient, ancestral mechanism for polarity determination.  He has referred to this as a “switch” determining whether undifferentiated cells, or 
+		stem cells, will assume an anterior or posterior identity.  He posed this as an hypothesis because the Wnt-β-catenin signaling pathway is prevalent across many phyla and has been shown to play a role in polarity determination more generally.  For example, during vertebrate embryonic development the inhibition of Wnt-signaling during 
+		gastrulation (when the anterior-posterior axis is established) prevents the development of posterior structures such as the tail.  Furthermore, over-activation of Wnt-signaling causes an abundance of posterior structures while the formation of head structures is dependent on the suppression of Wnt-signaling.      
+Sánchez Alvarado updated Morgan’s study so it can be interpreted in today’s genetic framework.  Along with his colleagues, he created a public database (SmedDb) allowing the comparative analysis of genetic data in planarians against other gene databases.  He hopes this will inform our understanding of gene evolution.  He also dedicated resources to building a digital library of historical planarian papers, which he views as important because of the rich history of planarian research.  Over the past few hundred years, planarians have been manipulated in every imaginable way: they have been chopped up; used in a variety of inter and intra-species transplantation studies; and subjected to a creative assortment of environmental conditions.  In an effort to make the best use of these resources, Sánchez Alvarado has mined the data from historical papers to determine how he might benefit from the work already done.  The subject paper illustrates his reflective, fruitful approach.
+
+Sources
+Gurley, Kyle A., Jochen C. Rink, and Alejandro Sánchez Alvarado. “β-Catenin Defines Head Versus Tail Identity During Planarian Regeneration and Homeostasis.” Science 319 (2007): 323–27.
+Petersen, Christian, and Peter Reddien. “Smed-βcatenin-1 is Required for Anteroposterior Blastema Polarity in Planarian Regeneration.” Science 319 (2008): 327–30.
+Reddien, Peter W., Adam L. Bermange, Kenneth J. Murfitt, Joya R. Jennings and Alejandro Sánchez Alvarado. “Identification of Genes Needed for Regeneration, Stem Cell Function, and Tissue Homeostasis by Systematic Gene Perturbation in Planaria.” Developmental Cell 8 (2005): 635–49.
+Sánchez Alvarado, Alejandro, and Panagiotis A. Tsonis. “Bridging the Regeneration Gap: Genetic Insights from Diverse Animal Models.” Nature Reviews Genetics 7 (2006): 873–84.
+Tanaka, Elly M., and Gilbert Weidinger. “Heads or Tails: Can Wnt Tell Which One is Up?” Nature Cell Biology 10 (2008): 122–24.
+
+
+How to cite
+Sunderland, Mary E., ""β-Catenin Defines Head Versus Tail Identity During Planarian Regeneration and Homeostasis" (2007), by Kyle A. Gurley, Jochen C. Rink, and Alejandro Sánchez Alvarado". Embryo Project Encyclopedia (2010-03-15). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/1999.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, April 1, 2015 - 23:10
+ Topic
+Subject
+Regeneration; Sánchez Alvarado, Alejandro; Experiment

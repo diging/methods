@@ -1,0 +1,115 @@
+By Divyash Chhetri
+Published: 2014-06-11
+Keywords: one gene-one enzyme, George Beadle, Edward Tatum, Neurospora, molecular biology
+ "Genetic Control of Biochemical Reactions in Neurospora" (1941), by George W. Beadle and Edward L. TatumGeorge Wells Beadle and Edward Lawrie Tatum's 1941
+	article "Genetic Control of Biochemical Reactions in
+	Neurospora" detailed their experiments on how genes regulated
+	chemical reactions, and how the chemical reactions in turn affected
+	development in the organism. Beadle and Tatum experimented on
+	Neurospora, a type of bread mold, and they concluded that mutations
+	to genes affected the enzymes of organisms, a result that biologists
+	later generalized to proteins, not just enzymes. Beadle and
+	Tatum's experiments provided an early link between genetics and the
+	field of molecular biology.
+ Beadle and Tatum conducted the
+	experiments on Neurospora while working at Stanford University, in
+	Stanford, California. Beadle arrived at Stanford in 1937 after
+	leaving a position at Harvard University in Cambridge, Massachussetts. He remained at
+	Stanford for nine years. Beadle first studied the fruit flies Drosophila. He focused on
+	eye color, hoping to show how genes controlled  metabolic
+	reactions in a cell. He soon realized that Drosophila was not the
+	best organism for his research purposes. At that time, he worked with
+	Tatum, who had arrived at Stanford in 1937 as a research associate.
+	The two scientists, after dropping the Drosophila experiments,
+	decided to work with Neurospora instead.
+ Prior to Beadle and Tatum's
+	experiments, scientists had established that many biochemical
+	reactions were affected and controlled by specific genes by studying 
+	the biochemical basis of traits in anthocyanin, which are vacuolar
+	pigments in plants, and by studying organisms such as yeast. Beadle and Tatum
+	argued that those approaches were limited to studying non-heritable
+	characters, as well as visible traits. Beadle and Tatum sought to
+	identify characters that were easier to analyze. 
+The organism
+	Neurospora was suited for the type of study that Beadle and Tatum
+	conducted. The scientists bombarded the spores with X-rays to cause
+	mutations in their genes. If these mutated organisms were placed in
+	a medium lacking essential nutrients, most of them died because of
+	their inability to complete the necessary chemical reactions to survive.
+	However, some mutants survived, and they grew when placed in a
+	medium with the necessary nutrients, so Beadle and Tatum could study
+	them. Neurospora can use sucrose as a source for carbon, and
+	they can use it to complete the appropriate reactions to survive. By inducing a
+	mutation in the gene responsible for the hydrolysis of sucrose, the
+	organism would then no longer be able to survive in a medium
+	containing sucrose. However, there was the possibility that the
+	mutated strain could still grow in a different medium, like glucose
+	for example.
+ Beadle and Tatum then placed the Neurospora in two
+	media to compare how spores differently synthesizing products across media.
+	One was a medium that Beadle and Tatum called complete, meaning it already contained
+	many of the components that the spores could normally synthesize.
+	This medium consisted of agar, inorganic salts, malt extract, yeast
+	extract, and glucose. After the mutants were placed in the complete
+	medium, they were transferred to the minimal medium, for which the
+	organism was required to synthesize the necessary products on its
+	own. The minimal medium was composed of inorganic salts,
+	disaccharides, fats, and other complex carbon sources, as well as
+	biotin, the single growth factor that normal Neurospora cannot
+	synthesize. Growth factors are substances that stimulate cell growth
+	and differentiation. Mutant strains of Neurospora that grew in the
+	first medium but not the second couldn't synthesize the
+	essential products. Beadle and Tatum then systematically examined
+	these strains to identify what substance or substances the spores couldn't synthesize. 
+Beadle and Tatum found that three mutants grew
+	normally on the complete medium, but did not grow in the minimal
+	medium. One strain failed to produce vitamin B6, and the other two
+	strains failed to synthesize vitamin B1 and para-aminobenzoic acid.
+	From this result, Beadle and Tatum concluded that these substances
+	were necessary growth factors for Neurospora. Additionally, they
+	concluded that the inability of a mutant to produce vitamin B6, such
+	a mutant is called a pyridoxinless mutant, was differentiated by a
+	single gene, which they had mutated in spores via X-rays.
+ In 1945,
+	Beadle published a more comprehensive account of the theories
+	presented in the 1941 paper, titled "Genetics and Metabolism in
+	Neurospora." The experiments on Neurospora allowed Beadle and Tatum
+	to propose the one gene-one enzyme hypothesis, a theory that became
+	central to genetics. The Neurospora experiments of the early 1940's
+	laid the foundation for Beadle and Tatum's later Nobel Prize in
+	Physiology or Medicine, awarded in 1958. 
+ Sources Beadle, George
+		Wells. "Genetics and Metabolism in Neurospora." Physiological
+		Reviews 25 (1945): 643–63.
+Beadle, George Wells, and Edward L. Tatum. "Genetic Control of
+Biochemical Reactions in Neurospora." National Academy of Sciences 27
+(1941): 499–505.  http://www.pnas.org/content/27/11/499.full.pdf
+(Accessed April 8, 2014).
+Beadle, George Wells, and Edward L. Tatum. "Neurospora. II. Methods of
+Producing and Detecting Mutations Concerned with Nutritional
+Requirements." American Journal of Botany 32 (1945): 678–86.
+"George Beadle - Biographical". Nobelprize.org. Nobel Media AB 2013.
+Web. 11 Apr 2014.
+ http://www.nobelprize.org/nobel_prizes/medicine/laureates/1958/beadle-
+bio.html (Accessed April 17, 2014).
+Houlahan, Mary B., George. W. Beadle, and Hermione Grant Calhoun.
+"Linkage Studies with Biochemical Mutants of Neurospora crassa."
+Genetics 34 (1949): 493–507.
+ http://www.genetics.org/content/34/5/493.full.pdf+html (Accessed April
+17, 2014).  
+
+How to cite
+Chhetri, Divyash, ""Genetic Control of Biochemical Reactions in Neurospora" (1941), by George W. Beadle and Edward L. Tatum". Embryo Project Encyclopedia (2014-06-11). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/7900.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+Copyright Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Thursday, June 12, 2014 - 16:39
+ Topic
+Subject
+Genetics; Genes; Experiment

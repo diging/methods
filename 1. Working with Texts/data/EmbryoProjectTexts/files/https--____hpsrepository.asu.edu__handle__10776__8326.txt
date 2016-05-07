@@ -1,0 +1,86 @@
+By Alexis Abboud
+Published: 2015-06-11
+Keywords: Sequenom, non-invasive prenatal genetic testing
+ Charles Robert Cantor (1942- )Charles Robert Cantor helped sequence the human genome, and he developed methods to non-invasively determine the genes in human fetuses. Cantor worked in the US during the twentieth and twenty-first centuries. His early research focused on oligonucleotides, small molecules of DNA or RNA. That research enabled the development of a technique that Cantor subsequently used to describe nucleotide sequences of DNA, a process called sequencing, in humans. Cantor was the principal scientist for the Human Genome Project, for which scientists sequenced the entirety of the human genome in 2003. Afterwards, Cantor became the chief scientific officer for Sequenom Inc., a company that provided non-invasive prenatal genetic testing. Such tests use a pregnant woman's blood to identify genetic mutations in a fetus during the first trimester of pregnancy.
+		
+Cantor was born on 26 August 1942 to Ida Dianne and Louis Cantor in Brooklyn, New York. As a high school student, he participated in a science program for high school seniors administered by Columbia University in New York, New York. Afterwards, Cantor attended Columbia for his undergraduate degree. While there, Cantor took a course in population genetics taught by Richard Lewontin. Cantor later reported that the course and Lewontin influenced him to pursue biology.  Cantor graduated from Columbia in 1963 with his degree. He then pursued doctoral studies in physical chemistry under Ignacio Tinoco Jr. at the University of California Berkeley in Berkeley, California. Tinoco and Cantor published "Exoenzyme kinetics with applications to the determination of nucleotide sequences" in 1964. That study focused on oligonucleotides and their nucleotide sequences. Oligonucleotides are short sequences of nucleotides that scientists often use as starters in polymerase chain reactions (PCR), a technique used to amplify and multiply small samples of DNA. Through that work, Cantor learned to use PCR and other genetic sequencing techniques, which he used in future work, such as the Human Genome Project and genetic testing in the private sector. 
+	
+Cantor graduated with his PhD in chemistry from the University of California, Berkeley, in 1966, at the age of 24. Cantor then returned to Columbia University in 1966, first as assistant professor of chemistry, before being promoted to full professor in 1972. While at Columbia, Cantor continued his research on oligonucleotides. In 1969, Cantor coauthored "Evolution of Protein Molecules" with Thomas H. Jukes, a colleague at the University of California, Berkely. The work described the Jukes-Cantor 69 (JC69) model that specifies the rate at which DNA sequences evolve over generations. Cantor then researched cell structure and assembly through the study of microtubules, components of the cell that maintain the structure of the cell. In 1980, Cantor coauthored Biophysical Chemistry, a textbook on biological macromolecules and their physical properties, with Paul R. Schimmel, a professor at the Massachusetts Institute of Technology, in Cambridge, Massachusetts. 
+
+In 1981, Cantor became a professor of genetics and development at Columbia University, where he stayed until 1989. During that time, he researched how to separate and purify DNA molecules. Cantor returned in 1989 to the University of California, Berkeley, which hired him as a professor. Cantor directed the Human Genome Center at the Lawrence Berkeley Laboratory in Berkeley, California, from 1988 until 1990. He was also the senior biochemist at the Lawrence Berkeley Laboratory from 1989 to 1991. Much of Cantor's work during that time focused on the measurements of small pieces of DNA. He worked to identify DNA sequences based on their lengths. 
+
+In 1990, the US Department of Energy, one of the primary funders of the Human Genome Project, appointed Cantor as the principal scientist of the Human Genome Project, where he worked until 1992.  While working at the Human Genome Project, Cantor continued his work on the separation and purification of DNA models as well as methods of DNA sequence detection through polymerase chain reactions (PCR). Cantor left California in 1992 for Boston, Massachussetts, where he became professor at Boston University. He also directed the Center for Advanced Biotechnology at Boston University. 
+
+In 1994, Cantor helped found Sequenom Incorporated, a biotechnology company headquartered in San Diego, California. Cantor helped develop Sequenom's research technique, MassARRAY, which detects and analyzes small amounts of genetic information to map genomes and identify biomarkers and their resulting phenotypes. MassARRAY analysis of DNA begins with a researcher embedding DNA into an organic matrix. Then the scientist applies an ultraviolet laser to the matrix, disrupting the structure of the DNA molecules, which causes the production of ions derived from the nucleic acid in the DNA sequence. A detector than reads the size of those ions to determine the nucleic acid sequence. MassARRAY partly enabled the later development of noninvasive prenatal genetic testing. MassARRAY takes small amounts of DNA from samples containing more than one person's DNA and analyzes it to determine the DNA sequence. 
+
+In 1999, Cantor published his second textbook, Genomics: The Science and Technology Behind the Human Genome Project, with Cassandra L. Smith, another professor at Boston University. The work explained the Human Genome Project and its uses based on Cantor's experience as principal scientist for the project. The Human Genome Project sequenced the entirety of the human genome in 2003.
+
+In 2007, Cantor began to collaborate with Dennis Lo to use the MassARRAY technology to develop commercial noninvasive prenatal genetic tests. Lo, a scientists at the Chinese University of Hong Kong in Hong Kong, China, had detected and analyzed free-floating DNA from fetuses in the serum, or the liquid part of blood, of pregnant women. By 2011, Lo, Cantor, and Sequenom started offering non-invasive prenatal genetic testing.  The tests detected and analyzed free-floating fetal DNA in pregnant women's blood to determine if their fetuses had mutations that could harm either the fetus or the woman. Sequenom took a sample of a pregnant woman's blood, extracted the fetal DNA, and analyzed it for certain chromosomal abnormalities, such as Down's syndrome (Trisomy 21).
+
+Cantor retired for Boston University in 2010 after a career in which he had received many awards. Cantor received the Eastman Kodak Award in 1965 and the Eli Lilly Award in Biological Chemistry from the American Chemical Society in 1978. In 1988, Cantor became a member of the US National Academy of Sciences and the American Academy of Arts and Sciences. After he retired, Cantor became an emeritus professor at Boston University and continued to do laboratory research. He remained the chief scientist for Sequenom, and he consulted for biotechnology companies. 
+
+
+
+
+Sources
+"Biography." Dr. Charles Cantor. https://web.archive.org/web/20130506032528/http://www.charlescantor.org/biography.php (Accessed October 6, 2013).
+Cantor, Charles R. "Company Profile: Sequenom, Inc." Pharmacogenomics 13 (2012): 529–31. 
+Cantor, Charles R. Survey Responses with Embryo Project Encyclopedia editors, August 2014.
+Cantor, Charles R., and Paul R. Schimmel. Biophysical Chemistry. Gordonsville: W.H. Freeman & Company
+				Publishing, 1980.  
+Cantor, Charles R., and Cassandra L. Smith. Genomics: The Science and Technology Behind the Human Genome
+				Project. Hoboken: Wiley, John & Sons, Inc., 1999. 
+Cantor, Charles R., Cassandra L. Smith, and Matthew K. Mathew. "Pulsed-field gel electrophoresis of very large DNA
+				molecules." Annual Review of Biophysics and Biophysical Chemistry 17 (1988): 287–304.
+Cantor, Charles R., Ignacio Tinoco Jr., and Leonard Peller. "Exoenzyme kinetics with applications to the determination
+				of nucleotide sequences." Biopolymers 2 (1964): 51–63.
+Cantor, Charles R., Myron M. Warshaw, and Herman Shapiro. "Oligonucleotide interactions. III. Circular dichroism
+				studies of the conformation of deoxyoligonucleolides." Biopolymers 9 (1970): 1059–1077.
+Chiu, Rossa W. K., Allen K. C. Chan, Yuan Gao, Virginia Y. M. Lau, Wenli Zheng, Tak Y. Leung, Chris H. F. Foo, Bin Xie,
+				Nancy B. Y. Tsui, Fiona M. F. Lun, Benny C.Y. Zee, Tze K. Lau, Charles R. Cantor, and Y. M. Dennis Lo.
+				"Noninvasive prenatal diagnosis of fetal chromosomal aneuploidy by massively parallel genomic sequencing of DNA in
+				maternal plasma." Proceedings of the National Academy of Sciences of the United States of America 105
+				(2008): 20458–63. http://www.pnas.org/content/105/51/20458.full (Accessed
+				July 31, 2014).
+Cullinan, Amy, and Charles Cantor. "Sequenom, Inc." Pharmacogenomics 9 (2008): 1211–5. 
+Dernidov, Vadim V. "Scholar, inventor and businessman: Charles R. Cantor at his 60th anniversary." Drug Discovery
+				Today 7 (2002): 849–50.
+ "Inside the World of Prenatal Diagnostics: Charles Cantor, Sequenom [podcast]." MendelsPod. 
+				http://mendelspod.com/podcast/inside-world-prenatal-diagnostics-charles-cantor-sequenom (Accessed October 6,
+				2013). 
+Jukes, Thomas H., and Charles R. Cantor. "Evolution of Protein Molecules." In Mammalian Protein Metabolism, ed.
+				H. N. Munro, 21–132. New York: Academic Press, 1969. 
+Jurinke, Christian, Dirk van den Boom, Charles R. Cantor, and Hubert Koster. "Automated Genotyping Using the DNA
+				MassARRAY Technology." Methods in Molecular Biology 187 (2002): 179–192.
+Lo, Y. M. Dennis, Fiona M. F. Lun, Allen K. C. Chan, Nancy B. Y. Tsui, Ka C. Chong, Tze K. Lau, Tak Y. Leung, Benny C.
+				Y. Zee, Charles R. Cantor, and Rossa W. K. Chiu. "Digital PCR for the molecular detection of fetal chromosomal
+				aneuploidy." Proceedings of the National Academy of Sciences of the United States of America 104 (2007):
+				13116–21.
+				http://www.pnas.org/content/104/32/13116.full
+				(Accessed July 31, 2014).
+Sano, Takeshi, Cassandra L. Smith, and Charles R. Cantor. "Immuno-PCR: very sensitive antigen detection by means of
+				specific antibody-DNA conjugates." Science 258 (1992): 120–122. 
+Schwartz, David C., and Charles R. Cantor. "Separation of yeast chromosome-sized DNAs by pulse field gradient gel
+				electrophoresis." Cell 37 (1984): 67–75. 
+			http://www.cell.com/cell/pdf/0092-8674(84)90301-5.pdf (Accessed July 31, 2014).
+Shelanski, Michael L., Felicia Gaskin, and Charles R. Cantor. "Microtubule assembly in the absence of added
+				nucleotides." Proceedings of the National Academy of Sciences 70 (1973): 765–768. http://www.pnas.org/content/70/3/765.full.pdf (Accessed June 9, 2015).
+Smith, Cassandra L., and Charles R. Cantor. "Purification, specific fragmentation, and separation of large DNA
+				molecules." Methods in Enzymology 155 (1987): 449–497.
+
+
+How to cite
+Abboud, Alexis, "Charles Robert Cantor (1942- )". Embryo Project Encyclopedia (2015-06-11). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/8326.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+Copyright Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Thursday, June 11, 2015 - 22:00
+ Topic
+Subject
+ Cantor, Charles R., 1942-; Human Genome Project; DNA; Fetal development; Fetus; Embryos; Molecular biology; Nucleotide sequence; Genomics; Genetics; Pregnancy; Prenatal diagnosis; Prenatal care; Columbia University; Boston University; University of California, Berkeley; People

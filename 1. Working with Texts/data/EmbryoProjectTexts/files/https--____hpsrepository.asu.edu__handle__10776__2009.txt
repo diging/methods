@@ -1,0 +1,52 @@
+By 
+Published: 2010-06-14
+Keywords: Models, Evolution
+ John von Neumann’s Cellular AutomataCellular automata (CA) are mathematical models used to simulate complex systems or processes. In several fields, including biology, physics, and chemistry, CA are employed to analyze phenomena such as the growth of plants, 
+		DNA evolution, and 
+		embryogenesis. In the 1940s 
+		John von Neumann formalized the idea of cellular automata in order to create a theoretical model for a self-reproducing machine. Von Neumann’s work was motivated by his attempt to understand biological evolution and self-reproduction.
+In 1948, von Neumann set out to describe a model of a self-reproducing machine in a paper called “The General and Logical Theory of Automata” that he wrote for the Hixon Symposium. He had not yet conceived of cellular automata and could not completely solve the problem of how, in theory, a machine could self-reproduce. Only after the suggestion by his colleague 
+		Stanislaw Ulam to use a cell-based concept, was von Neumann able to formulate a model for a machine that was fully capable of self-reproduction. This theoretical model is based on the concept of cellular automata. Von Neumann describes it in his book 
+		Theory of Self-Reproducing Automata, which was completed and published after his death by Arthur Walter Burks in 1966.
+A cellular automaton is a theoretical machine that consists of elements called cells. Each cell has a value, or state, and is connected to certain neighboring cells so that they form a one- or multidimensional lattice. The states of the cells change at discrete time-steps. The new state of a cell is computed from the previous states of the connected neighboring cells using predefined rules. In Theory of Self-Reproducing Automata, von Neumann described a cellular automaton with twenty-nine possible states for each cell and in which every cell is connected to the cell above, below, left, and right (called a “von Neumann” neighborhood). He proved that the dynamics exhibited by such a cellular automaton are similar to the biological processes involved in self-reproduction and evolution. Other cellular automata were developed, for instance by 
+		Edgar Frank Codd in 1968, with different numbers of possible states, connected neighbors, and the rules used to calculate new states.
+In his first model of a self-reproducing machine, described in 1948, von Neumann dealt with the information in the model in two ways. First, the information was interpreted by the self-reproducing machine and used as instructions to build a copy of the machine. Second, the information was not interpreted but was copied and given to the newly built machine. This handling of information is analogous to the use of DNA in the reproduction process of living cells. To replicate itself, a living cell copies the DNA and then uses the DNA as instructions to create a new cell via cell division, while the copy of the DNA is given to the new cell. Remarkably,,von Neumann described this twofold use of information before the double helix structure of DNA was discovered in 1953.
+After Burks published von Neumann’s book in 1966, more scientists became interested in cellular automata. In 1970, 
+		John Conway introduced a CA called 
+		Game of Life. The two-dimensional lattice of this automaton has infinite size. There are two possible states for the cells: dead and alive. The state of a cell is calculated from the number of neighboring cells that are dead and the number of the cells that are alive. A Game of Life player chooses how many and which cells are alive at the beginning of the game and then observes the patterns formed by the cells as they “divide.” 
+		Christopher Langton proposed another CA in 1984. He introduced a cellular automaton with eight possible states, called 
+		Langton’s loop, that has a looped pathway with an arm, the construction arm, attached to it. A Langton’s loop has an outside layer consisting of cells that keep a fixed state and an inside layer made up of cells in diverse states circulating around the loop. These circulating cells are the building instructions, the “DNA,” for the self-reproduction of the loop. In the reproduction process, a new Langton’s loop grows on the end of the construction arm. When the new loop is completed, the reproducing Langton’s loop is disconnected from its copy, metaphorically speaking the umbilical cord is cut, and both loops continue reproducing.
+Von Neumann was never able to actually build his self-reproducing machine, but his concept of cellular automata became widely used. The ability of cellular automata to exhibit complex behavior based on only a few rules makes them applicable to several phenomena from different scientific fields. For instance, cellular automata have become an especially fundamental concept in the field of 
+		artificial life. 
+		Hugo de Garis used a cellular automaton in his 
+		Embryo Project, which aimed to build an artificial embryo. As Langton argues in his 1986 article 
+		“Studying Artificial Life with Cellular Automata,” because von Neumann was able to prove that a self-reproducing machine was possible, maybe life itself is achievable by machines.
+
+Sources
+Adami, Christoph. Introduction to Artificial Life. New York: Springer, 1998.
+Bedau, Mark A. “Artificial Life: Organization, Adaptation and Complexity from the Bottom Up.” Trends in Cognitive Sciences 7 (2003): 505–12. http://www.cell.com/trends/cognitive-sciences/archive?year=2003 (Accessed November 9, 2009).
+De Garis, Hugo. “Genetic Programming: Artificial Nervous Systems, Artificial Embryos and Embryological Electronics.” In Parallel Problem Solving from Nature, eds. G. Goos and J. Hartmanis, 117–23. Berlin: Springer, 1991.
+Delorme, Marianne, and Jacques Mazoyer, eds. Cellular Automata: A Parallel Model. Dordrecht, Netherlands: Kluwer Academic, 1999.
+Deutsch, Andreas, and Sabine Dormann. Cellular Automaton Modeling of Biological Pattern Formation. Boston: Birkhäuser, 2005.
+Ilachinski, Andrew. Cellular Automata: A Discrete Universe. Singapore: World Scientific, 2001.
+Keller, Evelyn Fox. Making Sense of Life: Explaining Biological Development with Models, Metaphors, and Machines. Cambridge, MA: Harvard University Press, 2002.
+Langton, Christopher. “Studying Artificial Life with Cellular Automata.” Physica D: Nonlinear Phenomena 22 (1986): 120–49. http://www.sciencedirect.com/science/journal/01672789 (Accessed November 9, 2009).
+Schiff, Joel L. Cellular Automata: A Discrete View of the World. Hoboken, NJ: Wiley-Interscience, 2008.
+Von Neumann, John. 	Theory of Self-Reproducing Automata. Ed. Arthur W. Burks. Urbana: University of Illinois Press, 1966.
+
+
+How to cite
+ "John von Neumann's Cellular Automata". Embryo Project Encyclopedia (2010-06-14). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/2009.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 25, 2013 - 15:53
+ Topic
+Subject
+ Von Neumann, John, 1903-1957; Concept

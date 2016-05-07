@@ -1,0 +1,234 @@
+By Abhinav Mishra
+Published: 2014-10-24
+Keywords: gene regulatory networks, repeated DNA sequences, repetitive elements
+ Roy John Britten (1919-2012)Roy John Britten studied DNA sequences in the US in the second
+	half of the twentieth century, and he helped discover repetitive
+	elements in DNA sequences. Additionally, Britten helped propose
+	models and concepts of gene regulatory networks. Britten studied the
+	organization of repetitive elements and, analyzing data from the
+	Human Genome Project, he found that the repetitive elements in DNA
+	segments do not code for proteins, enzymes, or cellular parts.
+	Britten hypothesized that repetitive elements helped cause cells to
+	differentiate into more specific cell kinds among different
+	organisms.
+Britten was born on 1 October 1919 in Washington,
+	D.C., to Marion Hale, who worked for the US National Research
+	Council, and Rollo Britten, a statistician at the National Bureau of
+	Standards. His mother exposed Britten to science early, and he
+	shared a chemistry lab in the basement with his brother. Britten
+	attended the University of Virginia in Charlottesville, Virginia, in
+	1936, earning his degree in physics in 1940. He then earned his
+	Master's degree in physics at Johns Hopkins University in Baltimore,
+	Maryland, in 1941 while working on isotope separation, a process of
+	removing isotopes from a chemical element to isolate other
+	isotopes. 
+Britten worked on the Manhattan Project until 1946. Upon
+	leaving the Manhattan Project, he began his doctoral work in 1946 at
+	Princeton University in Princeton, New Jersey. Britton earned his
+	PhD in nuclear physics in 1951, working with a particle accelerator
+	called a cyclotron. At Princeton, he met Barbara Hagen, and they
+	married in 1947. They had two sons, Greg and Ken, born in 1956 and
+	1958 respectively. Britten and his wife divorced in 1976, and in 1986 Britten 
+	married Jacqueline Reid, who died in 2001.
+ After
+	taking a post-doctoral position in biophysics at the Department of
+	Terrestrial Magnetism at the Carnegie Institution of Washington in
+	Washington, D.C., where he stayed from 1951 to 1971, Britten took a
+	course on bacteriophages at the Cold Spring Harbor Laboratory in
+	Cold Spring Harbor, New York, and he shifted his research to DNA
+	hybridization at the Carnegie Institution. At the Carnegie
+	Institution, Britten observed single stranded DNA
+	segments combine to form double stranded DNA through a process
+	called renaturation, or the re-pairing of complementary base pairs.
+	To form the double strand, the DNA base pairs must find their
+	complementary pairs. Britten hypothesized that if the strands had
+	repeat sequences, it would then be easier and quicker for the base
+	pairs to locate their complementary base pairs. However, if there
+	was no repeat sequence, then the rate at which the base pairs form the
+	double strands depended on the size of the whole genome. 
+Britten, along with Michael Waring, another scientist at the Carnegie
+	Institution, denatured mouse DNA in 1964. They published their
+	results in a 1966 paper titled "Nucleotide Sequence Repetition: a
+	Rapidly Reassociating Fraction of Mouse DNA." Britten's team had
+	discovered how to isolate single copies of DNA through
+	hydroxyapatite column chromatography in 1962. Utilizing
+	chromatography, Britten and Waring isolated DNA of other animals and
+	noted that related species have the same repeat sequences.
+ Working
+	with his colleague David Kohne at the Carnegie Institution in 1965,
+	Britten compared the eukaryotic DNA from a mouse with the DNA of a
+	single-celled bacterium. Knowing that mice had greater than one
+	hundred times the amount of DNA per cell as compared to a bacterium
+	Escherchia coli, they hypothesized that bacterial DNA
+	would reform quicker than eukaryotic DNA. They hypothesized that as
+	there was less DNA, the base pairs should find their complementary
+	pairs quicker. However, they found that the eukaryotic mice DNA
+	reformed double strands quicker than did the bacterial DNA, and this
+	data suggested that the E. coli took longer to find its
+	complementary base pairs. This work, published in the 1968 article
+	"Repeated Sequences in DNA,, hinted that there were more complex
+	interactions between base pairs of DNA than previously theorized.
+	
+Britten and Kohne tested to see how much of the mouse genome coded
+	for proteins, as the majority of the mouse DNA seemed to be made of
+	repetitive elements, which don't code for proteins. To test to see if mRNA
+	duplicated all of the portions of the DNA, they radioactively
+	labeled mRNA before dissociating the strands of the DNA to see how
+	the mRNA compared with the DNA. The mRNA then combined with the DNA, but only on portions that were not repetitive, and
+	Britten, noting that mRNA is a precursor to cell products, showed
+	that the repetitive elements did not code for any cell product.
+	Britten and Kohne confirmed that repetitive elements were large
+	portions of noncoding regions of the genome in mice, calf, and
+	salmon in their 1968 paper "Repeated Sequences in DNA, Hundreds of
+	Thousands of Copies of DNA Sequences have been Incorporated into the
+	Genomes of Higher Organisms." 
+The question remained, however, as to
+	why DNA that does not code for proteins would exist in genomes. Britten and
+	Kohne argued that the repetitive portion of DNA most likely comes
+	from errors during DNA replication. As they found many repetitive
+	units near the centromere, the part of the chromosome that links
+	 sister chromatids, they hypothesized that the repetitive
+	portions of DNA functioned in cell division. During cell division,
+	the centromere attaches to spindle fibers that allow the sister
+	chromatids to be pulled apart. 
+Between 1967 and 1969, Britten worked
+	with Eric Davidson at the California Institute of Technology
+	(CalTech) to propose a gene regulation network model, in which genes
+	interacted to control cell differentiation through expression of
+	genes. They sought to predict the development of different organisms
+	by following the regulatory genes that controlled specific genes
+	that were turned on at specific times. At the time, embryologists could not distinguish what
+	processes controlled cell differentiation and cell determination. Britten and
+	Davidson connected regulatory RNAs to repetitive sequences in their
+	model, showing that RNA could interact and regulate DNA. However,
+	the method in which the RNAs functioned in gene expression was not
+	clearly outlined. Since the introduction of the Britten-Davidson
+	model, researchers have used it to model the functioning of genes in
+	many animals. They published their theory in 1969, in an article
+	titled "Gene Regulation for Higher Cells: A Theory." 
+Through the
+	1970s, Britten developed methods for identifying genetic
+	similarities between organisms. In 1971, Britten took a visiting
+	associate professorship at the Kerckhoff Marine Lab, a part of
+	CalTech, in Newport Beach, California. Davidson joined Britten at
+	CalTech to work on The Macroproject during the same year. Funded by
+	the National Institute of Child Health and Human Development
+	headquartered at Bethesda, Maryland, Britten and Davidson developed
+	The Macroproject to examine how genes affected organisms as they developed. Britten
+	and Davidson used the sea urchin embryo as their model system. In
+	1971, Britten and Davidson published "Repetitive and Non Repetitive
+	DNA Sequences and a Speculation on the Origins of Evolutionary
+	Novelty," in which they concluded that legs and fins develop as a
+	direct result of specific genes turned on during specific times of
+	development. 
+After this work, Britten and Davidson partnered to
+	study the regulation of gene in animal development until Britten's
+	death in 2012. To study how repetitive DNA sequences were distributed
+	throughout the sea urchin genome, Britten and Davidson in the early 1970s sheared DNA at different lengths and then reattached the
+	sheared base pairs (re-natured) to their complementary pairs. They discovered that large
+	portions of the sea urchins' genomes contained repetitive elements
+	that interspersed among smaller coding regions. In 1971, they found
+	that mammalian and frog DNA also had large portions of repetitive
+	elements. However, the repetitive elements differed in composition
+	between different species, and even between closely related species.
+	
+Britten was promoted to senior research associate at CalTech in 1973. While
+	teaching a class in the summer of 1973, Britten used his students to
+	help sequence the DNA of multiple marine organisms. Using the
+	sequenced data, he showed that genomes were organized in many
+	different ways, and that the ranges for repetitive units varied
+	extensively across species. He showed that the fruit fly, for
+	instance, had no repetitive units.  In the 1980s, Britten studied
+	messenger RNA in embryos, culminating in the 1980 publication
+	"Messenger RNA Prevalence in Sea Urchin Embryos Measured with Cloned
+	cDNAs." Britten discovered that different genes were expressed at
+	different intervals in the sea urchin embryo as it developed, and he showed how to
+	measure the rates of synthesis of nuclear RNA and the corresponding
+	mRNA levels in the cytoplasm of the cells.
+ Beginning in 1990,
+	Britten focused on genomics and evolution. With computational
+	analyses, Britten used data generated by the Human Genome Project to
+	determine how repetitive elements affected the human genome. Britten
+	studied repetitive DNA and how it influenced evolutionary
+	history. At first, Britten only accounted for substitutions, in which a single base pair in a DNA sequence replaces, over the course of evolution, a different base
+	pair in that sequence. Later Britten started observing indels, or whole sections of
+	DNA that were removed or added to DNA sequences over the course of evolution. He published this research in
+	2002. He found that 1.4 percent of
+	differences between chimpanzee and human DNA were caused by
+	substitution, while 3.9 percent were caused by indels. This paper
+	challenged the 1975 theory proposed by Alan Wilison and Mary-Claire
+	King, working at the University of California Berkeley in Berkeley,
+	California, that chimps and humans shared greater than 98 percent
+	of their DNA. In addition to primates, Britten also used sea urchins
+	to look for similar patterns in the genomes caused by the repetitive
+	DNA elements. 
+	
+Beyond his work in science, Britten sailed, played the
+	flute, and painted. In 1972, he was elected into the US National
+	Academy of Sciences in Washington, D.C. Britten studied primate genomes at
+	CalTech until his death on 21 January 2012, of pancreatic cancer.
+	
+ Sources Britten, Roy J. "Rates of DNA sequence evolution differ between taxonomic groups." Science 231 (1986): 1393–1398.
+
+Britten, Roy J. "DNA sequence insertion and evolutionary variation in gene regulation." Proceedings of the National Academy of Sciences 93 (1996): 9374–9377. http://www.pnas.org/content/93/18/9374.full.pdf (Accessed October 8, 2014).
+Britten, Roy J. "Divergence Between Samples of Chimpanzee and Human DNA
+Sequences is 5%, Counting Indels." Proceedings of the National Academy
+of Science 99 (2002): 13633–5. 
+http://www.pnas.org/content/99/21/13633.long (Accessed April 23, 2014).
+Britten, Roy J., and Eric H. Davidson. "Gene Regulation for Higher
+Cells: A Theory." Science 165 (1969): 349–57.
+Britten, Roy J., and Eric H. Davidson. "Repetitive and Non-repetitive
+DNA Sequences and a Speculation on Origins of Evolutionary Novelty."
+Quarterly Review of Biology 46 (1971): 111–38. http://www.jstor.org/stable/2822073 (Accessed October 8, 2014).
+Britten, Roy J.,
+		and David E. Kohne. "Repeated Sequences in DNA. Hundreds of
+		Thousands of Copies of DNA Sequences have been Incorporated into
+		the Genomes of Higher Organisms." Science 161 (1968): 529–40.
+Britten, Roy J., Will F. Baron, David B. Stout, and Eric H. Davidson. "Sources and evolution of human Alu repeated sequences." Proceedings of the National Academy of Sciences 85 (1988): 4770–4774. http://www.pnas.org/content/85/13/4770.full.pdf (Accessed October 8, 2014). 
+Davidson, Eric H. "Roy J. Britten, 1919–2012: Our Early Years at
+Caltech." Proceedings of the National Academy of Science 109 (2012):
+6358–9. http://www.pnas.org/content/109/17/6358.full (Accessed October 8, 2014).
+Davidson, Eric H., and Roy J. Britten. "Organization, transcription, and regulation in the animal genome." Quarterly Review of Biology (1973): 565–613. http://www.jstor.org/stable/2820653 (Accessed October 8, 2014).
+Davidson, Eric H., and Roy J. Britten. "Regulation of gene expression: possible role of repetitive sequences." Science 204 (1979): 1052–1059.
+Davidson, Eric H., Glenn A. Galau, Robert C. Angerer, and Roy J. Britten. "Comparative aspects of DNA organization in metazoa." Chromosoma 51 (1975): 253–259.
+"Interactive: DNA Learning Center: Preparing Students and Families to
+Thrive in the Gene Age "Roy John Britten." Cold Spring Harbor
+Laboratory. 
+ www.dnalc.org/view/16665-Biography-31-Roy-John-Britten-1919-.html
+(Accessed April 23, 2014).
+King, Mary-Claire, and Allan C. Wilson. "Evolution at Two Levels in
+Humans and Chimpanzees." Science 188 (1975): 107–16.
+Lasky, Laurence A, Zeev Lev, Ji-Hou Xin, Roy J. Britten, and Eric H.
+Davidson. "Messenger RNA Prevalence in Sea Urchin Embryos Measured with
+Cloned cDNAs." Proceedings of the National Academy of Science 77 (1980):
+5317–21. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC350049/ (Accessed
+April 23, 2014).
+Morange, Michael. "What History Tells Us: Regulation of Gene Expression
+by Non Coding RNAs: the Early Steps." Journal of Biosciences 33 (2008):
+327–1.
+Pickrell, John. "Humans, Chimps Not as Closely Related as Thought."
+National Geographic News, 2002.
+ news.nationalgeographic.com/news/2002/09/0924_020924_dnachimp.html
+(Accessed April 23, 2014).
+Waring, Michael and Roy J. Britten. "Nucleotide Sequence Repetition: a
+Rapidly Reassociating Fraction of Mouse DNA." Science 154 (1966):
+791–4.
+Woo, Marcus. "Roy J. Britten, 92." California Institute of Technology. 
+www.caltech.edu/content/roy-j-britten-92 (Accessed on April 23, 2014).
+ 
+
+How to cite
+Mishra, Abhinav, "Roy John Britten (1919-2012)". Embryo Project Encyclopedia (2014-10-24). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/8229.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+Copyright Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Friday, October 24, 2014 - 20:02
+ Topic
+Subject
+Gene Expression Regulation; Cell Differentiation; DNA; Genomes; Britten, Roy J.; California Institute of Technology; Genetic regulation; mice; Chimpanzees; Sea urchins; Carnegie Institution of Washington; Systems biology; People

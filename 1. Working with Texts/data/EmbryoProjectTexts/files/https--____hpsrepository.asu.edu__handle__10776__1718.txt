@@ -1,0 +1,60 @@
+By Adam R. Navis
+Published: 2007-10-30
+Keywords: Differentiation, Induction
+ Chemical InductionResearch in chemical induction seeks to identify the compound or compounds responsible for differentiation in a developing embryo.  
+		Soren Lovtrup compared the search for these compounds to the search for the philosopher’s stone.  It was based on the assumption that the differentiating agents have to be chemical substances either within cells or in the extracellular matrix.  However, despite numerous efforts to understand them, the nature of these substances remained largely a mystery from the 1930s until the 1980s, when the new era of molecular induction based on molecular genetics provided a new perspective.  During the period of emphasis on chemical induction, a variety of different experiments were conducted aimed at discovering the chemical nature of the inducer.  In some experiments, the 
+		organizer region was killed by heat to assess the inducing ability of a dead organizer.  Other experiments used natural and synthetic compounds to attempt 
+		induction.  Although none of these experiments identified a chemical inducer with any certainty, they did discover many related properties of the developing embryo.
+The era of chemical induction began with experiments on the dead 
+		organizer.  These experiments removed the 
+		organizer region from an embryo, killed it by boiling or other means, and then tested the capability for 
+		induction.  Experiments by 
+		Johannes Holtfreter showed that notochord, killed organizer, and killed endoderm were all capable of inducing neural tissue in the ectoderm.  These experiments with dead organizer tissue strongly suggested that some chemical must be responsible for 
+		induction, since the inducing tissue had been otherwise inactivated.
+In the 1930s 
+		Conrad H. Waddington and 
+		Joseph Needham collaborated to identify the chemicals responsible for 
+		induction in a series of experiments on the 
+		amphibian organizer.  They focused their work on ether soluble embryo extracts.  These extracts were shown to induce general neural tissue in the ectoderm on the 
+		amphibians, for which 
+		Waddington coined the term “evocator.”  He used evocator to describe a one-way induction event leading to tissue differentiation.  Since the evocator 
+		Waddington and 
+		Needham discovered was ether soluble, it was considered to be a sterol, a class of molecules that includes many hormones related to later development.
+Sterols were not the only proposed evocator.  
+		Else Wehmeier’s experiments seemed to show that various acids, including nucleic and oleic acids, were capable of 
+		induction.  Experiments conducted by L. G. Barth showed that protein might be the active compound.  Even a dye, methylene blue, seemed to have inducing potential.  These experiments demonstrated that none of the identified compounds were solely responsible for 
+		induction.  In fact, many of these experimental procedures killed the cells and released their contents, which generated an over-abundance of potential candidate molecules.  From this information 
+		Waddington proposed that all cells, not just the organizer cells, contained evocators.  He hypothesized that the evocators were released upon the death and lysis of the cell.
+Further support for a diffusible induction signal came from experiments by 
+		Lauri Saxen in 1961.  He was able to induce neural tissue in ectoderm through an extremely fine filter.  A decade later, 
+		Sulo Toivonen showed that 
+		induction could occur while the mesoderm and ectoderm were not in direct contact through the filter by examination with an 
+		electron microscope.  This demonstrated the ability of the evocator to act remotely as a diffusible substance.
+Research into chemical induction gave way to new approaches within molecular biology in the 1980s.  As early as 1947, 
+		Jacques Monod attempted to redefine the 
+		inducer in the terms of molecular biology.  His work on “adaptive” or inducible enzymes suggested the possibility of genetic control of the active compounds in development.  In 1962, after the model of the lac operon was proposed, even 
+		Waddington redefined evocator in terms of genetic regulation.  The lac operon provided a model of genetic regulation, which activated and deactivated genes based on environmental interactions.
+The paradigms of chemical induction remained in force for nearly half a century before it was reframed within molecular biology.  Compounds of many types were identified to be potential 
+		organizers.  Ether soluble compounds, many acids, a dye, and many others were identified as possible inducers.  As molecular biology would later discover, the proteins responsible for 
+		induction were in too small a quantity for any of the classic purification methods to identify.  This could have been a contaminant in many of the experiments, and released by the killed cells in the other experiments.  The search for a chemical inducer did not uncover the responsible compound, but it did elucidate many chemical and other aspects of the process of development.
+
+Sources
+Gilbert, Scott F.  “Continuity and Change: Paradigm Shifts in Neural Induction.” The International Journal of Developmental Biology 45 (2001): 155–64. http://www.ijdb.ehu.es/web/paper.php?doi=11291843 (Accessed November 10, 2014).
+Needham, Joseph.  Biochemistry and Morphogenesis.  Cambridge: Cambridge University Press, 1950.
+
+
+How to cite
+Navis, Adam R., "Chemical Induction". Embryo Project Encyclopedia (2007-10-30). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/1718.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Monday, November 10, 2014 - 23:14
+ Topic
+Subject
+Embryonic Induction; Cell differentiation; Embryos; Developmental biology; Notochord; Waddington, C. H. (Conrad Hal), 1905-1975; Needham, Joseph, 1900-1995; Molecular biology; Genetic regulation; Concept

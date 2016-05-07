@@ -1,0 +1,77 @@
+By Adam R. Navis
+Published: 2007-10-30
+Keywords: Differentiation, Organizers
+
+Organisers and Genes
+      Conrad Hal Waddington’s
+
+      Organisers and Genes, published in 1940, is a summary of available research and theoretical framework for many concepts related to tissue differentiation in the developing embryo. The book is composed of two main conceptual sections.  The first section explores the action and nature of the 
+		organizer, while the second section delves into genes and their influence on development.
+In this book 
+		Waddington explored 
+		organizers in terms of their capacity and method of 
+		induction.  First he examined the nature of 
+		induction, discussing crucial experiments concerning the 
+		organizer, including 
+		Hans Spemann’s discovery of the 
+		organizer, and his own research into 
+		organizers in higher birds and mammals.  
+		Waddington separated the action of the 
+		organizer into two distinct categories, evocation and individuation, discussed below.  The main experimental approach discussed in this book involved grafting organizing tissue from one embryo or region of an embryo to another.
+
+      Waddington described evocation as non-assimilative induction, or a one-way inducing signal.  He presented this as a chemical signal and illustrated evocation with the dead organizer experiment.  The dead organizer was shown to be capable of inducing differentiation of neural tissue in the ectoderm.  He also included 
+		chemical induction
+ by estrogens and steroids as other evocative signals.  An important aspect of any signal of evocation, as presented by 
+		Waddington, is that the signal is specific to the differentiation of a certain tissue type.
+
+      Waddington used the concept of individuation to describe an interaction between a host and the grafted organizer.  This is illustrated by the role of regional organizers.  He defines regional induction as a transplanted organizer, which induces tissue based on the location of graft on the host, not the origin of the graft.  
+		Waddington’s argument for individuation also included the experiments with a dead organizer.  A dead organizer can effect some differentiation but it does not accomplish a complete induction like a living organizer.  
+		Waddington proposed that the living organizer must have some aspects of individuation, which account for the balance of induction.  For 
+		Waddington individuation and evocation are rarely separate from each other, but rather work together to cause differentiation.
+Both evocation and individuation rely on the competence of a tissue for induction.  Competence is the ability of a cell to respond to inducing signals.  
+		Waddington described competence as a cell in a state of instability.  Induction provides a push toward one developmental pathway or another from this point of instability.  If the cell is not induced during a period of competence, the cell will self-differentiate according to its own tendencies.  It is in the section on competence that the elements of the 
+		epigenetic landscape are described.  He explained developmental pathways as like a delta, or a system of valleys that branch downward.
+The second major section of Organisers and Genes is devoted to the action of genes on a developing system.  Based on the recognized ubiquity of genes throughout the animal kingdom, 
+		Waddington concluded that the important outstanding question was the nature of the substances produced by the genes.  He proposed that genes are involved in all developmental processes and that the concentration of gene products is important to the differentiation of the cell.  
+		Waddington was also quick to point out that not all genetic effects can be described by the mere quantity of gene products, such as the case of pattern formation.  
+		Waddington discussed the interactions among genes in the context of 
+		
+Drosophila
+ eye mosaics.  He explained that different gene combinations produce different coloration of the eyes.  Based on these examples, 
+		Waddington then proposed that genes were involved in all aspects of development.
+
+      Waddington also developed the concept of temporal effects of genes.  The action of genes over time was described in the context of developmental stages.  
+		Waddington illustrated the development of 
+		
+Drosophila
+ eye colors and antennae as a branching track diagram.  The branching track diagram appears as a single line with three perpendicular lines branching off the original line.  Each branch represents a point of competence for a given gene.  If the gene is not present during the competent period, the tissue breaks from the wild-type pathway down an alternate developmental pathway.  
+		Waddington expanded on the branching track diagram by illustrating the tracks as points of equilibrium on a slope composed of hills and valleys.  He termed this the 
+		“epigenetic landscape” and used it in this book to illustrate the regulation of the developmental pathways and evocator-competence reactions.
+
+      Waddington’s conclusion in Organisers and Genes contained a discussion of the theory of organization.  He presented the units of development as fields rather than cells.  Fields are preferred because the later development of an organism involves less the fate of individual cells and more the expansion of the patterns of differentiated tissues.  In particular, 
+		Waddington defended fields against the concept of “complementarity.”  This is a concept that Niles Bohr expanded from the field of physics, stating that the position and velocity of a particle can never be known simultaneously.  
+		Waddington rejected that this would also apply to developmental biology because the chemical and physical properties of an embryo are not complementary to each other and he argued that embryology was not yet at the stage where those properties could be known in tandem.  
+		Waddington also rejected the idea that organization is an irreducible principle of development.  He used the examples of liquid crystals and fiber polymers to illustrate the factors that compose organization and also how the properties of elementary units bring about organization.  Therefore no new properties need to be invented to explain biological organization.  The final section in Organisers and Genes discusses the importance of philosophy for science in terms of theoretical biology.  
+		Waddington emphasized that philosophy should be used both before and after a scientific experiment, to ask questions and to interpret results.
+
+Sources
+Gilbert, Scott F.  “Diachronic Biology Meets Evo-Devo: C. H. Waddington’s Approach to Evolutionary Developmental Biology.”  American Zoologist 40 (2000): 729–37.
+Slack, Jonathan M. W.  “Conrad Hal Waddington: The Last Renaissance Biologist?”  Nature Reviews Genetics 3 (2002): 889–95.
+Waddington, Conrad H.  Organisers and Genes.  Cambridge: Cambridge University Press, 1940.
+
+
+How to cite
+Navis, Adam R., "Organisers and Genes (1940), by Conrad Hal Waddington". Embryo Project Encyclopedia (2007-10-30). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/1685.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, March 18, 2015 - 16:36
+ Topic
+Subject
+Organizers, Embryonic; Waddington, C. H. (Conrad Hal), 1905-1975; Literature

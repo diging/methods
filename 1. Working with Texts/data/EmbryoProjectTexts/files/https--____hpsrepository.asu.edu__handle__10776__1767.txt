@@ -1,0 +1,72 @@
+By Adam R. Navis
+Published: 2007-11-13
+Keywords: Nerve growth factor, Tissue culture
+ “The Outgrowth of the Nerve Fiber as a Mode of Protoplasmic Movement”In “The Outgrowth of the Nerve Fiber as a Mode of Protoplasmic Movement,” 
+		Ross Granville Harrison explores the growth of nerve fibers in vitro.  The purpose of this experiment was to test two possible hypotheses for the growth of nerve fibers.  
+		Santiago Ramón y Cajal suggested that nerve growth is due to the extension of nerve fibers as they push through tissue.  
+		Victor Hensen’s 
+		syncytial theory proposed an opposing view of nerve growth.  He proposed that each neuron was connected by threads of cytoplasm and the successful connections stimulated further differentiation of the correct neural connections.  Using hanging drop tissue cultures, 
+		Harrison provided significant evidence for 
+		Ramón y Cajal’s theory by showing discrete cell membranes between cells and observing the growth of individual neurons.
+This paper was published in the Journal of Experimental Zoology, volume 9, in 1910.  
+		Harrison wanted to resolve the two opposing theories concerning nerve growth.  
+		Hensen’s theory was attracting many supporters in the early 1900s, because it was simple and provided a powerful model of 
+		neural development.  It explained how nerves grow and how they find their way through a developing embryo.  
+		Harrison felt there was not enough understanding of the processes at work, and this experiment was conducted to demonstrate the action of nerve growth.  
+
+		Harrison experienced difficulty growing the nerve fibers in vitro.  First he explanted the 
+		neuroblasts to a solution of physiological salt or Locke’s solution.  This is a basic method of culturing tissues, but no nerve fibers differentiated before they decomposed.  Next, he placed the 
+		neuroblasts in a gelatinous mixture, but the nerve fibers also failed to differentiate in this culture.  On his third try, he placed the 
+		neuroblasts in a solution containing clotted frog lymph in a sodium chloride solution.  This provided a support structure for the nerves to grow and differentiate.  
+
+		Harrison used a 
+		hanging drop to observe the growth of the cells.  A 
+		hanging drop consists of a drop of media below an inverted slide, which allows a tissue to grow unrestricted by the force of gravity against a plate.  The 
+		hanging drop was adapted by 
+		Harrison from microbiology to 
+		embryology and was the first example of a tissue culture.  In initial experiments the cultures were overcome by bacterial infection and no results were collected.  After unsuccessful experimentation with various antiseptics, 
+		Harrison resorted to working in a sterile environment.  
+		Harrison also used small clots of blood as stationary reference points, and to study the ability of the nerves to innervate the clots.  
+This paper also includes a brief section on the differentiation of 
+		neuroblasts, a type of stem cell.  
+		Neuroblasts are precursors to more differentiated neural tissue, such as glia or neurons.  
+		Harrison placed skin cells near some 
+		neuroblasts, and muscle cells near other 
+		neuroblasts in an attempt to alter their differentiation.  He hypothesized that the 
+		neuroblasts near muscle would differentiate into motor neurons, and the 
+		neuroblasts near skin would differentiate into sensory neurons.  
+		Harrison was unable to reach any conclusions, but he laid the basics for future research into differentiation.
+As the nerve fibers developed, 
+		Harrison observed evidence that the growth of nerve fibers proceeded by outgrowth.  The nerve fibers grew past and through blood clots which served as points of reference, and demonstrated that the fibers were pushing through tissue.  This provided conclusive evidence for 
+		Santiago Ramón y Cajal’s theory and refuted 
+		Victor Hensen’s theory of neural development.  The nerve fibers were parts of individual cells and they were pushing through the culture medium.  The nerves grew in two ways, they grew outward, like the trunk of a tree, and at the ends, nerve fibers spread out to form growth cones.  
+		Harrison was the first to observe the live development of growth cones, which 
+		Ramón y Cajal had also previously discovered in prepared material.  
+In this paper 
+		Harrison provided conclusive evidence that nerve fibers extend by outgrowth of the neurons.  This work countered the prevailing 
+		syncytial theory of nerve development.  The 
+		syncytial theory was popular because of its powerful explanatory abilities.  By discrediting the theory 
+		Harrison opened the field for new questions.  The most prominent became how the neurons find their way to target tissues, and how the synapses, or junctions between neurons, keep the nervous system connected.  Today it is understood that neurons are directly connected, they grow by outgrowth, but the synapses require gap junctions to remain electrically linked and the neural connections are strengthened by electrical theory.  Although aspects of Hensen’s 
+		syncytial theory are supported, it did not correctly predict neural growth.  This paper is significant for two reasons: 
+		Harrison developed the tissue culture and he changed the prevailing theory of neural development.
+
+Sources
+Harrison, Ross G.  “The Outgrowth of the Nerve Fiber as a Mode of Protoplasmic Movement.”  Journal of Experimental Zoology 9 (1910): 787–846.
+Keshishian, Haig.  “Ross Harrison’s The Outgrowth of the Nerve Fiber as a Mode of Protoplasmic Movement’.”  Journal of Experimental Zoology Part A: Comparative Experimental Biology 301 (2004): 201–203.
+
+
+How to cite
+Navis, Adam R., ""The Outgrowth of the Nerve Fiber as a Mode of Protoplasmic Movement" (1910), by Ross Granville Harrison". Embryo Project Encyclopedia (2007-11-13). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/1767.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, March 18, 2015 - 19:59
+ Topic
+Subject
+ Harrison, Ross G. (Ross Granville), 1870-1959; Experiment

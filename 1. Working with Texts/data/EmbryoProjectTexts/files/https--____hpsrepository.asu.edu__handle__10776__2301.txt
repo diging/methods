@@ -1,0 +1,55 @@
+By Karen Wellner
+Published: 2010-11-17
+Keywords: Models, Education
+ Embryo Blotting Paper ModelsAnatomical models have always been a mainstay of descriptive embryology. As the training of embryologists grew in the late 1800s, so too did the need for large-scale teaching models. 
+		Embryo wax models, such as those made by 
+		Adolf Ziegler and 
+		Gustav Born, were popular in the latter part of the nineteenth century and the early twentieth century as a way to visualize, in three dimensions, the fine detail of embryos without the aid of a microscope. While these models were found in many university laboratories, museums of science, and even expositions and world’s fairs, they were anything but easy to make or obtain. 
+		Wax modeling required skill, patience, and specialized tools. Small laboratories with only one or two embryologists often found the prospect of wax modeling too laborious, too difficult, and too expensive to make the pursuit worthwhile. As an alternative, 
+		Susanna Phelps Gage, an embryologist at 
+		Cornell University, perfected a technique of using stacks of absorbent blotting paper rather than stacks of wax plates for constructing embryo models. She first demonstrated her blotting paper method to other embryologists at the annual meeting of the 
+		Association of American Anatomists in 1905 and later at the 
+		International Zoological Congress, held in Boston in August 1907.
+Regardless if one used wax plates or blotting paper, both modeling techniques began with the slicing of an embryo into very thin sections. The sections were affixed to microscope slides and, with the aid of a 
+		projection microscope, the image of each section was projected onto a large sheet of paper. The paper outline was traced and then cut out with scissors. These outlines were transferred to either wax plates or, in Gage’s case, sheets of blotting paper. The three-dimensional embryo model took shape as the plates were stacked and bonded together. In order for the model to be of the correct dimension and scale, the thickness of the wax plates had to be in proportion to the thickness of the actual embryo section. The embryo sections were usually 10 µm thick or some multiple of 5 µm, making the magnification of drawings a simple proportion problem. The wax preparation, however, was not so simple. The wax had to be melted and carefully spread out so that it was 1 mm, 2 mm, or 3 mm thick. This required an expensive wax-plate machine, made bulky in part by its large, flat, cast-iron surface. The melted wax was poured onto the iron surface and a hot roller was used to spread out the wax. If the wax cooled before the desired thickness could be achieved, the whole process had to be repeated.
+This procedure alone may have caused Gage to consider alternative materials, not to mention the added difficulty of cutting the traced image out of the rectangular piece of wax. This required the sharpest of cutting tools and constant need to avoid applying too much pressure and cracking a plate. Gage reported that these difficulties were overcome in 1907 when Harvard’s 
+		Edward Laurens Mark modified a sewing machine by replacing its sewing needle with an electric heating wire. The wire easily cut through the hardened wax, but Mark had to address the problem of the heated wax quickly rejoining after being cut. He solved this dilemma by attaching a blowpipe to the sewing machine, directing it to the trailing edge of the wire, and targeting small puffs of cold air onto the wax by means of stepping on the presser bar. While this technique may have helped with the making of wax embryo models it certainly added another layer of technical complexity.
+Gage found that by using blotting paper of certain thicknesses she could prepare models at her own pace, without worrying if the wax was going to harden before a precise thickness was achieved. She did admit that her models might have been slightly less accurate in scale because, unlike wax, which could be melted and thinned to precise measurements, blotting paper could only be purchased in specific thicknesses: 0.5 mm, 0.77 mm, 0.9 mm, and 1 mm. At times, Gage overcame the problem by using extra sheets of thin blotting paper or even omitting a sheet of paper in order to keep the proportion between real and model embryos accurate. 
+After the blotting paper sections were traced, Gage cut out the sections with sharp scissors. For large drawings with sections that were two to four blotting papers thick, an electric sewing machine with a chiseled needle was used. While wax and blotting paper techniques both saw the use of electric sewing machines, Gage’s method did not require that the sewing needle be swapped for a heating wire. 
+Once all of the blotting paper sections had been cut out and smoothed, they were stacked in the right order and bound together to build the three-dimensional model. Gage experimented with different glues but she was unable to find one that could hold the blotting paper sections together for suitable lengths of time. She eventually settled on using sewing pins of various lengths to fasten the papers, and smoothed out any irregularities on the exterior surface with fine sandpaper or a dull knife. In order to permanently bind the individual sections together, a fine brush was used to coat the model with a thin layer of hot paraffin. The paraffin served to make the model durable, while substituting blotting paper for wax plates helped keep the embryo model lightweight.
+Rather than painting the models, Gage colored the model surface by dipping microscope lens paper into watercolor paint and then pressing the lens paper on the model. After drying, she permanently affixed the paper to the surface of the model by painting it with another thin layer of hot paraffin. The transparency of the overlain paraffin allowed for colors and lines on the lens paper to show through.
+Gage’s method of embryo model-making was copied by other American embryologists who saw a likeness between these blotting paper models and the mass-produced papier-mâché 
+		Auzoux anatomy models made in France during the 1820s. They appreciated the ease of production, lightness, and sturdiness of their new teaching models. The models could easily travel from classroom to public lecture and were quite durable, unlike the heavier and more fragile wax models, which were susceptible to warping in the heat and cracking in the cold. 
+After Gage died in 1915 other biologists published their own improvements to her technique. 
+		Ivan E. Wallin, a comparative anatomist at Marquette University Medical School, modified Gage’s blotting paper method in the late 1910s. Wallin dipped blocks of blotting paper into melted paraffin and allowed them to dry. This technique allowed him to imitate the appearance of wax sheets without actually having to thin the wax by hand or machine. The enlarged serial sections were then traced onto the paper-wax plates and cut with a sharp knife. The sections were stacked and held in place with bank pins (long, slender pins with a small head). Upon completion of stacking, the model was smoothed and rounded with fine sandpaper and a hand-held electric buffer. A hot iron was used to slightly melt the wax and “cement” the whole structure together.
+When it came to making large embryo models, the usefulness of the sewing machine diminished. It was difficult to maneuver large blotting sheets between the needle and the support arm without bending and cracking the blotting paper. 
+		William Snow Miller, an anatomist in the College of Medicine, University of Wisconsin, Madison, wrote in 1931 of using a Cutawl cutting machine in place of a sewing machine. This newer device slid over the blotting paper and cut out the traced material as it was moved. Being able to successfully trace, cut, and move the machine all at the same time required great practice and diligence.
+While Gage had not been able to find a suitable substance to glue her sections of blotting paper together, Miller suggested using Stickine, a glue made by the Diamond Ink Company. The Stickine glue was diluted with water to make a thin paste, which was then applied liberally to the blotting paper. The individual paper sections were stacked on top of each other and pressure was applied. When dry, Snow inserted thin wires through the sections for reinforcement. This required yet another piece of machinery, the Dunmore Geared Surgical Engine. The Dunmore was originally designed for precise surgical and dental work, but Miller used it to drill small holes in the blotting paper, through which he inserted wires, dipped in household cement, into the holes.
+Eventually, the use of blotting paper to make embryo models fell to the same fate that had befallen wax embryo modelers. By the 1930s descriptive embryology was fast being overtaken by experimental embryologists with little need for embryo modelers or their three-dimensional models. The art and science of making embryo models faded and the remnants of Gage’s pioneering modeling work can only be seen today in a few universities, such as Cornell, where she worked for many years.
+
+Sources
+Chadarevian, Soraya de, and Nick Hopwood, eds. Models: The Third Dimension of Science. Stanford, CA: Stanford University Press, 2004.
+Gage, Susanna Phelps. “The Method of Making Models from Sheets of Blotting Paper.” Anatomical Record 1 (1907): 166–69. 
+Laurens, Mark Edward. “An Electric Wax-Cutter for Use in Reconstructions.” Science 42 (1907): 629–36.
+Miller, William S. “The Use of Blotting Paper for Reconstruction.” Anatomical Record 48 (1931): 192–96.
+Morgan, Lynn M. Icons of Life: A Cultural History of Human Embryos. Berkeley, CA: University of California Press, 2009.
+Simon, Henry Gage. The Microscope. Ithaca, NY: Comstock, 1941.
+Wallin, Ivan E. “A Teaching Model of a 10 mm Pig Embryo.” Anatomical Record 13 (1917): 295–97.
+Wallin, Evan E. “The Relationships and Histogenesis of Thymus-Like Structures in Ammocoetes.” American Journal of Anatomy 22 (1917): 127–59.
+
+
+How to cite
+Wellner, Karen, "Embryo Blotting Paper Models". Embryo Project Encyclopedia (2010-11-17). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/2301.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 25, 2013 - 15:53
+ Topic
+Subject
+ Gage, Susanna Phelps; Technology

@@ -1,0 +1,46 @@
+By Julia Damerow
+Published: 2010-06-22
+Keywords: Biography, Reproduction
+ John von NeumannJohn von Neumann was a Hungarian mathematician who made important contributions to mathematics, physics, computer science, and the area of 
+		artificial life. He was born in Budapest, Hungary, on 28 December 1903. His mother was Margit von Neumann and his father was Max von Neumann. His work on artificial life focused on the problem of the self-reproduction of machines. Von Neumann initially discussed self-reproducing machines in his Hixon Symposium paper  
+		“The General and Logical Theory of Automata,” published in 1948. He continued to write about this topic in his book 
+		Theory of Self-Reproducing Automata, which was completed and published after his death by Arthur Walter Burks in 1966.
+In his book von Neumann introduces 
+		cellular automata, a theoretical model of a machine that consists of components called “cells.” These cells form a one- or multidimensional lattice. Each cell has a value that changes over time. The value of a certain cell at a certain time is computed from the current value of the cell and the current values of the neighboring cells. Von Neumann uses cellular automata to show that a machine can reproduce if it has an exact description of how to build itself.
+Cellular automata can be utilized to describe a wide range of phenomena like the interaction of genes or the development of multicellular organisms. In 1986, for example, Christopher Langton introduced a model for artificial life based on cellular automata that included artificial chemistry and artificial molecules. Von Neumann worked on artificial life towards the end of his life, and before that also made important contributions to, for instance, the fields of mathematics and computer science.
+In 1921 von Neumann enrolled at the University of Budapest to study mathematics. Simultaneously he also attended the 
+		University of Berlin and the Eidgenössische Technische Hochschule (ETH) in Zurich. Most of the subsequent four years he spent in either Berlin or Zurich but regularly returned to Budapest to take his exams. In 1925 von Neumann obtained a degree in chemical engineering from the ETH Zurich. In the spring of 1926 he received his doctorate in mathematics from the University of Budapest.
+From 1927 to 1929 von Neumann was a Privatdozent at the University of Berlin. During this time he became internationally renowned for his work in mathematics including some important contributions to the mathematical foundation of quantum mechanics. His employment at the University of Berlin was followed by an appointment as Privatdozent at the 
+		University of Hamburg.
+In 1930 he moved to the United States to teach at 
+		Princeton University, in New Jersey. That year, he also married Marietta Kovesi; they had one daughter, Marina von Neumann. Von Neumann was first employed as a visiting lecturer, but soon accepted a visiting professorship and in 1931 he became a permanent professor at Princeton. In 1933 von Neumann accepted an appointment as a professor at the Institute for Advanced Study, also in Princeton, New Jersey, which he held until his death in 1957. Only thirty years old, he was the institute’s youngest member of the permanent faculty. In 1938, after von Neumann and Marietta Kovesi divorced, he married Klara Dan.
+From 1940 on, von Neumann became involved in the Second World War, and the number of his activities outside the Institute for Advanced Study increased. For instance, he became a scientific advisor to the Ballistics Research Laboratory of Army Ordnance where he worked on, among other things, the mathematics of explosions and the shock waves caused by them. In 1943 von Neumann joined the Manhattan Project, the program of the United States to build an atomic bomb. He was also part of the committee that decided which Japanese cities would be targeted for the dropping of two atomic bombs in 1945.
+In 1944, while still working for the Manhattan Project, von Neumann’s interests began to turn to electronic computers. One of his important contributions in this field was the development of a logical design for computers that paid attention to such concerns  as data storage and the processing of instructions. This design, called “von Neumann architecture,” became the basic concept of most computers.
+After 1944 von Neumann held various positions. In 1947, he held the Gibbs Lectureship of the American Mathematical Society and from 1951 to 1953 he was the president of the American Mathematical Society. He was also a Vanuxem Lecturer at Princeton University in 1953. In October 1954 von Neumann was appointed as a member of the United States Atomic Energy Commission. He served as co-editor of the Annals of Mathematics in Princeton and the Dutch journal Compositio Mathematica, positions he gained in 1933 and 1935, respectively, until 1957.
+John von Neumann received several awards and honors. Among them are the Bôcher Prize of the American Mathematical Society received in 1937, and the Medal of Freedom, the Albert Einstein Commemorative Award and the Enrico Fermi Award, all received in 1956. In 1955 von Neumann was diagnosed with inoperable cancer. He died on 8 February 1957 in Washington, DC.
+
+Sources
+Adami, Christoph. Introduction to Artificial Life. New York: Springer-Verlag, 1998.
+Flake, Gary William. The Computational Beauty of Nature. Cambridge, MA: MIT Press, 1998.
+Heims, Steve J. John Von Neumann and Norbert Wiener: From Mathematics to the Technologies of Life and Death. Cambridge, MA: MIT Press, 1980.
+James, Ioan Mackenzie. Remarkable Mathematicians: From Euler to von Neumann. Cambridge: Cambridge University Press, 2002.
+Macrae, Norman. John von Neumann: The Scientific Genius Who Pioneered the Modern Computer, Game Theory, Nuclear Deterrence, and Much More. Providence, RI: American Mathematical Society, 1999.
+Shannon, Claude E. “Von Neumann's Contributions to Automata Theory.” Bulletin of the American Mathematical Society 64 (1958): 123–29. http://www.ams.org/bull/1958-64-03/S0002-9904-1958-10214-1/
+Ulam, Stanislaw. “John von Neumann 1903–1957.” Bulletin of the American Mathematical Society 64 (1958): 1–49. http://www.ams.org/bull/1958-64-03/S0002-9904-1958-10189-5/.
+
+
+How to cite
+Damerow, Julia, "John von Neumann (1903-1957)". Embryo Project Encyclopedia (2010-06-22). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/2007.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, April 1, 2015 - 23:44
+ Topic
+Subject
+Reproduction; Von Neumann, John, 1903-1957; People

@@ -1,0 +1,80 @@
+By Karen Wellner
+Published: 2010-06-15
+Keywords: Biography, Organizers, Transplantation
+ Hans SpemannHans Spemann was an experimental embryologist best known for his 
+		transplantation studies and as the originator of the 
+		“organizer” concept. One of his earliest experiments involved constricting the blastomeres of a fertilized 
+		salamander egg with a noose of fine baby hair, resulting in a partially double embryo with two heads and one tail. Spemann continued changing variables such as the amount of time the embryo was constricted and the degree of constriction, all of which added more empirical evidence to 
+		Hans Driesch’s studies showing that embryonic cells could self-regulate to varying degrees. Spemann’s long list of “simple” experiments and significant findings were mainly carried out at his laboratory, the 
+		Spemann School at the 
+		University of Freiburg,  Germany, where numerous graduate students collaborated with Spemann to investigate 
+		embryonic induction.
+Spemann was born 27 June 1869 in Stuttgart, Germany to Lisinka and 
+		Wilhelm Spemann, a publisher. From 1878 to 1888 he attended the Eberhard-Ludwig School at Stuttgart. After one year of business with his father and a year in the military, Spemann decided to study medicine at the 
+		University of Heidelberg. Influenced by the works of 
+		Johann Goethe, 
+		Ernst Haeckel, and 
+		Carl Gegenbaur, Spemann studied embryology along with clinical science.
+In 1892 Spemann married Klara Binder and soon after entered the 
+		University of Munich for more clinical training. In studying with 
+		Gustaf Wolff and Gegenbaur, Spemann’s life-long interest in zoology took hold. During late 1894 Spemann worked with cytologist 
+		Theodor Boveri, plant physiologist 
+		Julius Sachs, and physicist 
+		Wilhelm Röntgen at the Zoological Institute at the 
+		University of Würzburg. In 1895 Spemann was awarded a PhD in zoology, botany, and physics with Boveri serving as his doctoral advisor and chair. In 1896, while recovering from tuberculosis, Spemann read 
+		August Weismann’s book Das Keimplasma: Eine Theorie der Vererbung (1892). The rest and reading helped motivate Spemann for a healthy return to the laboratory.
+In 1898 Spemann became a Privatdozent at the University of Würzburg and in 1901 he began his intense research productivity with transplantation experiments. That same year he published his first paper in Archiv für Entwicklungsmechanik, founded and edited by 
+		Wilhelm Roux. Dissatisfied with only watching embryos grow, Spemann began work on separating and rearranging parts of embryos from salamanders, his favorite experimental animal. To Spemann, studying embryos meant disrupting their normal physiological development; much of his laboratory work consisted of taking tissue from one embryo and implanting it into another.
+Spemann’s work soon turned to a series of 
+		constriction experiments. This involved the intricate process of tying fine hairs around embryos and slowly tightening them until the two regions were constricted into a dumbbell shape. He found that when the hairs were tightened around the embryo and made to cross the blastopore (the slit-like invagination of the gastrula through which cells move to form internal organs), the result was two complete embryos. Such was not the result when he tied the hairs above or below the blastopore: in these cases the region containing the blastopore developed into a complete embryo and the region without formed a soon-to-die undifferentiated Baruchstük (belly mass). From this Spemann concluded that an embryo’s blastopore region is essential for differentiation. Spemann’s constriction experiments also showed that the formation of duplicate heads or tails could not be replicated if the manipulation was done at the end of gastrulation. Early gastrulation is when the decisive action for axial differentiation occurs.
+In 1908 Spemann was appointed Professor of Zoology and Comparative Anatomy at the 
+		University of Rostock, Germany, and there he further elaborated his work on the development of the vertebrate lens. The concept of embryological induction, whereby the development of tissues or a structure is affected by closely situated tissues was first clearly demonstrated by Spemann in 1901 in the development of 
+		frog embryo eyes. When embryonic eyes begin to develop, they start as optic vesicles in the mesoderm and bulge outward on each side of the embryo brain. Upon contact with the overlying ectoderm, the ectoderm invaginates to form an optic cup and, eventually, the lens of the eye.
+Spemann transplanted the eye mesodermal layer (eye anlagen) to other parts of the frog body to see if he could induce lens development in ectodermal layers far removed from the normal eye area. He found that he could induce lens development practically anywhere on the frog using this method. He then removed the local ectoderm of the eye region and replaced it with ectoderm from other parts of the frog body. Again, lens formation occurred.  From this Spemann concluded that head ectoderm possesses a predisposition for lens formation. This work first led Spemann to the concept of induction and the “organizer,” although he did not use these terms in his report.
+In 1914 Spemann was appointed co-director and head of the Division of Developmental Mechanics of the 
+		Kaiser Wilhelm Institute for Biology in Berlin. While there he published his work on lens development, 
+		“On the Determination of the First Organ Analgen of the Amphibian Embryo,” (1918). In 1919 he was appointed Professor of Zoology at the University of Freiburg and established the Spemann School. It was at this laboratory that Spemann and his colleagues carried out numerous heteroplastic transplantation experiments.
+One of these experiments was Spemann’s work on the development of the neural tube.  He cut out the ectoderm from embryos and placed individual pieces in separate dishes. The removed pieces of ectoderm did not form a nerve tube, although they did remain alive. Spemann concluded that the start of a nervous system required an attached ectoderm to the embryo. Further, he questioned whether the mesoderm stimulated the development of the ectoderm. To find out, Spemann cut and folded back a piece of ectoderm from the top of an embryo. He then cut out the underlying patch of mesoderm, folded back the flap of ectoderm, and observed that while the ectoderm fused back to the embryo, it did not develop into a neural tube.
+To lend further evidence to the importance of the mesoderm in neural tube development, Spemann performed another experiment. He obtained two embryos, both in the early gastrula stage. With one embryo he removed a piece of mesoderm from in front of the dorsal lip of the blastopore. The second embryo had a same-sized piece from the mesodermal area 180 degrees from the dorsal lip. Spemann inserted the piece of mesoderm from the first embryo into the second embryo. The transplanted mesoderm formed a blastopore and moved inside the embryo. Later, neural ridges formed not only near the normal blastopore, but also near a secondary blastopore. Eventually the embryo developed two heads. Spemann concluded that the mesoderm of the dorsal lip region is important. If it is removed, the neural tube does not develop. If it is put in a different place, a spinal cord can develop where one ordinarily would not be found.
+A graduate student of Spemann’s, 
+		Hilda (Proscholdt) Mangold played a large role in Spemann’s organizer concept. Her experiments began in 1921 and were made possible by the culmination of Spemann’s microsurgical techniques and specialized tools: 
+		glass-needle knives to cut embryos, 
+		balled glass rods to made wax depressions in which embryos could be kept still, tiny 
+		glass bridges to hold grafts in position after they had been transplanted and small-bore 
+		glass needles made from thin glass fibers using a microburner. The needles were essential for all experiments in which embryo pieces were transplanted from one organism to another.
+As part of her PhD thesis, Mangold removed a piece of the upper lip of the blastopore of a non-pigmented salamander embryo (Triturus cristatus). The upper lip piece was transplanted into the blastocoel of a species of salamander (Triturus taeniatus) that produces pigmented eggs. Such non-pigmented-to-pigmented transplants made it easy to follow the differentiation of the grafted tissue. Mangold found that the recipient salamander developed into a double embryo with the two salamanders joined at the belly. Upon microscopic examination, Mangold observed that the secondary salamander was made up of a mix of donor and host cells and that the tissues were appropriately arranged to be physiologically sound. From this Mangold concluded that the upper lip transplant had “organized” its new surroundings and gave rise to the development of a working axial system in a second embryo.
+This experiment resulted in a landmark paper by Spemann and Mangold, 
+		“On the Induction of Embryonic Anlagen by Implantation of Organizers from a Different Species” (1924). The paper appeared in Roux’s Archiv für Entwicklungsmechanik der Organismen, the leading journal in the field of experimental embryology in the early twentieth century. The authors argued that certain parts of embryos, in this case the dorsal lip of the blastopore, can induce the formation of other tissues or structures. This inductive role was coined the “organizer” and the region where the organizer develops was identified as the 
+		“organization center”. Soon after the publication of Spemann and Mangold’s work, embryologists focused on finding more organizers and more organization centers in a wide range of novel embryo experiments.
+Spemann’s organizer resulted in a 
+		Nobel Prize in Physiology or Medicine in 1935; he was the first embryologist to win such an award.  In the same year he retired from Freiburg and became an emeritus professor. While retired, Spemann wrote and published his influential book of experiments, 
+		Embryonic Development and Induction (1938). During this time Spemann proposed a “fantastical” experiment: remove the nucleus from an unfertilized egg and replace it with a differentiated embryo nucleus. He argued that by doing so, one might begin to answer the question of whether such a transplant of a single differentiated nucleus can give rise to an entire organism. While the technology of nuclear-transfer cloning did not exist at the time, Spemann’s pondering about 
+		nuclear transplantation helped pave the way for the first nuclear-transfer experiments in 1952. By then Spemann had long been deceased, having died 12 September 1941 in Freiburg.
+
+Sources
+ Conklin, Edwin G. “Professor Hans Spemann, Nobel Laureate in Physiology and Medicine,” The Scientific Monthly 42 (1936): 191–94.
+ Daniel, Frank J. “Establishment of the Nervous System,” The Quarterly Review of the Nervous System 12 (1937): 391–405.
+ Hamburger, Viktor. The Heritage of Experimental Embryology: Hans Spemann and the Organizer. New York: Oxford University Press, 1988.
+ Horder, Tim. “Hans Spemann.” Encyclopedia of Life Science. http://mrw.interscience.wiley.com.ezproxy1.lib.asu.edu/emrw/9780470015902/(Accessed October 20, 2008).
+ Laubichler, Manfred D. and Jane Maienschein, eds. From Embryology to Evo-Devo: A History of Developmental Evolution. Cambridge: MIT Press, 2007.
+ Maienschein, Jane. “Changing Conceptions of Organization and Induction,” American Zoologist 37 (1997): 220–28.
+ Magner, Lois N. A History of the Life Sciences. New York: Marcel Dekker Press, 2002.
+ Spemann, Hans. Embryonic Development and Induction. New York: Hafner Publishing Company, 1962.
+ Spemann, Hans. “Embryonic Induction,” American Zoologist 27 (1987): 575–79.
+
+
+How to cite
+Wellner, Karen, "Hans Spemann (1869-1941)". Embryo Project Encyclopedia (2010-06-15). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/1688.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, April 1, 2015 - 23:31
+ Topic
+Subject
+Transplantation; Spemann, Hans, 1869-1941; People

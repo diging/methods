@@ -1,0 +1,39 @@
+By Julia Damerow
+Published: 2010-06-24
+Keywords: Games
+ The Game Of Life, by John Horton ConwayThe Game of Life, or just Life, is a one-person game that was created by the English mathematician 
+		John Horton Conway in the late 1960s. It is a simple representation of birth, death, development, and evolution in a population of living organisms, such as bacteria. Martin Gardner popularized the Game of Life by writing two articles for his column “Mathematical Games” in the journal Scientific American in 1970 and 1971. There exist several websites that provide the Game of Life as a download or as an online game (for example http://www.math.com/students/wonders/life/life.html).
+The Game of Life can be played with or without a computer. To play the game without a computer, the player needs a large checkerboard and a lot of counters. The player begins by positioning a set of counters on the checkerboard; this is the initial population of the Game of Life. One counter is put in one cell. The arrangement of the counters is up to the player. The basic idea of the Game of Life is to observe how the pattern built by the counters changes when the player repeatedly applies Conway’s rules for “birth, death and survival” of the counters.
+A counter can have a maximum of eight neighboring counters: four orthogonal neighbors, and four diagonal ones. Conway defines three rules for keeping, removing, and adding new counters to the checkerboard. A counter is kept on its position on the checkerboard (it survives) if it has two or three neighboring counters. A counter is removed from the checkerboard (it dies) if it has either four or more neighbors or one or no neighbor. A counter is added to an empty cell on the checkerboard (it is born) if the cell has exactly three neighbors. All births and deaths of counters occur at the same time, meaning that the player removes and adds counters after Conway’s rules are applied to all counters. When all dead counters are removed from and all new counters are placed on the checkerboard, a new “generation” of the population is created.
+There are different patterns a population can develop, depending on the initial arrangement of the counters. In some cases the population dies out. Some other initial arrangements lead to stable patterns that don’t change anymore. Another possibility is that a population indefinitely exhibits a fixed number of patterns in a fixed order. These repeating patterns are called “oscillators.” There are many more patterns that can evolve. Eric Weisstein’s website “Treasure Trove” provides a searchable catalog of over 200 possible patterns (http://www.ericweisstein.com/encyclopedias/life/).
+Conway based the Game of Life on 
+		cellular automata, a mathematical model created by 
+		John von Neumann in the 1940s. A cellular automaton consists of components called “cells” that form a one- or multidimensional lattice. In the Game of Life the lattice is the checkerboard. Each cell of a cellular automaton has a value, which changes at discrete time-steps. This corresponds to adding a counter to or removing a counter from a cell on the checkerboard.
+The Game of Life became popular especially among computer enthusiasts. Different versions of the game, with modified rules, were introduced to simulate biological processes like pattern formation. One of the reasons the game is so intriguing to the player is that complex patterns can evolve from simple rules and starting positions. When Gardner published his articles on the Game of Life, however, digital personal computers were not yet available, and the game was played on a checkerboard, on paper—or on large and expensive mainframe computers. As Iwo and Iwona Białynicki-Birula state in their book Modeling Reality: How Computers Mirror Life, this cost American companies millions of dollars because many Game of Life enthusiasts spent much of the expensive computing time playing the game.
+
+Sources
+Anonymous. “Science: Flop of the Century?” Time Magazine, January 21, 1974. http://www.time.com/time/magazine/article/0,9171,911029-1,00.html (Accessed November 24, 2009).
+Białynicki-Birula, Iwo, and Iwona Białynicka-Birula. Modeling Reality: How Computers Mirror Life. Oxford: Oxford University Press, 2004.
+Deutsch, Andreas, and Sabine Dormann. Cellular Automaton Modeling of Biological Pattern Formation. Boston: Birkhäuser, 2005.
+Gardner, Martin. “Game of Life, Part I.” Martin Gardner's Mathematical Games (CD-ROM). New York: Mathematical Association of America, 2005. Originally published as “Fantastic Combinations of John Conway's New Solitaire Game ‘Life’." Scientific American 223 (1970): 120–23.
+Rees, Martin. “Are We Real?” What We Still Don’t Know (BBC Channel 4 Television Series). Producer/Director: David Malone. December 2004.
+Schiff, Joel L. Cellular Automata: A Discrete View of the World. Hoboken, NJ: Wiley-Interscience, 2008.
+Ward, Mark. Virtual organisms. London: Macmillan, 1999.
+Weisstein, Erik. “Erik Weisstein’s Treasure Trove of the Life Cellular Automaton.” http://www.ericweisstein.com/encyclopedias/life/ (Accessed November 24, 2009).
+
+
+How to cite
+Damerow, Julia, "The Game of Life, by John Horton Conway". Embryo Project Encyclopedia (2010-06-24). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/2008.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 25, 2013 - 15:53
+ Topic
+Subject
+ Conway, John Horton; Concept

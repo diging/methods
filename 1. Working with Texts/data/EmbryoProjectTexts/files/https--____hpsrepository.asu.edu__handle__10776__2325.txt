@@ -1,0 +1,49 @@
+By Megan Kearl
+Published: 2012-01-01
+Keywords: Sea urchins
+ "The Potency of the First Two Cleavage Cells in Echinoderm Development. Experimental Production of Partial and Double Formations" (1891–1892), by Hans Driesch Hans Adolf Eduard Driesch was a late-nineteenth and early-twentieth century philosopher and developmental biologist. In the spring of 1891 Driesch performed experiments using two-celled 
+		sea urchin (Echinus microtuberculatus) embryos, the results of which challenged the then-accepted understanding of embryo development. Driesch showed that the cells of an early embryo, when separated, could each continue to develop into normal larval forms. This finding contrasted with Wilhelm Roux's experiments with frog eggs from which Roux had concluded that embryonic cells have predetermined fates—an embryonic cell couldn't form into one thing when separated from other embryonic cells and form into something else when left unseparated. To Roux, embryos were mosaics of cells, all of which were important and necessary for viable embryos to form. Driesch, in contrast, showed that individual cells resulting from cleavage of the fertilized egg were all able to form into viable embryos, and not just into predetermined parts as Roux believed.
+Throughout the 1890s, Driesch worked at the 
+Stazione Zoologica di Napoli in Naples, Italy, where he was influenced by Roux's 1888 experiments with 
+frogs. Roux had begun with two-celled frog embryos and had used a hot needle to kill one of these cells. For such embryos, the living cells had developed into embryos that only half-formed. Roux had concluded that the final directions of the embryonic cells' developments were already determined by the two-cell stage. Such predetermination had led Roux to conclude that cells followed a 
+mosaic mode of development. Mosaic development is a pattern of embryogenesis in which the embryo appears like a tile mosaic of independent parts. Roux began a search for the mechanisms behind mosaic development, leading to an international research program called 
+Entwicklungsmechanik (developmental mechanics). Driesch participated in this movement, which partly attempted to explain embryogenesis with laws of physics and mathematics.
+Three years after the publication of Roux's frog embryo experiments, Driesch, who agreed with Roux's idea of mosaic development, set out to confirm Roux's results using two-celled sea urchin embryos. Through Oscar and his brother 
+	Richard Hertwig’s work with sea urchin embryos, Driesch knew that shaking the embryos at the two-celled stage would separate the two cells. He thought that separating cells, rather than killing one cell as Roux had done, would lead to a more decisive confirmation of Roux's conclusions.
+Driesch began his experiment by placing approximately one hundred two-celled sea urchin embryos and a small amount of sea water into a small glass container. Driesch shook the tube vigorously for about five minutes to separate the cells. This process had a low success rate—for every group of cells that Driesch shook, only about ten 
+blastomeres separated. Through trial-and-error, Driesch found that it was important to shake the embryos at the right moment. If the blastomeres were shaken too soon after the first cleavage, the resulting embryos were oddly shaped. If he shook the two-celled embryos too late, the second cleavage would have started before the first two blastomeres separated. After repeating the beginning of his experiment several times, Driesch soon collected about fifty separated blastomeres. He placed these blastomeres, two to three at a time, in small glass dishes with sea water and covered them with  glass lids to prevent evaporation. The glass containers fit nicely on a microscope stage, allowing Driesch to watch the development of the embryos in the containers.
+Driesch observed how these cells developed and focused on their cleavage stages. In a normal embryo the first two divisions of the cell are vertical and the third division is horizontal, creating eight cells of equal size. The next division in normal development is different: four of the cells divide equally and the other four divide unequally to form four large cells (macromeres) and four small cells (micromeres). When Driesch observed the sea urchin cells, he found that the first two divisions were normal vertical divisions and the resulting cells looked like half of a normal embryo. The third cleavage resembled the fourth cleavage in normal embryonic development. Thirty of the original fifty separated blastomeres survived these initial cleavage stages. 
+After a full day of experimenting, Driesch retired for the evening, expecting to find his next-day results similar to those of Roux's: individual blastomeres that self-differentiated into small parts of embryos. Instead, Driesch saw something entirely different; each of the blastomeres had formed into smaller-than-normal, but complete 
+pluteus larvae, a result that contradicted Roux's conclusions that embryonic cells' fates were determined at the two-cell stage. Driesch hypothesized that the discrepancy between his results Roux's was due to one of two things: sea urchin and frog embryos were different, or killing—rather than separating a single cell of a two-celled embryo—inhibited the growth of the other cell. A 1910 
+experiment by Jesse Francis McClendon later showed that Driesch's results could be repeated using frog embryos, meaning that sea urchin embryos and frog embryos were not relevantly different and that Driesch's decision to keep the blastomeres alive, rather than kill some of them, was key to his results.
+Driesch's 1891 to 1892 experiments ultimately led him to conclude that embryonic cells are 
+totipotent in their early stages of development, each with the capacity to become a full organism. But his discovery that separated single cells could develop into whole embryos was not accepted by Roux. Roux argued that cells needed a way to heal if injured (through Driesch's shaking of the cells), so each cell had a necessary and predetermined plan to form into a whole organism. The Roux-Driesch rivalry and their contrasting experimental results ultimately sparked a debate between 
+epigenetic developmentalists, supported by Driesch, and 
+preformation developmentalists backed by Roux. Both Driesch’s and Roux’s experiments encouraged a wave of curiosity about the early development of embryos. Many scientists were inspired to recreate Driesch’s experiment, as McClendon did in 1910, to verify the results in myriad other organisms including frogs, sea urchins, chickens, and mammals. These experiments ultimately showed that different organisms under different conditions exhibited varying degrees of mosaic development.
+
+Sources
+ Driesch, Hans."Entwicklungsmechanische Studien: I. Der Werthe der beiden ersten Furchungszellen in der Echinogdermenentwicklung. Experimentelle Erzeugung von Theil- und Doppelbildungen. II. Über die Beziehungen des Lichtez zur ersten Etappe der thierischen Form-bildung." Zeitschrift für wissenschaftliche Zoologie 53 (1891): 160–84.  Translated as "The Potency of the First Two Cleavage Cells in Echinoderm Development. Experimental Production of Partial and Double Formations." In Foundations of Experimental  Embryology, eds. Benjamin H. Willier and Jane M. Oppenheimer, 38–50. New York: Hafner Press, 1964. 
+Horder, Tim. "History of Developmental Biology." In Encyclopedia of Life Sciences. John Wiley, 2001.
+Maienschein, Jane. "Epigenesis and Preformationism." In Stanford Encyclopedia of Philosophy. Stanford University, 2005. http://plato.stanford.edu/entries/epigenesis/ (Accessed October 3, 2008).
+McClendon, Jesse F."The Development of Isolated Blastomeres of the Frog’s Egg." American Journal of Anatomy 10 (1919): 425–30.
+Moore, John Alexander. Science as a Way of Knowing: The Foundations of Modern Biology. Cambridge, MA: Harvard University Press, 1993.
+Roux, Wilhelm. "Beiträge zur Entwickelungsmechanik des Embryo. Über die künstliche Hervorbringung halber Embryonen durch Zerstörung einer der beiden ersten Furchungskugeln, sowie über die Nachentwickelung (Postgeneration) der fehlenden Körperhälfte." Virchows Archiv für Pathologische Anatomie und Physiologie und für Klinische Medizin. (114): 113–53. Translated as "Contributions to the Development of the Embryo. On the Artificial Production of One of the First Two Blastomeres, and the Later Development (Postgeneration) of the Missing Half of the Body." In Foundations of Experimental  Embryology, eds. Benjamin H. Willier and Jane M. Oppenheimer, 2–37. New York: Hafner Press, 1964.
+Sanders, Klaus. "Shaking a Concept: Hans Driesch and the Varied Fates of Sea Urchin Blastomeres." Development Genes and Evolution 201 (1992): 265–7.
+Willier, Benjamin H., and Jane M. Oppenheimer, eds. Foundations of Experimental Embryology. Englewood Cliffs, NJ: Prentice-Hall, 1964.
+
+
+How to cite
+Kearl, Megan, ""The Potency of the First Two Cleavage Cells in Echinoderm Development. Experimental Production of Partial and Double Formations" (1891-1892), by Hans Driesch". Embryo Project Encyclopedia (2012-01-01). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/2325.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 25, 2013 - 15:53
+ Topic
+Subject
+ Driesch, Hans, 1867-1941; Experiment

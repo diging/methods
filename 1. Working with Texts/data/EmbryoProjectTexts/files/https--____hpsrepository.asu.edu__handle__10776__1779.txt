@@ -1,0 +1,59 @@
+By Brock Heathcotte
+Published: 2008-05-09
+Keywords: Fertilization, Reproductive rights
+ A.Z. v. B.Z. (2000)Court: Supreme Court of Massachusetts
+		Citation: A.Z. v. B.Z., 725 N.E.2d 1051 (Mass. 2000)
+		Status as current law: Probable
+		Value as precedent: Low
+Case significance:
+The Massachusetts Supreme Court in a case of first impression decided that a prior written agreement between a husband and wife regarding the disposition of 
+			frozen embryos in the event of a divorce was unenforceable. This was the first case to reject the presumption that written agreements to conduct 
+			in vitro fertilization practices were binding. The court would not force the husband to become a parent merely because he signed a consent form that would have awarded the frozen embryos to his wife in the event of marital separation.
+Case Summary:
+Facts—Husband and wife sought treatment at an IVF clinic over several years from 1988 to 1995. Each time eggs were retrieved from the wife for fertilization, the couple signed a consent form for freezing of the embryos which asked among other things what the clinic should do with the frozen embryos in the even of marital separation. On each occasion, the husband signed a blank form and the wife wrote in that the embryos should be “returned to the wife for 
+				implantation”. The couple had twin daughters in 1992 but separated and ultimately divorced. Just before their separation in 1995 the wife attempted to become pregnant using some but not all of the remaining frozen pre-embryos without the husband’s knowledge. The ultimate disposition of the frozen embryos remained in dispute because the husband did not want them 
+				implanted in the wife after their marriage had ended.
+Law—Basic contract law was applied to the facts to arrive at a decision, but the court also considered its prior public policy statements against enforcing agreements that would bind a person to future familial relationships, such as, 
+				surrogacy and marriage contracts.
+Ruling—The probate court in the divorce action entered a permanent injunction in favor of the husband, prohibiting the wife from utilizing the frozen pre-embryos held in cryopreservation at an IVF clinic. The wife appealed. The Supreme Judicial Court held that a consent form signed by the couple on the one hand and the clinic on the other, providing that, on the parties' separation, pre-embryos were to be given to the wife for 
+				implantation, was unenforceable because the form’s purpose was not to create a binding agreement between the husband and wife, the form had no duration provision and was probably not intended to apply in perpetuity or in the event of divorce, and the form was not a Separation Agreement that would be binding on the couple in a divorce proceeding.
+Quotes:
+“This is the first reported case involving the disposition of frozen pre-embryos in which a consent form signed between the donors on the one hand and the clinic on the other provided that, on the donors’ separation, the pre-embryos were to be given to one of the donors for 
+			implantation. In view of the purpose of the form (drafted by and to give assistance to the clinic) and the circumstances of execution, we are dubious at best that it represents the intent of the husband and the wife regarding disposition of the pre-embryos in the case of a dispute between them. In any event, for several independent reasons, we conclude that the form should not be enforced in the circumstances of this case.”
+“With this said, we conclude that, even had the husband and the wife entered into an unambiguous agreement between themselves regarding the disposition of the frozen pre-embryos, we would not enforce an agreement that would compel one donor to become a parent against his or her will. As a matter of public policy, we conclude that forced procreation is not an area amenable to judicial enforcement. It is well-established that courts will not enforce contracts that violate public policy. While courts are hesitant to invalidate contracts on these public policy grounds, the public interest in freedom of contract is sometimes outweighed by other public policy considerations; in those cases the contract will not be enforced.”
+This case cites to these authorities:
+Roe v. Wade, 410 U.S. 113, 93 S.Ct. 705, 35 L.Ed.2d 147 (1973)
+		The word “person” in the US Constitution does not include a fetus.
+Davis v. Davis, 842 S.W.2d 588 (Tenn. 1992)
+		In a dispute over the disposition of frozen embryos in the event of divorce, the court should ordinarily look to a contract for resolution.
+Kass v. Kass, 696 N.E.2d 174 (N.Y. 1998)
+		Prearranged agreement between progenitors of frozen embryos regarding the disposition of their “pre-zygotes” in the event of divorce is binding.
+This case was cited in:
+J.B. v. M.B., 783 A.2d 707 (N.J. 2001)
+		Prior written frozen embryo disposition agreement was unenforceable because it would infringe on the fundamental right to not procreate.
+Litowitz v. Litowitz, 48 P.3d 261 (Wash. 2002)
+		Pursuant to an embryo disposition contract, a husband and wife had to petition the court for instructions because they could not reach an agreement about what to do with the frozen embryos.
+In re Marriage of Witten, 672 N.W.2d 768 (Iowa 2003)
+		If no agreement can be reached between the parties, the frozen embryos cannot be used regardless of what a prior written disposition agreement states.
+Jeter v. Mayo Clinic Arizona, 121 P.3d 1256 (Ariz.App. Div. 1 2005)
+		The word “person” in Arizona’s wrongful death statute does not include an in vitro frozen embryo.
+Roman v. Roman, 193 S.W.3d 40 (Tex.App.-Hous. (1 Dist.) 2006)
+		Embryo agreement between former husband and wife which provided that frozen embryos were to be discarded in the event of divorce was valid and enforceable.
+
+		 
+
+How to cite
+Heathcotte, Brock, "A.Z. v. B.Z. [Brief] (2000)". Embryo Project Encyclopedia (2008-05-09). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/1779.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, October 9, 2013 - 22:33
+ Topic
+Subject
+Fertilization;  Law

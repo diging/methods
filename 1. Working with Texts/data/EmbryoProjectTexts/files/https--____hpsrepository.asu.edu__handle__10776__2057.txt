@@ -1,0 +1,50 @@
+By Ke Wu
+Published: 2010-09-14
+Keywords: Stem cells, Pluripotency
+ “Derivation of Pluripotent Stem Cells from Cultured Human Primordial Germ Cells,” by John Gearhart (1998)In November 1998, two independent reports were published concerning the first isolation of pluripotent human stem cells, one of which was “Derivation of Pluripotent Stem Cells from Cultured Human Primordial Germ Cells.” This paper, authored by 
+		John D. Gearhart and his research team—
+		Michael J. Shamblott, 
+		Joyce Axelman, 
+		Shunping Wang, 
+		Elizabeth M. Bugg, 
+		John W. Littlefield, 
+		Peter J. Donovan, 
+		Paul D. Blumenthal, and 
+		George R. Huggins—was published in Proceedings of the National Academy of Science soon after 
+		James A. Thomson and his research team published 
+		“Embryonic Stem Cell Lines Derived from Human Blastocysts” in Science. Gearhart’s paper suggested that pluripotent human stem cells, which have the ability to develop into all cell types that make up the body, could be derived from primordial germ cells, which are precursors of fully differentiated germ cells, isolated from embryos. At the time, Gearhart was a professor of obstetrics and gynecology at 
+		Johns Hopkins University School of Medicine. With a background in genetics, he had devoted the majority of his research to how genes regulate tissue and embryo formation. However, the successful isolation of mice embryonic stem cells encouraged Gearhart to pursue the isolation of similar cells in humans. The principal difference between 
+		human embryonic stem (ES) cells, which Thomson’s team derived, and 
+		human embryonic germ (EG) cells, which Gearhart’s team derived, is that human embryonic germ cells are derived from early germ cells. Nonetheless, they are thought to share similar properties to human embryonic stem cells. 
+Gearhart and his team began their research by extracting 
+		gonadal ridges, the developmental precursors to gonads, and 
+		mesenteries from aborted 5-to-9-week-old human embryos/fetuses. The embryos were used after the donors gave 
+		informed consent.  After mechanical disaggregation, where force is applied to separate a sample tissue into individual cells, the cells were cultured and placed on a mitotically inactivated mouse fibroblast feeder layer. Mouse fibroblasts come from the 
+		Sandoz inbred mouse and, to date, are the only cell type capable of generating human EG cells. The disaggregated cells were grown in an environment that included human recombinant leukemia inhibitory factor (hrLIF), human recombinant basic fibroblast growth factor (hrbGFG), and forskolin. These factors enable cell division, but not cell differentiation. The cells were tested for alkaline phosphatase activity as well as the presence of five cell surface markers: alkaline phosphatase, stage specific antigen (SSEA)-1, SSEA-3, SSEA-4, TRA-1-60, and TRA-1-81. Immunohistochemical analysis was performed on a batch of embryoid bodies (differentiated cell aggregates) that were eventually cultured for fourteen days in absence of hrLIF, hrbFGF, and forskolin before being embedded in paraffin. After sixty to seventy days in culture (passage 8-10), cells from five different cultures underwent karyotype analyses to detect human chromosomes. 
+In order to verify whether or not the cells were pluripotent, Gearhart and his team of researchers relied on several criteria established from previous research. The first criterion was that pluripotent stem cells must share a similar morphology to mouse ES cells (derived from the inner cell mass of preimplantation embryos) and mouse EG cells (derived from primordial germ cells (PGC)). Both cell types exhibit high levels of alkaline phosphatase and the presence of specific cell surface glycoproteins and glycolipids. The second criterion was that pluripotent stem cells maintain a normal and stable karyotype over multiple passages. Finally, pluripotent stem cells must demonstrate the ability to differentiate into cells derived from all three (endoderm, mesoderm, and ectoderm) embryonic germ layers. These common characteristics seemed fairly consistent in past experiments performed with 
+		chicken, mink, hamster, pig, 
+		rhesus monkey, and common marmoset. 
+The results of Gearhart’s experiment satisfied the criteria for pluripotency. Thirty-six out of the thirty-eight human PGC cultures showed morphological, biochemical and/or immunocytochemical characteristics consistent with pluripotent stem cells. The PGC-derived cells expressed four of the five surface markers strongly; SSEA-3 was inconsistent and weak. The cells expressed high levels of alkaline phosphatase activity and the karyotype analyses revealed normal human chromosomes at passage 8-10. Finally, immunohistochemical analysis indicated that the PGC-derived cells could differentiate into cell types derived from all three embryonic germ layers. Endoderm derivatives included anti-α-1-fetoprotein-reactive cells; mesoderm derivatives included antimuscle specific actin-reactive myocytes, antidesmin-reactive mesenchymal cells, and anti-CD34-reactive vascular endothelium; and ectoderm derivatives included antineurofilament-reactive cells. 
+Along with the aforementioned consistencies, Gearhart’s team identified several morphological inconsistencies between the PGCs and rhesus ES cells. While the PGCs divided into large compact multicellular colonies in the presence of mitotically inactivated STO cell feeder layer, hrLIF, hrbFGF, and forskolin, rhesus ES cell colonies were flat and loosely associated under the same conditions. This characteristic in PGCs resembled early passage mouse ES and EG cell colonies. Also, the PGCs were SSEA-1 positive whereas previous rhesus ES cells were SSEA-1 negative. Again, the PGC-derived stem cells were more akin to mouse ES and EG cells, which are SSEA-1 positive. The authors concluded that a possible explanation for the presence of SSEA-1 could be its impact on colony formation. 
+The results of this paper established a new frontier for stem cell research. As Gearhart pointed out, the ability of PGC-derived stem cells to differentiate in vitro could lead to further studies in human embryogenesis and stem cell therapies. After better understanding cell differentiation, the process could be manipulated for multiple applications in medicine. Still, using PGCs to derive pluripotent stem cells has its limitations. The compact nature of the colonies made it difficult to disaggregate the colonies to single cells. Furthermore, the cultures had a lower plating efficiency than mouse EG and ES cell cultures, possibly a result of incomplete disaggregation.
+
+Sources
+Lanza, Robert P., John Gearhart, and Brigid Hogan. Essentials of Stem Cell Biology. Oxford: Elsevier Academic Press, 2006. 
+Shamblott, Michael J., Joyce Axelman, Shunping Wang, Elizabeth M. Bugg, John W. Littlefield, Peter J. Donovan, Paul D. Blumenthal, George R. Huggins, and John D. Gearhart. “Derivation of Pluripotent Stem Cells from Cultured Human Primordial Germ Cells.” Proceedings of the National Academy of Sciences USA (1998) 95: 13726–31.
+
+
+How to cite
+Wu, Ke, ""Derivation of Pluripotent Stem Cells from Cultured Human Primordial Germ Cells" (1998), by John Gearhart et al.". Embryo Project Encyclopedia (2010-09-14). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/2057.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Monday, April 6, 2015 - 22:11
+ Topic
+Subject
+Stem Cells; Stem cells.; Literature

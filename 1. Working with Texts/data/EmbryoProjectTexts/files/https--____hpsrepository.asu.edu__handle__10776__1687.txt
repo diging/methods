@@ -1,0 +1,68 @@
+By Adam R. Navis
+Published: 2007-10-30
+Keywords:     
+   Epigenetic LandscapeThe epigenetic landscape is a concept representing embryonic development.  It was proposed by 
+		Conrad Hal Waddington to illustrate the various developmental pathways a cell might take toward differentiation.  The epigenetic landscape integrates the connected concepts of 
+		competence, 
+		induction, and regulative abilities of the genes into a single model designed to explain cellular differentiation, a long standing problem in 
+		embryology.  
+		Waddington envisioned the epigenetic landscape as a series of ridges and valleys a cell can traverse on its way to a final tissue type.  He described each of these valleys as an individual developmental pathway, or “chreode,” derived from two Greek roots, the first, χρη, for necessary, and the second, óδος, for a route or path.  The many diagrams of the epigenetic landscape that 
+		Waddington included in his publication provide a simple visual representation of the concepts 
+		Waddington incorporated into his theoretical model of differentiation.
+The epigenetic landscape is a further refinement of 
+		Waddington’s own 
+		branched track diagram.  The 
+		branched track diagram is a simple figure composed of straight, parallel lines in his book 
+		Organisers and Genes, all branching from a single perpendicular line representing the tracks a cell may take during differentiation.  
+		Waddington proposed that the branching tracks could be viewed as points of equilibria in a downward sloping landscape where a ball is likely to roll.  The idea of equilibrium was an important concept for 
+		Waddington in his development of the epigenetic landscape.  Although the ball tends toward the center of a valley, he notes that the overall equilibrium tends toward the bottom of the hill.  While the branching track diagram models the simple path of differentiation, the three-dimensional depth of the epigenetic landscape allows for the inclusion of additional factors influencing differentiation.
+The figure of the epigenetic landscape has been included in many of 
+		Waddington’s writings.  The first illustration of the epigenetic landscape appeared in 
+		Organisers and Genes as a sketch by John Piper of a river flowing downhill into a delta, signifying the pathways available to a cell. The best known common illustration of the epigenetic landscape appeared in 
+		Waddington’s 
+The Strategy of the Genes.  In this figure, the cell is envisioned as a ball at the top of a slope.  That slope is composed of a series of hills and valleys that direct the ball into different possible paths as it rolls down the slope.  The lowest points of each valley signify developmental pathways that a cell can travel and the highest points define the limits of the pathway, symbolizing regulation.
+The figure of the epigenetic landscape in 
+The Strategy of the Genes is accompanied by a second figure showing the underside of the landscape.  In this figure, the landscape is connected by strings to a matrix of pegs that are anchored to the ground.  The tension of the string represents the “chemical forces the genes exert.” The genes interact with each other in complex relationships to pull on the surface; the greater the pull, the lower a valley is expressed on the landscape.  The epigenetic landscape appears, in this figure, as a deformable membrane formed by interactions between the genes and the surface.
+The features of the landscape, including the hills and valleys, the genes and strings, and the point where each path branches, are important to 
+		Waddington’s argument.  First, the hills and valleys direct different paths of development the cell may take.  The developmental pathways are the low points of the landscape, where the ball is likely to roll.  The height and slope of the ridges to the valleys confer tolerance to environmental effects on the developing system, symbolizing the ability of the genes to regulate differentiation.  
+		Waddington referred to the process of 
+		regulation as 
+		“canalization.”  The actual pathway taken in this model is determined by the starting location of the cell, the genes interacting beneath the landscape, and the inductive events experienced by the cell.  The genes are drawn as pegs in a solid footing that connect to the underside of the surface at various points by strings.  The strings interact with each other in a complex manner and pull on the landscape directly, generating the ridges and valleys expressed on the landscape.  The interaction between the genes allows for the mitigation of dominant individual genes.  Branch points are visible in the epigenetic landscape as the beginning of hills, or points of disequilibrium.  This symbolizes the 
+		competence for 
+		induction.  
+		Competence is the potential for a cell to react to an inductive event; this is visible at each branch point of the landscape where the cell can be directed down a different path.  
+		Induction provides the push on the ball required to effect a change in differentiation.  If no 
+		induction occurs, the ball continues undisturbed down the path through a process called self-differentiation.  If the inductive event happens outside the window of 
+		competence, 
+		canalization will prevent the cell from changing paths and 
+		induction will fail.  The simple interaction of hills and valleys illustrate the concepts of 
+		regulation, 
+		competence, and 
+		induction on the differentiation of a cell.
+The epigenetic landscape is a visualization of the interaction between genes and the environment by modeling the developmental pathways a cell can take during differentiation.  
+		Waddington included concepts such as 
+		regulation, 
+		competence, and 
+		induction in this model.  The epigenetic landscape utilizes equilibrium to illustrate the paths a cell may take from an undifferentiated tissue to a fully differentiated tissue, accounting for both inductive and genetic effects.
+
+Sources
+Gilbert, Scott F.  “Diachronic Biology Meets Evo-Devo: C. H. Waddington's Approach to Evolutionary Developmental Biology.”  American Zoologist 40 (2000): 729–37.
+Waddington, Conrad H.  Organisers and Genes.  Cambridge: Cambridge University Press, 1940.
+Waddington, Conrad H.  The Strategy of the Genes.  London: Geo Allen & Unwin, 1957. 
+
+
+How to cite
+Navis, Adam R., "Epigenetic Landscape". Embryo Project Encyclopedia (2007-10-30). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/1687.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Monday, November 10, 2014 - 20:24
+ Topic
+Subject
+Epigenomics; Embryonic Induction; Waddington, C. H. (Conrad Hal), 1905-1975; Epigenetics; Cell differentiation; Embryology; Developmental biology; Genes; Cellular control mechanisms; Concept

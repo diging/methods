@@ -1,0 +1,45 @@
+By Megan Kearl
+Published: 2010-06-17
+Keywords: Government, Fetus
+ 45 CFR 46: Protection of Human Subjects under United States LawIn the United States, the Code of Federal Regulations Title 45: Public Welfare, part 46 (45 CFR 46) provides protection for human subjects in research carried out or supported by most federal departments and agencies. 45 CFR 46 created a common federal policy for the protection of such human subjects that was accepted by the 
+		Office of Science and Technology Policy and issued by each of the departments and agencies listed in the document. The code is divided into four subparts: basic protection applicable to all human research subjects; additional protections for women, human 
+		fetuses, and neonates; additional protections for prisoners; and additional protections for children. Although 45 CFR 46 contains additional protections for human fetuses, it is important to note that these protections last only from implantation to birth, and are not extended to 
+		embryos before implantation.
+The development of federal protection for human research subjects is a relatively recent phenomenon. The US was a signatory of the Helsinki Declaration of 1964, which set out ethical guidelines, and basic regulations protecting human subjects in 
+		US Department of Health and Human Services research were published on 30 May 1974, but it wasn’t until the 
+		National Research Act (Public Law 93-348) was passed on 12 July 1974 that a federal policy existed and these regulations were codified as 45 CFR 46. The National Research Act created the 
+		National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research. The duty of this group was to evaluate the ethical principles underlying the use of human research subjects and create guidelines both for medical as well as psychological and behavioral research. Their evaluation was ultimately published as the Belmont Report in 1979. Interim reports included 
+		Research on the Fetus (1975), Research Involving Prisoners (1976), and Research Involving Children (1977).
+The National Research Act itself arose from several major public scandals, the most notable being the Tuskegee Syphilis Study, which was conducted from 1932 to 1972. This study followed a group of 600 low-income African-American males, many of whom had syphilis but were not told about their condition. Although a cure for syphilis was found in the 1950s, the subjects were not only not told about it, but were prevented from receiving treatment even if other doctors diagnosed them with syphilis. Many of the subjects died as a result, and the study became widely publicized and criticized and brought public attention to the need to protect the rights of human research subjects.
+The basic protections for human research subjects laid out in the most recent version of 45 CFR 46 extend to all research involving human subjects supported, conducted, or subject to regulation by any federal department or agency conducted in and out of the United States. Exceptions include research based on existing data, documents, records, and pathological or diagnostic specimens; research conducted in normal educational settings about educational instruction strategies and techniques; and research regarding public benefit or service programs. Whether the particular activity is covered by the policy is left up to department or agency heads. As well, 
+		institutional review boards (IRBs) are created by this code to help review and ensure compliance with the policy. The idea of 
+		minimal risk is also defined in 45 CFR 46. In essence, minimal risk means the risk to the test subject both physically and psychologically is no greater than he or she would normally encounter in daily life. 45 CFR 46 also establishes a requirement for 
+		informed consent by the subject which involves describing the research, any reasonable and foreseeable risks and benefits, and explaining who to contact with pertinent questions. Subjects must also be told that their participation is voluntary and that they have the right to discontinue participation at any time.
+The additional protections for pregnant women, fetuses, and neonates (newborns) ensure that any research involving a pregnant woman and her fetus should be of direct benefit to the woman, both the woman and the fetus, or neither so long as the risk is minimal, the research is important, and it cannot be obtained through other means. It also stipulates that a woman cannot be given inducements like money to terminate her pregnancy. When the neonate is not viable or there is doubt if it will survive, research may be conducted so long as individuals in the research have no part in determining the viability, an IRB determines that the risk is the least possible and there is no risk to the neonate or the probability of survival is greater, and the research cannot be obtained through any other means. After delivery, nonviable neonates can be used in research if they are not artificially kept alive, the research will not terminate the heartbeat or respiration of the neonate, there is no added risk to the neonate, and the research is important and cannot be obtained through other means. If the neonate is viable, then it will be protected by the protections allotted to normal research subjects and the additional protections of children.
+The additional protections for prisoners are necessary since their incarceration limits their ability to make a truly voluntary decision to participate in the research. These protections ensure that any danger faced by the prisoners from participating in the research will be of minimal risk and equal to that of non-prisoner volunteers. The advantages gained from participation must also be reasonable and not influence the prisoner’s ability to weigh the dangers of research against the advantages. The research must also treat all of the prisoner subjects fairly and present information about the research in plain language.
+The additional protections for children are that the research must be of minimal risk and provide a direct benefit to the participant. The research performed must also be of great value in understanding, preventing, or alleviating a serious problem affecting health or welfare of the children. Informed consent must be obtained from both children and their parents or legal guardians. For children who do not have a parent or legal guardian, the research is restricted to research related to their status as wards of the state or in general facilities like schools or camps where most of the other participants are not wards of the state.As of 2009, the most recent version of this code was revised and made effective on 23 June 2005.
+
+Sources
+United States Congress. “45 CFR 46.” Department of Health and Human Services.
+http://www.hhs.gov/ohrp/humansubjects/guidance/45cfr46.htm#46.104 (Accessed 27 April 2009).
+National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research. “Additional Protections for Children Involved as Subjects in Research.” Department of Health and Human Services.
+http://www.hhs.gov/ohrp/documents/19830308.pdf (Accessed 2 May 2009).
+Office for the Protection of Research Subjects. “History of Research Ethics.” University of Nevada Las Vegas.
+http://research.unlv.edu/OPRS/history-ethics.htm (Accessed 27 April 2009).
+
+
+How to cite
+Kearl, Megan, "45 CFR 46: Protection of Human Subjects under United States Law (1974)". Embryo Project Encyclopedia (2010-06-17). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/2058.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, April 1, 2015 - 23:41
+ Topic
+Subject
+  Law

@@ -1,0 +1,61 @@
+By Corinne DeRuiter
+Published: 2010-09-12
+Keywords: Vertebrates, Congenital disorders
+ Congenital Vertebral DefectsThe 
+		spinal column is the central structure in the vertebrate body from which stability, movement, and posture all derive. The vertebrae of the spine are organized into four regions (listed in order from cranial to caudal): cervical, thoracic, lumbar, and pelvic. These regions are classified by their differences in curvature. The human spine usually consists of thirty-three vertebrae, seven of which are cervical (C1–C7), twelve are thoracic (T1–T12), five are lumbar (L1–L5), and nine are pelvic (five fused as the sacrum and four fused as the coccyx). 
+Formation of the spine during 
+		embryogenesis is an intricate and highly regulated process. The spine is established when 
+		somites, the building blocks of the spine, are formed sequentially from anterior to posterior and then separate into cranial and caudal portions. There is then a sudden shift in which the cranial portion of each somite simultaneously recombines with the caudal portion of the directly anterior somite in a process known as resegmentation. This allows the spinal nerves to pass between the precartilaginous vertebral bodies which later form the vertebral arches and protect the spinal nerves. If disrupted, the process of spinal formation can result in vertebral anomalies such as hemivertebrae, block vertebrae, butterfly vertebrae, transitional vertebrae, and in extreme cases, spina bifida. These defects can cause compression of the spinal cord due to deformation of the vertebral canal, spinal curvature, and alterations of the shape and number of vertebrae. This suite of malformations of the spine that occur during gestation is referred to as congenital vertebral defects. 
+Hemivertebrae, or wedge-shaped vertebrae, are caused by failure of formation or segmentation of somites during 
+		osteogenesis. One probable cause of this failure is a lack of blood supply to the vertebrae. Hemivertebrae cause an angling of the spine and are most commonly manifested in defects such as 
+		kyphosis (posterior curvature), 
+		scoliosis (lateral curvature), and 
+		lordosis (anterior curvature). The most common location for hemivertebrae is the midthoracic region (especially T8), and they are the most likely vertebral defect to cause neurological problems. There are four distinct types: incarcerated, nonincarcerated, segmented, and unsegemented. Incarcerated hemivertebrae are those in which the vertebral bodies above and below the abnormal segment accommodate the hemivertebrae, whereas nonincarcerated refers to the failure of accommodation, usually resulting in spinal curvature. Segmented, or free, hemivertebrae have a normal disk above and below the defective body and are more likely to lead to progressive curvature, while unsegmented hemivertebrae are fused with the vertebral body above and below. Neurological problems may result if the hemivertebrae cause severe angulations of the spine, narrowing of the spinal canal, instability of the spine, or fractured vertebrae. Signs of neurological problems associated with hemivertebrae include rear-limb weakness, paralysis, urinary/fecal incontinence, and spinal pain. Fortunately, most cases of hemivertebrae cause few or mild symptoms and usually do not require treatment.
+Similar to hemivertebrae, block vertebrae also occur when there is improper segmentation of the somites during the period of differentiation, leading to fusion of parts of or entire vertebrae. The 
+		sacrum, or pelvic girdle, is an example of block vertebrae that occurs normally in the body. When vertebrae fuse in the upper regions of the spine, however, a unilateral bar (a region in which several vertebrae are fused on one side) may form, causing curvature of the spine. Because there is little or no motion in the affected area, the free articulations above and below the segment are usually strained. Although block vertebrae are most commonly found in the cervical region, they can also be found throughout the spine. Individuals with block vertebrae, when viewed through 
+		MRI, typically show calcified disk space, fusion of apophyseal joints, and malformation or fusion of the spinous processes. They may also suffer from muscle weakness and/or atrophy, and neurological sensory loss. This defect is caused by genetic and environmental influences that occur during 
+		somitogenesis around the third week after fertilization. Physicians are able to detect congenital block vertebrae in vivo, but it is difficult to determine whether the defect is congenital, acquired, or both. 
+A sagittal cleft or “butterfly” vertebra is characterized by a cleft through the body of the vertebra and a funnel shape at the ends, a shape that resembles a butterfly. In some affected individuals, the “wings” of the butterfly vertebrae are not equally shaped and can cause disorders such as scoliosis and kyphosis. The adjacent intervertebral spaces may be narrowed causing compensatory changes in adjacent vertebrae, leading to other vertebral and rib anomalies. In most cases severe pain is not associated with this condition and little or no treatment is required. Mitigation of the condition may include avoiding heavy lifting or using an external back support. Butterfly vertebrae are thought to result from the failure of fusion of the lateral halves of the vertebral body due to the continuing presence of 
+		notochord tissue between them.
+Transitional vertebrae involve changes in the vertebral arch or transverse process and occur at the cervicothoracic, thoracolumbar, or lumbosacral junction. In this condition, the vertebral body between adjacent sections of the vertebral column, for example, between the lumbar and sacral regions, shows characteristics of each type (lumbar and sacral) of vertebra. Anthropomorphically speaking, it is as if the vertebrae do not know which portion of the spine they belong to, so they exhibit characteristics of multiple types of vertebrae. Treatment for this defect usually involves physical therapy to strengthen the spine and the use of a back brace. 
+
+		Spina bifida, the most extreme case of congenital vertebral defect, is characterized by incomplete closure or formation of the spine. There are two forms: spina bifida occulta and spina bifida manifesta. Spina bifida occulta (occulta meaning “hidden”) is the mildest form. Most children with this defect appear symptomless and their spinal cord in unaffected, although there may be a hairy patch on the lower region of the back signifying a cell signaling error. Spina bifida manifesta, the more severe form, is dived into two types: meningocele and myelomeningocele. Meningocele is an intermediate form of spina bifida involving the brain and spinal cord membranes (meninges). The meninges push through an opening in the spinal column and form a sac that may be visible at birth. Myelomeningocele is the most severe type of spina bifida; it is similar to meningocele, but the meninges along with the spinal cord manage to push through an opening in the back. Some researchers suspect a genetic cause for spina bifida while others suggest it is a result of environmental factors. Fevers during pregnancy and consumption of some prescription drugs, such as 
+		valproic acid, have been associated with spina bifida. Many children born with this defect also have 
+		hydrocephalus (water on the brain) and even paralysis. Research has found that ingestion of 
+		folic acid supplements during pregnancy is correlated with a large reduction in the occurrence of spina bifida. 
+Many syndromes are associated with congenital spinal deformities. These include 
+		Down syndrome, 
+		deletion 5p syndrome, 
+		Kabuki syndrome, 
+		Noonan syndrome, 
+		Aarskog syndrome, 
+		cervico-oculo-acoustic syndrome, 
+		MURCS association, 
+		VACTERL association, 
+		Jarcho-Levin syndrome, and 
+		Proteus syndrome. Vertebral anomalies are also associated with kidney problems because the precursor cell population that creates the spine is the same population that migrates to form the mesonephros. The spine and its precursor cells, somites, are an essential part of the vertebrate body plan and any disruption to the process of formation can lead to anomalies which can inhibit movement and growth, and cause severe pain.  
+
+
+Sources
+Alexander, Michael. “Spina Bifida.” Kids Health (2010). http://kidshealth.org/parent/system/ill/spina_bifida.html# (Accessed April 15, 2010).
+Fischer, Frederick, and R. E. Vandermark. “Sagittal Cleft (Butterfly) Vertebrae.” Journal of Bone and Joint Surgery (1945): 695–698. 
+Gilbert, Scott F. Developmental Biology, 8th ed. Sunderland, MA: Sinauer Associates, 2006. 457–58.
+Reichert, I. L. H., et al. “The Role of Blood Supply in Lumbar Spine Disorders.” In Lumbar Spine Disorders: Current Concepts 2, eds. Richard Aspden and Russel Porter. River Edge, NJ: World Scientific, 1996.
+Yochum, Terry, and Chad Maola. “C2 to C3 Congenital Block Vertebra.” American Chiropractor 25 (2003). http://www.theamericanchiropractor.com/articledetail.asp?articleid=75&category=1 (Accessed April 15, 2010). 
+
+
+How to cite
+DeRuiter, Corinne, "Congenital Vertebral Defects". Embryo Project Encyclopedia (2010-09-12). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/2064.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 25, 2013 - 15:53
+ Topic
+Subject
+Congenital, Hereditary, and Neonatal Diseases and Abnormalities; Congenital diseases.; Concept

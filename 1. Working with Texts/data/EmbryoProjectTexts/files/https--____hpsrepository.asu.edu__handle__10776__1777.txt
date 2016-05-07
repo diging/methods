@@ -1,0 +1,31 @@
+By Brock Heathcotte
+Published: 2008-05-09
+Keywords:     
+   Status and Value Term DescriptionsStatus as current law:
+Many cases and statutes included in this database have been overruled or repealed but remain of historical interest. This section describes the current status of a case or statute as good or bad law in one of four ways—probable, questionable, doubtful, or no longer good law.
+Probable:  the ruling in a case is probably still good law and would most likely be applied to another case with a similar fact pattern in the same jurisdiction; also used for a statute when it has not been repealed by a legislature or questioned by a court.
+Questionable:  the ruling in a case may still be good law but other different rulings under similar circumstances cast doubt on the issue; also used for a statute when it has not been repealed but has been questioned by a court.
+Doubtful:  the ruling in a case is so old or out of step with modern jurisprudence that it would almost certainly be ignored when deciding a case with a similar fact pattern; also used for a statute that has been declared invalid by a court but remains on the books.
+No longer good law:  the ruling in a case has been directly overruled by subsequent decisions; also used for a statute that has been repealed by a legislature.
+Value as precedent:
+Some cases and statutes are from highly influential courts and some are not. This section describes the value of the case or statute as precedent for future similar circumstances in one of four ways—high, medium, low, or none.
+High:  the ruling in a case is very influential, such as decisions by the Supreme Court of the United States, so other courts confronted with similar circumstances would be legally required to follow this decision; also used for a statute that has the quality of preemption over statutes enacted by lower legislatures, such as some statutes enacted by the Congress of the United States.
+Medium:  the ruling in a case is influential over a large population, such as decisions by the Supreme Court of California, or has been copied by many other jurisdictions even though the courts weren’t legally required to; also used for a statute that has been copied by many other jurisdictions, like some statutes enacted by the legislature of New York.
+Low:  the ruling in a case only applies to a small population, such as decisions by the Arizona Court of Appeals, or a ruling of a more influential court that has been challenged or questioned by other courts, or a ruling by a court with no influence that has some power by virtue of its reasoning; also used for a statute enacted in a small jurisdiction that has not been copied by other jurisdictions.
+None:  the ruling in a case has been directly overruled or is so old that it is no longer considered by courts face with similar circumstances; also used for a statute that has been repealed.
+ 
+How to cite
+Heathcotte, Brock, "Status and Value Term Descriptions". Embryo Project Encyclopedia (2008-05-09). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/1777.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 25, 2013 - 15:53
+ Topic
+Subject
+  Law

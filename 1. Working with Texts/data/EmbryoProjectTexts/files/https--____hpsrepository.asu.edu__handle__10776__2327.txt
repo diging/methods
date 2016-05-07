@@ -1,0 +1,51 @@
+By Catherine May
+Published: 2011-11-30
+Keywords: Biography, DNA and RNA
+ Craig C. Mello (1960—) Craig C. Mello is an American developmental biologist and Nobel Laureate, who helped discover RNA interference (RNAi). Along with his colleague Andrew Fire, he developed gene knockouts using RNAi. In 2006 Mello won the Nobel Prize in Physiology or Medicine for his contribution to the discovery of RNAi. Mello also contributed to developmental biology, focusing on gene regulation, cell signaling, cleavage formation, germline determination, cell migration, cell fate differentiation, and morphogenesis. 
+Mello was born in New Haven, Connecticut on 18 October 1960 to Sally Cameron and James Mello. During Mello’s childhood, the family relocated from Connecticut to Falls Church Virginia and then to Fairfax, Virginia, where Mello’s father became assistant director of the Smithsonian Museum of Natural History in Washington, DC. Mello recalled memories of the outdoors, camping, searching for fossils, watching wildlife, and hiking the Blue Ridge Mountains. Mello formed an affinity for science, later stating that science is the best way to approach the world because it asks questions and admits no absolutes. Mello attended Fairfax High School. 
+In 1978 Mello attended Brown University and in 1982 graduated with an undergraduate degree in biochemistry. For graduate school, Mello first attended University of Colorado at Boulder where he studied the nematode worm C. elegans in David Hirsh’s lab and met Mike Krause, Jim Kramer, Ken Kemphues and Jim Priess, who all collaborated with Mello. Mello later commented that Hirsh’s lab was foundational to his career, helping him improve his laboratory skills and expand his knowledge of molecular biology. 
+When Hirsch left the university during Mello's first year there, Mello transfered to Harvard Universtiy in Cambridge, Massachusetts and began working in Dan Stinchcomb’s lab. The Stinchcomb lab was located near Victor Ambros’s lab and because both labs were studying C. elegans, the two labs consolidated into a joint lab, which they called the Worm Lab. 
+While conducting research at Harvard, Mello encountered limitations with the existing technology. Mello and coworker Andrew Fire took the initiative to develop new techniques for DNA transformation in worms. Ken Kemphues had introduced Mello to an "antisense" RNA-injection technique for silencing genes in C. elegans. Using the more advanced technique he had learned from Kemphues, Mello began systematically turning off genes in order to demonstrate their effect on development.
+In 1990, Mello received his doctoral degree from Harvard. Mello accepted a post-dctoral position at the Fred Hutchinson Cancer Research Center in Seattle, Washington, where he worked with Jim Priess. From 1990 to 1994, Priess taught Mello about gene regulatory networks and early developmental genes. During this time, Mello and his colleagues investigated 8-cell stage blastomeres, patterns of development, cell fate and embryogenesis in “The pie-1 and mex-1 Genes and Maternal Control of Blastomere Identity in Early C. elegans Embryos,”.
+In 1993 Mello, Draper and Priess published “Maternal Genes apx-1 and glp-1 and Establishment of Dorsal-Ventral Polarity in Early C. elegans Embryo,” which identified two genes involved in cell fate and cell migration. The authors found evidence that asymmetry in the anterior-posterior axis and cell to cell interactions are important in the establishment of a polar dorsal-ventral axis. In 1994, Mello and colleagues co-published “Par-2, a Gene Required for Blastomere Asymmetry in Caenorhabditis elegans, Encodes Zinc-Finger and ATP-Binding Motifs” which investigated early embryogenesis and asymmetrical cleavage patterns. That same year, Mello became a faculty member at the University of Massachusetts Medical School in Worcester, Massachusetts and established his own lab. Mello and Fire began collaborating across the country and found that there is a mechanism in animals, called RNA interference (RNAi) that protects the genome from foreign genetic material, such as viruses. When exposed to specific types of double-stranded RNA (dsRNA), target genes turn off. Mello later developed finer points in the RNAi hypothesis, such as the effect of dsRNA  and the role of the antisense strand in RNAi. The collaboration between Mello and Fire proved to be successful and in 1998, they published their findings on RNAi in, “The Potent and Specific Genetic Interference by double-stranded RNA in C. elegans”, which has greater than four thousand citations. In 2000 Mello joined the Howard Hughes Medical Institute while at the University of Massachusetts Medical School. In 2003 Mello and Fire were the recipients of the National Academy of Sciences in Molecular Biology. In 2005 Mello and Fire co-received the Gairdner Foundation International Award. In 2005 The Wiley Prize in Biomedical Sciences went to Mello, Fire, Baulcombe and Tuschl. In 2006 Mello was co-awarded the Nobel Prize in Physiology or Medicine for his co-discovery of RNAi. Mello’s influential body of work in the field of developmental biology has been cited over twelve thousand times.Mello, who credits his original interest in biology to a 1978 article on bacteria engineered to produce insulin, would struggle with his daughter’s Type I Diabetes, thirty years later. Mello stated that his daughter’s illness made him realize the importance of medical applicability in research. As of 2010, the Mello Lab investigates embryonic patterning, cell fate and developmental timing, using RNAi. Mello is also co-director of the RNAi Therapeutics Institute at the University of Massachusetts Medical School. 
+
+Sources
+Bei, Yanxia, Jennifer Hogan, Laura Berkowitz, Martha Soto, Christian Rocheleau, Ka Ming Pang, John Collins, and Craig Mello. “SRC-1 and WNT Signaling Act Together to Specify Endoderm and to Control Cleavage Orientation in Early C. elegans Embryos.” Developmental Cell 3 (2002): 113.
+Biological Discoveries in Woods Hole. “Return to the RNAi World: Rethinking Gene Expression, Evolution, and Medicine.” Marine Biological Laboratory.  http://www.mbl.edu/events/2007_events_friday/events_friday_08_17_07.html (Accessed December 20, 2010).
+Draper, Bruce, Craig Mello, Bruce Bowerman, Jeff Hardin, and James R. Priess. “MEX-3 is a KH Domain Protein that Regulates Blastomere Identity in Early C. elegans Embryos.” Cell 87 (1996): 205.
+Fire, Andrew, SiQun Xu, Mary Montgomery, Steven Kostas, Samuel Driver, and Craig Mello. “Potent and Specific Genetic Interference by Double-stranded RNA in Caenorhabditis elegans.” Nature 391 (1998): 806–11. 
+Howard Hughes Medical Institute. “Craig C. Mello., Ph.D.” http://www.hhmi.org/research/investigators/mello_bio.html (Accessed December 20, 2010).
+Levitan, Dianne, Lynn Boyd, Craig Mello, Ken Kemphues, and Dan Stinchcomb. “Par-2, a Gene Required for Blastomere Asymmetry in Caenorhabditis elegans, Encodes Zinc-Finger and ATP-Binding Motifs” PNAS 91 (1994): 6108–12. 
+Mello, Craig, Jim Kramer, Dan Stichcomb, and Victor Ambros. “Efficient Gene Transfer in  C. elegans: Extrachromosomal Maintenance and Integration of Transforming Sequences.” The EMBO Journal 10 (1991): 3959–70. 
+Mello, Craig, Bruce Draper, Mike Krause, Harold Weintraub, and Jim Priess. “The pie-1 and	
+				mex-1 Genes and Maternal Control of Blastomere Identity in Early C. elegans Embryos.” Cell 70 (1992): 163–76. 
+Mello, Craig, Bruce Draper, and Jim Priess. “The Maternal Genes apx-1 and glp-1 and 			
+				Establishment of Dorsal-Ventral Polarity in the Early C. elegans Embryo.” Cell 77 (1994): 95–106. 
+Nobel Foundation. “The Nobel Prize in Physiology or Medicine 2006.”  http://www.nobelprize.org/nobel_prizes/medicine/laureates/2006/ (Accessed December 20, 2010).
+Pang, Ka Ming, Takao Ishidate, Kuniaki Nakamura, Masaki Shirayama, Chris Trzepacz, Charlotte M. Schubert, James R. Priess, and Craig C. Mello. “The Minibrain Kinase Homolog, MBK-2, is Required for Spindle Positioning and Asymmetric Cell Division in Early C. elegans Embryos.” Developmental Biology 265 (2004): 127.
+Rocheleau, Christian, Jun Yasuda, Tae Ho Shin, Rueyling Lin, Hitoshi Sawa, Hideyuki Okano, James R. Priess, Roger J. Davis, and Craig C. Mello. “WRM-1 Activates the	
+				LIT-1 Protein Kinase to Transduce Anterior/Posterior Polarity Signals in C. elegans.” Cell 97 (1995): 717.
+Shin, Tae and Craig Mello. “Chromatin Regulation during C. elegans Germline Development.” Current Opinion in Genetics & Development 13 (2003): 455.
+Shirayama, Masaki, Martha Soto, Takao Ishidate, Kim Soyoung, Kuniaki Nakamura, Yanaxia Bei, Sander Van den Heuvel, and Craig Mello.“The Conserved Kinases CDK-1, 
+				GSK-3, KIN-19, and MBK-2 Promote OMA-1 Destruction to Regulate the Oocyte-to-Embryo Transition in C. elegans.” Current Biology 16 (2006): 47. 
+Tabara, Hiroaki, Madathia Sarkissian, William Kelly, Jamie Fleenor, Alla Grishok, Lisa Timmons, Andrew Fire, and Craig Mello. “The RDE-1 Gene, RNA Interference, and Transposon Silencing in C. elegans.” Cell 99 (1999): 123. 
+Unhavaithaya, Yingdee, Tae Shin, Nicholas Miliaras, Jungsoon Lee, Tomoko Oyama, and Craig Mello. “MEP-1 and a Homolog of the NURD Complex Component MI-2s 			
+				Act Together to Maintain Germline-Soma Distinctions in C. elegans.” Cell 111 (2002): 991. 
+University of Massachusetts Medical School. “Craig Mello, Ph.D.” http://profiles.umassmed.edu/profiles/ProfileDetails.aspx?From=SE&Person=1009 (Accessed December 20, 2010).
+
+
+How to cite
+May, Catherine, "Craig C. Mello (1960- )". Embryo Project Encyclopedia (2011-11-30). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/2327.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 25, 2013 - 15:53
+ Topic
+Subject
+RNA Interference; Mello, Craig C.; People

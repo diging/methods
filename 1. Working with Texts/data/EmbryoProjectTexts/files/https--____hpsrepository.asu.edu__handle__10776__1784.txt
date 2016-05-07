@@ -1,0 +1,64 @@
+By Brock Heathcotte
+Published: 2008-05-09
+Keywords: Fertilization, Bioethics
+ J.B. v. M.B. (2001)Court: New Jersey Supreme Court
+		Citation:	J.B. v. M.B., 783 A.2d 707 (N.J. 2001)
+		Status as current law: Probable
+		Value as precedent: Low
+Case significance:
+In a dispute over 
+			frozen embryos during a divorce case, the court decided the wife’s fundamental right to not procreate mandated destruction of the pre-embryos in light of the husband’s continuing ability to procreate with a different partner. The court also said embryo disposition agreements used by 
+			in vitro fertilization clinics were generally enforceable subject to either spouse’s right to change his or her mind prior to use of the pre-embryos.
+Case Summary:
+Facts—Husband and wife attempted 
+			IVF in 1995. Of eleven embryos created, four were 
+			implanted and seven were frozen for possible future use. They had a child in 1996 but the couple soon after filed for divorce. The wife wished for the 
+			frozen embryos to be destroyed but the husband wanted them donated to other infertile couples citing his religious beliefs and arguing that they had always agreed they would donate any unused 
+			frozen embryos. The only written agreement between the husband and wife was a form from the IVF clinic that stated in the event of divorce they would relinquish control of the 
+			frozen embryos to the clinic or as otherwise determined by a court in the divorce proceedings.
+Law—There was insufficient evidence to find that an oral agreement existed. The written agreement merely placed the decision about what to do with the 
+			frozen embryos on the court.
+Ruling—The court ruled in favor of the wife, who sought destruction of the 
+			frozen embryos. The Supreme Court held that the husband and wife never entered into a separate binding contract providing for disposition of their pre-embryos; the wife’s fundamental right not to procreate would be irrevocably extinguished if a surrogate mother bore the wife’s child through use of the frozen pre-embryos; and an agreement regarding disposition of frozen pre-embryos entered into at the time 
+			IVF is begun is enforceable, subject to the right of either party to change his or her mind about disposition up to the point of use or destruction of any stored pre-embryos.
+Quotes:
+“In essence, J.B. and M.B. have agreed only that on their divorce the decision in respect of control, and therefore disposition, of their cryopreserved pre-embryos will be directed by the court. In this area, however, there are few guideposts for decision-making. Advances in medical technology have far outstripped the development of legal principles to resolve the inevitable disputes arising out of the new reproductive opportunities now available. For infertile couples, those opportunities may present the only way to have a biological family. Yet, at the point when a husband and wife decide to begin the 
+			in vitro fertilization process, they are unlikely to anticipate divorce or to be concerned about the disposition of pre-embryos on divorce. As they are both contributors of the genetic material comprising the pre-embryos, the decision should be theirs to make.”
+“We agree with the Tennessee Supreme Court that ‘[o]rdinarily, the party wishing to avoid procreation should prevail.’ Here, the Appellate Division succinctly described the ‘apparent’ conflict between J.B. and M.B.: In the present case, the wife's right not to become a parent seemingly conflicts with the husband's right to procreate. The conflict, however, is more apparent than real. Recognition and enforcement of the wife's right would not seriously impair the husband's right to procreate. Though his right to procreate using the wife's egg would be terminated, he retains the capacity to father children.”
+“[T]he Massachusetts Supreme Judicial Court as well as our Appellate Division have declared that when agreements compel procreation over the subsequent objection of one of the parties, those agreements are violative of public policy.”
+This case cites to these authorities:
+Roe v. Wade, 410 U.S. 113, 93 S.Ct. 705, 35 L.Ed.2d 147 (1973)
+		The word “person” in the US Constitution does not include a fetus.
+In re Baby M, 537 A.2d 1227 (N.J. 1988)
+		A surrogacy contract was void because it violated public policy against pre-birth adoption.
+Davis v. Davis, 842 S.W.2d 588 (Tenn. 1992)
+		In a dispute over the disposition of frozen embryos in the event of divorce, the court should ordinarily look to a contract for resolution.
+Kass v. Kass, 696 N.E.2d 174 (N.Y. 1998)
+		Prearranged agreement between progenitors of frozen embryos regarding the disposition of their “pre-zygotes” in the event of divorce is binding.
+A.Z. v. B.Z., 725 N.E.2d 1051 (Mass. 2000)
+		Prior written agreement between a husband and wife regarding the disposition of frozen embryos in the event of a divorce was unenforceable.
+This case was cited in:
+Litowitz v. Litowitz, 48 P.3d 261 (Wash. 2002)
+		Pursuant to an embryo disposition contract, a husband and wife had to petition the court for instructions because they could not reach an agreement about what to do with the frozen embryos.
+In re Marriage of Witten, 672 N.W.2d 768 (Iowa 2003)
+		If no agreement can be reached between the parties, the frozen embryos cannot be used regardless of what a prior written disposition agreement states.
+Jeter v. Mayo Clinic Arizona, 121 P.3d 1256 (Ariz.App. Div. 1 2005)
+		The word “person” in Arizona’s wrongful death statute does not include an in vitro frozen embryo.
+Roman v. Roman, 193 S.W.3d 40 (Tex.App.-Hous. (1 Dist.) 2006)
+		The embryo agreement between former husband and wife which provided that frozen embryos were to be discarded in the event of divorce was valid and enforceable. 
+
+How to cite
+Heathcotte, Brock, "J.B. v. M.B. [Brief] (2001)". Embryo Project Encyclopedia (2008-05-09). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/1784.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, October 9, 2013 - 22:22
+ Topic
+Subject
+Fertilization in Vitro;  Law

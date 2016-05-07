@@ -1,0 +1,52 @@
+By Justin M. Wolter
+Published: 2012-10-04
+Keywords: Model organisms, Mice, Gastrulation, Germ layers
+ Gastrulation in Mus musculus (common house mouse)As mice embryos develop, they undergo a stage of development called gastrulation. The hallmark of vertebrate gastrulation is the reorganization of the 
+		inner cell mass (ICM) into the three germ layers: 
+		ectoderm, 
+		mesoderm, and 
+		endoderm.  Mammalian embryogenesis occurs within organisms; therefore, gastrulation was originally described in species with easily observable embryos.  For example, the African clawed frog (Xenopus laevis) is a widely used organism to study gastrulation because the large embryos develop inside a translucent membrane. Domestic chickens (Gallus gallus) provided researchers another early model to study gastrulation because researchers could open the egg during development to look inside. Despite the challenges associated with studying mammalian gastrulation, the common house mouse 
+		(Mus musculus) has helped to shed light on the unique adaptations associated with mammalian development.
+Gastrulation in the mouse begins shortly after a 
+		blastula implants into the uterine wall of the mother, and is immediately followed by the development of the various organ systems (organogenesis).  This coordinated movement of cells results in a spatially organized embryo, and assembles the framework upon which future developmental processes will build the body.  The term for an embryo undergoing gastrulation is the 
+		gastrula, a term coined by 
+		Ernst Haeckel Germany in 1872, and expanded upon in his 1874 
+		Studien zur Gastraea-theorie (Studies for the Gastrea Theory). The Latin root gaster means stomach, and the term gastrulation refers to the formation of the gut. 
+In the mouse there is a two-day gap between implantation and the beginning of gastrulation; the blastocyst implants in the uterine wall four and a half days post coitum (DPC), and gastrulation begins six and a half DPC.  During that two-day period, cells change within the developing fertilized egg (zygote). During cleavage cells are held together by adhesion proteins, which must be deactivated to allow individual cells to move.  The relaxed cellular bonds allow the 
+		inner cell mass (ICM) to expand and reorganize into distinct layers.  One of these layers, the 
+		epiblast, is a sheet of cells, which are the precursors of all the cells of the embryo.  As the epiblast grows, it takes the shape of a cup, with the rim located on dorsal side of the embryo. 
+Gastrulation begins with the formation of the 
+		primitive node on the posterior side of the epiblast.  The primitive node is a knot of cells that secretes cellular signals in the form of proteins, such as 
+		fibroblast growth factor (FGF).  Those signals help cells migrate within the embryo during gastrulation.  The appearance of the node is also the first indication of head to tail distinction 
+		(anterior-posterior polarity).  From the node a structure called the primitive streak forms.  The primitive streak is a groove that extends from the primitive node towards the ventral side of the embryo.  As the primitive streak elongates, epiblast cells that are on the inside of the cup ingress up into the streak.  As a cell moves into the primitive streak, it interacts with cellular signals, which restrict the type of tissues the cell can form.  The cells that move through the streak become 
+		mesendoderm, which are the precursors of mesoderm cells and endoderm cells.  After they exit the primitive streak, the cells disperse and create a wave of mesendoderm that expands to cover the outside of the embryo. 
+In the mouse the mesendoderm engulfs the ectoderm, which will later form the nervous system and epidermis.  The mesendoderm differentiates into mesoderm; which becomes the skeleton, muscles, and various internal organs; and the endoderm, which then becomes the gastrointestinal and respiratory systems.  The mesoderm forms on the anterior portion of the embryo, and the endoderm forms on the posterior side where the primitive streak originated.  The endoderm and mesoderm completely differentiate from each other around sixteen DPC.
+At that time, the organizer node of the mouse embryo forms from mesoderm at the ventral pole of the cup shaped gastrula. The node is functionally similar to the Spemann-Mangold organizer in amphibians and to Henson's node in chicks. The formation of the organizer node establishes a left-right axis in the mouse embryo.  Similar to cells that emerge from the primitive streak at the posterior end, cells moving through the node move in an anterior direction, creating a U-shaped area of mesoderm that will fold into the gut tube.  Next, the precursors of the neural plate form from the ectoderm on the inside of the cup.  This anterior-ventral ectoderm originates adjacent to the node and migrates to the anterior pole, marking the initial step in the development of the nervous system.  
+While scientists often use gastrulation in the mouse as a model for gastrulation in other mammals, the ordering of the germ layers is exactly opposite of most other mammals.  In humans—as is typical with most mammals—the gastrula arranges in flat shape, called a planar arrangement, with the ectoderm located on the dorsal side of the mesoderm and endoderm.  Despite this morphological peculiarity of the mouse, the cup-shaped mouse gastrula has a similar surface area compared to the planar configurations found in other mammals.  Later, during organogenesis, the mouse gastrula inverts into a shape more consistent with other mammals.  
+Gastrulation is a process common to all animals, and researchers investigate its evolutionary origins partly to understand how complex animals evolved.  Gastrulation recapitulates the evolutionary transition from organisms with two germ layers (diploblastic), to organism with three germ layers (triploblastic) and a digestive system. Some researchers map the gene regulatory networks that operate during gastrulation. They do so to expand our molecular knowledge of the signaling factors involved, and to uncover the evolutionary origins of gastrulation. 
+
+Sources
+Gilbert, Scott F. Developmental Biology, 9th edition. Sunderland, MA: Sinauer, 2010.
+Haeckel, Ernst.  Die Kalkschwämme. Eine Monographie [The calcareous sponges. A Monograph]. Berlin: Georg Reimer, 1872.
+				 http://dx.doi.org/10.5962/bhl.title.11323    (Accessed October 4, 2012).
+Haeckel, Ernst.  Studien zur Gastraea-theorie [Studies for the Gastrea Theory]. Jena: Hermann Dufft, 1877.
+				 http://dx.doi.org/10.5962/bhl.title.3970 (Accessed October 4, 2012)
+Stern, Claudio D. Gastrulation: from cells to embryo. Cold Spring Harbor, NY: Cold Spring Harbor Laboratory Press, 2004.
+Tam, Patrick, Richard Behringer. “Mouse Gastrulation: The Formation of a Mammalian Body Plan.” Mechanisms of Development 68 (1997): 3–25. 
+
+
+How to cite
+Wolter, Justin M., "Gastrulation in Mus musculus (common house mouse)". Embryo Project Encyclopedia (2012-10-04). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/3942.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+
+Last modified
+Thursday, February 26, 2015 - 01:31
+ Topic
+Subject
+Gastrulation; Gastrulation;  mice; Germ Cells; Somatic embryogenesis; Embryos; Embryological development; Cell differentiation; Embryology; Fertilization (Biology); Concept

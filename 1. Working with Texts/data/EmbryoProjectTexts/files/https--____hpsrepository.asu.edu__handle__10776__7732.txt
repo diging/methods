@@ -1,0 +1,152 @@
+By Ceara O'Brien
+Published: 2014-04-01
+Keywords: human stem cell, William Clinton, George W. Bush, Harold T. Shapiro
+ "Ethical Issues in Human Stem Cell Research: Executive Summary" (1999), by the US National Bioethics Advisory Commission "Ethical Issues in Human Stem Cell Research: Executive Summary" was published in September
+	1999  by The US National Bioethics Advisory Commission in response to a national debate about
+	whether or not the US federal government should fund embryonic stem cell research. "Ethical
+	Issues in Human Stem Cell Research" recommended policy to US President William Clinton's
+	administration, which advocated for federal spending on the use of stem research on stem cells
+	that came from embryos left over from in vitro fertilization (IVF) fertility treatments.
+	Although NBAC's proposals never became legislation, the report helped shape public, private, and
+	international discourse on stem cell research policy.
+ The National Bioethics Advisory Commission (NBAC) was initially created by President William
+	Clinton on 3 October 1995 and was chaired by Harold T. Shapiro, former president of Princeton
+	University and the University of Michigan. The committee aimed to deliberate on
+	bioethical issues that arose from research on human biology and behavior, during a period of
+	national debate surrounding stem cell research. The committee included members with backgrounds
+	in law, medicine, philosophy, ethics, theology, and psychology. 
+ As the NBAC compiled its report from November 1998 to September 1999, two US laws
+	regulated federal funding of human embryonic stem cell research. First, the 1993 National
+	Institutes of Health Revitalization Act gave the National Institute of Health (NIH) authority to
+	fund human embryo research. Second, the 1995 Dickey-Wicker Amendment banned the use of federal
+	funds for research that created embryos solely for research purposes or research in which human
+	embryos are destroyed. Both of these policies helped cause debate in November 1998 after at
+	least three publications described new possibilities of stem cell research and related ethical
+	quandaries. Within one week, two independent research teams, James Thomson and colleagues at the
+	University of Wisconsin, in Madison, Wisconsin, and John Gearhart and his colleagues at The
+	Johns Hopkins University School of Medicine, in Baltimore, Maryland, stated that they had
+	isolated and cultivated human embryonic stem cells. Furthermore, the New York Times announced that the
+	biotech company Advanced Cell Technology of Worcester, Massachusetts, developed a human-cow
+	hybrid cell by removing the nucleus of the cow egg, and replacing it with the nucleus of a human
+	cell. President Clinton called upon NBAC to evaluate the recently published research on stem
+	cell derivation and somatic cell nuclear transfer. He gave the commission nine months to
+	deliberate, consult experts, balance ethical claims, and formulate policy recommendations, which
+	were ultimately presented in the report published in September 1999. 
+"Ethical Issues in Human Stem Cell Research: Executive Summary" is organized into an
+	introduction, thirteen recommendations, and a conclusion. In the introduction, NBAC
+	distinguishes embryonic stem (ES) cells for other stem cells as capable of developing into nearly any cell
+	type, whereas adult stem cells have more specific fates, such as renewing tissue in the lining
+	of the gut, revitalizing skin cells and producing a range of blood cells. NBAC then describes
+	the various methods with which researchers derive stem cells, and it lists applications of stem
+	cells for treating disorders.
+ The report distinguishes between two types of embryos. The first
+	type includes embryos created solely for research purposes though IVF using somatic cell nuclear
+	transfer, a process by which researchers remove the nucleus from a reproductive cell and then
+	transfer the nucleus from a non-reproductive cell into the enucleated egg cell. The second type
+	includes embryos that are initially created for infertility treatment using IVF. NBAC says that
+	adult stem cells are not a legitimate alternative to ES cells because adult stem cells lack the
+	potential to develop into as many cells as ES cells.
+The second section of the executive summary presents NBAC's stance as to whether each
+	category of ES cells should be federally funded. The commission asserts that the federal
+	government should fund research using stem cells derived from embryos remaining after IFV
+	infertility treatments. However, they argue that the federal government should not fund research
+	using ESCs when the embryo is created for research purposes by either in vitro
+fertilization or somatic cell nuclear transfer. These recommendations conflicted with the
+	Dickey-Wicker Amendment, which since 1995 had banned funding that supported the derivation of ES cells. NBAC said that, as leftover embryos from IVF existed, there was no reason to fund
+	scientists to create new embryos for research.
+In the third section of the executive summary, NBAC advised private research organizations to
+	employ consistent and ethical standards in its research. They recommended that any federally
+	funded research proposals should be reviewed by the National Stem Cell Oversight and Review
+	panel, to ensure that there is adequate justification for the use of the cell lines.
+	This review panel would require that embryo donors give informed consent for their donation, and it
+	would advocate that the US government create laws that prevent the buying or selling of embryos.
+	In the executive summary, NBAC says that whether the federal government funds embryonic stem
+	cell research or not, or if it decides to fund only certain types of research, privately funded
+	research is exempt from the guidelines of federally funded research. The private sector could
+	not be held to the same standards by the US government, as their funding was not federal.
+	Instead, the private sector would have to voluntarily comply with the requirements that
+	federally funded researchers are obligated to, but with no guarantee that they would do so. 
+On 14 July 1999 the White House released a statement rejecting NBAC's preliminary
+	recommendations. This was not the first time Clinton rejected the recommendations from his
+	advisory commission. In 1994 Clinton had  banned the use of federal funds
+	for embryos created for the sole purpose of research—a few hours after the National Insitutue of Health's Human Embryo Research
+	Panel published their conclusions advising otherwise. 
+In January 2000, President George Bush took office. July 2001, Shapiro, former chair of
+	NBAC, wrote President Bush to offer NBAC's assistance and to notify him of NBAC's "Ethical
+	Issues in Human Stem Cell Research" report. One month later in President George W. Bush's
+	Announcement on Stem Cells, he revealed that the federal government would only fund embryonic
+	stem cell research from already-existing stem cell lines, and it would not allow funding for the
+	derivation of any new stem cells, regardless of NBACs recommendations. This law was federal policy
+	until President Barack Obama lifted the ban by signing Executive Order 13505 on 9 March 2009,
+	returning to legislation similar to the Clinton administration guidelines from August 2000. 
+Since its publication, "Ethical Issues in Human Stem Cell Research" was cited by numerous
+	scientific organizations in the US and internationally. In June 1999 UK's Chief Medical Officer,
+	Liam Donaldson, established an Expert Group to give advice on what areas of embryonic stem cell
+	research should receive funding. The group's report, "Stem cell research: Medical progress with
+	responsibility," published a year later, cited NBAC's report as a comparative model. In 2000 the
+	UK's Nuffield Council on Bioethics based their guidelines on restrictions proposed by NBAC
+	regarding the buying and selling of human embryos. When the Canadian Institutes of Health
+	Research deliberated about stem cell research from 1999 to 2000, they also reference NBAC's stem
+	cell recommendations. During this same time, other countries such as Japan and Singapore
+	studied the proceedings and conclusions of the US's National Bioethics Advisory Committee while
+	formulating their own positions on various biomedical topics. 
+ Sources
+American Association for the Advancement of Science. "AAAS Policy Brief: Stem Cell Research." (2001).
+http://www.aaas.org/page/president-bush%E2%80%99s-stem-cell-policy-%E2%80%93-statement-american-association-advancement-science
+ (Accessed March 29, 2014)
+Bush, George W.  "Address to the Nation on Stem Cell Research," August 9, 2001. Public Papers of the Presidents of the United States: George W. Bush.  Washington, D.C., (2001, Book II): 953–956. http://www.gpo.gov/fdsys/pkg/PPP-2001-book2/pdf/PPP-2001-book2-doc-pg953-2.pdf (Accessed March 29, 2014).
+Chapman, Audrey R., Mark S. Frankel, and Michele S. Garfinkel. "Stem Cell Research and Applications Monitoring the Frontiers of Biomedical Research." For the American Association for the Advancement of Science. (1999). http://hdl.handle.net/1805/766 (Accessed March 29, 2014).
+Cibelli, Jose B., Steve L. Stice, Paul J. Golueke, Jeff J. Kane, Joseph Jerry, Cathy Blackwell, F. Abel Ponce de Leon, and James M. Robl. "Cloned transgenic calves produced from nonquiescent fetal fibroblasts." Science 280 (1998): 1256-1258.
+Clinton, William. "Statement on Federal Funding of Research on Human Embryos," Public Papers of the Presidents of the United States: William J. Clinton. Washington, D.C., (December 2, 1994, Book II): 2142. http://www.gpo.gov/fdsys/pkg/PPP-1994-book2/pdf/PPP-1994-book2-doc-pg2142.pdf (Accessed March 29, 2014).
+Clinton, William. Protection of Human Research Subjects and Creation of National Bioethics Advisory Commission. Executive Order 12975. 60 FR 52063. October 5, 1995. http://www.gpo.gov/fdsys/pkg/FR-1995-10-05/pdf/95-24921.pdf (Accessed March 29, 2014).
+Clinton, William. "Statement on the National Bioethics Advisory Commission's report on human
+stem cell research." Daily Compilation of Presidential Documents (1999): 1734. http://www.presidency.ucsb.edu/ws
+/?pid=56498#axzz2h8srkqCo. (Accessed October 5, 2013).
+Dickey-Wicker Amendment. Section 128 of the Balanced Budget Downpayment Act. Public Law 104-99 § 128 Genetics and Public Policy Center.
+
+http://www.gpo.gov/fdsys/pkg/PLAW-104publ99/content-detail.html
+(Accessed March 29, 2014). 
+Eiseman, Elisa. The National Bioethics Advisory Commission: Contributing to Public
+Policy. Santa Monica, CA: RAND Corporation, 2003.
+http://www.rand.org/pubs/monograph_reports/MR1546.
+ (Accessed February 3, 2012). 
+National Institutes of Health (NIH). "Report of the Human Embryo Research Panel." (1994). http://bioethics.georgetown.edu/pcbe/reports/past_commissions/human_embryo_vol_1.pdf (Accessed March 29, 2014).
+Making appropriations for fiscal year 1996 to make a downpayment toward a balanced budget, and for other purposes. H.R. 2880 (1996). 
+http://www.gpo.gov/fdsys/search/pagedetails.action?st=h.r.+2880+1996&granuleId=&packageId=BILLS-104hr2880cph
+(Accessed 4 April 2009).
+Meslin, Eric M., and Harold T. Shapiro. "Some Initial Reflections on NBAC." Kennedy Institute
+of Ethics Journal. 12 (2002): 95–102.
+National Institutes of Health Revitalization Act of 1993. Public Law 103-43 107 § 122 (1993). http://history.nih.gov/research/downloads/PL103-43.pdf (Accessed March 29, 2014).
+Obama, Barack. Removing Barriers to Responsible Scientific Research Involving Human Stem Cells. Executive Order 13505. 74 FR 10667. March 9, 2009. https://federalregister.gov/a/E9-5441
+Russo, Eugene. "A look back at NBAC." The Scientist 13 (1999): 4–5. http://www.the-scientist.com/?articles.view/articleNo/19603/title/A-Look-Back-At-NBAC/ (Accessed March 29, 2014).
+Shamblott, Michael J., Joyce Axelman, Shunping Wang, Elizabeth M. Bugg, John W. Littlefield, Peter J. Donovan, Paul D. Blumenthal, George R. Huggins, and John D. Gearhart. "Derivation of pluripotent stem cells from cultured human primordial germ cells." Proceedings of the National Academy of Sciences 95 (1998): 13726–13731.
+Thomson, James A., Joseph Itskovitz-Eldor, Sander S. Shapiro, Michelle A. Waknitz, Jennifer J. Swiergiel, Vivienne S. Marshall, and Jeffrey M. Jones. "Embryonic stem cell lines derived from human blastocysts." Science 282 (1998): 1145–1147. http://www.pnas.org/content/95/23/13726.full?origin=publication_detail (Accessed March 29, 2014).
+UK Department of Health. "Stem cell research: Medical progress with responsibility: A report from the chief medical
+officer's expert group reviewing the potential of developments in stem cell research and cell
+replacement to benefit human health." 2000. 
+US National Bioethics Advisory Commission. 1999. Ethical Issues in Human Stem
+Cell Research.
+http://hdl.handle.net/2027/mdp.39015043264780  
+   (Accessed October 5, 2013).
+Wade, Nicholas. "Researchers Claim Embryonic Mix of Human and Cow." New York Times,
+November 12, 1998.
+http://www.nytimes.com/1998/11/12/us/researchers-claim-embryonic-cell-mix-of-human-and-cow.html?
+pagewanted=all&src=pm.
+(Accessed February 3, 1012). 
+
+
+How to cite
+O'Brien, Ceara, ""Ethical Issues in Human Stem Cell Research: Executive Summary" (1999), by the US National Bioethics Advisory Commission". Embryo Project Encyclopedia (2014-04-01). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/7732.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+Copyright Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Tuesday, April 1, 2014 - 18:06
+ Topic
+Subject
+Stem Cells; in vitro; Bioethics; Stem cells--Research; embryonic stem cells; Literature

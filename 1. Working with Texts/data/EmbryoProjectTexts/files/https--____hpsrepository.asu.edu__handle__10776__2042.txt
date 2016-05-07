@@ -1,0 +1,46 @@
+By Lijing Jiang
+Published: 2010-06-28
+Keywords: Tissue culture, Chicks
+ Reassessment of Carrel’s Immortal Tissue Culture ExperimentsIn the 1910s, 
+		Alexis Carrel, the French surgeon and biologist, concluded that cells are intrinsically immortal. His claim was based on chick-heart tissue cultures in his laboratory that seemed to be able to proliferate forever. Carrel’s ideas about cellular 
+		immortality convinced his many contemporaries that cells could be maintained indefinitely. In the 1960s, however, Carrel’s thesis about cell immortality was put into question by the discovery that human diploid cells can only proliferate for a finite period. As it was gradually recognized that chick cells only have a finite proliferative life span in vitro as well, historians and scientists alike attempted to identify experimental errors that could have led to the extremely long life of 
+		Carrel’s “immortal” chick-heart tissue cultures. Those reassessments not only point out potential experimental mistakes in pioneer 
+		tissue culture work in the early twentieth century, but are also relevant to current discussions about the different life spans of 
+		germ line cells, 
+		embryonic and 
+		adult stem cells, normal somatic cells, and cancer cells.
+Carrel’s tissue culture techniques were originally adapted from the inventor of tissue culture, 
+		Ross Granville Harrison. In efforts to improve techniques so that tissues could be cultured for long periods of time, Carrel and his associates tried to culture tissues from various sources in the early twentieth century. In 1912, Carrel published 
+		“On the Permanent Life of Tissues outside of the Organism,” in which he described cultures derived from chick embryo heart tissue that he had maintained for more than two months. In the three decades following this publication, Carrel and his associates, especially 
+		Albert Ebeling, carefully maintained this lineage of chick-heart tissue cultures. Since these cultures seemed to keep active proliferating beyond the normal life span of a chick, Carrel drew the conclusion that those cells were immortal.
+In the early 1960s, 
+		Leonard Hayflick, the head of the cell culture facility at the 
+		Wistar Institute in Philadelphia, together with cytogeneticist 
+		Paul Moorhead, found that normal cells isolated from human fetal tissue could only divide a finite number of times in tissue culture. Hayflick concluded that normal diploid cells have a finite proliferative life span in vitro, and are not immortal. As other laboratories confirmed Hayflick’s results, and no research group other than Carrel’s had cultured normal chick cells longer than two years, it was postulated that in Carrel’s experiments, some errors must had occurred, leading to the extreme long life of his cultures.
+There are currently three hypotheses offered to account for the extreme long life of Carrel’s cultures. The first holds that Carrel’s “immortal” cells had spontaneously mutated to a permanent cell line so that they could proliferate longer than chick cells normally do. Jan Witkowski, a science historian, however, regards this hypothesis as unlikely to be true. According to published papers, Carrell’s cells exhibited morphological shapes and growth patterns typical of normal fibroblasts, while transformed cells often display irregular shape and growth. Furthermore, spontaneous transformation rarely happens in chick cells, so the chance that Carrel’s cells went through transformation is quite low.
+The second hypothesis is that some type of cell contamination occurred and fueled the continuous growth. As Carrel’s publications record, the chick embryo extracts placed in the media significantly increased cell growth. Hayflick pointed out that the phases of rapid cell growth actually corresponded to the time at which the embryo extracts were added. The embryo extracts were prepared by centrifuging homogenized embryos to eliminate the cellular components from the final product. Carrel nevertheless did not specify the speed at which he carried out centrifugation. It is possible that in Carrel’s preparations, the embryo extracts still contained some cells. Hayflick suggested that the cells remaining in the embryo extracts might have added new sources of actively growing cells to the chick-heart tissue cultures.
+Witkowski proposed a third possibility, that Carrel’s technicians might have intentionally added more chick heart cells to the cultures to make it appear that growth was continuous. These “immortal” cultures were highly important to Carrel, since it symbolized the technological advancement and intellectual prowess he had achieved. Witkowski thus surmised that Carrel’s technicians may have tried illegitimate strategies to maintain the cultures in order to please Carrel. He cited the experience of Ralph Buchsbaum, a biologist who had visited Carrel’s laboratory as a graduate student in the summer of 1930, to illuminate this point. In Buchsbaum’s short visit to Carrel’s laboratory, one of the technicians told Buchsbaum that they would “add a few embryo cells now and then” to keep the cultures alive.
+Historians of science hold that the exact cause of the extreme longevity of Carrel’s chick-heart tissue cultures will remain unclear until the process of Carrel’s experiment is meticulously repeated according to the methods he used, and the results from the repetition carefully analyzed. Although many reassessments have been given, in 2009 when this article is written, what went wrong with Carrel’s immortal tissue cultures is still unknown, and remains a matter for further speculation and discussion.
+
+Sources
+Carrel, Alexis. “On the Permanent Life of Tissues outside of the Organism.” Journal of Experimental Medicine 15 (1912): 516–28.
+Landecker, Hannah. Culturing Life: How Cells Became Technologies. Cambridge, MA: Harvard University Press, 2007.
+Hayflick, Leonard. “A Brief History of the Mortality and Immortality of Cultured Cells.” Keio Journal of Medicine 47 (1998): 174–82.
+Witkowski, Jan A. “Dr. Carrel’s Immortal Cells.” Medical History 24 (1980): 129–42.
+
+
+How to cite
+Jiang, Lijing, "Reassessment of Carrel's Immortal Tissue Culture Experiments". Embryo Project Encyclopedia (2010-06-28). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/2042.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 25, 2013 - 15:53
+ Topic
+Subject
+Tissue Culture Techniques; Carrel, Alexis, 1873-1944; Context

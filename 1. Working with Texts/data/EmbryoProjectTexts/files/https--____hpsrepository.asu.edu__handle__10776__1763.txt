@@ -1,0 +1,76 @@
+By Adam R. Navis
+Published: 2008-02-29
+Keywords: Biography, Organizers, Fate mapping, Frogs
+ Johannes HoltfreterJohannes Holtfreter made important discoveries about the properties of the 
+			organizer discovered by 
+			Hans Spemann.  Although he spent much time away from the lab over many years, he was a productive researcher.  His colleagues noted that the time he spent away helped revitalize his ideas.  He is credited with the development of a balanced salt medium to allow embryos to develop; the discovery that dead 
+			organizer tissue retains 
+			inductive abilities; and the development of specification, competence, and distribution of 
+			fate maps in the developing 
+			frog embryo.  He was the sole author on all but three of the more than sixty papers he published.  Johannes Holtfreter was born on 9 January 1901 in Richtenberg, Germany. He was the middle of three children, the only boy, and grew up collecting and drawing butterflies and other animals in the surrounding area.  When World War I began, his family moved to Strausland, Germany, to avoid the war.
+From 1917 to 1919 Holtfreter studied natural science at the Universities of Rostok and Leipzig.  In 1919 he was attracted by the possibility of studying under Franz Doflein, an eminent naturalist, and transferred to the 
+			University of Freiburg.  Doflein died prior to Holtfreter’s arrival and was replaced by 
+			Hans Spemann.  Holtfreter completed his PhD work in 
+			Spemann’s lab on the development of the liver and pancreas of the 
+			frog embryo.  He commented that this work was not of great interest to himself or 
+			Spemann.
+Although Holtfreter was in 
+			Spemann’s laboratory and shared a bench with 
+			Hilde Mangold, he played no part in the discovery of the 
+			organizer.  He was described as a loner, worked at night, and disappeared for long periods of time to take hikes through the surrounding countryside.  In 1924 Holtfreter received his PhD and left to study at the 
+			Stazione Zoologica in Naples, Italy.  While in Naples he decided to travel around Italy rather than study in the laboratory.  He took up painting and writing and after two years returned to find no prospects for a research appointment.  In 1928 
+			Otto Mangold offered him a research position which Holtfreter accepted.
+Under 
+			Mangold, Holtfreter returned to 
+			embryology and began to study aspects of the 
+			organizer.  He was presented with some technical challenges to embryo growth.  
+			Frog embryos had trouble developing in hypotonic solutions like pond water, so he developed Holtfreter's medium, a balanced salt solution.  In this solution a 
+			frog embryo could develop for several weeks.  Holtfreter was also challenged by bacterial infections so he introduced sterile conditions.  With these modifications, he was able to produce many more successful embryos and transplantations than the original Spemann-Mangold experiments, in which only five of many hundreds of transplants survived.  Holtfreter then began further experimentation on the 
+			organizer.  He wanted to test the capacity of the 
+			organizer to induce a new body axis after it was “devitalized,” or killed.  He froze, boiled, dried, and subjected 
+			organizer tissue to alcohol, then transplanted it to a developing embryo.  Each of the killed 
+			organizers retained their capacity for 
+			induction.  Holtfreter demonstrated that the 
+			organizer did not function based on its structure, but instead relied on chemical action.
+Holtfreter then tested the inductive abilities of a variety of embryonic and adult tissues from various phyla.  He discovered that they were all capable of 
+			inducing neural tissue.  By performing a purification on the 
+			organizer tissue, he also discovered two types of 
+			organizer, one a neural inducer and the other a mesodermal inducer.  In 1934 Holtfreter accepted a position at the 
+			University of Munich where he studied small pieces of gastrula stage embryos.  There he developed an early 
+			fate map based on the observations of embryonic tissues in the absence of influences from other tissues.  He also continued to study 
+			induction and remained in contact with 
+			Joseph Needham and 
+			Conrad Hal Waddington, who were also studying 
+			induction in other animals.  In 1939 Holtfreter escaped Germany to England.  In 1940 a German invasion of England seemed imminent, so he and other German refugees were interned in Canada for nearly two years.  After his internment, he received a Rockefeller Fellowship to study at 
+			McGill University in Canada.  He spent the fellowship studying 
+			gastrulation by observing cellular movements and established the current model of 
+			gastrulation.
+Holtfreter accepted an assistant professorship at the 
+			University of Rochester in 1946 and was promoted to professor in 1948.  In 1955 Holtfreter collaborated with 
+			Viktor Hamburger to publish a chapter on 
+			amphibian development.  In that article he noted his disdain for gradients of signaling molecules and preferred cell to cell interactions for explanations of signaling.
+In 1955 Holtfreter was inducted into the National Academy of Sciences.  He was also inducted into the German Academy of Natural Sciences and the Royal Swedish Society of Science.  He received an honorary doctorate of science from the 
+			University of Freiburg.  Several symposia were held in his name at the end of his career.  Johannes Holtfreter died on 13 November 1992 at 92 years of age. 
+
+Sources
+Bagnara, Joseph T. “In Memoriam Johannes F. C. Holtfreter (1901–1992),” Developmental Biology 158 (1993): 1–8.
+Gerhart, John. “Johannes Holtfreter's Contributions to Ongoing Studies of the Organizer,” Developmental Dynamics 205 (1996): 245–56.
+Gerhart, John. “Johannes Holtfreter: January 9, 1901–November 13, 1992,” Biographical Memoirs National Academy of Sciences (US), 73 (1998): 209–28.
+Keller, Ray. “Holtfreter Revisited: Unsolved Problems in Amphibian Morphogenesis,” Developmental Dynamics 205 (1996): 257–64.
+
+
+How to cite
+Navis, Adam R., "Johannes Holtfreter (1901-1992)". Embryo Project Encyclopedia (2008-02-29). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/1763.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, March 18, 2015 - 20:10
+ Topic
+Subject
+Organizers, Embryonic; Holtfreter, Johannes, 1901-1992; People

@@ -1,0 +1,65 @@
+By Erica O'Neil
+Published: 2010-09-12
+Keywords: Fetal alcohol syndrome, Human development
+ Effects of Prenatal Alcohol Exposure on Central Nervous System DevelopmentPrenatal exposure to alcohol (ethanol) results in a continuum of physical, neurological, behavioral, and learning defects collectively grouped under the heading 
+		Fetal Alcohol Spectrum Disorder (FASD). 
+		Fetal Alcohol Syndrome (FAS) is part of this group and was first defined in 1973 as a condition characterized by pre- and postnatal growth deficiencies, facial abnormalities and defects of the 
+. The CNS is particularly vulnerable to the effects of ethanol during prenatal development. Severe exposure correlates with gross morphological abnormalities and an overall decrease in 
+		white matter. Mechanisms for how ethanol affects the development of the CNS are complicated, but damage to neural stem cell progenitor pools that give rise to 
+		neurons and 
+		glia is strongly suspected to be a major factor. Damage to this population of cells at any point during CNS development can result in abnormalities in the formation and maturation of these cells, from the initial differentiation through the maturation of neuronal networks. This damage can lead to a wide variety of cognitive deficiencies, functional impairments, and behavioral problems depending on the area of the brain impacted by prenatal ethanol exposure.
+The developmental consequences of ethanol exposure to the CNS was first observed in the late 1960s and early 1970s by contemporaneous teams of French and American scientists studying birth defects affecting children born to mothers who had heavily abused alcohol during pregnancy. FAS was coined to describe the specific combination of pre- and post-natal growth deficiencies, facial abnormalities, and neurological defects of these children. After a developmental timeline for these defects was established, it was recognized that ethanol-induced abnormalities to the CNS could occur in the absence of the characteristic facial defects of FAS. 
+		Alcohol-related neurodevelopmental disorder (ArND) was defined to encompass the continuum of neurological, cognitive, and behavioral deficiencies that could occur as a result of prenatal ethanol exposure, outside of the narrow window of developmental sensitivity that generates ethanol-induced 
+		craniofacial defects. 
+Ethanol-induced defects affecting CNS development can be observed through the use of non-invasive 
+		neuroimaging techniques. These advances have made it possible to visualize the effect of alcohol on the developing brain at all stages of life, from the prenatally affected child through the developmentally mature adult. 
+		Magnetic resonance imaging, 
+		functional MRI, and 
+		diffusion tensor imaging have also proven to be useful neuroimaging techniques for visualizing defects in tissue organization. These technological advancements have demonstrated widespread defects affecting every area of the developing CNS,  from formation of the frontal lobe to the optic nerve.
+Neuroimaging has made it possible to visualize the morphological defects of the CNS. These defects generally occur as overall reductions in the size of the parietal lobes, frontal lobe, and areas of the cerebellum. In severe cases this decrease in brain size leads to 
+		microcephaly, a disorder in which the cranium of an individual is abnormally small (two standard deviations less than the developmental norm) due to stunted brain development. A disproportionate decrease in the expression of white matter (“white” myelinated neuronal axons responsible for cellular communication) is generally observed compared to 
+		gray matter (primarily composed of neuronal cell bodies and glia), which is subject to less dramatic decreases. Areas of the brain that contain dense bundles of white matter, such as the 
+		corpus callosum (CC) and parts of the 
+		cerebellum, are therefore particularly vulnerable to the assault of ethanol. Defects of other CNS structures such as the basal ganglia, optic nerve, hypothalamus, and brain stem have also been observed but are not as well catalogued.
+Abnormalities in the CC have been observed in individuals with FAS as well as those with ArND, generally making it a reliable indicator of prenatal ethanol exposure even in the absence of other ethanol-induced abnormalities. The CC is a dense band of white matter that separates the left and right hemispheres of the brain and is responsible for interhemispheric communication. This central hub of communication is integral not only to bimanual fine-motor dexterity, but also to higher-level cognitive processes that require the transfer of information between hemispheres, such as verbal learning, memory, and executive functioning (decision making, planning, abstract thought). Ethanol-induced defects of the CC can include complete agenesis (non-development), hypoplasia (underdevelopment), and spatial displacement, and can vary in severity depending on the specifics of exposure.
+Abnormalities in the cerebellum manifest as an overall reduction in volume, particularly affecting the development of the bundle of white matter at the center of the cerebellum. The cerebellum is tucked posterior and inferior to the left and right hemispheres of the brain. It is roughly divided into two hemispheres that are connected at the midline by the 
+		vermis. The anterior portion of the vermis is the first part of the cerebellum to develop, and prenatal ethanol introduction can result in its spatial displacement, similar to the displacement that can affect the CC. The cerebellum interacts with the brainstem and cerebrum to organize and coordinate motor control, balance, and spatial awareness. The cerebellum has also been the focus of neurological experiments involving 
+		classical conditioning. This suggests that in addition to motor control, processes involving learning, memory, and attention can be hindered by ethanol-induced damage to the cerebellum.
+The mechanistic complexity of how these CNS defects occur is due in large part to the intricacy of neural development. The CNS is formed by 
+		neuroepithelial cells, a 
+		stem cell population that differentiates into 
+		neural progenitor cells, the most common of which are 
+		radial glia (RG) in the CNS. RG are multipotent, uncommitted cells that have the ability to give rise to neurons and glial cells in the CNS, and provide chemical guidance and physical scaffolding for the migration of daughter neurons to different parts of the developing brain. Prenatal exposure to ethanol can have a profound impact on the development and migration of these RG progenitor cells, which can result in the creation of fewer neurons and glial cells, and morphological abnormalities in those that are produced. This reduction can result in the drastically lower brain volumes and structural abnormalities observed in the developing CNS as a result of ethanol exposure. 
+The time period of susceptibility for RG begins in the third week after fertilization, and the CNS remains susceptible to ethanol-induced damage through the third trimester. Seven weeks after fertilization, the midline of the brain and the CC is developed. Between weeks seven and twenty the majority of the brain differentiates. During this time, RG generate neurons and provide the scaffolding to guide the newly created daughter neurons to their ultimate destination. This explains the reductions in brain size associated with heavy prenatal alcohol abuse, which is a result of errors in both formation and migration of neurons. The impact on cellular proliferation and differentiation continues through the third trimester of development, at which point the processes of cerebellum development, glial cell differentiation, and synaptogenesis are vulnerable to ethanol-induced defects. Ethanol-induced damage to RG at this time can result in fewer glial cells, impeding the ability of these cells to perform important tasks such as regulating neurotransmitters and metabolic processes within the newly developed CNS.
+The broad developmental time frame when prenatal ethanol exposure can impact development of the CNS, particularly with respect to the RG progenitor pool, has far reaching implications for the individuals affected by these defects. Depending on the developmental timing and severity of ethanol exposure, structural defects can vary from microcephaly and agenesis of the CC to a more general confusion in the creation and migration of cells within the CNS. Difficulties with motor coordination, spatial awareness, verbal learning, memory tasks, executive functioning, and attention can have long term effects and severe developmental delays. Further examination into ethanol-induced damage to the CNS may aid in the development of strategies that are customized to ensuring the highest quality of life for affected individuals. 
+
+Sources
+Archibald, Sarah L., Chris Fennema-Notestine, Anthony Gamst, Edward P. Riley, Sarah N. Mattson, and Terry L. Jernigan. “Brain Dysmorphology in Individuals with Severe Prenatal Alcohol Exposure.” Developmental Medicine & Child Neurology 43 (2001): 148–54.
+Bookstein, Fred L., Paul D. Sampson, Paul D. Connor, and Ann P. Streissguth. “Midline Corpus Callosum is a Neuroanatomical Focus of Fetal Alcohol Damage.” New Anatomical Record 269 (2002): 162–74.
+Chen, Wei-Jung, Susan E. Maier, Scott E. Parnell, and James R. West. “Alcohol and the Developing Brain: Neuroanatomical Studies.” Alcohol Research & Health 27 (2003): 174–80.
+Dikranian, Krikor, Yue-Qin Qin, Joann Labruyere, Brian Nemmers, and John W. Olney. “Ethanol-Induced Neuroapoptosis in the Developing Rodent Cerebellum and Related Brain Stem Structures.” Developmental Brain Research 155 (2005): 1–13. 
+Goodlett, Charles R., and Kristin H. Horn. “Mechanisms of Alcohol-Induced Damage to the Developing Nervous System.” Alcohol Research & Health 25 (2001): 175–84.
+Guerri, Consuelo, Alissa Bazinet, and Edward P. Riley. “Foetal Alcohol Spectrum Disorders and Alterations in Brain and Behavior.” Alcohol & Alcoholism 44 (2009): 108–14.
+Jones, Kenneth Lyons, David W. Smith, Christy N. Ulleland, and Ann Pytkowicz Streissguth. “Pattern of Malformations in Offspring of Alcoholic Mothers.” Lancet 1 (1973): 1267–71.
+Mattson, Sarah N., Amy M. Schoenfeld, and Edward P. Riley. “Teratogenic Effects of Alcohol on Brain and Behavior.” Alcohol Research & Health 25 (2001): 185–91.
+O’Hare, Elizabeth D., Eric Kan, June Yoshii, Sarah N. Mattson, Edward P. Riley, Paul M. Thompson, Arthur W. Toga, and Elizabeth R. Sowell. “Mapping Cerebellar Vermal Morphology and Cognitive Correlates in Prenatal Alcohol Exposure.” Developmental Neuroscience 16 (2005): 1285–90.
+Roebuck-Spencer, Tresa M., Sarah N. Mattson, Sarah Deboard Marion, Warren S. Brown, and Edward P. Riley. “Bimanual Coordination in Alcohol-Exposed Children: Role of the Corpus Callosum.” Journal of the International Neuropsychology Society 10 (2004): 536–48.
+Rubert, Gemma, Rosa Miñana, Maria Pascual, and Consuelo Guerri. “Ethanol Exposure during Embryogenesis Decreases the Radial Glial Progenitor Pool and Affects the Generation of Neurons and Astrocytes.” Journal of Neuroscience Research 84 (2006): 483–96.
+Saito, Toshikazu, Boris Tabakoff, Paula L. Hoffman, Kim Nixon, Masaru Tateno, and Consuelo Guerri. “The Effects of Ethanol on Neuronal and Glial Differentiation and Development.” Alcoholism: Clinical and Experimental Research 29 (2005): 2070–75.
+
+
+How to cite
+O'Neil, Erica, "Effects of Prenatal Alcohol Exposure on Central Nervous System Development". Embryo Project Encyclopedia (2010-09-12). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/2075.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 25, 2013 - 15:53
+ Topic
+Subject
+Fetal Alcohol Syndrome; Fetal alcohol syndrome; Concept

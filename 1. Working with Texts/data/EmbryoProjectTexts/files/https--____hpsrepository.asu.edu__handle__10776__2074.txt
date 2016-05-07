@@ -1,0 +1,51 @@
+By Erica O'Neil
+Published: 2010-09-06
+Keywords: Fetal alcohol syndrome, Human development
+ Effects of Prenatal Alcohol Exposure on Cerebellum DevelopmentPrenatal exposure to alcohol (ethanol) results in a continuum of physical, neurological, behavioral, and learning defects collectively grouped under the heading 
+		fetal alcohol spectrum disorders (FASD). 
+		Fetal alcohol syndrome (FAS) is the most severe combination of these defects under this heading, and is characterized by pre- and postnatal growth deficiencies, facial abnormalities, and defects of the 
+		central nervous system (CNS). The developing brain is particularly vulnerable to the toxicity of ethanol, given the broad time frame of susceptibility from 
+		neurulation, when the neural tube is formed, all the way through to birth. The 
+		cerebellum is an area of the brain particularly vulnerable to prenatal ethanol exposure. Mechanisms proposed for this drastic reduction in brain cells include 
+		apoptosis, oxidative stress, and damage to the 
+		radial glia stem cell progenitor pool. Physical dexterity, coordination, and visuospatial processing are all affected by these stressors, and 
+		eyeblink classical conditioning tests have proven that ethanol-induced damage goes beyond motor coordination by permanently impacting learning and memory.
+The cerebellum is a midline structure of the brain tucked posterior and inferior to the left and right cortical hemispheres. Like the cerebral cortex, it is roughly divided into two hemispheres that are connected at the midline by the 
+		vermis, which is responsible for interhemispheric communication and interaction with the surrounding cerebrum and brain stem. The cerebellum is composed primarily of specialized neurons called 
+		Purkinje cells, 
+		granule cells, and 
+		astroglia. These cells are organized so that the exterior of the cerebellum is primarily composed of gray matter surrounding a core (cerebellar nuclei) of white matter. Ethanol-induced abnormalities in the cerebellum manifest as an overall reduction in volume, with certain areas more affected by ethanol’s toxicity than others. The affected areas include the anterior region of the vermis and the cerebellar nuclei, the abnormalities of which are highly dependent on the developmental timeframe of prenatal exposure.
+The cerebellum is one of the last structures of the brain to differentiate during development, with the majority of cellular proliferation, migration, and synaptic regulation occurring in the third trimester of human 
+		gestation. This period of intense neuronal creation, organization, and connectivity is referred to as the 
+		brain growth spurt. In the rat, the animal model integral to the understanding of these developmental intricacies, cerebellar development is peculiar in that the corresponding stages of brain growth spurt and 
+		synaptogenesis occur in the first three weeks after birth. Purkinje cells are the first cellular population to be affected by prenatal ethanol exposure, beginning in the first week after birth for rats and the third trimester of human gestation. Cerebellar granule cells and cerebellar nuclei also become vulnerable to ethanol exposure after this initial decrease in Purkinje cells. It has been hypothesized that both the loss of Purkinje cells and other mechanistic complexities are responsible for these decreases in cellular proliferation. 
+Apoptosis, oxidative stress, and damage to radial glia responsible for cellular proliferation and migration have all been proposed as mechanisms for how prenatal ethanol impacts cerebellar development. These mechanisms may all work in conjunction, illustrating the complexity behind how ethanol impacts the developing brain. It has been debated in the past whether apoptosis was the type of cell death responsible for the overall decreases in neural volume, white matter in particular. 
+		Krikor Dikranian and colleagues established in 2005 that the decrease in rodent cerebellar cells was consistent with the biochemical mechanisms of cellular apoptosis, demonstrating that 
+		capsase-3 enzyme activation occurred prior to cell death. This programmed cell death has also been hypothesized to be triggered by the creation of superoxide radicals during the metabolic breakdown of ethanol in the cells. The over-expression of retinol (Vitamin A), which breaks down into the oxidative metabolite retinoic acid, has been proposed as a cause of this apoptosis. The effects of ethanol on radial glial cell development is also a major factor in the development and migration of cells in the developing CNS. 
+Radial glia are 
+		multipotent, uncommitted cells that have the ability to give rise to neurons and glial cells in the CNS, and provide chemical guidance and physical scaffolding for the migration of daughter neurons to different parts of the developing brain. Prenatal exposure to ethanol can have a profound impact on the development and migration of these progenitor cells, which can result in the creation of fewer neurons and glial cells, and morphological abnormalities in those that are produced. Damage to radial glia progenitor pools affect cellular proliferation and differentiation from the seventh week after fertilization through the third trimester of development, which is the key time of cerebellum development, glial cell differentiation, and synaptogenesis. Exposure of the progenitor cells to alcohol results in fewer glial cells to support the newly developed central nervous system, impeding the ability of these cells to perform important tasks such as regulating neurotransmitters and metabolic processes within the newly developed CNS.
+These mechanisms work in conjunction during cerebellum development to deplete a number of cells that would otherwise have been essential to normal development, resulting in motorvisual impairment and difficulties in learning and memory. Eyeblink classical conditioning is a test that has been used to support the hypothesis that prenatal ethanol exposure during the third trimester of human development damages the cerebellum, ultimately resulting in learning and memory deficiencies. This eyeblink classical conditioning test involves a discrete cascade of neural functioning specific to the cerebellum and brain stem, making it an ideal examination of how ethanol impacts a specific area of the brain. The eyeblink conditioning test generally applies a puff of air to the cornea of a subject, eliciting an unconditioned blinking response. This is immediately followed by a secondary stimulus like white noise or light that after many trials eventually conditions the subject to blink in response to that innocuous stimulus. These tests have been performed on a variety of mammals from humans to rabbits and mice to examine the paths of neural plasticity and learning. In control subjects that have not been prenatally exposed to ethanol, a couple of dozen trials generally elicits the conditioned response, but in ethanol-exposed test subjects very little evidence of this conditioned learning is observed even after hundreds of trials. Eyeblink classical conditioning tests demonstrate that prenatally induced ethanol damage to the cerebellum is strongly related to a decrease in learning and memory, at least in terms of short-term conditioned response.  
+Ethanol-induced damage to the cerebellum can have permanent and lasting effects on a variety of motor control and learning processes. Although the cerebellum becomes vulnerable during the third trimester of human development, the developing fetus is vulnerable beginning in the seventh week after fertilization. Further understanding of these mechanisms as they apply to prenatal ethanol exposure will continue to be helpful in improving the quality of life for those individuals affected by prenatal ethanol exposure.
+
+Sources
+Dikranian, Krikor, Yue-Qin Qin, Joann Labruyere, Brian Nemmers, and John W. Olney. “Ethanol-induced Neuroapoptosis in the Developing Rodent Cerebellum and Related Brain Stem Structures.” Developmental Brain Research 155 (2005): 1–13. 
+Green, John T. “The Effects of Ethanol on the Developing Cerebellum and Eyeblink Classical Conditioning.” Cerebellum 3 (2004): 178–87.
+Jaatinen, Pia, and Jyrki Rintala. “Mechanisms of Ethanol-Induced Degeneration in the Developing, Mature, and Aging Cerebellum.” Cerebellum 7 (2008): 332–47.
+McCaffery, Peter, Omanand Koul, Deborah Smith, Joseph L. Napoli, Na Chen, and M. David Ullman. “Ethanol Increases Retinoic Acid Production in Cerebellar Astrocytes and in Cerebellum.” Developmental Brain Research 153 (2004): 233–41.
+
+
+How to cite
+O'Neil, Erica, "Effects of Prenatal Alcohol Exposure on Cerebellum Development". Embryo Project Encyclopedia (2010-09-06). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/2074.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, May 13, 2015 - 19:34
+ Topic
+Subject
+Fetal Alcohol Syndrome; Fetal alcohol syndrome; Concept

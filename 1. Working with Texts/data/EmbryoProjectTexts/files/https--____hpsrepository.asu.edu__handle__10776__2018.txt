@@ -1,0 +1,77 @@
+By Mark A. Ulett
+Published: 2010-06-29
+Keywords: Biography, Morphology, History, Philosophy
+ Edward Stuart RussellEdward Stuart Russell was born 23 March 1887 to 
+		Helen Cockburn Young and the Reverend 
+		John N. Russell in Port Glasgow, Scotland. Friends and co-workers alike knew Russell as a quiet and focused, though always kind and helpful person. Trained in classics and biology, Russell’s interests drew him to the study of historical and philosophical issues in the biological sciences, particularly morphology and animal behavior. According to Nils Roll-Hansen, Russell was one of the most influential philosophers of biology in the second third of the twentieth century. It was through history and philosophy, rather than his equally important work as a fisheries biologist, Russell argued that developmental and embryological studies deserve a central role in the biological sciences.
+Raised and educated in Scotland, Russell attended 
+		Glasgow University starting in 1904. He first studied classics, and graduated with an MA in 1907. Two years later he read for his BSc in the biological sciences at Glasgow and was eventually awarded a DSc in 1921, several years after his first major publication. It was in Glasgow that Russell first took an interest in marine biology, influenced in part by fellow Scotsmen 
+		J. Arthur Thompson and 
+		Pattrick Geddes, and this was the field in which he worked throughout his life. In 1909 Russell was appointed to the 
+		Board of Agriculture and Fisheries, eventually rising to the position of director of fisheries investigations in 1921—later called ‘chief scientific officer’—in the Ministry of Agriculture and Fisheries. Russell was a gifted theoretician and particularly adept at drawing conclusions from the often-fragmentary fisheries statistics of the time. In 1931, for example, he published an influential paper on the problem of over fishing. At the height of his career, Russell worked simultaneously as the first editor of the 
+		Journal du Conseil (1926– 1940), as a member of council on the 
+		Marine Biological Association  between 1927 and 1943, and as president of the 
+		Linnaean Society from 1940 to 1942.  Survived by his wife, Jehanne Aurélie, Russell died in Hastings, England, on 24 August 1954.
+Russell’s first major work was 
+		Form and Function, a book published in 1916 and read predominantly during the inter-war period, though it was infrequently cited. Inspired by his classical training, he had read and analyzed the various works of the most important morphologists across the Western tradition, including 
+		Aristotle, 
+		Georges Cuvier, 
+		Johannes Goethe, 
+		Karl Ernst von Baer, and 
+		Ernst Haeckel. He concludes that morphology, throughout its history, has followed three main currents: the functional, the formal (or transcendental), and the materialistic. Subtitled A Contribution to the History of Animal Morphology, this formative work defined the historiography of this discipline in several important ways. Specifically, many subsequent histories of morphology utilised the general structure Russell outlined in Form and Function, or they adopted the more focused structure of his analysis of nineteenth century morphologists.
+But most significant was Russell’s main theme of describing the history of morphology as a split between 
+		formalism and 
+		functionalism. He argues that the main differences in morphological theory stems from whether the investigator views the structure (or form) of an animal’s body as the principal factor contributing to the control of the organism, or whether they deem the structure to be a secondary result of the functional requirements of the organism. To put this simply, some people give priority to form before function others prioritize function over form. Russell unabashedly sided with the functionalists, cautiously at first and in his later works more enthusiastically. Advocates of the formalist position were still writing at this time,  the most notable example being
+		D’Arcy W. Thompson in 
+		On Growth and Form, a text published 1917.
+In his later work on the philosophy and methodology of biology, Russell continued to develop and defend a broadly functionalist position. An important aspect of his work focused on animal behaviour or 
+		ethology.  In 1934 Russell published 
+		The Behaviour of Animals: a Prolegomena to a Functional Biology, which stemmed from a series of lectures given at 
+		University College London, where he lectured from 1932 to 1947.  Similarly, he was President of the Zoological section of the BAAS in 1934.
+Russell also argued strongly against the then-prominent trend in biology towards  
+		materialism and 
+		reductionism, as advocated by 
+		Jacques Loeb and 
+		Edmund B. Wilson. In certain ways analogous to 
+		Joseph Woodger’s opposition to mechanistic biology from embryological evidence, Russell used studies in animal behavior and morphology to argue that the whole organism is the primary entity to be studied in biology, also known as 
+		organicism. In this philosophy each organism is more that the mere sum of its biochemical parts. Russell’s functionalist and 
+		holistic position was first discussed in his 1924 book 
+		The Study of Living Things and in 1930 he extended this position in 
+		The Interpretation of Development and Heredity. Russell outlined a philosophy of biology opposing both 
+		mechanistic and 
+		vitalistic perspectives on living systems. Philosophically the Aristotelian and British ‘commonsense’ traditions motivated him, and Russell recognised Alfred North Whitehead as an important influence.
+In Russell’s later work, he developed a theory of internal “directiveness” in organisms, which guides organic transformation over time. Fully outlined in 
+		The Directiveness of Organic Activities (1945), Russell argues that the commonality between living things is a “directive striving” towards completion of the life cycle. What separates the living from the nonliving is this continual-drive element, made manifest in development and growth. Russell states  that the directive effort is visible not only in behavioral actions, such as reproduction, but also through the constant maintenance of the structures and functions of the organism. Thus Russell held embryology, developmental biology, and behavioral studies to be the best tools for understanding life.
+Russell’s final work, 
+		The Diversity of Animals (1962) was published posthumously. This work extended his philosophy of biology to evolutionary theory.  Here he argues that the only possible explanation for the diversity found in life on Earth stems from 
+		orthogenetic evolution, whereby evolutionary transformations occur in definitely directed ways due to internal restrictions. This orthogenetic analysis argues that 
+		neo-Darwinian and 
+		Lamarckian modes of evolution are incapable of explaining the origin of the major groups (phyla, class, order, and family).  The cause of this orthogenesis, he postulated, must be transformations in early embryological development.
+In this later work, Russell combined his functional and organismal perspectives with his theory of  the directionality of development, thereby proposing not only a normative philosophical outlook for the biological sciences but also a holistic, nonmechanistic metaphysics.  Central to Russell’s broader philosophy of biology was the centrality of understanding development for any explanation of life.  He died in 1954.
+
+Sources
+Haines, Catherine MC. “Russell, Edward Stuart.” Oxford Dictionary of National Biography, Oxford University Press, 2004. http://www.oxforddnb.com/view/article/35878 (Accessed September 17, 2008).
+Lauder, George V. “Introduction” to Form and Function: A Contribution to the History of Animal Morphology, by Edward Stuart Russell, xi–xlv. Chicago: Chicago University Press, 1982.
+Nyhart, Lynn. Biology Takes Form. Chicago: University of Chicago Press, 1995.
+Roll-Hansen, Nils. “E. S. Russell and J. H. Woodger: The Failure of Two Twentieth-Century Opponents of Mechanistic Biology,” Journal of the History of Biology, 17 (1984): 399–428.
+Russell, Edward Stuart. Form and Function: a Contribution to the History of Animal Morphology. Chicago: University of Chicago Press, 1982 (1916 reprint).
+Russell, Edward Stuart. The Diversity of Animals: an Evolutionary Study. Leiden, Germany: E. J. Brill, 1962 (Suppl. Acta Biotheoretica 9).
+Russell, Edward Stuart. The Interpretation of Development and Heredity. Oxford: Clarendon Press, 1930.
+Russell, Edward Stuart. The Study of Living Things: Prolegomea to a Functional Biology. London: Methuen, 1924.
+
+
+How to cite
+Ulett, Mark A., "Edward Stuart Russell (1887-1954)". Embryo Project Encyclopedia (2010-06-29). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/2018.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Thursday, April 2, 2015 - 01:04
+ Topic
+Subject
+ Russell, E. S. (Edward Stuart), 1887-1954; People

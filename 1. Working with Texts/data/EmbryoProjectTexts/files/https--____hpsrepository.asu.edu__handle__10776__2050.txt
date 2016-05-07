@@ -1,0 +1,56 @@
+By Megan Kearl
+Published: 2010-08-27
+Keywords: Bioethics, Human development
+ Dickey-Wicker AmendmentAmendment text:
+		SEC. 509. (a) None of the funds made available in this Act may be used for-- 
+		(1) the creation of a human embryo or embryos for research purposes; or 
+		(2) research in which a human embryo or embryos are destroyed, discarded, or knowingly subjected to risk of injury or death greater than that allowed for research on fetuses in utero under 45 CFR 46.204(b) and section 498(b) of the Public Health Service Act (42 U.S.C. 289g(b)). 
+		(b) For purposes of this section, the term `human embryo or embryos' includes any organism, not protected as a human subject under 45 CFR 46 as of the date of the enactment of this Act, that is derived by fertilization, parthenogenesis, cloning, or any other means from one or more human gametes or human diploid cells.
+
+The Dickey-Wicker Amendment is an amendment attached to the appropriations bills for the 
+		Departments of Health and Human Services, Labor, and Education each year since 1996 restricting the use of federal funds for creating, destroying, or knowingly injuring 
+		human embryos. The Dickey-Wicker Amendment began as a rider (another name for an amendment) attached to House Resolution (H.R.) 2880. H.R. 2880 was a 1996 appropriations bill sponsored by the head of the House Appropriations Committee, Republican Representative Bob Livingston of Louisiana, for the Department of Health and Human Services titled “The Balanced Budget Downpayment Act, I.”  Though the appropriations bill’s sole sponsor was Representative Livingston, the amendment itself is named for its authors: Representative 
+		Jay Dickey, a Republican from Arkansas, and 
+		Roger Wicker, a Republican from Mississippi. 
+The Dickey-Wicker amendment was never placed to a formal vote on the House floor. Instead it was approved by the House Appropriations Committee of the 104th Congressional session in 1995. By the time the bill made it to vote in the House at 5:20 pm on 25 January 1996, the amendment was already in place in Section 128. One hour of debate regarding the bill took place, and it passed the House by a vote of 37–42  at 7:41 pm, a little over two hours after it was introduced. The next day it was presented in the Senate and passed without amendment with a Yea-Nay vote of 82–8. After passing both Republican-controlled chambers, President 
+		Bill Clinton signed the bill and it became Public Law 104-99 on 26 January 1996. 
+One reason the bill may have passed so quickly through the House, Senate, and White House is the political climate of the time. Washington was still reeling from two federal government shutdowns—one from 14 November to 19 November 1995 and the other from 16 December 1995 until 6 January 1996. Both shutdowns were due to the failure to pass appropriations bills on time and resulted in the furlough of hundreds of thousands of federal employees. The Balanced Budget Downpayment Act I was being passed very late in the legislative term because of these shutdowns. 
+The amendment itself arose as a response to the 1994 recommendations of the 
+		National Institutes of Health Human Embryo Research Panel. The Panel, which consisted of ethicists, public policy analysts, and patients’ advocates, among others, was assembled to evaluate when and under what circumstances human embryo research should be federally funded. They also assessed what moral and ethical controversies would be raised by this research and compiled their findings in a report titled 
+		“Report of the Human Embryo Research Panel” issued on 27 September 1994. The Panel ultimately recommended that research on unused gametes and embryos from fertility procedures like 
+		in vitro fertilization should be allowed with the informed consent of the donor. The Panel also approved the creation of embryos for research purposes, But President Clinton immediately rejected this part of the proposal. The Dickey-Wicker amendment was the response of the Republican-controlled House and Senate to ethical concerns surrounding federal funding for any research involving human embryos. 
+It is important to note that the Dickey-Wicker amendment only prohibited federal funding for experimentation using human embryos, not the experimentation itself. In 1998, 
+		James Thomson of the University of Wisconsin created the first human stem-cell line using private funds. 
+		Harriet Rabb, a lawyer at the Department of Health and Human Services, soon found a way around the Dickey-Wicker amendment because of Thomson’s discovery. The amendment provided a definition for embryos, but Rabb reasoned that 
+		human stem cell lines did not fall under this definition, so experimentation with the lines derived using private funds could receive federal funding. The Clinton Administration endorsed Rabb’s legal interpretation and revised a set of guidelines in August of 2000 for when federal funds could be provided to researchers.
+The Bush administration wasted no time in revising these guidelines. Towards the beginning of his presidency, President George W. Bush ordered a review of Rabb’s conclusion and ultimately restricted federal funding to only the human stem cell lines existing as of 9 August 2001 (then estimated at about 60 lines) and officially withdrew President Clinton’s guidelines a few months later. President Barack Obama has since revoked both 
+		Bush’s statement on 9 August 2001 and his 
+		Executive Order on 20 June 2007 supplementing the August statement. In an 
+		Executive Order made on 9 March 2009, President Obama lifted any restriction to federally funded stem cell research imposed by the office of the President. The Dickey-Wicker amendment was renewed on 11 March 2009 in section 509 of H.R. 1105, the “Omnibus Appropriations Act, 2009.” As of 2009, the amendment remains the only legal obstacle to the federal funding of experimentation on human embryos. 
+
+Sources
+Dunn, Kyla. “The Politics of Stem Cells.” Nova Science Now. http://www.pbs.org/wgbh/nova/sciencenow/dispatches/050413.html (Accessed 4 April 2009).
+Green, Ronald M., Carol A. Trauer, and John J. Eppig. “The Politics of Human-Embryo Research.” The New England Journal of Medicine 335 (17 October 1996): 1243–1245. http://content.nejm.org/cgi/content/full/335/16/1243 (Accessed 10 April 2009).
+House of Representatives. “H.R. 2880.” The Library of Congress. http://thomas.loc.gov/cgi-bin/bdquery/z?d104:H.R.2880 (Accessed 4 April 2009).
+House of Representatives. “H.R. 1105.” The Library of Congress. http://thomas.loc.gov/cgi-bin/query/F?c111:1:./temp/~c111aPILAG:e881909 (Accessed 13 April 2009). 
+Kosar, Kevin. “Shutdown of the Federal Government: Causes, Effects, and Process.” CRS Report for Congress. http://www.rules.house.gov/archives/98-844.pdf (Accessed 10 April 2009). 
+Obama, Barack. “Removing Barriers to Responsible Scientific Research Involving Human Stem Cells.” Executive Order 9 March 2009.
+Stith-Coleman, Irene. “Human Embryo Research.” CRS Report for Congress. http://www.law.umaryland.edu/marshall/crsreports/crsdocuments/95-910_STM.pdf (Accessed 11 April 2009).
+Walters, LeRoy. “Human Embryo Research: Lessons from History.” Science 293 (2001): 1401. http://www.sciencemag.org/cgi/content/short/293/5534/1401 (Accessed 10 April 2009). 
+
+
+How to cite
+Kearl, Megan, "Dickey-Wicker Amendment, 1996". Embryo Project Encyclopedia (2010-08-27). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/2050.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Monday, April 6, 2015 - 22:07
+ Topic
+Subject
+  Law

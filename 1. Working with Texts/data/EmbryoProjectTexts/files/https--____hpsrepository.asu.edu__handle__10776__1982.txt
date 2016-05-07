@@ -1,0 +1,45 @@
+By Mary E. Sunderland
+Published: 2009-06-09
+Keywords: Regeneration
+ Thomas Hunt Morgan’s Definition of Regeneration: Morphallaxis and EpimorphosisFor 
+		Thomas Hunt Morgan clarity was of utmost importance.  He was, therefore, frustrated with the many disparate, disconnected terms that were used to refer to similar, if not the same, regenerative processes within organisms.  By 1901, the year his book Regeneration appeared, the resulting inconsistencies had made it difficult to discuss results comparatively and a challenge to generalize.  Defining terms was a priority for Morgan.  He appreciated the diversity of phenomena that had been studied and sought to develop language to facilitate further studies and interpretations.
+Although Morgan thought the umbrella term “regeneration” was helpful to characterize what was common about these many diverse phenomena, he also recognized a need to better elucidate clear terminology for the study of 
+		regeneration.  He compiled a list of examples to illustrate the diversity of terms used to refer to regeneration.  Morgan began by acknowledging an important distinction highlighted by 
+		Wilhelm Roux .  Roux asserted that there are two quantitatively different regenerative processes: rearrangement and proliferation, both of which are present in most cases of regeneration.  For supporting evidence, Roux pointed to 
+		Abraham Trembley’s  work with hydra.  Trembley’s results illustrated that regeneration could occur without the formation of new material.  Roux argued the process must therefore have resulted from the rearrangement of existing cells and the re-differentiation of cells that had already differentiated.  He compared this process to the process that took place after a 
+		sea-urchin 
+		blastula was severed, a comparison that Morgan himself had made in his earlier section on regeneration in the 
+		egg and 
+		embryo.  Roux grouped these two regenerative phenomena together and labeled them “post-generation.”  
+Next Morgan moved on to quote his German contemporary, 
+		Dietrich Barfurth,  who defined regeneration as the replacement of a whole from a part. Morgan then described how Barfurth further qualified his definition to reflect two different regenerative processes: physiological and pathological regeneration.  Physiological regeneration occurred if the part had been removed naturally in the organism’s home environment.  In contrast, pathological regeneration took place if a part had been removed artificially.  To clarify this distinction, Morgan indicated Barfurth had classified regeneration in 
+		hydra, earthworms, and also the development of egg fragments as cases of pathological regeneration. 
+Morgan found this description unsatisfactory for a number of reasons.  First he pointed out that eggs are able to regenerate and that Barfurth misrepresented the phenomenon by labeling it pathological.  He also disapproved of Barfurth’s use of the word “replacement,” for it deceptively narrowed the scope of what could be counted as regeneration. Furthermore, the part lost was often different than the replacement part.  In general, Morgan criticized Barfurth’s use of the term “pathological.” 
+Morgan was also unsatisfied with the definition proposed by 
+		Hans Driesch .  Building on one of the statements Barfurth made about regeneration, Driesch held that like replaces like.  According to Morgan, Driesch defined regeneration as the “re-awakening” of earlier developmental processes.  Although Morgan did not agree with this definition, he credited Driesch for recognizing the limitations of his definition.  Driesch was aware that reconstruction and differentiation also occur during regeneration, but not necessarily during embryonic development and suggested that “regeneration should include only those cases in which a proliferation of new tissue precedes the development of the new part” (Morgan, 1901, 21) and other terms should be used to refer to the rearrangement process that happened in hydra, for example.  Morgan resisted these Driesch‘s suggestions, arguing that narrowing the scope of the word “regeneration” did not reflect its history.  In addition, he pointed out it would be impossible to distinguish those cases involving proliferation from those that did not.
+Next, Morgan addressed a suite of terms: “reparation,” “regulation,” “restitution,” and “self-regulation,” all of which had been used to refer to regenerative processes.  He described how Driesch used “reparation” to refer to the development of a new hydranth during regeneration in 
+		Tubularia.  Both Roux and Driesch used “regulation” and “restitution” to describe the physiological processes maintaining the “typical form” of an organism.  In contrast, they used “self-regulation” to refer only to those internal changes not induced by the environment. Morgan quickly asserted that this definition was not “a very happy one, since all change is ultimately dependent upon a relationship between inside and outside conditions” (Morgan, 1901, 22).
+Morgan went on to say that many of the new results needed additional terminology.  Morgan accepted the task of introducing new terminology, but before doing so asserted that regeneration, broadly construed, included the replacement of lost parts, the development of a new organism from a smaller piece of an organism, and the regrowth occurring after an egg or embryo is damaged.  He emphasized the importance of considering regenerative processes involving the replacement of the same tissue and also those resulting in the growth of something different.  
+ Morgan suggested adopting new terms reflecting the different regenerative processes indicated by Roux: proliferation and rearrangement.  These processes often occurred in conjunction but were nevertheless quantitatively distinct.  He labeled the first process “epimorphosis” and the second “morphallaxis.”  Epimorphosis referred to regenerative phenomena in which the development of the new part involved cellular proliferation, such as limb regeneration in 
+		salamanders.  Morphallaxis referred to those cases in which regeneration resulted from the remodeling of existing material without cellular proliferation, such as regeneration in hydra.  
+Morgan further subdivided regeneration by introducing additional terms indicating the kind of new part resulting from regeneration. “Homomorphosis” described regenerative processes in which the new part was exactly the same as the part that was removed.  “Heteromorphosis” described regenerative processes in which the new part was different than the old part, as when axes were sometimes reversed during regeneration. “Neomorphosis” described extreme cases of heteromorphosis in which the new part belonged to a different area of the body.  This sort of regeneration was seen in crabs or prawns, which are able to develop an antenna where there once was an eye. “Physiological regeneration” described changes that were part of the organism’s life cycle, such as molting, and the replacement of feathers, or teeth.  Earlier, Morgan expressed disdain for the term “pathological regeneration,” but thought it was nonetheless useful to maintain the category of “physiological regeneration.”  Yet he recognized there was need to improve upon Barfurth’s definition and better elucidate the qualities of physiological regeneration.  Morgan illustrated the differences by suggesting that physiological regeneration could also be thought of as “regular regeneration,” which in fact was the term he preferred.  He only opted to use the term physiological regeneration because it was commonly used.  In contrast to regular or physiological regeneration, Morgan suggested the term “restorative regeneration” to distinguish those cases of regeneration resulting from some sort of externally inflicted injury to the organism.
+
+Sources
+Morgan, Thomas Hunt. Regeneration.  New York: Macmillan, 1901.	
+
+
+How to cite
+Sunderland, Mary E., "Thomas Hunt Morgan's Definition of Regeneration: Morphallaxis and Epimorphosis". Embryo Project Encyclopedia (2009-06-09). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/1982.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 25, 2013 - 15:53
+ Topic
+Subject
+Regeneration; Morgan, Thomas Hunt, 1866-1945; Concept

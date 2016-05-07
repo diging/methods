@@ -1,0 +1,90 @@
+By Adam R. Navis
+Published: 2007-10-30
+Keywords: Induction, Organizers, Mammals
+ "Experiments on Embryonic Induction III. A Note on Inductions by Chick Primitive Streak Transplanted to the Rabbit Embryo" (1934) by Conrad Hal Waddington
+		Conrad Hal Waddington’s “Experiments on Embryonic Induction III,” published in 1934 in the Journal of Experimental Biology, describes the discovery that the 
+		primitive streak induces the mammalian embryo.  
+		Waddington’s hypothesis was that a transplanted 
+		primitive streak could induce neural tissue in the ectoderm of the 
+		rabbit embryo.  The 
+		primitive streak defines the axis of an embryo and is capable of inducing the differentiation of various tissues in a developing embryo during gastrulation.  In this experiment 
+		Waddington was, in fact, able to induce neural differentiation.  
+		Waddington noted that the tissue is “competent” for a 
+		chick
+organizer, and by deduction a mammalian 
+		organizer must exist.  
+		Competence refers to a cell's ability to respond to an inducing signal, which is temporally limited to certain developmental stages.  
+		Waddington’s initial work laid the foundation for many decades of research to follow, including further experiments by 
+		Waddington with the mammalian 
+		organizer.
+
+		Waddington’s inspiration for this as well as previous 
+		induction experiments came from 
+		Hans Spemann’s discovery of the 
+		amphibian 
+		organizer.  Prior to 1929 
+		Waddington had pursued a ScD in geology; however, thanks to inspiration he derived from 
+		Spemann’s discoveries and his friendship with geneticist 
+		Gregory Bateson, 
+		Waddington switched fields to study 
+		embryology at the 
+		Strangeways Research Laboratory.  His early work at 
+		Strangeways focused on the 
+		amphibian 
+		organizer.  In 1932, as part of this line of research, he confirmed the presence of organizing tissue in 
+		chick and 
+		duck embryos, which led the way for his experiments on the mammalian embryo.
+The 
+		rabbit embryo was not simple to culture in vitro.  Therefore, 
+		Waddington first needed to develop a more stable method to allow for transplantation experiments.  
+		Waddington expanded on his own earlier method of culturing 
+		chick embryos on coagulated plasma from an adult chicken and 
+		chick embryo extract.  They were successful in culturing the 
+		rabbit embryo on this substrate up to the development of six somite pairs.  Once this stable method of culturing the mammalian embryo was tested, 
+		Waddington was able to move on to transplanting organizer tissue from the 
+		chick to the 
+		rabbit.
+
+		Waddington intended to induce neural plate formation by grafting a 
+		chick
+organizer into the 
+		rabbit embryo.  For this experiment, as he did in his earlier work, he utilized plasma coagulate and 
+		chick extract as the culture medium.  
+		Rat or 
+		rabbit extract showed no improvement over 
+		chick extract in development of the embryo.  Since the 
+		rabbit embryo was more difficult to manipulate, in this experiment the 
+		chick primitive streak was transplanted to a pocket between the ectoderm and endoderm.  
+		Waddington noted the difficulties encountered during the manipulation of the 
+		rabbit embryo are due to its “transparency, toughness, and stickiness.”  In this experiment two embryos were shown to have developed neural tissue in the presence of the 
+		chick primitive streak.
+This experiment thus demonstrated the presence of tissue competent for 
+		induction by a chick organizer in the mammalian embryo.  Although the mammalian organizer itself was not directly identified in this experiment, its presence was deduced by the action of the grafted primitive streak from the 
+		chick.  
+		Waddington surmised that the action of the mammalian 
+		organizer was very similar to 
+		organizers discovered in birds and amphibia, and that the lack of species specificity showed that the inducing agents were highly conserved across species.
+
+Sources
+Slack, Jonathan M. W.  “Conrad Hal Waddington: The Last Renaissance Biologist?” Nature Reviews Genetics 3 (2002): 889–895.
+Stern, C. D.  “Conrad H. Waddington's Contributions to Avian and Mammalian Development, 1930–1940.” The International Journal of Developmental Biology 44 (2002): 15–22. http://www.ijdb.ehu.es/web/paper/10761841/conrad-h-waddingtons-contributions-to-avian-and-mammalian-development-1930-1940 (Accessed November 10, 2014).
+Waddington, Conrad H.  “Experiments on Embryonic Induction III. A Note on Inductions by Chick Primitive Streak Transplanted to the Rabbit Embryo.” Journal of Experimental Biology 11 (1934): 224–7. http://jeb.biologists.org/content/11/3/224.full.pdf+html (Accessed November 10, 2014).
+Waddington, Conrad H.  “Experiments on the Development of Chick and Duck Embryos, Cultivated in vitro.” Philosophical Transactions of the Royal Society of London. Series B, Containing Papers of a Biological Character 221 (1932): 179–230. http://rstb.royalsocietypublishing.org/content/221/474-482/179.full.pdf+html (Accessed November 10, 2014).
+Waddington, Conrad H., and A. J. Waterman.  “The Development in vitro of Young Rabbit Embryos.” Journal of Anatomy 67 (1933): 355–70. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1249296/pdf/janat00548-0003.pdf (Accessed November 10, 2014).
+
+
+How to cite
+Navis, Adam R., ""Experiments on Embryonic Induction III. A Note on Inductions by Chick Primitive Streak Transplanted to the Rabbit Embryo" (1934), by Conrad Hal Waddington". Embryo Project Encyclopedia (2007-10-30). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/1766.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, March 18, 2015 - 16:32
+ Topic
+Subject
+Organizers, Embryonic; Waddington, C. H. (Conrad Hal), 1905-1975; Embryos; Cell differentiation; Embryology; Chickens--Embryos; Experiment

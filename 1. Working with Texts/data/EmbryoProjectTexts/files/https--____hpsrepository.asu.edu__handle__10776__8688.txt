@@ -1,0 +1,125 @@
+By Christopher Rojas
+Published: 2015-08-12
+Keywords: sequencing, synthetic life
+ George McDonald Church (1954- )George McDonald Church studied DNA from living and from
+	extinct species in the US during the twentieth and twenty-first centuries. Church helped to develop and refine techniques with which to describe the complete sequence of all the DNA nucleotides in an organism's genome, techniques such as 
+	multiplex sequencing, polony sequencing, and nanopore sequencing. Church also contributed to the Human Genome Project, and in 2005 he helped start a company, the Personal Genome Project. Church proposed to
+	use DNA from extinct species to clone and breed new organisms from
+	those species.
+Church was born on 28 August 1954 to Virginia A. Strong and Henry
+	S. McDonald III. His father was a lieutenant in the United States
+	Air Force, and Church was born on MacDill Air Force Base near Tampa
+	Bay, Florida. When Church was three-years-old, his parents allowed
+	Peyton Jordan to adopt Church. In 1963, Church was again put up for
+	adoption. This time, Gaylord Church adopted and raised Church.
+	Despite completed high school at Phillips Academy in Andover,
+	Massachusetts. He then completed
+	undergraduate degrees in zoology and chemistry in 1974 at Duke
+	University in Durham, North Carolina, in two years. He pursued 
+	his doctoral degree in biochemistry from Duke, but he was expelled
+	due to failing grades in 1976.
+Church then applied to Harvard University in Cambridge, Massachusetts, and
+	was accepted in 1977. In 1984, Church completed
+	a PhD at Harvard in molecular biology while developing a direct
+	genome sequencing technique as a part of his dissertation. At
+	Harvard, Nobel Prize recipient
+	Walter Gilbert advised his dissertation research. At that time, researchers described the sequence of nucleotides in strands of DNA, a process called sequencing, by
+	using bacteria. They used the bacteria to replicate one strand of DNA into many strands with the same nucleotides, but the process lost genetic
+	information. Researchers injected DNA into bacteria and allowed the
+	bacterial cell to replicate the DNA, sometimes causing errors in
+	replication. Church and Gilbert developed a technique that ameliorated some of those errors.
+Church continued to develop new sequencing methods. In 1984,
+	The Human Genome Project consulted Church about gene
+	sequencing. In 1986, Church became an assistant professor at Harvard Medical School in Boston, Massacussetts. While at Harvard in 1988, Church developed the
+	method of multiplex DNA sequencing. Multiplex sequencing takes
+	strands of DNA and gives them chemical tags and then sends them
+	through an automated DNA sequencing machine. The machine can
+	sequence multiple strands of DNA simultaneously, due to the chemical tags
+	that the researcher attached. Multiplex DNA sequencing enabled a
+	greater volume of sequences to be decoded in a shorter amount of
+	time, making the Human Genome Project feasible.
+In the 1990s, Church assisted in the development of another
+	sequencing technique, called nanopore sequencing. For this technique
+	researchers measure the change in electrical current at a nanopore,
+	which is one nanometer in diameter, as each successive nucleotide on
+	a DNA strand passed through it. Each kind of nucleotide registers a different voltage.
+	In 1998 Harvard promoted Church to full professor in the medical school.
+Polony sequencing further enabled researchers to use machines to
+	automate the process of DNA sequencing. In conjunction, Church
+	developed a commercially available sequencing machine, the Polonator
+	G.007, which made DNA sequencing about one hundred times less expensive
+	than it had been. Polony sequencing led Church to establish in 2005 the
+	Personal Genome Project, an open source, open access genome bank.
+	Scientists used the information stored in such a bank to study
+	genomic interactions with the environment, traits that the genes
+	express, and to better describe and explain the links between genes
+	and disease.
+In 2012, Church published a book with Ed Regis about synthetic life and biology
+	titled Regenesis: How Synthetic Biology Will Reinvent Nature and
+	Ourselves. By 2014, Church and Robert Lanza, of Advanced Cell
+	Technology, Inc., in Malborough, Massachusetts, had begun a
+	project to resurrect from cloned DNA sequences the extinct passenger pigeon.
+By 2015, Church had published greater than 400 scientific articles and dozens of patents. Church's work spawned twelve commercial enterprises
+	using synthetic biology to produce, among other things, bio-fuels, synthetic
+	photo-synthesizers, and pharmaceuticals. 
+
+Sources
+Angrist, Misha. "Eyes Wide Open: The Personal Genome
+		Project, Citizen Science and Veracity in Informed Consent." Personalized Medicine 6 (2009): 691–9.
+		http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3275804/ (Accessed September 13, 2013).
+Cheng, Yizong, and George M. Church. "Biclustering of Expression Data." ISMB 8 (2000): 93–103.
+Church, George M. "The Personal Genome Project."
+		Molecular Systems Biology 1 (2005): 1–3. http://msb.embopress.org/content/1/1/2005.0030.abstract (Accessed August 4, 2015).
+Church, George M. "Genomes for All." Scientific American 294 (2006): 46–54.
+Church, George M. "George M. Church Personal
+		History & Interests." http://arep.med.harvard.edu/gmc/pers.html
+		(Accessed September 11, 2013).
+Church, George M. "Human Genome
+		Project (HGP) History (A Personal Account)."
+		http://arep.med.harvard.edu/gmc/HGP.html (Accessed September 10,
+		2013).
+Church, George M., and
+		Stephen Kieffer-Higgins. "Multiplex DNA Sequencing." Science 240
+		(1988): 185–8.
+Church, George M., and Walter Gilbert. "Genomic
+		Sequencing." Proceedings of the National Academy of Science 81
+		(1984): 1991–5. http://www.pnas.org/content/81/7/1991.full.pdf (Accessed August 4, 2015).
+Church, George M., and Ed Regis. Regenesis:
+		How Synthetic Biology Will Reinvent Nature and Ourselves. New York: Basic
+		Books, 2014.
+Drmanac, Radoje, Andrew B. Sparks, Matthew J. Callow, Aaron L. Halpern, Norman L. Burns, Bahram G. Kermani, Paolo Carnevali, Igor Nazarenko, Geoffrey B. Nilsen, George Yeung, Fredrik Dahl, Andres Fernandez, Bryan Staker, Krishna P. Pant, Jonathan Baccash, Adam P. Borcherding, Anushka Brownley, Ryan Cedeno, Linsu Chen, Dan Chernikoff, Alex Cheung, Razvan Chirita, Benjamin Curson, Jessica C. Ebert, Coleen R. Hacker, Robert Hartlage, Brian Hauser, Steve Huang, Yuan Jiang, Vitali Karpinchyk, Mark Koenig, Calvin Kong, Tom Landers, Catherine Le, Jia Liu, Celeste E. McBride, Matt Morenzoni, Robert E. Morey, Karl Mutch, Helena Perazich, Kimberly Perry, Brock A. Peters, Joe Peterson, Charit L. Pethiyagoda, Kaliprasad Pothuraju, Claudia Richter, Abraham M. Rosenbaum, Shaunak Roy, Jay Shafto, Uladzislau Sharanhovich, Karen W. Shannon, Conrad G. Sheppy, Michel Sun, Joseph V. Thakuria, Anne Tran, Dylan Vu, Alexander Wait Zaranek, Xiaodi Wu, Snezana Drmanac, Arnold R. Oliphant, William C. Banyai, Bruce Martin, Dennis G. Ballinger, George M. Church, and Clifford A. Reid. "Human Genome Sequencing Using Unchained Base Reads on Self-assembling DNA Nanoarrays." Science 327 (2010): 78–81. http://www.genome.gov/pages/about/nachgr/may2010directorsdocs/complete_genomics_science.pdf (Accessed August 4, 2015).
+Duncan, David Ewing. "On a Mission to Sequence the
+		Genomes of 100,000 People." The New York Times, June 7, 2010.
+		http://www.nytimes.com/2010/06/08/science/08church.html
+		(Accessed September 13, 2013).
+Forster, Anthony C., and George M. Church. "Towards Synthesis of a Minimal Cell." Molecular Systems Biology 2 (2006): 45. http://msb.embopress.org/content/2/1/45.short (Accessed August 4, 2015).
+Mali, Prashant, Luhan Yang, Kevin M. Esvelt, John Aach, Marc Guell, James E. DiCarlo, Julie E. Norville, and George M. Church. "RNA-guided Human Genome Engineering Via Cas9." Science 339 (2013): 823–6. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3712628/ (Accessed August 4, 2015).
+Personal Genome Project. http://www.personalgenomes.org/ (Accessed August 5, 2015).
+Pilpel, Yitzhak, Priya Sudarsanam, and George M. Church. "Identifying Regulatory Networks by Combinatorial Analysis of Promoter Elements." Nature Genetics 29 (2001): 153–9.
+Rotman, David. "George Church,
+		Rewriting the Genome." Technology Review 109 (2006): 36.
+Shendure, Jay, Gregory J. Porreca, Nikos B. Reppas, Xiaoxia Lin,
+		John P. McCutcheon, Abraham M. Rosenbaum, Michael D. Wang, Kun
+		Zhang, Robi D. Mitra, and George M. Church. "Accurate Multiplex
+		Polony Sequencing of an Evolved Bacterial Genome." Science 309
+		(2005): 1728–32.
+United States Patent and Trademark Office.
+		United States Patent 5,795,782.
+		http://www.google.com/patents/US5795782
+		(Accessed August 5, 2015).  
+
+How to cite
+Rojas, Christopher, "George McDonald Church (1954- )". Embryo Project Encyclopedia (2015-08-12). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/8688.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+Copyright Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Monday, December 21, 2015 - 21:33
+ Topic
+Subject
+Sequence Analysis, DNA; High-Throughput Nucleotide Sequencing; Nanopores; DNA sequence; Nucleotide sequence analysis; Nucleotide sequence; Genes; Genomes; Genetics; Genomics; Molecular genetics; Harvard University; Gilbert, Walter, 1932-; Human Genome Project; People

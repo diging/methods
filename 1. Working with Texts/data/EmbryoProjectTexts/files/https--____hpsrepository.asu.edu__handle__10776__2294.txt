@@ -1,0 +1,38 @@
+By Mark Zhang
+Published: 2012-01-01
+Keywords: Congenital disorders, Bioethics
+ Turpin v. Sortini (1982)The Supreme Court of California reversed the Superior Court of Fresno County's decision to dismiss the Turpin's claims in the case Turpin v. Sortini on 3 May 1982. The case was based upon a wrongful life  claim, in which a disabled child sues physicians for neglecting to inform its parents of potential genetic defects, resulting in harm to the child when it is born. The Turpin case determined that a physician could be liable for failing to inform parents of potential birth defects in the fetus. It further concluded that a minor has grounds sue for medical malpractice committed when it was an embryo or fetus.
+Joy Turpin, a five-year-old in 1982, sued obstetrician Adam Sortini for neglecting to inform her parents of a hereditary condition that would have resulted in the parents' decision not to have a second child. Joy's father and mother, James and Donna Turpin, had consulted Sortini on 24 September 1976. The Turpins had been concerned that their first child, Hope, had a hearing impairment. The Turpins alleged that Sortini and his staff, after testing and examining Hope, had informed the family that her hearing was fine. Hope remained undiagnosed until 15 October 1977, when other specialists declared her stone deaf as a result of a hereditary disorder. The Turpins asserted that they had conceived Joy in December 1976, before Hope was diagnosed, but after Sortini's assessment. Joy was born on 23 August 1977 with the same hereditary disorder that affected Hope.
+Justice Otto Kaus delivered the primary opinion of the court, and Justices Frank Richardson and Allen Broussard concurred. Justice Frank Allen also concurred, but wrote a separate opinion. Chief Justice Rose Bird and Justice Stanley Mosk dissented. The primary ruling rested on the legal precedents set by three other California cases. In the 1967 case 
+	Custodio v. Bauer, the plaintiffs sued physicians for an unsuccessful sterilization procedure; because the procedure failed, the plaintiff gave birth to a tenth child. The First Appellate Court of California ruled that the plaintiffs did have grounds to sue their physicians. In the 1976 case Stills v. Gratton, the plaintiffs sued physicians for an unsuccessful abortion, which led to the birth of a healthy child. The First Appellate Court of California again ruled that the plaintiffs had grounds to sue the physicians. Finally, the 1980 Curlender v. Bio-Science Laboratories dealt with awarding damages to a child with Tay-Sachs Disease. In Curlender, the court recognized the right of a child to sue physicians and the testing facility for failing to accurately assess the high probability that the parents would give birth to a child with a genetic disorder. 
+In all three cases, the plaintiffs won the court cases, but no general damages were awarded because the courts declared it impossible it weigh the benefits of life against the damages of impaired life, despite acknowledging some form of negligence in each case. Justice Otto Kaus referenced each case as groundwork for the Turpin decision.
+In Turpin, the California Supreme Court recognized that while medical malpractice occurred with Hope and not Joy, Sortini's negligence deprived Joy of the opportunity to be born without the same birth defect. However, Justice Kaus further noted that while the aforementioned cases ruled that the physicians in each case were guilty of negligence, they did not allocate damages, under the assumption that evaluating the value of non-life was impossible. Specifically, Kaus argued that a jury was unlikely to decide that never being born is preferential to living an impaired life. He also felt that it was impossible to determine general damages in such a situation without being unfair or speculative. Kaus thus concluded that general damages could not be awarded in Joy's case; this decision mirrored the lower court's ruling.
+However, using the precedents set in Custodio, Stills, and Curlender, the California Supreme court awarded Joy Turpin with special damages for expensive medical treatments that she needed due to her hearing impairment. The majority opinion stated that though it was unfeasible to award general damages, they could compensate Turpin for her medical expenses. The Court therefore reversed the lower court's decision to dismiss the case and awarded the plaintiffs with partial damages.
+Like Stills v. Gratton and Custodio v. Bauer, the Turpin case concluded that wrongful life suits are legally problematic. Turpin further set the new precedent that malpractice resulting in the anomalous development of the embryo could yield special damages later for the child and family, based on the increased financial burden of the disorder. 
+
+
+Sources
+Curlender v. Bio-Science Laboratories, 106 Cal. App. 3d 811; 165 Cal. Rptr. 477 (1980).
+Custodio v. Bauer, 251 Cal. App. 2d 303; 59 Cal. Rptr. 463 (1967).
+Kearl, Kurtis J. “Turpin v. Sortini: Recognizing the Unsupportable Cause of Action for Wrongful Life.” California Law Review 71 (1983): 1278–97.
+Morreim, E. Haavi. “The Concept of Harm Reconceived: A Different Look at Wrongful Life.” 
+Law and Philosophy 7 (1988): 3–33. 
+Stills v. Gratton, 55 Cal. App. 3d 698; 127 Cal. Rptr. 652 (1976).
+Turpin v. Sortini, 31 Cal. 3d 220; 643 P. 2d 954; 182 Cal. Rptr. 337 (1982).
+
+
+How to cite
+Zhang, Mark, "Turpin v. Sortini (1982)". Embryo Project Encyclopedia (2012-01-01). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/2294.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 25, 2013 - 15:53
+ Topic
+Subject
+Wrongful Life;  Law

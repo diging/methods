@@ -1,0 +1,54 @@
+By Adam R. Navis
+Published: 2008-02-29
+Keywords: Biography, Tissue culture, Medical procedures
+ Alexis CarrelAlexis Carrel was a doctor and researcher who studied tissue cultures.  He continued 
+			Ross Granville Harrison’s research and produced many improvements in the field of tissue culture and surgery.  He was the recipient of the 1912 
+			Nobel Prize in Physiology or Medicine for his development of surgical techniques to repair blood vessels.  Carrel was born on 28 June 1873 in Sainte-Foy-les-Lyon, France, to Anne-Marie Ricard and Alexis Carrel Billiard.  His father died when he was five years old.  Carrel earned a bachelor’s degree in letters in 1889 and another in science in 1890 from St. Joseph’s Day School in Lyon, France.  He entered medical school at the age of seventeen and was regarded as a good but not exceptional student.  The assassination of Sadi Carnot, a French politician visiting Lyon who was stabbed in the abdomen and died from the loss of blood, further interested him in surgery.
+At the turn of the century vascular injuries were considered to be impossible to repair through surgery.  While in medical school Carrel studied blood vessel repair and published a series of papers on sutures and bacterial infection.  He received a doctorate in medicine from the 
+			University of Lyon in 1900.  In 1903 Carrel published the story of a woman seeking miraculous treatment for tuberculosis at the Grotto of Lourdes, France.  The medical community scorned Carrel’s report and ostracized him.  Soon afterward Carrel failed to pass the competitive exams required for a full faculty position at the 
+			University of Lyon.  After two consecutive failures, he left for the United States.
+In America Carrel accepted a position at the 
+			University of Chicago in 1904.  At Chicago Carrel improved and developed numerous surgical techniques while collaborating with 
+			Charles Guthrie.  One important improvement they made was the introduction of sterile techniques to mitigate bacterial infections.  Carrel published twenty-six papers in Chicago but only included 
+			Guthrie on twenty-one of them.  
+			Guthrie was angered and stopped collaborating with Carrel because he felt that Carrel published important work alone.  Carrel became a nationally renowned surgeon and won the 1912 
+			Nobel Prize for his development of the anastomotic technique and other surgical procedures.
+In 1914 Carrel was drafted into the French army to fight in World War I.  During the war he noticed the atrocious conditions for the treatment of battle wounds and requested funds from the 
+			Rockefeller Institute for research into more effective treatments.  He and 
+			Henry Dakin developed a solution for cleaning wounds, called Dakin's solution, which is still in use.  After World War I, Carrel returned to the 
+			Rockefeller Institute.
+Carrel continued his research after winning the 
+			Nobel Prize in Physiology or Medicine.  He began to work on tissue culture in 1910.  In collaboration with 
+			Montrose Thomas Burrows, Carrel published a series of papers outlining his success with tissue culture.  He also published a “simple” technique that included complicated jargon and included some superfluous steps.  Carrel included many requirements in his technique that were available to surgeons but not to many lab scientists.  This initially discouraged the widespread use of tissue culture throughout science.
+A series of more and less important innovations were made in the Carrel lab.  He and his lab members wore all black in his operating theater to maintain absolute sterility.  They clotted plasma, a growth substrate, on a silk cloth so that it could be more easily transferred.  They also introduced the Carrel flask, a piece of glassware with a sloped neck to prevent dust particles from falling into the tissue culture.  These advances helped to establish and improve the longevity of tissue cultures.
+The group also ran into a series of problems.  The most important hurdle was the development of 
+			culture media.  Although some discoveries were made, Carrel never produced a definitive, successful medium.  Another problem was exposed in the evaluation of potential media.  Carrel needed a method to measure cellular growth so the expansion of the area occupied by cells was used for analysis.  Carrel also confused the problem of cell growth in culture.  A review of his 1924 paper on tissue culture in the Lancet stated that Carrel’s definition of growth did not include cell division, but rather the formation of whole cells directly from the culture medium.  Carrel did not seem to believe that cells could spontaneously arise but the confusion of terms hindered the acceptance of his techniques.  In following years, reviews of the tissue culture field found that his technique was more simple than first considered and Carrel’s prophecy that tissue culture would become one of the most important techniques in biology was realized.
+Carrel was credited with keeping a culture of embryonic chicken heart alive for thirty-four years.  It is unlikely that this was normal tissue since the Hayflick limit prevents normal vertebrate cells from dividing indefinitely.  Carrel also collaborated with Charles Lindbergh to build a perfusion pump capable of maintaining organs for several weeks in 1935.  Also in 1935 Carrel summarized his research in a popular book called 
+			Man the Unknown, which included his views on science and philosophy.  In the book Carrel discussed his highly conservative views on topics including women’s place in society and criminal punishment.  He also promoted the benefits of an authoritarian government, to his later detriment.
+Carrel was forced to retire from the 
+			Rockefeller Institute in 1939 and returned to France.  In 1940 he was captured by the invading Germans and was allowed to continue with his plans to develop a “Foundation for the Study of Human Problems.”  For this work he was labeled as a collaborator with the Germans.  His philosophies introduced in 
+			Man the Unknown bolstered the evidence against him as a German collaborator.  When the Americans liberated France, Carrel was relieved of his position.  Alexis Carrel died on 5 November 1944 in France. 
+
+Sources
+Nobel Lectures, Physiology or Medicine 1901–1921. Amsterdam: Elsevier Publishing Company, 1967.
+Dente, Christopher J., and David V. Feliciano. “Alexis Carrel (1873–1944): Nobel Laureate, 1912.” Archives of Surgery (Chicago, Ill: 1960) 140 (2005): 609–10.
+Greider, Carol W. “Telomeres and Senescence: The History, the Experiment, the Future,” Current Biology 8 (1998): R178–81.
+McMurray, Emily J., ed. Notable Twentieth-Century Scientists. Detroit, MI: Gale Research, 1995.
+Witkowski, Jan A. “Alexis Carrel and the Mysticism of Tissue Culture,” Medical History 23 (1979): 279–296.
+
+
+How to cite
+Navis, Adam R., "Alexis Carrel (1873-1944)". Embryo Project Encyclopedia (2008-02-29). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/1772.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, March 18, 2015 - 20:09
+ Topic
+Subject
+Tissue Culture Techniques; Carrel, Alexis, 1873-1944; People

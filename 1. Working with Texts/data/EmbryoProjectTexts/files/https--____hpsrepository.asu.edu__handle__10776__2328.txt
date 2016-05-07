@@ -1,0 +1,29 @@
+By Sean Cohmer
+Published: 2012-01-01
+Keywords: Medicine, Medical procedures, Human development
+ 2D Obstetric UltrasoundThe development of the obstetric ultrasound has allowed physicians and embryologists to obtain a clear picture of the developing human embryo and fetus during pregnancy. Obstetric ultrasonography, often referred to as ultrasound, is a technology that uses sound waves to produce images of structures inside the human body. A handheld probe emits sound waves, which are reflected back by the different structures within the body. These reflected sound waves are converted into electric signals that are detected by a transducer, which then produces two-dimensional images that can be interpreted by medical professionals. Ultrasound technology has become a sophisticated, high-resolution diagnostic imaging tool used widely in medicine, especially obstetrics.In 1958, Ian Donald, John MacVicar, and Thomas Brown published one of the first papers on the use of ultrasounds in diagnostic imaging, “Investigation of Abdominal Masses by Pulsed Ultrasound.”  Donald, a Glasgow, Scotland obstetrician, began to investigate the possibility of using ultrasound for medical diagnostics in 1955, using an ultrasonic metal flaw detector on several tumors recently removed from patients in his clinic. Donald compared the images to a control—a large beefsteak—in order to show that imaging could differentiate between different types of abnormal tissue growths. After Donald’s article was published and handheld scanner technology was refined, the use of two-dimensional ultrasound in obstetrics began to flourish. Within a few years of the article it became possible to study fetal growth in vivo from the beginning to the end of human pregnancy.Since 1965, the number of pregnant women in the United States receiving diagnostic ultrasounds has gone from none to more than half. Pregnant women can now receive ultrasounds throughout their pregnancy to determine the health status of the fetus and, around eighteen to twenty-two weeks, its sex. The images produced by two-dimensional ultrasound have undergone substantial improvements in clarity and noise reduction, providing a much clearer picture of the human fetus as it develops.Non-invasive ultrasounds use a clear, water-based gel that is spread on the patient’s skin to aid sound wave transmission. Obstetric ultrasounds take images from the lower abdomen, above the uterus. A technician spreads the jelly in a circular motion with the handheld probe, applying slight pressure to ensure contact. The probe emits sound waves, and the reflected pulses are sensed by the transducers in the probe. These pulses are then translated into a black and white image on the monitor, which is displayed in real time to the patient. A transvaginal ultrasound requires that the patient lie on a table with knees bent and feet in stirrups. The probe is then covered with a condom and gel and inserted into the vagina. The transducer receives the reflected sound images in the same manner as the superficial procedure but at different angles that are advantageous for diagnosis of placental abnormalities and ectopic pregnancies.Obstetricians can use ultrasounds to monitor the development of the fetus in utero throughout a pregnancy. While the ultrasound gives pregnant women an image of the health and overall progress of their children’s development, it is often used for diagnosis of problems during pregnancy as well. In addition to its use in fetal monitoring, doctors have used 2D ultrasounds for laparoscopic surgery, amniocentesis, and numerous other procedures. Ultrasound imaging technology has continued to improve into high-resolution two-dimensional images. Further improvements have generated 3D and 4D ultrasounds, which provide much finer detail than a 2D ultrasound. The ability to screen babies for birth defects has increased significantly. However, screening to determine characteristics not considered birth defects, such as gender, has led to controversy surrounding reproductive rights of parents and the possibility parents can select the traits that their child will have, children that some have called designer babies.
+
+Sources
+Baird, Stephen L. "Designer Babies: Eugenics Repackaged or Consumer Options?" Technology Teacher 66(2007): 12–16.
+Donald, Ian, John Macvicar, and Thomas Brown. "Investigation of Abdominal Masses by Pulsed Ultrasound." Lancet 1 (1958): 1188–94.
+Storck, Susan. "Transvaginal Ultrasound."  http://www.nlm.nih.gov/medlineplus/ency/article/003779.htm (Accessed May 1, 2011).
+Ville, Yves. "Fetal Imaging: A Brief History of the Future." Ultrasound in Obstetrics & Gynecology 1 (2007): 1–5.
+Vorvick, Linda J., and Susan Storck.  "Pregnancy Ultrasound."   http://www.nlm.nih.gov/medlineplus/ency/article/003778.htm (Accessed May 1, 2011).
+Woo, Joseph. "A Short History of the Development of Ultrasound in Obstetrics and Gynecology."   http://www.ob-ultrasound.net/history1.html (Accessed April 3, 2011).
+
+
+How to cite
+Cohmer, Sean, "2D Obstetric Ultrasound". Embryo Project Encyclopedia (2012-01-01). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/2328.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 25, 2013 - 15:53
+ Topic
+Subject
+Ultrasonography;  Technology

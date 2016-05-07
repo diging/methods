@@ -1,0 +1,95 @@
+By Joe Brinkman
+Published: 2014-12-22
+Keywords: homeotic mutations
+ Walter Jakob Gehring (1939-2014)Walter Jakob Gehring discovered the homeobox, a DNA segment found in a specific cluster of genes that determine the body plan of animals, plants, and fungi. Gehring identified the homeobox in 1983, with the help of colleagues while isolating the Antennapedia (Antp) gene in fruit flies (Drosophila) at the University of Basel in Basel, Switzerland. Hox genes, a family of genes that contain the homeobox sequence, determine the head-to-tail (anterior-posterior) body axis of both vertebrates and invertebrates. Gehring also identified the homeobox-containing Pax-6 gene as the master control gene in eye development of Drosophila, the same gene that, when mutated or absent in humans, leads to aniridia, or lack of the iris, in humans. Gehring's work with the homeobox suggested to biologists that widely different species share a similar and evolutionarily conserved genetic pathway that controls the development of overall body plans, from fruit flies to humans. 
+		
+
+Gehring was born on 20 March 1939 in Zurich, Switzerland, to Marcelle Rembann and Jakob Gehring. Jakob Gehring was the chief engineer in turbine construction for the oceanliner Normandie. Gehring was the second child in the family and was younger than his sister by three years. Gehring later said that he and his sister got along very well and frequently competed against one another while growing up. When Gehring was a boy, his uncle sent him a cardboard box filled with pupae. The following spring, butterflies emerged from the pupae. Gehring stated that the event shaped his interest in animals and their development. Throughout his elementary school years, Gehring trapped insects in the woods and brought them home to observe them. 
+
+
+Gehring studied birds during his teenage years at Realgymnasium Zurich, a secondary school in Zurich, Switzerland. He studied the inheritance of the behaviors of migration and flight orientation, and he observed birds by using the radar at the airport in Zurich. He attended the University of Zurich in Zurich during the late 1950s and early 1960s, as an undergraduate zoology student, where developmental biologist Ernst Hadorn mentored him. Gehring worked as a research assistant in Hadorn's lab, primarily focused on what mechanisms governed Drosophila development. Hadorn allowed Gehring to use his radar data on bird migration for Gehring's thesis. Gehring noted that birds lacked orientation when they could no longer recognize the location of the sun as a result of overcast clouds. A lack of genetic tools and funding prevented Gehring from further investigations of bird migration and orientation, and he switched his focus from birds to Drosophila. 
+
+
+Hadorn's work on early developmental genetic control of Drosophila shaped Gehring's doctoral focus in 1964. While Gehring was searching for a thesis topic, a fellow graduate student and Hadorn discovered a phenomenon, called transdetermination, in which embryonic cells switch from one developmental fate to another. An example that they found was cells fated to become antennas switched and became legs instead. Gehring soon after observed a genetic mutation, called Nasobemia, which transformed Drosophila head antennae into a pair of legs. Gehring demonstrated that the gene neighbored Antennapedia, a gene necessary for leg development. Gehring then published a paper in which he argued that Antennapedia was responsible for activating the entire genetic pathway of leg development. During that same time in 1964, he married Elisabeth Lott. Their first son, Stephen, was born in 1965. Gehring and Lott had two children, with their second son Thomas born in 1970.  
+
+
+After earning his PhD in 1965, Gehring joined geneticist Alan Garen's lab as a postdoctoral fellow at Yale University in New Haven, Connecticut,  where he studied the molecular basis of structure development (homeotic) gene function. Gehring and Garen investigated the specification of cell fate, called determination, of cells in in Drosophila embryos. They noted that the cells could be determined at the blastoderm stage, an early stage of development in which the embryonic sac is covered by the blastoderm, an outer layer of cells. The two used molecular markers to visualize a genetic fate map of the blastoderm to see how cells developed structures in Drosophila. They found that despite the blastoderm's homogeneous appearance, the cells within the blastoderm were already determined for their respective cell fate, or lineage. As a result of his postdoctoral work, Gehring was appointed as an associate professor at the Yale Medical School in 1969. He returned to Switzerland in 1972 and took a position as a professor in the department of cell biology at the Biozentrum of the University of Basel. 
+
+
+Gehring continued research with Drosophila at the University of Basel and focused on isolating the Antennapedia gene from Drosophila during the 1970s. David Hogness, at Stanford University in California, and his collaborators, developed a method scientists describe as walking along the chromosome, in which they clone any gene whose position on the chromosome they know. That method was used to successfully isolate the gene Antennapedia, a process that took three and a half years to complete. Once isolated, Gehring demonstrated that the gene Antennapedia shared common DNA sequences with its neighboring gene, fushi tarazu, which scientists had shown contributed to body segmentation in the embryo. 
+
+
+In 1983, William McGinnis of Gehring's lab confirmed the homology, shared genetic sequences, between the genes Antennapedia and fushi tarazu. He concluded that the homology was not spread across the entire gene, but only a 180 base pair segment. Gehring named the segment the homeobox, and Gehring used it as a probe to isolate entire sets of homeotic proteins. By doing so, he provided evidence that homeotic genes encode for sequence-specific binding proteins and serve as control genes for body plan specification. Gehring and collaborators soon after observed that similar to Drosophila, mouse homeobox genes were also clustered close together. Further evidence suggested comparable body plan pathways, due to the conservation of homeobox genes, in both vertebrates and invertebrates, including humans. Some scientists claimed that the homeobox genes, and their analogous role among species, provided a universal principle in the concept of development because homeobox genes determine body plan across broadly different species. 
+
+
+Further research conducted in Gehring's lab resulted in supplementary evidence regarding conserved evolution between species. One of Gehring's graduate students, Rebecca Quiring, accidentally cloned a Drosophila gene during a control experiment in 1994. The gene was homologous to the mouse Pax-6 gene, which when mutated, corresponds to small eye mutations in mice. Mutations to that gene also causes aniridia in humans, which is the lack of the iris, the structure that controls pupil dilation in the eye. Scientists observed that fly embryos that had the accidentally cloned gene, a Drosophila homolog of Pax-6, grew into adult flies that had no eyes. Gehring's collaborators then showed that the Pax-6 gene could cause eyes to develop when expressed in other regions of Drosophila's genome. The team expressed the Pax-6 gene, and induced completely functioning eyes, on Drosophila legs, wings, and antennae. Gehring later claimed that those results indicated that eyes, from organisms in species as different as flies and mice, evolved from a common ancestor (monophyletic trait).  The researchers claimed that the Pax-6 developmental pathway appears to have been highly conserved evolutionarily, playing an integral role in the development of the prototypical eye. 
+
+
+Gehring became a professor emeritus in 2009 at the University of Basel. After his discovery of the homeobox, research of its functionality continued in fungi, plants, and animals. Gehring continued to extrapolate Drosophila research to humans, specifically for medicinal purposes. He died on 29 May 2014 as a result of an automobile accident. 
+
+
+
+
+Sources
+Bender, Welcome, Pierre Spierer, David S. Hogness, and P. Chambon. "Chromosomal walking 
+and jumping to isolate DNA from the  Ace and  rosy loci and the bithorax complex in  Drosophila melanogaster." Journal of Molecular Biology 168 (1983): 17–33.
+
+
+"Biography: Walter Gehring." International Balzan Prize 
+Foundation, 2002. 
+http://www.balzan.org/en/prizewinners/walter-gehring (Accessed December 20, 2014).
+
+
+Gehring, Walter, and Yasushi Hiromi. "Homeotic Genes and the Homeobox." Annual Review of Genetics 20 (1986): 147–73.
+
+ 
+Gehring, Walter J. "Homeo boxes in the study of development." Science 236 (1987): 1245–1252.
+
+
+Gehring, Walter J. Master Control Genes in Development and Evolution: The Homeobox Story. 
+Yale University Press, 1998.
+
+
+Gehring, Walter J. "The Journey Of A Biologist." Inamori Foundation Commemorative Lecture for the Kyoto Prize, 2000. http://www.inamori-f.or.jp/laureates/k16_b_walter/lct_e.html (Accessed December 20, 2014).
+	
+
+Halder, Georg, Patrick Callaerts, and Walter J. Gehring. "Induction of ectopic eyes by targeted 
+expression of the eyeless gene in Drosophila." Science 267 (1995): 1788–1792.
+
+
+Hiromi, Yasushi, and Walter J. Gehring. "Regulation and function of the Drosophila
+segmentation gene fushi tarazu." Cell 50 (1987): 963–974.
+
+
+Krishnau, Mukerjee, Luciano Brocchieri, and Thomas R. Bürglin. "A Comprehensize 	Classification and Evolutionary Analysis of Plant Homeobox Genes" Molecular Biology Evolution. (2009): 2775. http://mbe.oxfordjournals.org/content/26/12/2775.full.pdf+html   
+(Accessed July 18, 2014).
+
+
+McGinnis, William, Richard L. Garber, Johannes Wirz, Atsushi Kuroiwa, and Walter J. Gehring. 
+"A homologous protein-coding sequence in Drosophila homeotic genes and its 
+conservation in other metazoans." Cell 37 (1984): 403—408.
+
+
+Quiring, Rebecca, Uwe Walldorf, Urs Kloter, and Walter J. Gehring. "Homology of the eyeless 
+gene of Drosophila to the Small eye gene in mice and Aniridia in humans." Science 265 
+(1994): 785–789.
+
+
+
+
+
+How to cite
+Brinkman, Joe, "Walter Jakob Gehring (1939-2014)". Embryo Project Encyclopedia (2014-12-22). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/8274.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+Copyright Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Tuesday, December 23, 2014 - 00:45
+ Topic
+Subject
+Genes, Homeobox; Homeobox genes; Drosophila; Gehring, W. J. (Walter J.), 1939-; Genetics; Genes; mutations; University of Basel; People

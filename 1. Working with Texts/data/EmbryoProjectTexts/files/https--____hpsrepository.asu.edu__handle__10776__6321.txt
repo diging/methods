@@ -1,0 +1,59 @@
+By Samantha Hauserman
+Published: 2013-10-17
+Keywords: Snapdragons, Muriel Wheldale Onslow
+ Muriel Wheldale Onslow (1880–1932)Muriel Wheldale Onslow studied flowers in England with genetic and biochemical techniques in the early twentieth century. Working with geneticist William Bateson, Onslow used Mendelian principles and biochemical analysis together to understand the inheritance of flower colors at the beginning of the twentieth century. Onslow's study of snapdragons, or Antirrhinum majus, resulted in her description of epistasis, a phenomenon in which the phenotypic effect of one gene is influenced by one or more other genes. She discovered several biochemicals related to color formation. Onslow's methodology also partly contributed to the establishment of the field of chemical genetics.
+Onslow was born in Birmingham, England, on 31 March 1880. She was the only child of Fannie Wheldale and lawyer John Wheldale. Onslow completed her secondary education at King Edward VI High School for Girls in Birmingham, which had a reputation for training students in science. In 1900, she entered Newnham College, a women's college at Cambridge University, in Cambridge, England, to pursue a degree in botany.
+In 1903, as an undergraduate, Onslow joined the Balfour Biological Laboratory for Women, a research facility shared by Newnham College and Girton College, Cambridge's only other women's college. Working with Bateson and botanist and geneticist Edith Rebecca Saunders, Onslow researched the heritable variation of flower color in snapdragons. Despite receiving first-class honors in both parts of the Natural Sciences Tripos, the Cambridge final degree examination, Onslow received no degree because Cambridge did not award degrees to women until 1948. In 1904 Onslow received a Bathurst Research Studentship at Newnham. The fellowship supported Onslow for the first two years of her post-graduate research at Cambridge.
+In Bateson and Saunders' lab, Onslow did a Mendelian analysis of the five snapdragon flower colors: white, yellow, ivory, crimson, and magenta. Mendelian analysis uses the concept of allele, a concept which biologists at the time denoted with the word factor, a word originally used by Gregor Johann Mendel when he worked in Austria during the mid nineteenth century, but also a word that didn't distinguish between later conceptions of allele and of gene. Allele is one of two or more forms of a gene. This article uses the words allele and gene instead of the word factor. Mendel argued that for any organism produced via sexual reproduction, every trait in that organism resulted from one of two alleles within the organism, and that the organism inherited one allele from one parent and the other allele for the other parent.
+Between 1856 and 1863, experimenting on sweet peas in St. Thomas's Abbey, Brno, in what later became the Czech Republic, Mendel found two types of alleles, dominant and recessive, each of which produced a different phenotype. When a plant had at least one dominant allele, the plant exhibited the dominant phenotype. But a plant had a recessive phenotype only when it had the relevant recessive alleles. For example, a dominant allele for red flower pigment may override a recessive allele for white flower pigment, so in a plant with both alleles, the flowers were red.
+1903, Lucien Cuénot in Paris, France bred mice as Mendel had bred plants. Then he used Mendel's crossbreeding techniques on the mice to investigate the patterns of inheritance for fur color. But Cuénot's results differed from Mendel's. When he grouped the offspring of cross bred mice so that offspring with similar fur color were in the same group, the number of offspring in each group differed from the numbers predicted by Mendel's laws of inheritance. Cuénot proposed that multiple-allelism, a situation in which more than two alleles affect a phenotype, explained the inheritance patterns of fur color in mice.
+Onslow investigated similar inheritance patterns in snapdragons, in which the inheritance of flower colors also violated Mendel's laws. This work led to the first description of the phenomena of epistasis . In Onslow's 1907 paper "The Inheritance of Flower Colour in Antirrhinum Majus", she described certain genes' influences on other genes in production of flower color. For example, gene I gives an ivory color, but it also depends on the modification of gene L: if gene L modifies gene I, then gene I gives a magenta color. In this case, gene L influences the output of gene I.  Onlsow did not introduce the term epistasis in that paper, although Bateson coined the word and suggested she do so. Bateson introduced the new terms in a paper in 1907, and he used the word epistatic to describe a gene that influenced another gene, and the word hypostatic to describe the suppressed gene. 
+Bateson left Cambridge in 1910 to become the first director of the John Innes Horticultural Institute in Merton, London, England. Onslow followed him in 1911 to hold a half-time position at the institute. At the same time, she worked with professor of biochemistry Maximilian Nierenstein at the University of Bristol, in Bristol, England. Onslow held that to fully understand the genetics of pigment formation, one must know the biochemical pathways of its metabolism. Onslow studied the biosynthesis of anthocyanin pigments in snapdragons as her research focus shifted from genetics towards biochemistry. Onslow returned to Cambridge in 1914 to work with future Nobel laureate and professor of biochemistry Frederick Gowland Hopkins. Soon after, she became one of the first women members of the Biochemical Club in Cambridge University.
+At Hopkins' laboratory, Onslow continued to work on the problem of anthocyanin metabolism and chemical structure. She discovered apigenin, and luteolin in 1914 and 1915 respectively. Both apigenin and luteolin are types of flavones, precursors of a number of yellow pigments. In 1916, she published The Anthocyanin Pigment of Plants, a book that established her international reputation. The book contained Onslows work on the genetic and biochemical aspects of anthocyanin pigments. Onslow also published the textbook Practical Plant Biochemistry, which she derived from lectures she gave in her course.  In 1916, Onslow became a research assistant to biochemist Huia Onslow, whom she married three years later. They conducted biochemical research together until he died in 1922. Muriel Onslow worked to prove her hypothesis that anthocyanin was the product of oxidation of a chromogen, yet other scientists disproved it. 
+In 1926, Onslow became one of the first women who received a University Lectureship at Cambridge, teaching plant biochemistry. In 1931 she published the first part of her second textbook Principles of Plant Biochemistry. However, Onslow never completed the second volume as she died from an illness in Cambridge on 19 May 1932.
+
+Sources
+Bateson, William. "Facts Limiting the Theory of Heredity." Science 26 (1907): 649–60.
+
+Creese, Mary R. S. "British Women of the Nineteenth and Early Twentieth Centuries Who Contributed to Research in the Chemical Sciences." British Journal for the History of Science 24 (1991): 275–305.
+
+Cuénot, Lucien. "L'hérédité de la pigmentation chez les Souris [Heredity of pigmentation among Mouse]." Archives de zoologie expérimentale et générale 4 (1903): xxxiii–xli.
+
+Hess, Dieter. On the Path to Gene Technology: Scientific Report of a Botanist. Göttingen: Cuvillier Verlag, 2006.
+Mendel, Gregor Johann. “Versuche über Pflanzen-Hybriden” [Experiments Concerning Plant Hybrids]” [1866]. In Verhandlungen des naturforschenden Vereines in Brünn [Proceedings of the Natural History Society of Brünn] IV (1865): 3–47. Reprinted in Fundamenta Genetica, ed. Jaroslav Kříženecký, 15–56. Prague: Czech Academy of Sciences, 1966.  http://www.mendelweb.org/Mendel.html (Accessed October 16, 2013).
+
+Ogilvie, Marilyn Bailey, and Joy Dorothy Harvey. The Biographical Dictionary of Women in Science: L–Z. New York, NY: Rutledge, 2000. 
+Onslow, Muriel Wheldale. The Principles of Plant Biochemistry: Part 1. London, England: Cambridge University Press, 1931. http://books.google.com/books?id=FOxaAAAAQAAJ (Accessed November 16, 2012)
+
+Rayner-Canham, Marelene, and Geoffrey Rayner-Canham. "Muriel Wheldale Onslow (1880–1932): Pioneer Plant Biochemist." The Biochemist 24 (2002): 49–52.
+
+Richmond, Marsha L. "Muriel Wheldale Onslow and Early Biochemical Genetics." Journal of the History of Biology 40 (2007): 389–426.
+
+S., M. "Obituary Notice: Muriel Wheldale Onslow." The Biochemical Journal 26 (1932): 915–16.
+
+Sarkar, Sahotra, ed. The Founders of Evolutionary Genetics: A Centennial Reappraisal. Dordrecht, Netherland: Kluwer Academic Publishers, 1992.
+
+Scott-Moncrieff, Rose. "The Classical Period in Chemical Genetics: Recollections of Muriel Wheldale Onslow, Robert and Gertrude Robinson, and J. B. S. Haldane." Notes and Records of the Royal Society of London 36 (1981): 125–54.
+
+Sturtevant, Alfred Henry. A History of Genetics. New York, NY: Harper and Row, 1965.
+
+Wheldale, Muriel. "The Inheritance of Flower Colour in Antirrhinum Majus." Proceedings of the Royal Society of London Series B 79 (1907): 288–304. 
+
+Wheldale, Muriel. The Anthocyanin Pigment of Plants. London, England: Cambridge University Press, 1916. http://www.biodiversitylibrary.org/bibliography/1687 (Accessed November 8, 2012)
+
+
+How to cite
+Hauserman, Samantha, "Muriel Wheldale Onslow (1880-1932)". Embryo Project Encyclopedia (2013-10-17). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/6321.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+Copyright Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Monday, February 9, 2015 - 23:55
+ Topic
+Subject
+Biochemical Genetics; Antirrhinum; Bateson, William, 1861-1926; Heredity; Biochemistry; Epistasis (Genetics); Genetics; Botany; Genes; Reproduction; Phenotype; Cuénot, Lucien, 1866-1951; Mendel, Gregor, 1822-1884; Nierenstein, M. (Maximilian); Biochemistry; Hopkins, Frederick Gowland, Sir, 1861-1947; People

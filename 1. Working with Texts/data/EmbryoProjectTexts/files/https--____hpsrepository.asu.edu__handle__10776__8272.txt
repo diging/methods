@@ -1,0 +1,261 @@
+By James Lowe
+Published: 2014-12-22
+Keywords: Germinal Localization, mosaic theory
+ "Experimental Studies on Germinal Localization" (1904), by Edmund B. WilsonAt the turn of the twentieth century, Edmund B. Wilson
+	performed experiments to show where germinal
+	matter was located in molluscs. At Columbia University in New York City,
+	New York, Wilson studied what causes cells to differentiate during
+	development. In 1904 he conducted his experiments on molluscs, and he modified the
+	theory about the location of germinal matter in the succeeding years. Wilson and others modified the
+	theory of germinal localization to accommodate results that showed
+	the significance of chromosomes in development and heredity.
+Wilhelm His at the University of Leipzig in Leipzig, Germany,
+	proposed the theory of germinal
+	localization in 1874. His's theory proposed that certain materials
+	present in the egg during fertilization were responsible for the
+	differential development that occurred after cell division. Biologists proposed various versions of the theory of germinal
+	localization in the decades following His's work. His argued that
+	substances are unequally distributed throughout the cytoplasm of the
+	egg, and that the eventual production of tissues and organs can be
+	traced back to those distributions.
+Wilson debated these theories
+	with Charles O. Whitman, the director of the Marine Biological
+	Laboratory (MBL) in Woods Hole, Massachusetts. Whitman proposed a
+	theory of cytoplasmic localization according to which the future
+	organization of the organism was already present in the egg before
+	it divided, a view Wilson rejected. Wilson
+	conducted his experiments, and he analyzed the theory from the 1890s
+	onwards.
+However, studies by biologists such as Édouard van Beneden at the
+	University of Liège in Liège, Belgium, and Theodor Boveri, at the
+	University of Munich in Munich, Germany, had demonstrated that in
+	the process of cell division, the division of the nucleus into
+	daughter cells occurred with more precision than did the division of the
+	cytoplasm. This result led theorists such as August Weismann at the
+	University of Freiburg in Freiburg, Germany, and Wilhelm Roux at the
+	Anatomical Institute in Breslau, Germany, to propose theories of
+	germinal localization that addressed the nucleus as the cause of
+	cell differentiation during development.
+The theories of germinal localization were associated with the
+	mosaic theory proposed by Weismann and Roux. They argued that the
+	inherited substance contained in the nucleus of the fertilized egg,
+	or zygote, was distributed unequally when the zygote divided, and it
+	remained unequal in all subsequent cell divisions. This substance
+	would cause cells to differentiate. Hans Driesch and
+	Oskar Hertwig, both in
+	Germany, rejected to the mosaic theory. In the early 1890s, Driesch
+	found that the cells separated from the embryo at an early stage
+	could still produce a whole embryo, indicating that the isolated
+	cell still had all the materials needed for the production of the
+	different cell types. Hertwig also argued that, in growth and
+	development, there was not a qualitative division of the nuclear
+	material, with some of it going to one daughter cell and the rest to
+	the other. Instead, he proposed a quantitative division, where the
+	materials in the nucleus were divided equally between daughter
+	cells, having increased in number beforehand.
+Wilson began to engage in these debates in 1893 when he published
+	the results of his 1892 experiment with the marine invertebrate
+	Amphioxus.
+	Like Hertwig, Wilson argued that evidence indicated a quantitative
+	division of inherited substance, rather than a qualitative division,
+	throughout the daughters of dividing cells. He developed his
+	argument in his 1896 textbook The Cell in Development and
+	Inheritance. Towards the end of the book, Wilson discussed these
+	theories, assessed them in the light of recent experimental
+	evidence, and proposed his version of the germinal localization
+	theory. He argued that the egg was initially isotropous, meaning
+	that it did not have internal differences corresponding to later
+	portions of the organism. Wilson claimed that from its formation to
+	fertilization, the egg became less isotropous. He proposed that the
+	pre-embryonic stages of an egg established the basic plan of the
+	organism, the organism's anterior-posterior and left-right axes, and
+	its type of symmetry. In 1896, Wilson stressed the role of
+	conditions external to the cell, such as relations with other cells
+	and nutrition, in these continuing arrangements of material. He
+	argued that these external conditions accounted for the effects
+	produced when experimenters changed the fates of embryonic cells by removing
+	them from the embryo.
+Wilson designed his experiments in 1903 and 1904 with the mollusc
+	Dentalium
+	to test the theory of germinal localization. In these
+	experiments, he focused on what he called pre-localization, a
+	process occurring before segmentation or cleavage of a fertilized
+	egg. Wilson claimed that if he could establish the process of
+	pre-localization before the embryo segmented, that he would
+	demonstrate that the localization was a progressive, epigenetic
+	phenomenon driven by the nucleus. In Wilson's view, pre-localization
+	would disprove the theories of cytoplasmic preformation, according
+	to which the egg was already organised at fertilisation with the
+	formative materials for later parts already distributed to
+	particular parts of the egg.
+Wilson's experiment followed the method of Yves Delage, who
+	worked at the Sorbonne in Paris, France, and who cut fertilized eggs
+	with a scalpel. Wilson cut single cells of fertilized mollusc
+	embryos into fragments, and then he tracked the
+	development of the cell fragments. As with his experiment with
+	Amphioxus in 1893, Wilson established the normal development
+	of Dentalium. He prepared, stained, and sectioned the samples
+	and then observed them with a camera lucida.Wilson used
+	different stains to identify the presence of different substances in
+	different areas of the egg. Wilson observed that, in normal eggs,
+	the materials were unequally distributed, and that these materials
+	moved within the eggs. These observations indicated that the material distributed through the zygote before the zygote
+	segmented.
+Wilson used his scalpel to make precise cuts of the zygote prior
+	to cleavage, when the egg rapidly divides to produce smaller
+	daughter cells or called blastomeres. Wilson used the scalpel to
+	remove the polar lobe, a protrusion of the cell that contains white
+	substance at the vegetal or lower pole which, after the first
+	cleavage division, is attached by a tube to only one blastomere.
+	After the second cleavage, it is attached to one of the cells, which result
+	from the division of that blastomere, and it is then absorbed by
+	the cell.
+When Wilson removed the polar body at the two-cell stage, also
+	called the trefoil stage because the polar body appears like a third
+	cell, the resulting larvae lacked any of the tissues and
+	organs which derive from a the mesoderm germ layer in normal embryos. Wilson found the
+	same result when he removed the cell that absorbed the polar body.
+	The abnormal embryos therefore contained no shell-gland, muscles,
+	mouth, or foot. Wilson concluded that the polar lobe must contain
+	certain materials, which help form the
+	mesoderm, and he used examples from experiments with isolated
+	blastomeres to support his case. When he observed the egg before
+	cleavage, Wilson noted that the materials that went into the
+	polar body were already visible in a particular part of the egg.
+Wilson conducted more precise experiments to further explore
+	these results. He cut horizontal sections through an area that
+	contained the specific polar material. As a result, most embryos
+	failed to develop, whereas some did. Wilson remarked that the ones
+	that did develop into larvae ranged from normal size to one-fourth
+	of the normal size. However, he noted that, despite the change in
+	size, they were otherwise normal in form and possessed the
+	structures developed from the mesoderm, while the lobe-less larvae
+	did not. Wilson described this result as of the polar material
+	spreading in the egg, so even if much of it is excluded by one of
+	his cuts, enough remained to predetermine the mesodermal fate of the
+	particular blastomere in which it was found.
+When Wilson cut sections vertically through the polar area, he
+	observed that the formative materials were stratified horizontally
+	in the polar area. In a number of cases, Wilson's vertical sections
+	yielded two smaller than normal larvae, each with all the normal
+	structures, including those Wilson associated with the polar
+	material.
+Wilson concluded that the development of Dentalium was
+	mosaic in character. He hypothesized that the prelocalized materials
+	in cells determined particular cell types, tissues, and structures
+	in the later embryo and larva. Wilson noted that although the
+	different outcomes of vertical and horizontal cuts indicated that
+	the polar materials were stratified in a particular way in the egg,
+	their position in the egg did not correspond to the position of the
+	structures they would determine in the embryo.
+Wilson's results helped him to develop the hypothesis he had
+	proposed in 1893. He argued that the pattern of mosaic
+	development was explained by the movement of different formative
+	materials into different parts of the egg before cleavage separated
+	out those materials into different cells. According to this scheme,
+	these materials would be distributed differentially to the daughter
+	cells, explaining the process of differentiation. Thus, Wilson
+	rejected the theory of cytoplasmic prelocalization and claimed that,
+	as the localization process continued after fertilization and beyond
+	the first cleavage stage in some organisms, localization could not
+	account for the observed results. Wilson proposed that, instead, the
+	segregation of materials into different regions of the fertilized
+	egg must be a result of the activity of the nucleus.
+In 1925, in the third and final edition of his textbook The
+	Cell in Development and Heredity, Wilson discussed germinal
+	localization, and he situated his work of 1903 and 1904 in a series
+	of experiments ranging from the 1890s to the second decade of the
+	twentieth century. Wilson showed that these experiments demonstrated
+	the ability of cells to self-differentiate even when isolated, with
+	developmental potency distributed along the lineages of cells
+	produced by the cleavage divisions.
+Wilson's account of these issues indicated that, by 1904, he had
+	completed much of his theory of differentiation and progressive
+	development. His theory stated that cytoplasmic localization
+	resulted from the activities of the nucleus or nuclei. He proposed
+	that the different modes of development, including the mosaic and
+	regulative modes, could be explained by a difference in timing of
+	the progressive formation of different organ-forming germ regions in
+	the egg and embryo. This theory enabled him to explain how isolated
+	blastomeres could be totipotent, even after the division of the egg
+	cytoplasm into different cells after the cleavage divisions.
+Thomas H. Morgan, in his 1934 book Embryology and
+	Genetics, acknowledged Wilson's work on germinal localization,
+	and advocated a similar approach. Morgan argued for an integrated
+	study of the problems of development, centred on the interaction
+	between the cell's cytoplasm and the products of nuclear activity,
+	associated with genes on the chromosomes. 
+ Sources Baxter, Alice L.
+		"Edmund B. Wilson as a Preformationist: Some Reasons for His
+		Acceptance of the Chromosome Theory." Journal of the History of
+		Biology 9 (1976): 29–57.
+Boveri, Theodor. Zur Frage der
+		Entstehung maligner Tumoren [On the Development of Malignant Tumors]. Jena: Gustav Fischer, 1914.
+Delage, Yves.
+		Traité de zoologie concrète. [Treatise on Zoology]. Paris: Schleicher frères et cie,
+		1901.
+Driesch, Hans."Entwicklungsmechanische Studien: I. Der Werthe der beiden ersten Furchungszellen in der Echinogdermenentwicklung. Experimentelle Erzeugung von Theil- und Doppelbildungen. II. Über die Beziehungen des Lichtez zur ersten Etappe der thierischen Form-bildung." Zeitschrift für wissenschaftliche Zoologie 53 (1891): 160–84. Translated as "The Potency of the First Two Cleavage Cells in Echinoderm Development. Experimental Production of Partial and Double Formations." In Foundations of Experimental Embryology, eds. Benjamin H. Willier and Jane M. Oppenheimer, 38–50. New York: Hafner Press, 1964.
+Driesch, Hans. Philosophie des Organischen. [The Science
+		and Philosophy of the Organism]. Leipzig: Quelle & Meyer, 1928.
+		https://archive.org/details/philosophiedesor01drie (Accessed
+		November 20, 2014.)
+Hertwig, Oskar. Lehrbuch der
+		Entwicklungsgeschichte des Menschen und der Wirbelthiere.
+		[Textbook on the Developmental History of Man and the Vertebrates]. Berlin: G.
+		Fischer, 1896. http://dx.doi.org/10.5962/bhl.title.3980 (Accessed December 19, 2014).
+His, Wilhelm. Anatomie menschlicher Embryonen [The Anatomy of Human Embryos]. Leipzig: Verlag von
+Vogel, 1880.
+http://archive.org/stream/anatomiemenschl02hisgoog#page/n7/mode/2up
+(Accessed November 4, 2014).
+Maienschein, Jane. "The Origins of
+Entwicklungsmechanik." A Conceptual History of Modern Embryology, ed.
+Scott F. Gilbert, 43–62. Baltimore, MD: The Johns Hopkins University
+Press, 1994.
+Morgan, Thomas H. Embryology and Genetics. New York, NY:
+Columbia University Press, 1934.
+Roux, Wilhelm. Gesammelte Abhandlungen
+über Entwickelungsmechanik der Organismen: Bd. Entwicklungsmechanik des
+Embryo. [Collected Essays on Developmental Mechanics of Organisms].
+Leipzig: Wilhelm Engelmann, 1895.
+https://archive.org/details/gesammelteabhand01roux (Accessed November
+20, 2014.)
+Van Beneden, Édouard. Recherches sur la maturation de l'oeuf, la
+fécondation, et la division cellulaire [Research on the egg's maturation, fertilization, and cellular division]. Paris: H. Engelcke, 1883.
+https://archive.org/details/recherchessurla00benegoog (Accessed November
+4, 2014).
+Weismann, August, Essays upon Heredity and Kindred Biological Problems. Oxford: Clarendon Press, 1891.
+https://archive.org/details/essaysuponheredi189101weis (Accessed
+November 20, 2014.)
+Whitman, Charles O. Methods of research in microscopical anatomy and
+embryology. Boston: Cassino, 1885.
+https://archive.org/details/methodsofresearc00whituoft (Accessed
+November 4, 2014).
+Wilson, Edmund B. "Amphioxus, and the Mosaic Theory
+of Development." Journal of Morphology 8 (1893): 579–638.
+http://www.biodiversitylibrary.org/item/43594#page/645/mode/1up (Accessed July 30, 2014).
+Wilson, Edmund B. The Cell in Development and
+Inheritance. New York: The Macmillan Company, 1896.
+http://www.biodiversitylibrary.org/item/28152#page/7/mode/1up (Accessed July 30, 2014).
+Wilson, Edmund B. "Experimental Studies on
+Germinal Localization. I. The Germ-Regions in the Egg of Dentalium."
+Journal of Experimental Zoology 1 (1904): 1–72.
+http://www.biodiversitylibrary.org/item/42867#page/17/mode/1up (Accessed
+July 30, 2014).
+Wilson, Edmund B. The Cell in Development and Heredity.
+New York: The Macmillan Company, 1925.  
+
+How to cite
+Lowe, James, "Experimental Studies on Germinal Localization (1904), by Edmund B. Wilson". Embryo Project Encyclopedia (2014-12-22). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/8272.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+Copyright Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Tuesday, December 23, 2014 - 00:45
+ Topic
+Subject
+ Wilson, Edmund B. (Edmund Beecher), 1856-1939; Embryos; Embryology; Developmental biology; Larvae; Cells; Columbia University; Mollusks; zygote; Mesoderm; Whitman, Charles Otis, 1842-1910; Driesch, Hans, 1867-1941; Experiment

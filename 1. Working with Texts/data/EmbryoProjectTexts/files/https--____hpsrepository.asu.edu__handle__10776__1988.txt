@@ -1,0 +1,60 @@
+By Steve Elliott
+Published: 2010-05-06
+Keywords: Mechanism
+ The Organism as a Whole: From a Physicochemical Viewpoint, by Jacques Loeb
+Jacques Loeb published The Organism as a Whole: From a Physicochemical Viewpoint in 1916.  Loeb’s goal for the book was to refute the claim that physics and chemistry were powerless to completely explain whole organisms and their seemingly goal-oriented component processes.  Loeb used his new account of science and scientific explanation marshaling evidence to show that physicochemical biology completely and correctly explained whole organisms and their component processes. 
+Loeb had long considered whole organisms and their complicated processes viable units of study.  Some biologists had appealed to those same units as evidence for the claim that organisms were more than machine-like bodies.  They viewed whole organisms and their component processes as working toward ends:  physics and chemistry relied on physical causes to explain phenomena, but ends were effects, and as such demanded a different kind of explanation.  Vitalists stated that only something outside the realm of physics and chemistry could explain how and why organisms and their component processes worked towards ends.  These various types of 
+		vitalism Loeb sought to refute relied on 
+		vital forces, 
+		entelechies, or 
+		supergenes to do the explanatory work.
+Loeb prefaced his book by stating that an individual organism has structures, instincts, and other component processes to prolong its life and enable it to procreate.  Those two effects were the purposeful characteristics that vitalists argued physics and chemistry failed to explain.  Loeb countered that physics and chemistry could indeed explain such purposeful characteristics as digestion, circulation, and heat regulation because physics and chemistry were mechanistic sciences.  
+Loeb had outlined his new view about mechanistic science in 
+		“Mechanistic Science and Metaphysical Romance” in 1915.  For Loeb, science, when properly done, was the activity of visualizing underlying mechanisms of natural processes, and all of nature reduces to elementary bits of matter, molecules, atoms, ions, etc.  Visualizing those elements and the ways in which they interact was how scientists visualized mechanisms.  Scientists tested their visualizations by first predicting measurable effects caused by manipulations on the actual mechanism, experimenting on that mechanism, and then measuring the effects.  When the predicted measurements matched the actual measurements, scientists had reason to believe their visualization captured the actual mechanism.  Mechanistic visualization was how physicists and chemists investigated nature, and the success of their method was evident with the development of kinetic theories of gases and heat.
+Loeb maintained that the subject matter of biology was coextensive with physics and chemistry.  A long-term goal of biologists was to give explanations of life phenomena with only physicochemical terms and laws.  That goal encompassed the goal-oriented processes of organisms.  Loeb could not tolerate extra-physical entelechies or vital forces as they were not reducible.  In The Organism as a Whole, Loeb used his mechanistic and physicochemical viewpoint of biology to explain the purposeful characteristics of organisms and their component processes and to obviate the need for appeals to vitalistic entities.     
+Loeb singled out vitalists 
+		Claude Bernard, 
+		Hans Driesch, and 
+		Jacob von Uexküll, discussing von Uexküll in most detail.  Von Uexküll postulated the existence of supergenes, which organized Mendelian 
+		genes so they could impress their effects on eggs.  Loeb believed von Uexküll and Driesch shared a misconception about eggs, a misconception that resulted in their several brands of vitalism:  that eggs lacked structure and were homogeneous bits of matter.  Were eggs such, Loeb argued, then explaining how they formed differentiated structures would have been a problem.  But eggs were not homogenous bits of matter and they had structure.  Loeb saw himself as destroying that primary piece of purported evidence for vitalism.
+Loeb further argued that two organisms belonged to the same species if they consisted of the same types of proteins.  He believed that the ability to synthesize non-specific material into those proteins characterized living matter and a body cell to synthesizing indefinitely, if spared from external injuries, made intelligible one end of an organism’s component processes:  prolongation of the organism’s life.  Appealing to the physicochemical character of proteins explained both specificity and the prolongation of life.
+Loeb reviewed his results on 
+		artificial parthenogenesis in 
+Artificial Parthenogenesis and Fertilization.  There he contended an egg was an “embryo in the rough” and its nucleus and an entering spermatozoon’s nucleus imparted only Mendelian heritability factors.  He also explained the development of 
+		gastrulas, which he labeled the primary elements by which organisms could prolong their lives, in physicochemical terms.  He argued that those two explanations showed the heterogeneous character of eggs and the lack of a need to appeal to 
+		supergenes or 
+		entelechies as directing development.           	
+In the middle chapters, Loeb explained 
+		sex-determination, 
+		regeneration, the mechanism of Mendelian heritability, 
+		instinct, and environmental influences all in physicochemical terms and in a mechanistic framework.  He filled one chapter with arguments against biologists who still offered explanations of adaptive traits via acquired characteristics.  Another chapter, the shortest of the book, Loeb devoted to 
+		Darwinism, which he had often criticized but now viewed approvingly with the natural selection emendations initiated by 
+		Hugo de Vries.  Loeb believed the addition of Mendelian genetics to the amended Darwinism would prove a powerful tool for physicochemical explanations regarding the origin of species, and he called for experiments to manipulate chromosomes to produce mutations.  Regardless of Darwinism’s promise, Loeb argued the overriding maxim for biological research was not Darwinism but visualizing and testing mechanisms.  The end of the book discusses physicochemical accounts of death.
+The Organism as a Whole was Loeb’s last attempt to work in theoretical biology or unify large bodies of data.  
+		Thomas Hunt Morgan dismissed the book as displaying too simplistic an understanding of genetics.  Following publication, Loeb embraced his ideals of 
+		reduction and 
+		mechanism so closely that he researched protein chemistry for the remainder of his life. 
+
+
+Sources
+Loeb, Jacques. “Mechanistic Science and Metaphysical Romance.” Yale Review 4 (1915): 766–85.
+Loeb, Jacques.  The Organism as a Whole: From a Physicochemical Viewpoint. New York: G.P. Putnam’s Sons, 1916.  
+Loeb, Jacques.  The Mechanistic Conception of Life. Ed. Donald Fleming.  Cambridge, MA: Harvard University Press, 1964.
+Pauly, Philip J. Controlling Life: Jacques Loeb and the Engineering Ideal in Biology. New York: Oxford University Press, 1987. 
+
+
+How to cite
+Elliott, Steve, "The Organism as a Whole: From a Physicochemical Viewpoint (1916), by Jacques Loeb". Embryo Project Encyclopedia (2010-05-06). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/1988.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 25, 2013 - 15:53
+ Topic
+Subject
+ Loeb, Jacques, 1959-1924; Literature

@@ -1,0 +1,69 @@
+By Adam R. Navis
+Published: 2009-01-21
+Keywords: Biography, Mice, Chimeras, Cancer
+ Beatrice MintzBeatrice Mintz is a brilliant researcher who has developed techniques essential for many aspects of research on mouse development. She produced the first successful mouse
+chimeras and meticulously characterized their traits. She has worked with various cancers and produced viable 
+		mice from the cells of a 
+		teratoma. Mintz participated in the development of 
+		transgenic mice by the incorporation of foreign DNA into a mouse genome. Her techniques have been widely applied to other studies of mouse development and are so common that many of the publications that utilize her techniques no longer remember to cite the source.
+Beatrice Mintz was born 24 January 1921 to Janie Stein and Samuel Mintz. She received an AB degree from Hunter College in Manhattan, New York. After graduation, she worked as a research assistant in a New York City dental clinic. In 1942 she enrolled at the 
+		University of Iowa 
+		, earning a master’s degree in 1944 and a PhD in zoology in 1946, and where she continued to work as a research assistant in developmental biology.
+Mintz began her research career at the University of Iowa studying 
+		reproductive development. She wanted to study the role of sex hormones in sexual determination and sex reversal in amphibians. She worked with the 
+		frog Rana clamitans and the 
+		salamander Ambystoma mexicanum. In 1946 she accepted a position as an instructor in the Department of Biological Sciences at the 
+		University of Chicago where she continued to research amphibian sexual development.
+In the 1950s Mintz began to study reproductive development in 
+		mice. She studied a reproductive disorder characterized by a deficiency in the germ cell population. By meticulously observing different developmental stages of 
+		mouse embryos heterozygous for the affected gene, Wj, she discovered two groups of germ cells: one normal functioning group and another group of non-motile cells incapable of dividing. She concluded that the segregation of the cells was due to the lack of expression of the Wj gene in the non-motile cells. In 1960 Mintz accepted a position as an associate member at the 
+		Fox Chase Cancer Center and began to study a lethal blood disorder characterized by a mutant t12 gene. Embryos with this disorder were not able to develop long enough for effective study, so she wanted to produce a population of the defective cells and a population of normal blood cells. She hoped that function would be rescued enough to observe the distinct populations of cells as in her previous study of the Wj mutation.
+To produce dual populations of cells with different genotypes, Mintz developed a method for fusing two embryos at a very early stage, one with the functional genotype and another embryo with the dysfunctional genotype, creating a mosaic of two embryos. Transplantations from one fetus to another had been accomplished at later stages with limited tissues, but a successful fusion of two complete embryos at an early stage had not yet been achieved. Previous methods mechanically removed a protective layer of the embryo called the 
+zona pellicula, which damaged critical parts of the early embryo. Mintz instead used a protease to degrade the layer and found that treated embryos easily adhered to one another at the 8 to 10-cell stage. She termed these fusions “
+		allophenic” mice due to their presentation of multiple phenotypes. She did not continue to use the term mosaic because she felt it was too limiting and the term chimera unjustly compared the animals to monsters.
+Although these mice were useful to her research, they were labor intensive to produce. Each allophenic mouse required: embryo collection from a pregnant mother; fusion of two embryos; implantation of fused embryos into a pseudo-pregnant female, which is a mouse that has mated with a vasectomized male; and finally evaluation of the embryos for the degree that each mouse presents the desired phenotype.
+Mintz’s allophenic mice not only modeled how the blood disorder acted, but also helped her develop a 
+		clonal theory of development. Based on observations of striping patterns of the 
+		allophenic mice, she concluded that each stripe must arise from a single cell or a group of related cells which she termed a 
+		clonal unit. Other discoveries she made about the clonal units of mouse development included that each vertebra is formed from four clones and each retina is formed from ten clones. She considered regulation at the clonal level to be the fundamental unit of development.
+In the 1960s Mintz turned her attention to cancer. She demonstrated that cancers are a clonal disease, a fact that was highly disputed at the time. She produced a fusion of mice susceptible to liver cancer with mice that were not susceptible to the cancer, and showed that the liver tumors were composed of only one strain of mouse, demonstrating that the cancers grew from a single cell rather than a combination of liver cells. In the 1970s she began to work with another type of cancer, teratoma, or teratocarcinoma. These tumors are capable of differentiating into many different tissues both in vivo and in vitro. She injected cells from an eight-year-old teratoma cell line into a mouse embryo hoping to learn about the development of teratomas in early embryos. Surprisingly, she found that the mouse developed normally and was allophenic. The normal embryo had recruited the cancerous teratoma cells and induced them to develop normally. When the cells from the teratoma formed the gonads, the mice produced viable offspring genetically related to the teratoma cells and not the host embryo. This demonstrated that the teratoma cells were chromosomally normal but had been developmentally induced to become cancerous.
+In the late 1970s Mintz collaborated with 
+		Joseph L. Goldstein and 
+		Michael S. Brown to develop a mouse model for familial hypercholesterolemia, a disease characterized by high levels of cholesterol in the blood resulting from abnormal production of cholesterol. In the 1980s Mintz developed a method for producing a transgenic animal by injecting DNA directly into egg cells. She used 
+		microinjection to insert a gene coding for human growth hormone into egg cells and then fertilized the eggs. The DNA was incorporated into the genome at random locations and the successful injections produced viable mice. Two of the strains were embryonic lethal, meaning that mice homozygous for the mutation did not reach full term.  This was the first instance of 
+		embryonic lethality from the integration of recombinant DNA. Mintz continued to work with recombinant DNA in the 1980s and developed a method for using 
+		retroviruses to insert foreign genes into mouse stem cells. Research into gene therapy was in its infancy and Mintz was studying ways to successfully introduce replacement genes into individuals afflicted with hereditary disorders. In the 1990s she used many of her previous techniques to return to the study of cancer and developed a transgenic mouse model for the development of melanoma.
+Beatrice Mintz is a member of the 
+		National Academy of Sciences, elected in 1973. She was admitted to the 
+		American Philosophical Society in 1982 and to the 
+		Pontifical Academy of Sciences in 1986. She is also a Fellow of the 
+		American Association for the Advancement of Science and is a Fellow of the 
+		American Academy of Arts and Sciences. She was awarded the Berner Foundation Award in 1977, the Award for Biological and Medical Science of the New York Academy of Sciences in 1979, and the Medal of the Genetics Society of America in 1981. She also received the Amory Prize of the American Academy of Arts and Sciences in 1988, the Ernst Jung Medal in 1990, and the March of Dimes Prize in Developmental Biology in 1996.
+In Mintz’s luminous career, she developed integral techniques for studying mouse development. Her most important achievement was the development of allophenic mice, or chimeras, which have allowed for the production of countless lines of transgenic mice that are essential to the further understanding of mouse development and function. Her career has been characterized by developing ingenious techniques and applying them in creative ways to study subjects from cancer to transgenic mice. Mintz continues her research as a Senior Fellow at the Fox Chase Cancer Research Center. 
+
+Sources
+Bradl, Monika, Andres Klein-Szanto, S. Porter, and Beatrice Mintz. “Malignant Melanoma in Transgenic Mice.” Proceedings of the National Academy of Sciences of the United States of America 88 (1991): 164.
+Condamine, Hubert, R. Philip Custer, and Beatrice Mintz. “Pure-Strain and Genetically Mosaic Liver Tumors Histochemically Identified with the β-glucuronidase Marker in Allophenic Mice.” Proceedings of the National Academy of Sciences of the United States of America 68 (1971): 2032–36.
+Flannery, Maura C. “Beatrice Mintz (1921–).” In Women in the Biological Sciences: A Biobibliographic Sourcebook, eds. Louise S. Grinstein, Carol A. Biermann, and Rose K. Rose, 319–31. Westport: Greenwood Press, 1997.
+Goldstein, Joseph L., Michael S. Brown, Monty Krieger, Richard G. Anderson, and Beatrice Mintz. “Demonstration of Low Density Lipoprotein Receptors in Mouse Teratocarcinoma Stem Cells and Description of a Method for Producing Receptor-deficient Mutant Mice.” Proceedings of the National Academy of Sciences of the United States of America 76 (1979): 2843–47.
+Marx, Jean L. “Probing Gene Action During Development.” Science 236 (1987): 29–31.
+Mintz, Beatrice. “Formation of Genetically Mosaic Mouse Embryos, and Early Development of ‘Lethal (t12/t12)-Normal’ Mosaics.” The Journal of Experimental Zoology 157 (1964): 273–92.
+Mintz, Beatrice. “Allophenic Mice of Multi-Embryo Origin.” In Methods in Mammalian Embryology, ed. J. C. Daniel, Jr., 186–214. San Francisco: W. H. Freeman Company, 1971.
+Mintz, Beatrice, and Karl Illmensee. “Normal Genetically Mosaic Mice Produced from Malignant Teratocarcinoma Cells.” Proceedings of the National Academy of Sciences of the United States of America 72 (1975): 3585–89.
+
+
+How to cite
+Navis, Adam R., "Beatrice Mintz (1921- )". Embryo Project Encyclopedia (2009-01-21). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/1959.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, March 18, 2015 - 23:56
+ Topic
+Subject
+ Mintz, Beatrice; People

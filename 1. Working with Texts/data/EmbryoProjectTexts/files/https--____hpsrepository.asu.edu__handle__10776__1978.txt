@@ -1,0 +1,55 @@
+By Karen Wellner
+Published: 2010-06-15
+Keywords: Fertilization, Parthenogenesis
+ Artificial Parthenogenesis and Fertilization, by Jacques Loeb
+Jacques Loeb is best known for his embryological work investigating parthenogenesis in invertebrates. Artificial Parthenogenesis and Fertilization is a revised and English-translated work from his earlier book, Die chemische Entwicklungserregung des tierischen Eies (1900). Artificial Parthenogenesis describes Loeb’s many and varied methodical experiments to initiate 
+		egg development without 
+		fertilization by 
+		sperm. As is true with much of science, some of Loeb’s experiments were successful and many were not. Artificial Parthenogenesis presents a sense of what early twentieth century embryology looked like: experimenters’ overarching desire for manipulation and control, coupled with their use of chemicals and macromolecules as agents of change. The book also illuminates the historical role of the 
+		sea urchin in the study of embryological development.
+The beginning chapters of Artificial Parthenogenesis provide a historical look at 
+		spontaneous parthenogenesis (no human intervention) that helped lead to studies in artificial parthenogenesis. Loeb discusses the work of 
+		René Réaumur and 
+		Charles Bonnet with 
+		aphids (plant lice), 
+		Johann Dzierzon’s documentation of parthenogenesis in 
+		bees, and 
+		Carl von Siebold’s observations of parthenogenesis in the 
+		silkworm, Bombyx mori. Silkworm experimenters in the mid-1800s had shown that exposing silk worm eggs to sulfuric acid or rubbing them lightly with a brush could induce parthenogenesis. This set the stage for Loeb’s early work with substituting physiochemical manipulation for spermatozoa.
+During the late 1800s, this is what Loeb knew: as soon as a spermatozoon enters the egg, the egg becomes surrounded by the 
+		fertilization membrane. Whatever caused the membrane to develop was identified by Loeb as an “essential factor” in egg development. Loeb also recognized that there was a second essential factor that served as a corrective agent in preventing fertilized eggs from undergoing lysis. The exact nature of what supplied the two factors, egg or sperm or both, was unknown at the time.  Armed with this limited knowledge, Loeb began his early parthenogenesis work at the 
+		Marine Biological Laboratory in 1899.     
+In Artificial Parthenogenesis Loeb describes his first experiments of exposing unfertilized sea urchins (Arbacia) eggs to acids and bases to see if chemicals could provide the spark for parthenogenesis. He gained some success by exposing eggs to individual hypertonic solutions of NaCl, KCl, CaCl2, and MgCl2 and then placing them in normal sea water. In 1900, with summer drawing to an end and Loeb’s stock of eggs dwindling, Loeb began his work anew at Pacific Grove, California. Using Strongylocentrotus purpuratus and franciscanus sea urchin eggs from the Pacific Coast, Loeb details how he again caused eggs to become artificially fertilized but was disappointed with his success rate.  
+Loeb discusses his return to Woods Hole where he continued to experiment and concluded that as long as the osmotic pressure of sea water was raised to fifty percent it did not matter whether electrolytes or non-electrolytes (e.g., sugar) were used, the sea urchin eggs would begin development. For example, Loeb placed small amounts of ethyl acetate in sea water and then added sea urchin eggs to the mixture. After several minutes the eggs were placed in normal sea water. Most of the eggs developed a membrane and developed normally. Further experimentation showed that any monobasic fatty acid could be used to induce membrane formation. In order to prevent the eggs from disintegrating, a common occurrence after artificial membrane formation, Loeb immersed them in hypertonic and oxygenated solutions of sea water. This proved successful to some degree and allowed the eggs, once removed from the hypertonic solutions and placed in normal sea water, to begin dividing properly.
+Subsequent chapters in Artificial Parthenogenesis center on this important discovery.  Would this work with eggs other than those of Arbacia? Loeb describes his many attempts to initiate parthenogenesis in other invertebrates and in particular, 
+		starfish. His experiments still resulted in less than consistent patterns. Sometimes a sound fertilization membrane formed and sometimes it was gelatinous rather than clear and thin: gelatinous membranes were often associated with improper egg division. Loeb writes of the many chemical and physical modifications he used in the laboratory to initiate membrane development of the egg and to prevent disintegration of the egg once it started dividing. Strong acids did not work as well as weak monobasic fatty acids for certain species. For S. purpuratus, development only took place in slightly alkaline sea water whereas A. punctulata developed in neutral or slightly acidic sea water.
+Furthermore the length of time exposed to hypertonic solutions was critical for egg development, but the time was not the same for eggs of different species. The necessary immersion time also depended on the amount of time that elapsed between membrane formation and immersion. Loeb meticulously documents the many conditions that he manipulated, sometimes by themselves but sometimes in conjunction with other variables. These included exposure time, electrolyte concentration, temperature, and oxygen concentration. Chapter 18, The Fertilizing Effect of Foreign Blood and Foreign Cell Extracts, describes how extracts of blood and tissue from same or dissimilar species can initiate membrane formation in sea urchins.   
+In the last several chapters Loeb addresses artificial parthenogenesis techniques used with starfish, 
+		annelids, 
+		mollusks, and 
+		frogs. Unlike techniques used with Arbacia, starfish eggs could not be induced to divide by most acids but he did find that the addition of carbonic acid worked consistently well. With annelids such as Polynoe, a one minute treatment with saponin followed by a seawater wash proved enough to induce membrane formation. If the eggs were then exposed to a hypertonic seawater solution between two hours and two hours and twenty minutes, swimming larvae resulted. Loeb also found that unfertilized Polynoe eggs could be made to develop by adding bases to the seawater and keeping the eggs exposed to the atmosphere. He described his method of leaving eggs in covered and uncovered watch glasses to control the eggs’ exposure to different oxygen levels.  Many of the methods used for sea urchin parthenogenesis were applicable to the development of annelid eggs.
+Frog eggs proved more problematic for Loeb. He could not get the vertebrate eggs to develop with chemically-induced procedures. This failure was most likely due to the impermeability of the eggs to the chemicals used. Puncturing the eggs and introducing the blood of a frog, newt, or fish into the egg resulted in some success.
+Artificial Parthenogenesis and Fertilization documents how physical chemistry can trump sperm for the process of reproduction. Loeb’s descriptions of his classic experiments involve a mish-mash of dunking, spritzing, and stirring of acids, bases, and solutes, all of which were typical of a mechanistic approach to experimental embryology. Although Loeb is associated with experimental success, the book clearly illustrates that the embryologist ran into more problems than not. To Loeb, artificial parthenogenesis was anything but easy.
+
+
+Sources
+Knight, F. H. “Review [untitled].” The Philosophical Review (1917):105–6.
+Lillie, Frank R. “Review [untitled].” Botanical Gazette (1916): 241.
+Loeb, Jacques. Artificial Parthenogenesis and Fertilization. Chicago: University of Chicago Press, 1913.
+Newton, Harvey E. “Review [untitled].” Science 39 (1914): 908–9.
+
+How to cite
+Wellner, Karen, "Artificial Parthenogenesis and Fertilization (1913), by Jacques Loeb". Embryo Project Encyclopedia (2010-06-15). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/1978.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, April 1, 2015 - 23:31
+ Topic
+Subject
+Parthenogenesis; Loeb, Jacques, 1959-1924; Literature

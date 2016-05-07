@@ -1,0 +1,48 @@
+By Karen Wellner
+Published: 2010-06-24
+Keywords: Sand dollars, Model organisms, Fertilization, Invertebrates
+ Inducing Fertilization and Development in Sand Dollars Sand dollars are common marine invertebrates in the phylum Echinodermata and share the same class (Echinoidea) as sea urchins. They have served as model laboratory organisms for such embryologists as 
+		Frank Rattray Lillie and 
+		Ernest Everett Just. Both Lillie and Just used 
+		Echinarachnius parma for their studies of egg cell membranes and embryo development at the 
+		Marine Biological Laboratory (MBL) at Woods Hole, Massachusetts, in the early 1900s. More recently, William Eugene Berg at the University of California, Berkeley, used Dendraster excentricus, a sand dollar common to the Pacific Coast of the US, to help pioneer the mid-twentieth-century studies of protein synthesis in embryos. Sand dollars are also easy to work with in the classroom, serving as model organisms for the study of fertilization and development.
+Sand dollars have been a preferred source for embryological study for several reasons. First, the hardy adult sand dollar can be kept for long periods in marine aquaria provided that clean sand and fresh sea water are routinely made available. Second, sand dollars are not finicky when it comes to food; they can be maintained by feeding them diatoms, kelp, mussels, and a wide variety of marine plants. Third, adult sand dollars can be used repeatedly for egg production, leading to a reduction in laboratory costs, and fourth, sand dollars are plentiful on both east and west coasts of the US.
+Sand dollars inhabit sandy beaches and lie just below the sand’s surface. One can easily collect specimens by walking out on the beach during low tide from March through September, when sand dollars are sexually mature. Live sand dollars can also be purchased through biological supply companies. Once collected, sand dollars should be rinsed free of sand and placed ventral (underside) side down in a plastic container filled with fresh sea water. The use of metal containers is not advised as metallic ions can accumulate in the sand dollar and kill the organism. Upon arrival to the lab each sand dollar should be placed ventral side down in an individual culture dish. Enough sea water should be added to cover the sand dollar. If the sand dollars are not to be used immediately they can be stored, in their culture dishes, in a refrigerator. They will remain alive for up to forty days without the need for food or sea-water exchange.
+An early technique used at MBL to procure sand dollar gametes was to inject a solution of potassium chloride with a hypodermic syringe into the body cavity of the sand dollar. The discovery that various salts could induce sand dollars to shed their mature gametes is attributed to the work of 
+		Louise Palmer during the 1930s. It had long been known that physical injury to the body tissues of sand dollars initiates shedding of gametes from the five gonopores located on the top surface of the organisms. Palmer investigated how such injuries cause gamete shedding. She was particularly interested in finding a method for large-scale gamete production that did not kill the sand dollar. She tested various salt solutions and sea urchin tissue extracts and finally found that injections of isosmotic solutions of potassium chloride and calcium chloride (CaCl2 or KCl) were most effective. Palmer was able to show that calcium or potassium chloride causes the contractile tissues of the gonadal walls to contract, pushing eggs or sperm through the gonopores. In using Palmer’s non-injurious method, the organisms could now be used multiple times for gamete shedding and could even be returned to their natural environment to avoid local depletion of the sand dollar stock.
+Palmer’s method was fine-tuned by embryologists, including 
+		Albert Tyler at the California Institute of Technology, Pasadena, California. Tyler’s method (1949), which is still widely followed today, involves a single injection of 0.5 cc of 0.5 M KCl, with a syringe, into the mouth of the sand dollar, as nearly parallel as possible to the surface of the organism. Shedding starts within a few seconds and is completed in five to fifteen minutes. Although it is not possible to determine the sex of an adult sand dollar by external observation, the color of the gamete exudate will help make the determination if eggs or sperm are released: a yellow exudate contains eggs and a white exudate contains sperm. The eggs or sperm can be pipetted into culture dishes containing clean sea water and stored at 6ºC for up to thirty-six hours before using. This method does not injure the adult and it may be returned to its tank. The same sand dollar can be used at two-week intervals for several months for more gamete collection.
+The eggs should be washed several times in sea water before proceeding with fertilization. The cleaned eggs should be placed in a laboratory dish to which one drop of sperm suspension (one drop of concentrated sperm in 10 cc of sea water) is added and mixed thoroughly. A 
+		fertilization membrane will begin surrounding the eggs after approximately six minutes and can be observed using a stereomicroscope. The fertilization membrane blocks further sperm from penetrating the now fertilized egg–an observation and purpose first described by Just in the early 1900s.
+After about ten minutes, when the fertilized eggs have settled, the sea water should be decanted to remove excess sperm and fresh sea water added. Normal development will not take place at temperatures above 24ºC. On average, the first cleavage occurs around one-and-a-half hours after fertilization, the second at two hours, and the third at three. The sand dollar 
+		blastula will form at the ten-hour mark.
+Once 
+		gastrulation is complete the embryos begin to form “arms” and feed on suspended diatoms and algae in sea water. It is at this point that the non-motile embryos transition to free-swimming forms, called 
+		echinoplutei larvae. The early larval form has two arms and forms twenty-four hours after fertilization at 22ºC (the lower the temperature, the longer it takes for the larvae to develop). In forty-eight more hours the larvae will develop four arms and in twelve more hours, they will show six arms. The ciliated arms are used to help the larva move and to sweep detritus into its mouth. The larvae can be reared to 
+		metamorphosis if they are transferred to large aquaria of sea water whose floors are covered with diatom-enriched sand. The metamorphosis of the bilateral echinoplutei to their radially symmetrical and sedentary adult forms normally takes several weeks.
+With the ability to induce large numbers of gametes in relatively short periods of time the sand dollar has remained a favored model organism in embryology laboratories and high school biology classrooms. Instructors and students interested in working with sand dollars for fertilization and development studies are advised to consult the National Science Digital Library 
+		(http://nsdl.org) and the journal of the National Association of Biology Teachers (www.nabt.org).
+
+Sources
+Costello, Donald. P., Margaret. E. Davidson, Annett Eggers, M. H. Fox, and Catherine Henley. Methods for Obtaining and Handling Marine Eggs and Embryos. Woods Hole, MA: Marine Biological Laboratory, 1957.
+Grave, Caswell. “A Method of Rearing Marine Larvae.” Science 15 (1902): 579–80.
+Palmer, Louise. “The Shedding Reaction in Arbacia punctulata.” Physiological Zoology 10 (1937): 352–67.
+Tyler, Albert. “A Simple, Non-Injurious Method for Inducing Repeated Spawning of Sea Urchins and Sand Dollars.” The Collecting Net 19 (1949): 19–20.
+Wright, Robert W. “Fertilization and Embryology of Sand Dollars.” The American Biology Teacher 31 (1969): 184–85.
+
+
+How to cite
+Wellner, Karen, "Inducing Fertilization and Development in Sand Dollars". Embryo Project Encyclopedia (2010-06-24). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/2038.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 25, 2013 - 15:53
+ Topic
+Subject
+Fertilization; Sand dollars; Concept

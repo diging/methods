@@ -1,0 +1,138 @@
+By Divyash Chhetri
+Published: 2014-06-29
+Keywords: Drosophila, Genetics
+ Beadle and Ephrussi's Transplantation Technique for DrosophilaBoris Ephrussi and George Wells Beadle developed a transplantation
+technique on flies,Drosophila melanogaster, which they described in
+their 1936 article "A Technique of Transplantation for Drosophila." The
+technique of injecting a tissue from one fly larva into another fly larva, using a
+micropipette, to grow that tissue in the second larvae, was a
+means for investigating development of Drosophila. Through this
+technique, Beadle and Ephrussi studied the role of genes in
+embryological processes. Beadle and Ephrussi were the first to apply the
+transplantation method, which had previously been used in the study of
+larger insects, to the smaller sized Drosophila. Beadle and Ephrussi
+used this method of transplantation to determine if parts of the optic
+disc, the section of a larvae that later become the eye buds in the
+adult, could be extracted from one larva and transplanted into another.
+They later built upon this research to relate the production of molecules in cells
+to gene function.
+ Beadle and Ephrussi developed their technique of
+transplantation in Drosophila at the California Institute of Technology (Caltech)
+in Pasadena, California, where Beadle had arrived in 1931 after being
+awarded a US National Research Council Fellowship upon the completion of
+his PhD from Cornell University in Ithica, New York. Ephrussi, who
+previously worked at the Institut de Biologie Physico-Chimique in Paris,
+France, joined Beadle at Caltech after receiving a Rockefeller
+Fellowship in 1934. Using Beadle's background in genetics as well as
+Ephrussi's experimental embryology background, the researchers analyzed
+genes that they hypothesized were relevant to the development of the
+eyes in Drosophila. 
+Beadle and Ephrussi studied gene expression, asking when,
+where, and through what mechanisms were genes active in the process of
+development in organisms. Prior to this experiment, researchers could
+little explain or describe the development of organisms in
+Drosophila, which had mostly been studied from a genetic viewpoint. They
+conducted their experiments and developed their transplantation
+technique at the Caltech in 1935. 
+Ephrussi
+and Beadle followed a protocol for transplantation. First, they
+designed an apparatus that had two binocular microscopes sitting on
+opposite sides of a narrow table. One microscope, microscope A, used by
+one person, had a stand and a mechanism for the change of objects.
+The other microscope, microscope B, which a different person used,
+examined a test tube mounted on an adjustable stand. Microscope B faced
+the first microscope, placed at an angle of forty-five degrees relative
+to the table. A hypodermic syringe attached to a pipette holder was
+tightened to the left of microscope A.
+ With the apparatus in hand,
+Beadle and Ephrussi constructed a micropipette. The micropipette enabled
+them to remove the tissue that accounted for the characteristic of the
+eye from the host larva, so they could then inject that tissue into
+another larva, so that the larva into which the eggs were injected could
+develop into a fly with a certain eye color. Beadle and Ephrussi created
+a glass capillary with an external diameter of about 0.7 millimeter (mm) and a
+thickness of 0.1 mm with a micro-burner. A capillary shaft ranging from
+a diameter of 0.1 to 0.16 mm was attached to the capillary. The bore of
+the shaft ranged from 0.06 to 0.12 mm in diameter, and the shaft was
+broken so that its length was between 2 and 3 mm. The researchers heated
+the bore to constrict it, and it at the base of the shaft. The diameter
+of the constricted portion of the shaft ranged from 0.01 to 0.03 mm. The
+final step in the process of making a suitable pipette required  the
+shaft to be broken at such an angle that the tip was extremely sharp.
+
+Beadle and Ephrussi washed the larvae for fifteen seconds in a solution
+consisting of ninety-five percent alcohol, and then they rinsed the larvae in
+a Ringer's solution, a mixture of salt and water used to extend the
+lifespan of excised tissue. They dissected the host larvae using sharp
+needles in a drop of the Ringer's solution. Beadle and Ephrussi varied
+the exact procedure depending on the stage of development of a larva,
+as well as the target tissue or organ. After preparation, which involved
+the act of etherizing the host larvae in alcohol, they extracted the
+tissue from the host under low magnification. The person doing the work
+held the pipette in his right hand, while using his left hand to
+manipulate the syringe to extract and inject materials. Beadle and
+Ephrussi then placed the donor larva on the stage and held it in
+position while they inserted the pipette on the ventral surface of the
+larva, close to the posterior end. Finally, they transplanted the tissue
+from one larva to another.
+ In their article detailing the technique,
+Beadle and Ephrussi noted that there was no best way of carrying out
+the procedure correctly. They suggested that the method yielded the best
+results after much practice, and that the techniques could be learned
+only through experience.  In their artciles, Beadle and Ephrussi note
+that this technique can be done with a number of tissues or organs, not
+just optic discs. The application of this technique allowed Beadle and
+Ephrussi to study the effects of genes in cell differentiation during
+the 1930's. Beadle and Ephrussi used this technique to investigate how
+genes affected embryonic development. They described the experimental
+results of their research in a 1936 paper titled "The Differentiation of
+Eye Pigments in Drosophila as Studied by Transplantation." From the
+results, Ephrussi hypothesized that genes operated through the action of
+hormones. 
+Additionally, the transplantation technique and the subsequent
+experimental results allowed the pair to establish the theory that genes
+controlled the order of chemical reactions in the cell, which led to the
+one gene-one enzyme hypothesis. The hypothesis, derived by the
+collaboration of Beadle, Ephrussi, and Edward Tatum, a scientist at
+Stanford University in Stanford, California, whom Beadle worked with
+while researching Neurospora, sought to explain the relationship between
+genotypes and phenotypes. 
+Beadle and Ephrussi's transplantation techniques
+yielded results that illuminated the mechanisms that affect the
+phenotype, or physical characteristics, of organisms. Later, Beadle and
+Ephrussi related the production of certain enzymes, as stated in their
+one gene-one enzyme hypothesis, to the function of genes. The action of
+genes provided the products that regulated enzymes in biochemical
+reactions. Many later molecular biologists used the technique of transplantation as a genetic tool. 
+ Sources Beadle, George
+		W., and Edward L. Tatum. "Genetic Control of Biochemical
+		Reactions in Neurospora." Proceedings of the National Academy of
+		Sciences of the United States of America 27 (1941): 499–506. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1078370/ (Accessed June 27, 2014).
+Ephrussi, Boris, and George Wells Beadle. "A Technique of
+Transplantation for Drosophila." The American Naturalist 70 (1936):
+218–25.
+Ephrussi, Boris, and George Wells Beadle. "The Differentiation of Eye
+Pigments in Drosophila as Studied by Transplantation." Genetics 21
+(1936): 225–47. http://www.genetics.org/content/21/3/225.full.pdf
+(Accessed April 22, 2014).
+Morange, Michel. "Boris Ephrussi's Continuing Efforts to Create a
+'Genetics of Differentiation.'" Journal of Biosciences 33 (2008): 21–5. http://www.ias.ac.in/jbiosci/mar2008/21.pdf (Accessed June 27, 2014).
+Zallen, Doris T., and Richard M. Burian. "On the Beginnings of Somatic
+Cell Hybridization: Boris Ephrussi and Chromosome Transplantation."
+Genetics 132 (1992): 1–8. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1205109/ (Accessed June 27, 2014). 
+
+How to cite
+Chhetri, Divyash, "Beadle and Ephrussi's Transplantation Technique for Drosophila". Embryo Project Encyclopedia (2014-06-29). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/8015.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+Copyright Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Sunday, June 29, 2014 - 14:58
+ Topic
+Subject
+Tissue Transplantation; Tissue Extracts; Beadle, George Wells, 1903-1989; Ephrussi, Boris, 1901-1979; California Institute of Technology; Genes; Transplantation of organs, tissues, etc.; Technology

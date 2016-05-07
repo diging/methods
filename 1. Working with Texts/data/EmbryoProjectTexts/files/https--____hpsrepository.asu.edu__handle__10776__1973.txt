@@ -1,0 +1,41 @@
+By Ke Wu
+Published: 2010-10-29
+Keywords: Stem cells
+ Stem Cells According to the US
+		National Institutes of Health (NIH), the standard American source on stem cell research, three characteristics of stem cells differentiate them from other cell types: (1) they are unspecialized cells that (2) divide for long periods, renewing themselves and (3) can give rise to specialized cells, such as muscle and skin cells, under particular physiological and experimental conditions. When allowed to grow in particular environments, stem cells divide many times. This ability to proliferate can yield millions of stem cells over several months. As long as the stem cells remain unspecialized, meaning they lack tissue-specific structures, they are able to sustain long-term self-renewal.
+     Scientists predominantly work with two types of stem cells from animals and humans: 
+		embryonic stem cells and 
+		adult somatic stem cells. As the name suggests, embryonic stem cells are derived from 
+		embryos. They are usually removed from the inner cell mass of a 
+		blastocyst. When an egg is first fertilized, it is totipotent, which means it has the ability to develop into an entire organism. The totipotent cell begins to divide and after several divisions, the cells starts to specialize and form a hollow sphere of cells, known as a blastocyst. The cells clustered inside the sphere are known as the inner cell mass and are pluripotent. Pluripotency is the ability to differentiate into all cell types except those involved in the extra-embryonic tissues. Thus, unlike totipotent cells, pluripotent stem cells cannot develop into an entire organism. After pluripotent stem cells further specialize, they can become multipotent stem cells, which can develop into more than one type of cell. Multipotent stem cells give rise to cells with more specialized functions. For example, hematopoietic stem cells in the bone marrow give rise to red blood cells, white blood cells, and platelets whereas skin stem cells give rise to the different skin cells. Though this fairly rigid definition was accepted by NIH in 2000, in the most recent 2009 report on stem cell basics, NIH notes that recent experiments have resulted in contrary evidence, such as hematopoietic stem cells giving rise to neurons. This phenomemon–stem cells of one tissue giving rise to cell types in a completely different tissue–is known as plasticity. The majority of experiments involving animal stem cells have been performed using mice.
+     In 2000, NIH listed several methods for obtaining human pluripotent stem cells, two of which were based on experiments reported in 1998. One experiment was performed by 
+		James Thomson, who first isolated pluripotent stem cells from the inner cell mass of human blastocysts. The embryos Thomson worked with were acquired from 
+		in vitro fertilization (IVF) clinics and used after obtaining informed consent. The other experiment was performed by 
+		John Gearhart. After also obtaining informed consent from the donors, Gearhart removed fetal tissue that was destined to become testes or ovaries. These pluripotent stem cells were obtained from terminated pregnancies. Though Thomson and Gearhart obtained tissue from differing sources, according to NIH, the resultant cells seem to be the same.
+    The final technique NIH mentions for deriving pluripotent stem cells is 
+		somatic cell nuclear transfer (SCNT). In this method, the nucleus, which contains genetic material, is removed from a normal animal egg. Then a somatic cell is fused with the egg. The resulting cell is believed to be totipotent, with the full ability to differentiate into specialized cells and develop into an entire animal. One problem faced in tissue transplants is immune rejection, where the host body refuses and attacks the introduced tissue. SCNT would be a way to overcome the incompatibility problem by using the patient’s own somatic cells. 
+     Isolating adult stem cells has been more difficult than isolating embryonic stem cells. To begin with, NIH points out that until the turn of the 21st century, stem cells were believed to be non-existent in the adult nervous system. This belief was dispelled when scientists finally isolated neuronal stem cells from both the rat and mouse nervous systems. Though experimentation with rat and mouse models were more easily facilitated, this kind of work in humans is much more limited. Neuronal stem cells have been isolated from fetal tissue and suggested neuronal stem cells have been removed from brain tissue isolated for treatment of epilepsy. As of 2009, there are reports of stem cells in the following adult tissues: brain, bone marrow, peripheral blood, blood vessels, skeletal muscle, skin and liver. In the body, adult stem cells largely maintain and repair the tissue in which they are found. 
+     Stem cell research has many different implications. One is in the realm of education. Stem cells have only recently been isolated and used in experimentation so there still exist many aspects of stem cell characteristics and specializations that scientists are trying to understand. Further individualized experimentation with the two stem cell types and comparisons between the two can only improve our understanding of development, proliferation, and differentiation. Another application of stem cells is in medicine. According to NIH, scientists may eventually find ways of controlling stem cell differentiation, including growing cells and tissues for such purposes as 
+		cell-based therapies. Scientists are currently growing adult stem cells in the hopes of treating injuries or diseases such as Parkinsons. In this case, the difference between embryonic and adult stem cells is not only their ability to become different cell types, but also the ease with which they are grown (especially since stem cell replacement therapies require large numbers of cells): embryonic stem cells are grown relatively easily to large numbers, whereas adult stem cells are rare to isolate and difficult to culture. The advantage of adult stem cells is that they will not be rejected by the immune system if the patient’s own adult stem cells are used. In addition to cell therapies, human stem cells can potentially be used in drug testing. While scientific research involving human embryonic stem cells may lead to the advancement of science and medicine, it is enshrouded in ethical debates concerning their use.  Questions involving the embryo, rights, property, and religion advance with developments in the field. 
+Details on stem cells continue to be discovered and manipulated. In ten years time, scientists have not only discovered that the adult hematopoietic stem cells can develop into neurons, but that they are not the only type capable of plasticity. Bone marrow stromal cells and brain stem cells have been controlled to differentiate into cardiac and skeletal muscle cells, and blood and skeletal muscle cells respectively. As of 2009, scientists do not fully understand the signals regulating differentiation, but progress is being made. 
+
+Sources
+Stem Cell Information. Bethesda, MD: National Institutes of Health, U.S. Department of Health and Human Services. http://stemcells.nih.gov/info/basics/defaultpage (Accessed February 3, 2009). 
+Stem Cells: A Primer. National Institutes of Health, U.S. Department of Health and Human Services. http://www.nih.gov/news/stemcell/primer/htm (Accessed January 6, 2009). 
+
+
+How to cite
+Wu, Ke, "Stem Cells". Embryo Project Encyclopedia (2010-10-29). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/1973.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 25, 2013 - 15:53
+ Topic
+Subject
+Stem Cells; Stem cells.; Concept

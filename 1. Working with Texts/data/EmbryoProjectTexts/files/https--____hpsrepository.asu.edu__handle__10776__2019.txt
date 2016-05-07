@@ -1,0 +1,78 @@
+By Mark A. Ulett
+Published: 2010-06-20
+Keywords: Morphology
+ Form and Function, by Edward Stuart RussellIn 1916, at the age of twenty-nine, 
+		Edward Stuart Russell published his first major work, Form and Function: a Contribution to the History of Animal Morphology. This book has maintained wide readership among scientists and historians since its initial publication, and today is generally recognized as the first modern, sustained study of the history of 
+		morphology. In particular, Form and Function incorporates an extensive theoretical analysis of the relationship between embryological studies and comparative morphology in the nineteenth century. Russell employs a history-of-ideas approach in this book, describing the most significant morphologists and their theories.  The first chapters of Form and Function discuss early investigators into morphology, such as 
+		Hippocrates and 
+		Aristotle. The book concludes with a discussion of the opening decade of the twentieth century and the works of Russell’s contemporaries, such as 
+		Ernst Mehnert, 
+		Hans Driesch, 
+		Oscar Hertwig, and 
+		Albert Oppel. The broad structure of these chapters, and thus Russell’s overall history, is organized into three main “currents”: a functionalist approach, which includes 
+		evolutionary morphologists; a 
+		transcendental or idealistic morphology; and finally a focus on 
+		experimental embryology or “causal morphology,” to use Russell’s terminology.  Consequently the overall framework of Form and Function explains the emerging importance of embryology for an understanding of biological form.
+The first, functionalist, current began in the works of Aristotle and, much later, 
+		Georges Cuvier.  Both authors based their organization or classification of animals on the concept that a “unity of plan” underlies the major groups of organisms.  But despite the underlying plan, Aristotle and Cuvier were fundamentally functionalists. They focused on communities of function as the most important factor differentiating organisms, rather than differences in structure.  Similarly, 
+		Georges-Louis Leclerc, 
+		Compt du Buffon, and 
+		Xavier Bichat, among others, contributed to the functionalist perspective on morphology in the eighteenth century.
+It is also in the eighteenth century, according to Russell, that the transcendental current of morphology began with the works of 
+		Johann Wolfgang von Goethe and 
+		Lorenz Oken.  Transcendental morphology was rife with romantic conceptions of Nature and numerous proposals for uniting diverse groups of organisms on the basis of proposed ideal types. In Russell’s history of these Naturphilosophen (“natural philosophers”), Goethe’s central significance to morphology is his theory that all animal and plant morphologies are based on a unity of plan, or archetype.  According to this theory, all animals and plants are members of overarching structural types.  Goethe was not the first to propose this theory.  Rather, Russell notes that Goethe’s importance to morphology lay in his ability to articulate the importance of the unity of plan for understanding structures in nature.
+Russell also writes in Form and Function that another of Goethe’s philosophical contributions to early morphology lay in his insistence that embryological studies are necessary in order to understand adult animal morphology.  The   fundamental importance of embryology for morphology became integral to the study of animal form in the early nineteenth century. This integrative approach was especially visible in the work of von Baer and his students.  Furthermore, Goethe was less interested in static form than in the transition of form as seen in development. Fellow transcendentalist 
+		Étienne Geoffroy shared the spirit of Goethe’s science, but he chose to study a “pure morphology” where the form of organisms is not subject to change. From Russell’s perspective, Geoffroy’s formalism was a reaction against Cuvier’s functionalism despite the influence of the German idealism. Through Geoffroy’s incessant search for homologies (essentially the same structure found in different forms across diverse groups of animals) he identified the most basic common types to which all animals belong. Numerous early-nineteenth-century morphologists followed Geoffroy’s form-focused approach, including 
+		Étienne Serres, 
+		Marie Jules César Savigny, 
+		Victor Adouin, and 
+		Antoine Louis Dugès. Broadly, the transcendentalist movement in morphology and embryology was strongest among the proponents of 
+		Naturphilosophie in Germany, though it was also adopted by 
+		Richard Owen in Britain and others elsewhere.
+The first functionalist current of morphology, however, was not completely eclipsed by the transcendental movement, Russell writes.  It continued to thrive in tandem with evolutionary morphology, which began at the turn of the nineteenth century. It was then, among the transcendentalists, that investigators considered 
+		Jean-Baptiste de Lamarck’s evolutionary theory with respect to morphological theory—though Russell notes that the crux of the issue for evolutionists was the origin of species and not the origin of morphological structure. Nevertheless, pre-Darwinian evolutionists like 
+		Johann Friedrich Meckel and Serres proposed theories of 
+		recapitulation (like the 
+		Meckel-Serres Law) that associated the development of the embryo 
+		(ontogeny) with the historical ancestry of the species 
+		(phylogeny).  
+		Fritz Müller and 
+		Ernst Haeckel were particularly vocal advocates of recapitulation, though their theories (especially Haeckel’s 
+		biogenetic law) differed from previous theories. Similarly, 
+		Carl Gegenbaur was another influential morphologist whose methodology of study represents a wider group of morphologists. For Gegenbaur, the science of morphology could be neatly divided into comparative anatomy and embryology. According to many working at this time, a working understanding of development was essential for a full explanation of morphological form.  Russell concluded that the evolutionary current of morphology was an extension of the previous transcendentalist movement. The main difference was that the evolutionary perspective shifted the focus to the organism as an historical entity and on the importance of function for an understanding of diversity.  Thus Russell concluded that the transcendentalist and evolutionary currents in morphology were not exclusive perspectives but inextricably entangled.
+The third current of morphology, which Russell calls “causal morphology,” was relatively novel when he published Form and Function.  This group of morphologists focused specifically on understanding the causes that produce form in an organism or species, and began in the 1890s with the work of 
+		Wilhelm His, 
+		Wilhelm Roux, and, later, 
+		Edmund Beecher Wilson. Roux called this new science 
+		Entwicklungsmechanik (developmental mechanics), the ultimate goal of which was to break development into its smallest components, or causal factors, in order to understand each stage completely. This mechanistic perspective focused, at least in Roux’s case, on understanding the origin and relationship between form and function in the developing organism. These authors applied the physiologists’ method of studying physico-chemical mechanics to the study of morphology. In doing so, this group of morphologists reduced the complex phenomena of life to lower levels of organization.
+In the final chapter of Form and Function, Russell notes that the mechanistic tradition had infused new methodological vigor into the study of animal form. As such, Russell suggests that the mechanistic method should be cautiously praised. He expresses concern that the methodology of causal morphology—in reducing the causes of form, function, and development to small physiological factors—is not adequate to explain biological phenomena. Russell’s philosophical and methodological disagreement with the mechanistic perspective became the main subject of his 1930 book 
+		The Interpretation of Development and Heredity. The general theme of Form and Function is descriptive rather than prescriptive, and Russell concludes with an overview of the classical traditions as employed in the opening years of the twentieth century.
+On the most fundamental level, Russell interprets the history of morphology as split between 
+		formalists and 
+		functionalists.  The former are investigators who focus purely on the structural form of animals, like Geoffroy, and the latter emphasize the importance of function in shaping form, like Georges Cuvier and 
+		Karl Ernst von Baer.  Russell argues that the debate between formalists and functionalists was generally a matter of focus rather than exclusivity. Put another way, morphologists generally have viewed either form or function to be of primary significance when considering the cause for   a specific morphological structure. Russell acknowledges, however, that this dichotomy between formalists and functionalists is a false one.  Nevertheless, subsequent historians of morphology such as 
+		Stephen Jay Gould and 
+		Lynn Nyhardt have continued to use the broad analytical tools outlined by Russell in Form and Function, such as the formalist/functionalist dichotomy and the three principal “currents” of morphology, to simplify an otherwise long and complex history.
+
+Sources
+Gould, Stephen Jay. Ontogeny and Phylogeny. Cambridge, MA: Harvard University Press, 1977.
+Graham, Michael. “E. S. Russell 1887–1954,” Journal du Conseil (1954): 135–39.
+Nyhart, Lynn. Biology Takes Form: Animal Morphology and the German Universities, 1800–1900. Chicago: University of Chicago Press, 1995.
+Russell, Edward Stuart. Form and Function: a Contribution to the History of Animal Morphology. Chicago: University of Chicago Press, 1982 (1916 Reprint).
+
+
+How to cite
+Ulett, Mark A., "Form and Function (1916), by Edward Stuart Russell". Embryo Project Encyclopedia (2010-06-20). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/2019.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, April 1, 2015 - 23:44
+ Topic
+Subject
+ Russell, E. S. (Edward Stuart), 1887-1954; Literature

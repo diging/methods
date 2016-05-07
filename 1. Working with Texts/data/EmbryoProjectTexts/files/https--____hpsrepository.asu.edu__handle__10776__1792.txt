@@ -1,0 +1,43 @@
+By Mary E. Sunderland
+Published: 2009-06-10
+Keywords: Slime molds, Model organisms
+ Dictyostelium discoideumDictyostelium discoideum is a cellular slime mold that serves as an important model organism in a variety of fields. Cellular slime molds have an unusual life cycle. They exist as separate amoebae, but after consuming all the bacteria in their area they proceed to stream together to form a multicellular organism. These features make them a valuable tool for studying developmental processes and also for investigating the evolution of multicellularity.  Long thought to be a type of fungus, it has recently been shown that slime molds in fact bear no relation to fungi. Rather, they form the Mycetozoa, which consists of three distinct groups: plasmodial slime molds; cellular slime molds; and the Protostelia. The cellular slime molds are characterized by a life cycle that includes periods of both multicellularity and unicellularity.
+Dictyostelium discoideum is the most commonly studied species of cellular slime mold, and as such, has been identified as a model organism by the 
+		National Institutes of Health (NIH) in the United States. The NIH, along with many other scientific funding institutions throughout the world, recognizes a small group of model organisms to serve as proxies for human disease or as models of molecular and cellular processes with human counterparts. Each model organism genome has been sequenced, facilitating a range of molecular research.  D. discoideum is therefore the focus of this description.
+The species D. discoideum was discovered by Kenneth Raper during his PhD research at Harvard University in the 1930s wherein he identified D. discoideum as a single multicellular organism and performed pioneering experimental work.Today there are hundreds who work on this soil-living organism since it is recognized as a model organism and therefore has significant resources committed to its ongoing role in research. As a result we know D. discoideum has six chromosomes and between 8,000 and 10,000 genes, many of which share sequence similarities with vertebrates. Various genetic tools have been combined with real-time imaging to investigate the molecular mechanisms underlying cellular movements during morphogenesis.   
+In the 1940s, after discovering Raper’s PhD dissertation (1940) in the office of their common supervisor, 
+		William H. Weston, 
+		John Tyler Bonner became the second person to focus his studies on D. discoideum. He was intrigued by the organism’s unusual life cycle and its extraordinary regulative capacities. 
+Although the life cycle of D. discoideum could theoretically begin anywhere, it is most easily described as beginning with the spore stage. The spores are small, capsule-shaped, and capable of sprouting a unicellular amoeba when plated on moist agar. After hatching, the amoebae enter a vegetative state during which the amoebae feed by engulfing bacteria, and repeatedly divide to generate free-swimming, independent daughter cells. When the amoebae reach a critical number, which is dependent on food supply, they start to aggregate and stream toward a central collection point. Rather than making a beeline for the collection point, they form streams, which then collect into larger rivers. This streaming results from chemotaxis in response to waves of cAMP that originate from a small group of amoeboid cells that have formed the aggregation center.  
+The beginning of aggregation marks the end of growth, feeding, and cell division. Bonner, in particular, highlighted this feature as he suspected that during the period of aggregation the processes of growth and morphogenesis are entirely separate and therefore offer a unique opportunity to study cellular movements independently from growth. Indeed, this feature enabled Bonner to discover that aggregation was the result of chemotaxis, the discovery of which provided the foundation for a great deal of experimental work.   
+The resulting aggregate of amoebae, or pseudoplasmodium, is commonly referred to as the slug or mound and varies in size, ranging between a few hundred and 100,000 cells. The size of the slug ranges between 0.1 and 2 mm depending on the number of amoebae. Next the slug begins a period of migration lasting up to two weeks. During this time the slug moves approximately 2 mm per hour, the same speed individual amoebae move during the period of aggregation.
+The final set of morphogenetic movements is described as the culmination period, or fruiting stage, when the slug turns upright to form a stalk supporting a round mass of spores at its apex. Bonner described the movements involved in this elaborate transformation as analogous to the movements of a reverse fountain: cells “poured” up the outside where they were trapped and solidified on the growing stalk. The cells at the anterior edge of the original bullet-shaped aggregation become the stalk cells, and the posterior cells become the spore cells.
+During its life cycle D. discoideum displays great regulative ability and this feature sufficiently intrigued Bonner to begin his studies. During the aggregation period cells are equivalent and only later become determined to form either stalk or spore cells.  Early work by Raper showed even the migrating slug capable of regulation, for if he cut the slug into various pieces, each piece retained the ability to form a full fruiting body. Some have interpreted this phenomenon as an example of regeneration while others classify it as regulation, for the process is devoid of any growth and therefore is simply a rearrangement of existing tissue. This phenomenon continues to be a fruitful area of study, as the development of tools for genetic analysis has facilitated a great deal of work on D. discoideum mutants. 
+Developmental biologists continue to investigate the life cycle of D. discoideum since it has informed our understanding of both the mechanical and molecular processes underlying pattern formation and morphogenesis. Some of the first studies on cell-cell adhesion were conducted using D. discoideum and later confirmed with other metazoans. Furthermore, work with slime molds has identified signaling pathways that help to determine polarity, and also the directional movement during chemotaxis. Sometimes referred to as the multicellular Escherichia coli, D. discoideum generates in the research community a great deal of interest with hopes that the understanding of its biology will offer insight about the metazoans in general.    
+
+Sources
+Baldauf, Sandra L., and W. Ford Doolittle. “Origin and Evolution of the Slime Molds (Mycetozoa).” Proceedings of the National Academy of Sciences of the United States of America 94 (1997): 12007–12.
+Bonner, John Tyler. Morphogenesis: An Essay on Development. Princeton: Princeton University Press, 1952.
+Bonner, John Tyler. Lives of a Biologist. Cambridge: Harvard University Press, 2002. 
+Bonner, John Tyler. “The History of the Cellular Slime Molds as a ‘Model System’ for Developmental Biology.” Journal of Biosciences 24 (1999): 7–12.
+Chisholme, Rex L., and Richard A. Firtel. “Insights into Morphogenesis from a Simple Developmental System.” Nature Reviews Molecular Cell Biology 5 (2004): 531–41.
+dictyBase: An Online Informatics Resource for Dictyostelium. http://dictybase.org. (Accessed May 1, 2008).  
+Greenberg, Judith. “Dictyostelium discoideum.” Model Organisms for Biomedical Research.  National Institutes of Health. http://www.nih.gov/science/models/d_discoideum. (Accessed May 1, 2008). 
+Waggoner, Ben. “Introduction to the ‘Slime Molds.’” University of California Museum of Paleontology. http://www.ucmp.berkeley.edu/protista/slimemolds.html. (Accessed May 1, 2008). 
+
+
+How to cite
+Sunderland, Mary E., "Dictyostelium discoideum". Embryo Project Encyclopedia (2009-06-10). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/1792.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 25, 2013 - 15:53
+ Topic
+Subject
+Dictyosteliida; Bonner, John Tyler.; Organism

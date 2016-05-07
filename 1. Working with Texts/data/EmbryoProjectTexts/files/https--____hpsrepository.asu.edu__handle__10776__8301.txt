@@ -1,0 +1,165 @@
+By Zane Bartlett
+Published: 2015-02-11
+Keywords: telomeres, aging, Olovikov, UC Berkeley, senescence
+ Telomeres and Telomerase in Cellular Aging (Senescence) 
+
+
+// 
+// 
+	
+
+	 Telomeres are bits of DNA on the ends of chromosomes that
+	protect chromosomes from sticking to each other or tangling, which
+	could cause DNA to abnormally function. As cells replicate,
+	telomeres shorten at the end of chromosomes, and this process
+	correlates to senescence or cellular aging. Integral to this process
+	is telomerase, which is an enzyme that repairs telomeres and is
+	present in various cells in the human body, especially during human
+	growth and development. Telomeres and telomerase are required for
+	normal animal development because they protect DNA as it duplicates
+	copies of itself.
+In 1965, Leonard Hayflick's research at the Wistar Institute in
+	Philadelphia, Pennsylvania, showed the limit to which cells
+	duplicate themselves before aging. Hayflick established what became
+	called the Hayflick limit,which states that a cell can divide forty
+	to sixty times before it cannot divide further and begins to age. In
+	the 1970s, scientists researched telomeres. Elizabeth Blackburn
+	studied telomeres while she worked at Yale University in New Haven,
+	Connecticut. Alexey Olovnikov in Russia related telomeres to
+	cellular aging and to the Hayflick Limit. Although Blackburn had
+	helped discover telomeres in 1975, two years before, in 1973,
+	Olovnikov had hypothesized the existence of telomerase, the length
+	of telomeres, and their connections to cellular aging in his study
+	on the Hayflick Limit. Unaware of Olovnikov's research, Blackburn
+	and Joseph G. Gall independently found a repetitive sequence of DNA
+	at the end of chromosomes of the yeast, Tetrahymena
+	thermophila. Blackburn and Gall published the results of
+	their research in 1978. In 1982 Blackburn, then at the University of
+	California in Berkeley, California, collaborated with Jack W.
+	Szostak at the Harvard Medical School in Boston, Massachusetts.
+	The pair isolated and cloned telomeres in Tetrahymena DNA. Blackburn,
+	with the help of her student Carol Greider, then identified
+	telomerase in 1984 and isolated it from Tetrahymena in 1989
+	Blackburn, Jack Szostak, and Carol Greider received the Nobel Prize
+	in Physiology or Medicine in 2009 for their work to identify
+	and isolate telomeres and telomerase.
+Blackburn and others found that cells age when the
+	length of the telomeres in the cells shortens. Each time a cell
+	replicates itself, the end of a strand of DNA or the telomere shrinks in
+	length. The telomeres shrink across replications because the enzyme
+	that replicates DNA, DNA polymerase, only works in one specific
+	direction on the DNA strand. It creates what is called a leading and
+	a lagging strand of duplication. The leading strand receives its
+	name because DNA polymerase constantly moves in one direction and
+	replicates the DNA until it completes the strand of DNA without any breaks. The lagging
+	strand is composed of individual fragments of DNA created by DNA
+	polymerase, called Okazaki fragments, that are later sealed together
+	by the enzyme DNA ligase to create one continuous strand. The name
+	lagging strand derives from the fact that it lags behind the leading
+	strand since lagging or leading strand can take longer to seal
+	together the individual DNA fragments. The DNA polymerase detaches
+	from DNA at the end of a lagging strand and leaves a space that
+	measures a few nucleotides in length. Telomerase normally fills in
+	the gap at the end of the DNA after the polymerase detaches from
+	it.
+Telomerase, the enzyme that repairs telomeres, exists in high
+	quantities in developing organisms and in embryonic stem cells. Some
+	cells have higher amounts of telomerase activity than do others. As
+	a human develops and cells replicate with greater frequency, excess
+	telomerase is used and is later replenished only in minute
+	quantities. At the end of the process of DNA
+	replication, without telomerase to fill in the gaps of a new DAN strand, telomeres shorten with each cellular division.
+	According to Blackburn, the Hayflick Limit is a result of
+	decreased telomere length. Decreased telomere length also leads to
+	chromosomal abnormalities that result in mutations in the genetic
+	code, mutations that can cause cancer and further aging in humans.
+	However, too much telomerase can also lead to cancer by helping
+	cells to become functionally immortal by avoiding the Hayflick Limit. Immortal cells can carry
+	mutations in unrepaired areas of the DNA, and they pass the
+	cancerous mutations to other cells through replication.
+Scientists continued researching telomerase, telomere activity,
+	and cellular aging after Blackburn's experiments in the
+	1980s. Scientists studied how environmental factors could affect the
+	length of telomeres and, consequently, cellular aging. In 2008,
+	Geraldine Aubert and Peter Langsdorp at the Terry Fox Laboratory in
+	Vancouver, Canada, published research showing that cells replicate
+	in response to mutations in the genetic code or in response to stress. Aubert and
+	Langsdorp showed that a cell will replicate to attempt to
+	repair damaged DNA and, in turn, will shorten the telomeres.
+In 2012, Blackburn, Jue Lin, and Elissa Epel at the University of
+	California in San Francisco, California, showed the influence of lifestyle on the length of telomeres and
+	cellular aging in humans. They found that stress, nutrition, and
+	personality influence the length of telomeres and telomerase enzyme
+	activity. They defined stress as adverse life events such as death
+	in the family or chronically sick children, and they found that
+	personality also influences how a person perceives stressful events.
+	The authors noted that those who perceived events as less
+	stressful than what the researchers expected had longer telomere
+	lengths compared to individuals who perceived events as more
+	stressful than what researchers expected. Behaviors such
+	as smoking or eating processed meats also correlated with shorter than normal
+	telomere lengths. Also, those who took vitamin C or E
+	supplements had longer than normal telomere lengths. The results of
+	Blackburn and her team's experiment verified that environmental
+	factors affect the length of telomeres.
+ Some people have criticized telomere research. Harry Rubin, at the University of
+	California in Berkeley argued that researchers who studied telomeres in relation to cancer sometimes produce suspect data.
+	Others argued that scientists pay too much attention on
+	telomere research when they should also study other factors involved
+	in the cell cycle. 
+ Sources Aubert,
+		Geraldine, and Peter M. Langsdorp "Telomeres and aging."
+		Physiological Reviews 88 (2008): 557–79. http://physrev.physiology.org/content/physrev/88/2/557.full.pdf (Accessed February 17, 2015). 
+Blackburn, Elizabeth H., and Joseph G. Gall. "A tandemly
+		repeated sequence at the termini of the extrachromosomal
+		ribosomal RNA genes in Tetrahymena." Journal of Molecular
+		Biology 120 (1978): 33–53.
+Greider, Carol W., and Elizabeth H. Blackburn. "A telomeric
+		sequence in the RNA of Tetrahymena telomerase required for
+		telomere repeat synthesis." Nature 337 (1989):
+		331–7.
+Hayflick, Leonard. "The limited in vitro lifetime of human
+		diploid cell strains." Experimental Cell Research 37
+		(1965): 614–36.
+Hayflick, Leonard, and Paul S. Moorhead. "The serial
+		cultivation of human diploid cell strains." Experimental Cell
+		Research 25 (1961): 585–621.
+Jiang, Lijing. "Degeneration in Miniature: History of Cell
+		Death and Aging Research in the Twentieth Century" PhD diss.,
+		Arizona State University, 2013. http://repository.asu.edu/
+		attachments/114558/content/ Jiang_asu_0010E_13292.pdf
+		(Accessed June 6, 2014).
+Lin, Jue, Elissas Epel, and Elizabeth Blackburn. "Telomeres
+		and lifestyle factors: roles in cellular Aging." Mutation
+		Research 730 (2012): 85–9.
+Nobel Prize. "The Nobel Prize in Physiology or Medicine
+		2009." Nobel Media. http://www.nobelprize.org/nobel_prizes/medicine/laureates
+		/2009/ (Accessed October 5, 2013).
+Olovnikov, Alexey M. "A theory of marginotomy. The
+		incomplete copying of template margin in enzymic synthesis of
+		polynucleotides and biological significance of the phenomenon."
+		Journal of Theoretical Biology 41 (1973): 181–90.
+Rubin, Harry. "Telomerase and cellular lifespan: ending the
+		debate?" Nature Biotechnology 16 (1998): 396–7.
+Strauss, Evelyn. "Albert Lasker Award for Special
+		Achievement in Medical Science." Lasker Foundation. http://www.laskerfoundation.org/awards/2006_s_description.
+		htm (Accessed October 20, 2013).
+Szostak, Jack W., and Elizabeth H. Blackburn. "Cloning yeast
+		telomeres on linear plasmid vectors." Cell 29 (1982):
+		245–55.  
+
+How to cite
+Bartlett, Zane, "Telomeres and Telomerase in Cellular Aging (Senescence)". Embryo Project Encyclopedia (2015-02-11). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/8301.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+Copyright Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Thursday, February 19, 2015 - 18:18
+ Topic
+Subject
+telomere; Telomerase; Blackburn, Elizabeth H.; Greider, Carol W.; Wistar Institute of Anatomy and Biology; Aging; DNA; Chromosomes; Yeast; Stem cells; embryonic stem cells; Concept

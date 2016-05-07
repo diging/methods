@@ -1,0 +1,55 @@
+By Brock Heathcotte
+Published: 2008-05-09
+Keywords: Fetus, Fertilization
+ Doolan v. IVF America (2000)Court: Superior Court of Massachusetts
+		Citation: Doolan v. IVF America, 12 Mass.L.Rptr. 482 (Mass.Super. 2000)
+		Status as current law: Questionable
+		Value as precedent: Low
+Case significance:
+The implication of the court’s decision was that Thomas Doolan’s identity or 
+			personhood existed at the embryo stage in vitro, thus the fact that he was born with 
+			cystic fibrosis was not attributable to the decision of the 
+			in vitro fertilization providers to implant one embryo instead of another. The other unused embryo may not have carried the 
+			cystic fibrosis genes, but that other embryo was not Thomas Doolan. The decision in Doolan has not been publicly tested in other jurisdictions.
+Case Summary:
+Facts—Mr. and Mrs. Doolan discovered they were both carriers of a gene for 
+			cystic fibrosis (Delta F-508) after their first child was born with the disease. To avoid passing the disease to another child, the Doolans engaged defendant 
+			IVF providers to test in vitro embryos for the 
+			cystic fibrosis genes prior to 
+			implantation in Mrs. Doolan. They could conceive naturally but chose 
+			IVF only for the purpose of avoiding the possibility of giving birth to another child with 
+			cystic fibrosis. The defendants performed the genetic tests and chose one of ten 
+			frozen embryos (number 7) for implantation which they determined was free of the unwanted genes. Mrs. Doolan became pregnant and gave birth to a boy, Thomas, who had both the unwanted genes and 
+			cystic fibrosis. The Doolans and Thomas sued all the medical entities and doctors involved in the testing and 
+			IVF procedures.
+Law—Massachusetts, like most jurisdictions, does not recognize a claim for 
+			wrongful life on the theory that such cases would require a comparison of the relative monetary values of existence and nonexistence which is beyond the power of a court. Typically, wrongful life cases involve the failure of doctors to advise parents their child will be born with a disfigurement. The born child does not have a right to sue the doctor for being born.
+Ruling—The parents could sue for expenses they incurred due to Thomas’ condition on the theory that the defendants were negligent. However, Thomas could not sue anyone because the defendants did not create his condition, they only failed to identify it, and Thomas could not under any circumstances have been born healthy. Furthermore, the parents could not sue for loss of consortium because the kind of relationship they might have had with a different child was too speculative.
+Quotes:
+“The holding in Viccaro is clearly applicable to this case, where it is undisputed that Thomas Doolan would never have been born were it not for the defendants' alleged negligence in testing and/or implanting Embryo No. 7. Plainly put, Thomas Doolan asserts that the defendants' alleged negligence denied his parents the opportunity to choose not to conceive and give birth to him.”
+
+“In both Rinck and Monusko, the negligence of the defendant caused the minor plaintiff to be born with severe defects, when he/she would have otherwise been born healthy. In this case, however, there is no such causal connection between the alleged negligence of the defendants and the injuries actually suffered by Thomas Doolan. The minor plaintiff has not alleged that any of the defendants did anything to directly cause Thomas Doolan to be afflicted with the Delta F-508 gene mutation. Stated otherwise, there is no way Thomas Doolan could ever have been born without cystic fibrosis.”
+“In conclusion, the essence of Thomas Doolan's claim is not that the alleged negligence of the defendants caused him to be born with cystic fibrosis, but rather that the alleged negligence of the defendants denied his parents the opportunity to choose not to conceive and give birth to him. This is precisely the ‘fundamental problem of logic’ that the SJC sought to avoid when it denied the minor plaintiff a cause of action for ‘wrongful life’ in Viccaro. Therefore, under the holding in Viccaro, the defendants are entitled to judgment as a matter of law on the minor plaintiff's negligence claim.”
+This case cites to these authorities:
+Viccaro v. Milunsky, 406 Mass. 777 (1990)
+		Wrongful life cases are not allowed in Massachusetts.
+Payton v. Abbott Labs, 386 Mass. 540 (1982)
+		Wrongful life cases are not allowed in Massachusetts.
+This case was cited in:
+Tort law and in vitro fertilization: The need for legal recognition of “procreative injury”, 115 Yale L.J. 237, 245+ (2005) 
+
+How to cite
+Heathcotte, Brock, "Doolan v. IVF America [Brief] (2000)". Embryo Project Encyclopedia (2008-05-09). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/1783.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, October 9, 2013 - 22:19
+ Topic
+Subject
+Fertilization in Vitro;  Law

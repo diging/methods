@@ -1,0 +1,53 @@
+By Samuel Philbrick
+Published: 2011-04-07
+Keywords: Biography, Stem cells, Pluripotency
+ Shinya Yamanaka (1962- )Shinya Yamanaka gained international prominence after publishing articles detailing the successful generation of 
+		induced pluripotent stem (iPS) cells, first in mice, then in humans. Yamanaka induced somatic cells to act like 
+		human embryonic stem cells (hESCs), allowing researchers to experiment with non-embryonic stem cells with a similar capacity as hESCs. The research involving iPS cells therefore offered new potential for research and application in medical treatment, without many of the ethical objections that hESC research entailed.
+Yamanaka was born on 4 September 1962 in Osaka, Japan, and recalled playing many sports as a young man. It was the kindness of his orthopedist, he said, that led him to pursue the medical profession. Yamanaka obtained a medical degree from Kobe University in 1987, and this was followed with residency at National Osaka Hospital from 1987 to 1989. While he was a medical student, Yamanaka assisted with autopsies and studies of alcoholism, which ignited an interest in laboratory research. Yamanaka enjoyed the scientific freedom to experiment and take risks that came with laboratory work, so rather than practicing as an orthopedic surgeon he earned a doctoral degree in pharmacology from Osaka City University Graduate School in 1993.
+Yamanaka wanted to work in the US after reading about genetically modified mice that had solitary genes removed and either replaced (knock-out mice) or modified (knock-down mice). However, with no contacts in the US, Yamanaka was forced to send about 30 letters to US universities. One principle investigator, Thomas Innerarity, from the University of California San Francisco Gladstone Institute of Cardiovascular Disease, hired Yamanaka to investigate an enzyme that could potentially decrease low density lipoprotein (LDL) for patients with high cholesterol.
+However, Innerarity and Yamanaka found that forcing over-expression of the enzyme they were investigating caused cancer. While this frustrated Innerarity, it piqued Yamanaka’s curiosity. He received permission from Innerarity to continue investigating the transgenic mice, and found that Nat1, a protein that appeared to repress cell proliferation and differentiation, was sometimes edited by an enzyme that caused cancer in mice livers. Yamanaka learned how to make 
+		chimeras so he could study Nat1-knockout mice. By inactivating the Nat1 gene, Yamanaka hoped to learn more about its function.
+However, after 6 months of working seven days a week, Yamanaka’s wife left with his daughters for Japan, leaving him alone in the US. Speaking at the 
+		National Institutes of Health (NIH) in January of 2010, Yamanaka jokingly recalled that this result pleased Innerarity because it meant Yamanaka could work even harder with his family gone. However, the strain was too much. Yamanaka admitted that he had overworked himself, and in 1996 after six months of lab work and living without his family, he decided to move back to Japan.
+Yamanaka brought several transgenic mice with him to continue his research and took an assistant professor position at the Osaka City University Medical School, where his mice population quickly grew. He discovered that without Nat1, mouse embryonic stem cells would not differentiate normally, but could still reproduce. Within a single year he had 400 mice, and because he had no money to hire graduate students, he had nobody to help him feed or care for the mice. Twice a week he had to change all the cages, and he also had to wash the cages on his own. Frequently told by his colleagues to do something more related to medicine, Yamanaka recalls becoming so depressed that he wanting to quit.
+However, Yamanaka was rescued from what he jokingly termed “Post-America Depression” by two things. In the USA, 
+		James A. Thomson published “Embryonic Stem Cell Lines Derived from Human Blastocysts,” in which he wrote about using embryonic stem cells, but also noted that there could be problems with rejection of transplants, and that many were ethically opposed to the use of human embryos. The second thing that saved him was an appointment as an associate professor, making him a principal investigator in his own lab at the Nara Institute of Science and Technology (NAIST) in 1999. He received an appointment as a full professor in 2003.
+Around the time that he acquired his own lab, Yamanaka visited a friend’s fertility clinic. According to a 2007 New York Times article, he recalled that the experience changed him. As he looked at the embryos, he said he saw a link between the embryos and his daughters. Yamanaka began to think that there had to be a way to keep doing stem cell research without destroying human embryos. He decided to make the production of iPS cells the principal goal of his lab, partly to serve his ideals, but also to attract ambitious graduate students away from more established labs.
+Yamanaka worked first with Yoshimi Tokuzawa, 
+		Kazutoshi Takahashi, and other students to test retroviral factors that might change mouse fibroblasts into iPS cells. However, Yamanaka would make his major publications under the auspices of the 
+		Kyoto University, where he accepted a position in 2004. He ended his career at NAIST in 2005. Originally his post-doc, Kazutoshi, tested some retroviral factors they were considering one-by-one. However, applying only one retrovirus at a time never yielded cells that behaved similarly to ES cells. In a later talk, Yamanaka recalled that Kazutoshi had wanted to mix combinations of retroviral factors, and upon doing that, he successfully identified four factors that, when applied together, had a high chance of inducing pluripotency.
+In 2006 Yamanaka published "Induction of Pluripotent Stem Cells from Mouse Embryonic and Adult Fibroblast Cultures by Defined Factors” in Cell, which identified the four factors needed to induce pluripotency in mouse cells. Likewise his 2007 publication, “Induction of Pluripotent Stem Cells from Adult Human Fibroblasts by Defined Factors,” also published in Cell, showed it was possible to produce human iPS cells. The article has had a tremendous impact, as of December 2010 it had been cited over 2,000 times. Director of the National Institutes of Health, Francis Collins, said that when he first read Yamanaka’s 2007 publication, it made the hair on the back of his neck stand on end because he could see it would transform the field of stem cell research.
+Collins, who hinted in January 2010 NIH lecture that Yamanaka might win a Nobel Prize, was not the only one to notice Yamanaka’s work. Yamanaka has received, among numerous awards, the 2008 Shaw Prize, jointly shared with Ian Wilmut and Keith Campbell, of Dolly the Sheep fame. Yamanaka also received the 2009 Meyenburg Cancer Research Award, and the 2010 March of Dimes award.
+Yamanaka says he would like to see an iPS cell bank created so iPS cells can be applied to injuries immediately after they occur, instead of months later, as would be necessary if they were to be cultured from individual patients. He also hopes iPS cells can benefit patients through drug discovery and toxicology studies, and in the long term through regenerative medicine.
+
+Sources
+Baker, Monya. “A Conversation with Shinya Yamanaka, Professor at Kyoto University” Nature Reports Stem Cells http://www.nature.com/stemcells/2007/0706/070607/full/stemcells.2007.9.html (Accessed September 24, 2010).
+Fackler, Martin. “Risk Taking is in His Genes.” New York Times, December 11, 2007, Science Section. http://www.nytimes.com/2007/12/11/science/11prof.html (Accessed September 25, 2010).
+Garnett, Carla. “Stem Cell Innovator Shares Secrets of Success.” NIH Record. http://nihrecord.od.nih.gov/newsletters/2010/02_19_2010/story1.htm (Accessed September 24, 2010).
+Lynch, Elizabeth and Michele Kling. “March of Dimes Awards $250,000 Prize to Scientist Who Discovered How to Reprogram Human Cells.” March of Dimes: About Us. http://www.marchofdimes.com/aboutus/49267_62918.asp (Accessed September 24, 2010).
+Rogers, Kara. “Shinya Yamanaka” Encyclopedia Britannica Online. http://www.britannica.com/EBchecked/topic/1442885/Shinya-Yamanaka (Accessed September 25, 2010).
+Takahashi, Kazutoshi, Koji Tanabe, Mari Ohnuki, Megumi Narita, Tomoko Ichisaka, Kiichiro Tomoda, and Shinya Yamanaka. “Induction of Pluripotent Stem Cells from Adult Human Fibroblasts by Defined Factors.” Cell 131 (2007): 1–12. http://images.cell.com/images/Edimages/Cell/IEPs/3661.pdf
+Thomson, James A. “Embryonic Stem Cell Lines Derived from Human Blastocysts.” Science 282 (1998): 1145–1147. http://www.sciencemag.org/cgi/reprint/282/5391/1145.pdf
+Yamanaka, Shinya. “Ekiden to iPS Cells.” Nature Medicine 15 (2009): xi–xiv. http://www.laskerfoundation.org/awards/pdf/2009_b_yamanaka.pdf
+Yamanaka, Shinya, “Essential Role of NAT1/p97/DAP5 in Embryonic Differentiation and the Retinoic Acid Pathway.” The EMBO Journal 19 (2000): 5533–41. http://www.nature.com/emboj/journal/v19/n20/pdf/7593367a.pdf
+Yamanaka, Shinya. “Induction of Pluripotency by Defined Factors.” NIH Director’s Wednesday Afternoon Lecture Series. January 14, 2010. http://www.videocast.nih.gov/Summary.asp?File=15547 (Accessed September 24, 2010
+Yamanaka, Shinya. “Induction of Pluripotent Stem Cells from Mouse Embryonic and Adult Fibroblast Cultures by Defined Factors.” Cell 126 (2006): 663–676. http://www.sciencedirect.com/science?_ob=MImg&_imagekey=B6WSN-4KM3YVR-1-J&_cdi=7051&_user=56861&_pii=S0092867406009767&_origin=search&_coverDate=08%2F25%2F2006&_sk=998739995&view=c&wchp=dGLzVzz-zSkzk&md5=29fa896dd71b73a6df3e8eb3ec768172&ie=/sdarticle.pdf
+Yamanaka, Shinya. “Shinya Yamanaka, M.D., Ph.D.” Gladstone Institute of Cardiovascular Disease. http://www.gladstone.ucsf.edu/gladstone/site/yamanaka/ (Accessed September 24, 2010).
+
+
+How to cite
+Philbrick, Samuel, "Shinya Yamanaka (1962- )". Embryo Project Encyclopedia (2011-04-07). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/1984.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Thursday, April 9, 2015 - 21:16
+ Topic
+Subject
+Stem Cells; Yamanaka, Shinya; People

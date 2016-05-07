@@ -1,0 +1,50 @@
+By Corinne DeRuiter
+Published: 2010-10-20
+Keywords: Somatic cells, Body plan
+ Somites: Formation and Role in Developing the Body PlanSomites are blocks of 
+		mesoderm that are located on either side of the 
+		neural tube in the developing vertebrate embryo. Somites are precursor populations of cells that give rise to important structures associated with the vertebrate body plan and will eventually differentiate into dermis, skeletal muscle, cartilage, tendons, and vertebrae. Somites also determine the migratory paths of 
+		neural crest cells and of the axons of spinal nerves. 
+Because of their developmental importance, somites have been the topic over the years of many experiments. For example, an experiment published in 1992 by 
+		Nicole Le Douarin and 
+		Charles Ordahl, which involved 
+		fate mapping of 
+		chick-quail chimeras, revealed the arrangement of the inner somite and the migratory patterns of each section. This experiment showed the exact location of the precursor populations of the different muscle groups that derive from the somite, shedding light on their developmental importance. 
+The first pair of somites forms in the anterior part of the trunk, adjacent to the 
+		notochord; the remainder then follow, budding off the mesoderm sequentially, from head to tail. The process of somite formation, or 
+		somitogenesis, depends on five important components: periodicity, fissure formation, epithelialization, specification, and differentiation. Formation begins as paraxial mesoderm cells organize into whorls of cells called somitomeres. As the somite matures, the outer cells transform from mesenchymal to epithelial cells, creating a distinct boundary between individual somites. These somites then separate into cranial and caudal portions, and the cranial portion of each fuses with the caudal portion of the somite directly anterior to it in a process known as metametric shifting. Distinct regions of each somite become specific tissue and cell types as the body matures. 
+Somitogenesis can be described by the 
+		“clock and wave” mechanism, in which the oscillating signal (clock) is provided by 
+		cascading genetic networks while a gradient of 
+		fibroblast growth factor (FGF) provides the somite boundaries (wave). By 2005, the mechanism of somite formation had been shown to include a negative feedback loop involving FGF as well as the 
+		Wnt and 
+		Notch signaling pathways. FGF is considered to be the wave front, Wnt the bridge, and Notch  the clock. The somites are formed at specific and consistent intervals unique to each organism. For instance, in the chick embryo, a new somite is formed every 90 minutes, and the somites appear at exactly the same time on the two sides of the embryo. Once the somites are formed, various regions within are specified to form only certain cell types and will eventually commit, creating a body plan for the organism. 
+The commitment to specific tissue types occurs relatively late in the development of the somite. When the somite is still immature, it is multipotent, meaning each of its cells can become any of the somite-derived structures. These structures include the cartilage of the vertebrae and ribs, the muscles of the rib cage, limbs, abdominal wall, back, and tongue, the tendons, the dermis of the dorsal skin, and vascular cells that contribute to the formation of the aorta and the intervertebral blood vessels. The somites eventually diverge into sclerotome (cartilage), syndotome (tendons), myotome (skeletal muscle), dermatome (dermis), and endothelial cells, each corresponding to different regions within the somite itself. Each of these committed cell types is determined by induction and relative location within the organism. 
+The processes that follow somitogenesis include 
+		myogenesis (generation of muscle), 
+		osteogenesis (generation of bone), tendon formation, and specification of the intermediate mesoderm (i.e., urogenital system). Because the somites are an essential part of the developing body plan of vertebrates, any disruption in the cycle of formation or segmentation can result in anomalies such as 
+		congenital vertebral defects. Many spinal defects are also associated with kidney problems because the same lateral portions of the paraxial mesoderm cells that form the somites also form the mesonephros. Somites are literally the building blocks of the vertebrate body plan; they are essential for segmentation, bone and musculature development, as well as creating a template for the nervous system.  
+
+Sources
+Gilbert, Scott F. Developmental Biology, 8th ed. Sunderland, MA: Sinauer Associates, 2006, 27, 445–453.
+Hill, Mark. UNSW Embryology. “Musculoskeletal Development- Mesoderm/Somite.” UNSW Embryology. http://embryology.med.unsw.edu.au/Notes/skmus6.htm (Accessed March 23, 2010).
+Le Douarin, Nicole, and Charles Ordahl. “Two Myogenic Lineage within the Developing Somite.” Development 114 (1992): 339–353. 
+Mackey, Michael, and Moises Santillan. “A Proposed Mechanism for the Interaction of the Segmentation Clock and the Determination Front in Somitogenesis.” PLoS ONE 3 (2008): e1561. 
+Nagahara, Hiroki, et al. “Spatiotemporal Pattern in Somitogenesis: A Non-Turing Scenario with Wave Propagation.” Physical Review 80 (2009): 021906-1–7.
+
+
+How to cite
+DeRuiter, Corinne, "Somites: Formation and Role in Developing the Body Plan". Embryo Project Encyclopedia (2010-10-20). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/2065.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 25, 2013 - 15:53
+ Topic
+Subject
+Somites; Somatic cells; Concept

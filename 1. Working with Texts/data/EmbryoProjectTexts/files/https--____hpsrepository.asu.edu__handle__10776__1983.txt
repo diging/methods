@@ -1,0 +1,46 @@
+By Mary E. Sunderland
+Published: 2009-06-10
+Keywords: Medicine, Stem cells
+ Translational Developmental Biology Translational developmental biology is a growing approach to studying biological phenomena that explicitly aims to develop medical therapies. When discussing the generation of new therapies it is often argued that they will emerge as a “translation” from “fundamental biology.” Although translational research is not a new term, “translational developmental biology” has been steadily gaining popularity as discoveries in cell and developmental biology, particularly those involving 
+		stem cells, provide a basis for regenerative medicine. 
+During the past twenty-five years four major advances in developmental biology, more specifically in 
+		mouse embryogenesis, have provided the evidential proof-of-principle basis undergirding research programs directed toward 
+		regenerative medicine: the establishment of murine and 
+		human embryonic stem cell (ESC) lines; homologous recombination in mouse ESCs to generate disease models; nuclear reprogramming after 
+		somatic cell nuclear transfer into enucleated eggs; and differentiation of ESCs into germ cells.     
+Stem cells were discovered by development biologists and stem cell biology is commonly regarded as a sub-discipline within developmental biology, zoology, or cell biology departments.  A recent trend has been to move those studying stem cells into regenerative medicine institutes.  In the United States, for example, new research venues include the 
+		California Institute for Regenerative Medicine (CIRM), the 
+		New York Institute, and the 
+		Newark New Jersey Institute, all of which share an explicit commitment to direct research toward therapeutic outcomes. Indeed many promises have been made, as indicated during the promotion to pass California’s 
+		Proposition 71 where the slogans “Cures for California” and “Save Lives with Stem Cells” established high public expectations. The establishment of the CIRM represents a shift in the funding of biomedical research, where the mandate is to fund research that will facilitate stem cells moving from the laboratory into the clinic and also support therapeutic strategies not funded by the 
+		National Institutes of Health (NIH).
+For some, the excitement of translation is tempered by worries of rushing ahead too quickly, particularly those who remember the negative impact premature clinical trials had on gene therapy research.  Successfully bringing science from the bench to the clinic requires the expertise of many stakeholders, including scientists, clinicians, affected patients, their family and friends, and the larger community.  Often stakeholders have different perceptions of what a successful translation would look like, which is exacerbated by general confusion about the concept of translational research.
+Translational research is often thought of as a unidirectional effort wherein novel therapeutic strategies developed through laboratory experimentation are tested on human subjects.  This conception is inadequate as it presumes experimental models are sufficient to result in breakthrough discoveries.  Members of the 
+		Journal of Translational Medicine editorial board suggest translational medicine is a “two way street” between the clinic and the laboratory, wherein the field encompasses basic science studies to define the biological effects of therapeutics, human and animal investigations to define disease biology, clinical trials, and clinical product development. The authors highlight the importance of defining the domain of translational research, arguing it is necessary to synchronize and coordinate public, academic, government, and industry interests. 
+The goal to make results translatable is also part of the NIH’s “Roadmap for Medical Research,” which aims to improve human health by translating scientific discoveries into practical applications.  The roadmap describes the basics of this bench-to-bedside translation as fundamental research at the cellular or molecular level moving eventually to the clinical “bedside” level.  This rationale is based on the notion that at the molecular and cellular levels we share much in common with a variety of both mammalian and non-mammalian organisms, a claim that is supported by the many inter-species similarities that genomics and genetics research have revealed.
+The translational approach encourages conducting genetic, genomic, and proteomic analyses on a selection of well-characterized model organisms that serve as proxies to human disease or as models of molecular and cellular processes with human counterparts.  By studying these organisms we hope to improve our understanding of disease and ultimately reach the goal of improving human health.
+
+Sources
+Daley, George, Margaret Goodell, and Evan Snyder.  “Realistic Prospects for Stem Cell Therapeutics.” Hematology (2003): 398–418.
+Ioannidis, John P. “Materializing Research Promises: Opportunities, Priorities and Conflicts in Translational Medicine.” Journal of Translational Medicine 2 (2004): 1–6.
+Johnston, Josephine, and Françoise Baylis. “What Ever Happened to Gene Therapy?” Clinical Researcher 4 (2004): 11–15.
+Mankoff,  Stacey, Christian Brander, Soldano Ferrone, and Francesco Marincola. “Lost in Translation: Obstacles to Translational Medicine.” Journal of Translational Medicine 2 (2004): 14.
+NIH Roadmap for Medical Research. “Translational Research – Overview.” National Institutes of Health. http://nihroadmap.nih.gov/clinicalresearch/overview-translational.asp. (Accessed September 2008).
+Wobus, Anna, and Kenneth Boehler. “Embryonic Stem Cells: Prospects for Developmental Biology and Cell Therapy.” Physiological Reviews 85 (2005): 635–78. 
+
+
+How to cite
+Sunderland, Mary E., "Translational Developmental Biology". Embryo Project Encyclopedia (2009-06-10). ISSN: 1940-5030 http://embryo.asu.edu/handle/10776/1983.
+
+Show full item record
+Publisher
+Arizona State University. School of Life Sciences. Center for Biology and Society. Embryo Project Encyclopedia.
+
+Rights
+© Arizona Board of Regents   Licensed as Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported (CC BY-NC-SA 3.0) http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Last modified
+Wednesday, September 25, 2013 - 15:53
+ Topic
+Subject
+  Concept
