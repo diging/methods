@@ -1,0 +1,1483 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="double" for="edge" id="d1" />
+  <key attr.name="weight" attr.type="double" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="Canada">
+      <data key="d0">366.0</data>
+    </node>
+    <node id="Brazil">
+      <data key="d0">51.0</data>
+    </node>
+    <node id="Italy">
+      <data key="d0">202.0</data>
+    </node>
+    <node id="Czech Republic">
+      <data key="d0">58.0</data>
+    </node>
+    <node id="USA">
+      <data key="d0">3234.0</data>
+    </node>
+    <node id="Sudan">
+      <data key="d0">1.0</data>
+    </node>
+    <node id="India">
+      <data key="d0">64.0</data>
+    </node>
+    <node id="Panama">
+      <data key="d0">10.0</data>
+    </node>
+    <node id="Nepal">
+      <data key="d0">2.0</data>
+    </node>
+    <node id="Scotland">
+      <data key="d0">127.0</data>
+    </node>
+    <node id="Costa Rica">
+      <data key="d0">2.0</data>
+    </node>
+    <node id="Luxembourg">
+      <data key="d0">4.0</data>
+    </node>
+    <node id="France">
+      <data key="d0">695.0</data>
+    </node>
+    <node id="Slovakia">
+      <data key="d0">16.0</data>
+    </node>
+    <node id="North Ireland">
+      <data key="d0">1.0</data>
+    </node>
+    <node id="Ireland">
+      <data key="d0">5.0</data>
+    </node>
+    <node id="Wales">
+      <data key="d0">37.0</data>
+    </node>
+    <node id="Argentina">
+      <data key="d0">98.0</data>
+    </node>
+    <node id="Norway">
+      <data key="d0">21.0</data>
+    </node>
+    <node id="Benin">
+      <data key="d0">2.0</data>
+    </node>
+    <node id="Israel">
+      <data key="d0">176.0</data>
+    </node>
+    <node id="Australia">
+      <data key="d0">465.0</data>
+    </node>
+    <node id="Iran">
+      <data key="d0">4.0</data>
+    </node>
+    <node id="Singapore">
+      <data key="d0">30.0</data>
+    </node>
+    <node id="Venezuela">
+      <data key="d0">1.0</data>
+    </node>
+    <node id="Malaysia">
+      <data key="d0">4.0</data>
+    </node>
+    <node id="Austria">
+      <data key="d0">60.0</data>
+    </node>
+    <node id="Slovenia">
+      <data key="d0">5.0</data>
+    </node>
+    <node id="Germany">
+      <data key="d0">1123.0</data>
+    </node>
+    <node id="Chile">
+      <data key="d0">17.0</data>
+    </node>
+    <node id="Belgium">
+      <data key="d0">245.0</data>
+    </node>
+    <node id="Thailand">
+      <data key="d0">6.0</data>
+    </node>
+    <node id="Peoples R China">
+      <data key="d0">492.0</data>
+    </node>
+    <node id="Fr Polynesia">
+      <data key="d0">1.0</data>
+    </node>
+    <node id="Spain">
+      <data key="d0">289.0</data>
+    </node>
+    <node id="U Arab Emirates">
+      <data key="d0">1.0</data>
+    </node>
+    <node id="Netherlands">
+      <data key="d0">268.0</data>
+    </node>
+    <node id="Denmark">
+      <data key="d0">117.0</data>
+    </node>
+    <node id="Turkey">
+      <data key="d0">4.0</data>
+    </node>
+    <node id="Indonesia">
+      <data key="d0">3.0</data>
+    </node>
+    <node id="Saudi Arabia">
+      <data key="d0">11.0</data>
+    </node>
+    <node id="Macedonia">
+      <data key="d0">1.0</data>
+    </node>
+    <node id="Mexico">
+      <data key="d0">61.0</data>
+    </node>
+    <node id="Philippines">
+      <data key="d0">17.0</data>
+    </node>
+    <node id="Sweden">
+      <data key="d0">149.0</data>
+    </node>
+    <node id="Croatia">
+      <data key="d0">2.0</data>
+    </node>
+    <node id="South Korea">
+      <data key="d0">189.0</data>
+    </node>
+    <node id="Finland">
+      <data key="d0">53.0</data>
+    </node>
+    <node id="Japan">
+      <data key="d0">718.0</data>
+    </node>
+    <node id="Switzerland">
+      <data key="d0">195.0</data>
+    </node>
+    <node id="New Zealand">
+      <data key="d0">50.0</data>
+    </node>
+    <node id="Guadeloupe">
+      <data key="d0">2.0</data>
+    </node>
+    <node id="Poland">
+      <data key="d0">36.0</data>
+    </node>
+    <node id="Russia">
+      <data key="d0">38.0</data>
+    </node>
+    <node id="Bulgaria">
+      <data key="d0">5.0</data>
+    </node>
+    <node id="Pakistan">
+      <data key="d0">3.0</data>
+    </node>
+    <node id="Romania">
+      <data key="d0">1.0</data>
+    </node>
+    <node id="England">
+      <data key="d0">691.0</data>
+    </node>
+    <node id="Portugal">
+      <data key="d0">21.0</data>
+    </node>
+    <node id="Estonia">
+      <data key="d0">16.0</data>
+    </node>
+    <node id="Morocco">
+      <data key="d0">1.0</data>
+    </node>
+    <node id="Egypt">
+      <data key="d0">3.0</data>
+    </node>
+    <node id="Uruguay">
+      <data key="d0">5.0</data>
+    </node>
+    <node id="Serbia">
+      <data key="d0">1.0</data>
+    </node>
+    <node id="South Africa">
+      <data key="d0">6.0</data>
+    </node>
+    <node id="Tunisia">
+      <data key="d0">4.0</data>
+    </node>
+    <node id="Senegal">
+      <data key="d0">1.0</data>
+    </node>
+    <node id="Yugoslavia">
+      <data key="d0">1.0</data>
+    </node>
+    <node id="Colombia">
+      <data key="d0">5.0</data>
+    </node>
+    <node id="Greece">
+      <data key="d0">16.0</data>
+    </node>
+    <node id="Sri Lanka">
+      <data key="d0">2.0</data>
+    </node>
+    <node id="Hungary">
+      <data key="d0">49.0</data>
+    </node>
+    <node id="Taiwan">
+      <data key="d0">95.0</data>
+    </node>
+    <edge source="Canada" target="Brazil">
+      <data key="d1">6.0</data>
+    </edge>
+    <edge source="Canada" target="USA">
+      <data key="d1">179.0</data>
+    </edge>
+    <edge source="Canada" target="Scotland">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="Canada" target="France">
+      <data key="d1">30.0</data>
+    </edge>
+    <edge source="Canada" target="Wales">
+      <data key="d1">3.0</data>
+    </edge>
+    <edge source="Canada" target="Argentina">
+      <data key="d1">13.0</data>
+    </edge>
+    <edge source="Canada" target="Saudi Arabia">
+      <data key="d1">3.0</data>
+    </edge>
+    <edge source="Canada" target="Australia">
+      <data key="d1">39.0</data>
+    </edge>
+    <edge source="Canada" target="Russia">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="Canada" target="Germany">
+      <data key="d1">57.0</data>
+    </edge>
+    <edge source="Canada" target="Peoples R China">
+      <data key="d1">42.0</data>
+    </edge>
+    <edge source="Canada" target="Poland">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Canada" target="Spain">
+      <data key="d1">3.0</data>
+    </edge>
+    <edge source="Canada" target="Netherlands">
+      <data key="d1">8.0</data>
+    </edge>
+    <edge source="Canada" target="Denmark">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="Canada" target="Philippines">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Canada" target="Finland">
+      <data key="d1">5.0</data>
+    </edge>
+    <edge source="Canada" target="Israel">
+      <data key="d1">8.0</data>
+    </edge>
+    <edge source="Canada" target="Sweden">
+      <data key="d1">16.0</data>
+    </edge>
+    <edge source="Canada" target="Japan">
+      <data key="d1">36.0</data>
+    </edge>
+    <edge source="Canada" target="Switzerland">
+      <data key="d1">6.0</data>
+    </edge>
+    <edge source="Canada" target="South Korea">
+      <data key="d1">9.0</data>
+    </edge>
+    <edge source="Canada" target="England">
+      <data key="d1">23.0</data>
+    </edge>
+    <edge source="Canada" target="Hungary">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Canada" target="Taiwan">
+      <data key="d1">6.0</data>
+    </edge>
+    <edge source="Brazil" target="Netherlands">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="Brazil" target="England">
+      <data key="d1">8.0</data>
+    </edge>
+    <edge source="Brazil" target="USA">
+      <data key="d1">55.0</data>
+    </edge>
+    <edge source="Brazil" target="Denmark">
+      <data key="d1">3.0</data>
+    </edge>
+    <edge source="Brazil" target="Poland">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Brazil" target="France">
+      <data key="d1">15.0</data>
+    </edge>
+    <edge source="Brazil" target="Germany">
+      <data key="d1">17.0</data>
+    </edge>
+    <edge source="Brazil" target="Chile">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Brazil" target="Belgium">
+      <data key="d1">6.0</data>
+    </edge>
+    <edge source="Brazil" target="Japan">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Brazil" target="Argentina">
+      <data key="d1">9.0</data>
+    </edge>
+    <edge source="Brazil" target="Spain">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="Italy" target="USA">
+      <data key="d1">72.0</data>
+    </edge>
+    <edge source="Italy" target="Scotland">
+      <data key="d1">7.0</data>
+    </edge>
+    <edge source="Italy" target="France">
+      <data key="d1">41.0</data>
+    </edge>
+    <edge source="Italy" target="Wales">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Italy" target="Israel">
+      <data key="d1">3.0</data>
+    </edge>
+    <edge source="Italy" target="Australia">
+      <data key="d1">10.0</data>
+    </edge>
+    <edge source="Italy" target="Germany">
+      <data key="d1">63.0</data>
+    </edge>
+    <edge source="Italy" target="Belgium">
+      <data key="d1">10.0</data>
+    </edge>
+    <edge source="Italy" target="Peoples R China">
+      <data key="d1">5.0</data>
+    </edge>
+    <edge source="Italy" target="Spain">
+      <data key="d1">11.0</data>
+    </edge>
+    <edge source="Italy" target="Netherlands">
+      <data key="d1">18.0</data>
+    </edge>
+    <edge source="Italy" target="Denmark">
+      <data key="d1">5.0</data>
+    </edge>
+    <edge source="Italy" target="Finland">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Italy" target="Sweden">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Italy" target="Japan">
+      <data key="d1">12.0</data>
+    </edge>
+    <edge source="Italy" target="Switzerland">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Italy" target="New Zealand">
+      <data key="d1">8.0</data>
+    </edge>
+    <edge source="Italy" target="Bulgaria">
+      <data key="d1">5.0</data>
+    </edge>
+    <edge source="Italy" target="England">
+      <data key="d1">45.0</data>
+    </edge>
+    <edge source="Italy" target="South Africa">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Italy" target="Mexico">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Italy" target="Austria">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="Italy" target="Greece">
+      <data key="d1">3.0</data>
+    </edge>
+    <edge source="Italy" target="Hungary">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Italy" target="South Korea">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="Czech Republic" target="Israel">
+      <data key="d1">5.0</data>
+    </edge>
+    <edge source="Czech Republic" target="Netherlands">
+      <data key="d1">5.0</data>
+    </edge>
+    <edge source="Czech Republic" target="England">
+      <data key="d1">23.0</data>
+    </edge>
+    <edge source="Czech Republic" target="USA">
+      <data key="d1">41.0</data>
+    </edge>
+    <edge source="Czech Republic" target="Scotland">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="Czech Republic" target="Sweden">
+      <data key="d1">5.0</data>
+    </edge>
+    <edge source="Czech Republic" target="France">
+      <data key="d1">24.0</data>
+    </edge>
+    <edge source="Czech Republic" target="Belgium">
+      <data key="d1">16.0</data>
+    </edge>
+    <edge source="Czech Republic" target="Austria">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Czech Republic" target="Germany">
+      <data key="d1">42.0</data>
+    </edge>
+    <edge source="Czech Republic" target="Switzerland">
+      <data key="d1">5.0</data>
+    </edge>
+    <edge source="Czech Republic" target="Peoples R China">
+      <data key="d1">3.0</data>
+    </edge>
+    <edge source="USA" target="Turkey">
+      <data key="d1">18.0</data>
+    </edge>
+    <edge source="USA" target="Panama">
+      <data key="d1">5.0</data>
+    </edge>
+    <edge source="USA" target="Scotland">
+      <data key="d1">57.0</data>
+    </edge>
+    <edge source="USA" target="Costa Rica">
+      <data key="d1">3.0</data>
+    </edge>
+    <edge source="USA" target="France">
+      <data key="d1">403.0</data>
+    </edge>
+    <edge source="USA" target="Slovakia">
+      <data key="d1">3.0</data>
+    </edge>
+    <edge source="USA" target="Ireland">
+      <data key="d1">3.0</data>
+    </edge>
+    <edge source="USA" target="Wales">
+      <data key="d1">17.0</data>
+    </edge>
+    <edge source="USA" target="Argentina">
+      <data key="d1">67.0</data>
+    </edge>
+    <edge source="USA" target="Norway">
+      <data key="d1">18.0</data>
+    </edge>
+    <edge source="USA" target="Saudi Arabia">
+      <data key="d1">28.0</data>
+    </edge>
+    <edge source="USA" target="Australia">
+      <data key="d1">223.0</data>
+    </edge>
+    <edge source="USA" target="Singapore">
+      <data key="d1">13.0</data>
+    </edge>
+    <edge source="USA" target="Slovenia">
+      <data key="d1">10.0</data>
+    </edge>
+    <edge source="USA" target="Germany">
+      <data key="d1">437.0</data>
+    </edge>
+    <edge source="USA" target="Chile">
+      <data key="d1">11.0</data>
+    </edge>
+    <edge source="USA" target="Belgium">
+      <data key="d1">88.0</data>
+    </edge>
+    <edge source="USA" target="Thailand">
+      <data key="d1">5.0</data>
+    </edge>
+    <edge source="USA" target="Peoples R China">
+      <data key="d1">437.0</data>
+    </edge>
+    <edge source="USA" target="Poland">
+      <data key="d1">14.0</data>
+    </edge>
+    <edge source="USA" target="Spain">
+      <data key="d1">126.0</data>
+    </edge>
+    <edge source="USA" target="U Arab Emirates">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="USA" target="Netherlands">
+      <data key="d1">78.0</data>
+    </edge>
+    <edge source="USA" target="Taiwan">
+      <data key="d1">58.0</data>
+    </edge>
+    <edge source="USA" target="Denmark">
+      <data key="d1">80.0</data>
+    </edge>
+    <edge source="USA" target="Philippines">
+      <data key="d1">18.0</data>
+    </edge>
+    <edge source="USA" target="Finland">
+      <data key="d1">7.0</data>
+    </edge>
+    <edge source="USA" target="Israel">
+      <data key="d1">111.0</data>
+    </edge>
+    <edge source="USA" target="Sweden">
+      <data key="d1">52.0</data>
+    </edge>
+    <edge source="USA" target="Japan">
+      <data key="d1">319.0</data>
+    </edge>
+    <edge source="USA" target="Switzerland">
+      <data key="d1">76.0</data>
+    </edge>
+    <edge source="USA" target="New Zealand">
+      <data key="d1">33.0</data>
+    </edge>
+    <edge source="USA" target="Russia">
+      <data key="d1">14.0</data>
+    </edge>
+    <edge source="USA" target="Bulgaria">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="USA" target="Pakistan">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="USA" target="England">
+      <data key="d1">315.0</data>
+    </edge>
+    <edge source="USA" target="Portugal">
+      <data key="d1">7.0</data>
+    </edge>
+    <edge source="USA" target="Estonia">
+      <data key="d1">6.0</data>
+    </edge>
+    <edge source="USA" target="Mexico">
+      <data key="d1">45.0</data>
+    </edge>
+    <edge source="USA" target="Egypt">
+      <data key="d1">5.0</data>
+    </edge>
+    <edge source="USA" target="Uruguay">
+      <data key="d1">5.0</data>
+    </edge>
+    <edge source="USA" target="India">
+      <data key="d1">33.0</data>
+    </edge>
+    <edge source="USA" target="South Africa">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="USA" target="Malaysia">
+      <data key="d1">5.0</data>
+    </edge>
+    <edge source="USA" target="Austria">
+      <data key="d1">15.0</data>
+    </edge>
+    <edge source="USA" target="Colombia">
+      <data key="d1">6.0</data>
+    </edge>
+    <edge source="USA" target="Greece">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="USA" target="Sri Lanka">
+      <data key="d1">7.0</data>
+    </edge>
+    <edge source="USA" target="Hungary">
+      <data key="d1">33.0</data>
+    </edge>
+    <edge source="USA" target="South Korea">
+      <data key="d1">274.0</data>
+    </edge>
+    <edge source="Sudan" target="England">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="India" target="Israel">
+      <data key="d1">3.0</data>
+    </edge>
+    <edge source="India" target="England">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="India" target="Denmark">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="India" target="France">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="India" target="Germany">
+      <data key="d1">9.0</data>
+    </edge>
+    <edge source="India" target="Japan">
+      <data key="d1">8.0</data>
+    </edge>
+    <edge source="India" target="South Korea">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="India" target="Peoples R China">
+      <data key="d1">6.0</data>
+    </edge>
+    <edge source="Panama" target="Switzerland">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Panama" target="Australia">
+      <data key="d1">3.0</data>
+    </edge>
+    <edge source="Panama" target="Germany">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Nepal" target="Japan">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Nepal" target="South Korea">
+      <data key="d1">5.0</data>
+    </edge>
+    <edge source="Scotland" target="France">
+      <data key="d1">15.0</data>
+    </edge>
+    <edge source="Scotland" target="Wales">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Scotland" target="Australia">
+      <data key="d1">8.0</data>
+    </edge>
+    <edge source="Scotland" target="Germany">
+      <data key="d1">33.0</data>
+    </edge>
+    <edge source="Scotland" target="Belgium">
+      <data key="d1">5.0</data>
+    </edge>
+    <edge source="Scotland" target="Peoples R China">
+      <data key="d1">7.0</data>
+    </edge>
+    <edge source="Scotland" target="Spain">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Scotland" target="Netherlands">
+      <data key="d1">7.0</data>
+    </edge>
+    <edge source="Scotland" target="Denmark">
+      <data key="d1">11.0</data>
+    </edge>
+    <edge source="Scotland" target="Poland">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="Scotland" target="Finland">
+      <data key="d1">8.0</data>
+    </edge>
+    <edge source="Scotland" target="Sweden">
+      <data key="d1">8.0</data>
+    </edge>
+    <edge source="Scotland" target="Japan">
+      <data key="d1">8.0</data>
+    </edge>
+    <edge source="Scotland" target="Switzerland">
+      <data key="d1">3.0</data>
+    </edge>
+    <edge source="Scotland" target="New Zealand">
+      <data key="d1">3.0</data>
+    </edge>
+    <edge source="Scotland" target="England">
+      <data key="d1">84.0</data>
+    </edge>
+    <edge source="Scotland" target="Hungary">
+      <data key="d1">6.0</data>
+    </edge>
+    <edge source="Scotland" target="South Korea">
+      <data key="d1">5.0</data>
+    </edge>
+    <edge source="Luxembourg" target="Belgium">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Luxembourg" target="Germany">
+      <data key="d1">3.0</data>
+    </edge>
+    <edge source="Luxembourg" target="France">
+      <data key="d1">3.0</data>
+    </edge>
+    <edge source="France" target="Wales">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="France" target="Argentina">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="France" target="Norway">
+      <data key="d1">5.0</data>
+    </edge>
+    <edge source="France" target="Benin">
+      <data key="d1">8.0</data>
+    </edge>
+    <edge source="France" target="Saudi Arabia">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="France" target="Australia">
+      <data key="d1">84.0</data>
+    </edge>
+    <edge source="France" target="Indonesia">
+      <data key="d1">3.0</data>
+    </edge>
+    <edge source="France" target="Singapore">
+      <data key="d1">3.0</data>
+    </edge>
+    <edge source="France" target="Germany">
+      <data key="d1">165.0</data>
+    </edge>
+    <edge source="France" target="Chile">
+      <data key="d1">5.0</data>
+    </edge>
+    <edge source="France" target="Belgium">
+      <data key="d1">161.0</data>
+    </edge>
+    <edge source="France" target="Thailand">
+      <data key="d1">6.0</data>
+    </edge>
+    <edge source="France" target="Peoples R China">
+      <data key="d1">20.0</data>
+    </edge>
+    <edge source="France" target="Taiwan">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="France" target="Spain">
+      <data key="d1">57.0</data>
+    </edge>
+    <edge source="France" target="Netherlands">
+      <data key="d1">35.0</data>
+    </edge>
+    <edge source="France" target="Denmark">
+      <data key="d1">19.0</data>
+    </edge>
+    <edge source="France" target="Poland">
+      <data key="d1">8.0</data>
+    </edge>
+    <edge source="France" target="Finland">
+      <data key="d1">9.0</data>
+    </edge>
+    <edge source="France" target="Israel">
+      <data key="d1">10.0</data>
+    </edge>
+    <edge source="France" target="Morocco">
+      <data key="d1">5.0</data>
+    </edge>
+    <edge source="France" target="Sweden">
+      <data key="d1">57.0</data>
+    </edge>
+    <edge source="France" target="Japan">
+      <data key="d1">46.0</data>
+    </edge>
+    <edge source="France" target="Switzerland">
+      <data key="d1">39.0</data>
+    </edge>
+    <edge source="France" target="New Zealand">
+      <data key="d1">5.0</data>
+    </edge>
+    <edge source="France" target="Guadeloupe">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="France" target="Russia">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="France" target="England">
+      <data key="d1">131.0</data>
+    </edge>
+    <edge source="France" target="Portugal">
+      <data key="d1">12.0</data>
+    </edge>
+    <edge source="France" target="Mexico">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="France" target="Tunisia">
+      <data key="d1">10.0</data>
+    </edge>
+    <edge source="France" target="Austria">
+      <data key="d1">19.0</data>
+    </edge>
+    <edge source="France" target="Colombia">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="France" target="Hungary">
+      <data key="d1">12.0</data>
+    </edge>
+    <edge source="France" target="South Korea">
+      <data key="d1">17.0</data>
+    </edge>
+    <edge source="Slovakia" target="Netherlands">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Slovakia" target="England">
+      <data key="d1">3.0</data>
+    </edge>
+    <edge source="Slovakia" target="Poland">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Slovakia" target="Germany">
+      <data key="d1">19.0</data>
+    </edge>
+    <edge source="Slovakia" target="Japan">
+      <data key="d1">5.0</data>
+    </edge>
+    <edge source="Slovakia" target="Peoples R China">
+      <data key="d1">18.0</data>
+    </edge>
+    <edge source="Ireland" target="Netherlands">
+      <data key="d1">3.0</data>
+    </edge>
+    <edge source="Ireland" target="England">
+      <data key="d1">3.0</data>
+    </edge>
+    <edge source="Wales" target="Australia">
+      <data key="d1">3.0</data>
+    </edge>
+    <edge source="Wales" target="Denmark">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Wales" target="England">
+      <data key="d1">25.0</data>
+    </edge>
+    <edge source="Wales" target="Netherlands">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Wales" target="Germany">
+      <data key="d1">13.0</data>
+    </edge>
+    <edge source="Wales" target="Japan">
+      <data key="d1">7.0</data>
+    </edge>
+    <edge source="Wales" target="Hungary">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Wales" target="New Zealand">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Wales" target="Peoples R China">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Wales" target="Russia">
+      <data key="d1">3.0</data>
+    </edge>
+    <edge source="Wales" target="Spain">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="Argentina" target="Netherlands">
+      <data key="d1">3.0</data>
+    </edge>
+    <edge source="Argentina" target="England">
+      <data key="d1">7.0</data>
+    </edge>
+    <edge source="Argentina" target="Denmark">
+      <data key="d1">3.0</data>
+    </edge>
+    <edge source="Argentina" target="Sweden">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Argentina" target="Germany">
+      <data key="d1">34.0</data>
+    </edge>
+    <edge source="Argentina" target="Switzerland">
+      <data key="d1">6.0</data>
+    </edge>
+    <edge source="Argentina" target="New Zealand">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Argentina" target="Peoples R China">
+      <data key="d1">9.0</data>
+    </edge>
+    <edge source="Argentina" target="Spain">
+      <data key="d1">17.0</data>
+    </edge>
+    <edge source="Norway" target="Australia">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Norway" target="Denmark">
+      <data key="d1">3.0</data>
+    </edge>
+    <edge source="Norway" target="Finland">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="Norway" target="Sweden">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Israel" target="Netherlands">
+      <data key="d1">3.0</data>
+    </edge>
+    <edge source="Israel" target="England">
+      <data key="d1">5.0</data>
+    </edge>
+    <edge source="Israel" target="Finland">
+      <data key="d1">5.0</data>
+    </edge>
+    <edge source="Israel" target="Switzerland">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Israel" target="Taiwan">
+      <data key="d1">3.0</data>
+    </edge>
+    <edge source="Israel" target="Sweden">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="Israel" target="Australia">
+      <data key="d1">5.0</data>
+    </edge>
+    <edge source="Israel" target="Germany">
+      <data key="d1">55.0</data>
+    </edge>
+    <edge source="Israel" target="Belgium">
+      <data key="d1">13.0</data>
+    </edge>
+    <edge source="Israel" target="Japan">
+      <data key="d1">6.0</data>
+    </edge>
+    <edge source="Israel" target="New Zealand">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Israel" target="Peoples R China">
+      <data key="d1">3.0</data>
+    </edge>
+    <edge source="Israel" target="South Korea">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="Israel" target="Spain">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Australia" target="Iran">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Australia" target="Singapore">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="Australia" target="Russia">
+      <data key="d1">3.0</data>
+    </edge>
+    <edge source="Australia" target="Germany">
+      <data key="d1">55.0</data>
+    </edge>
+    <edge source="Australia" target="Belgium">
+      <data key="d1">14.0</data>
+    </edge>
+    <edge source="Australia" target="Peoples R China">
+      <data key="d1">34.0</data>
+    </edge>
+    <edge source="Australia" target="Spain">
+      <data key="d1">13.0</data>
+    </edge>
+    <edge source="Australia" target="Netherlands">
+      <data key="d1">17.0</data>
+    </edge>
+    <edge source="Australia" target="Denmark">
+      <data key="d1">18.0</data>
+    </edge>
+    <edge source="Australia" target="Sweden">
+      <data key="d1">21.0</data>
+    </edge>
+    <edge source="Australia" target="Switzerland">
+      <data key="d1">9.0</data>
+    </edge>
+    <edge source="Australia" target="New Zealand">
+      <data key="d1">6.0</data>
+    </edge>
+    <edge source="Australia" target="Taiwan">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Australia" target="England">
+      <data key="d1">89.0</data>
+    </edge>
+    <edge source="Australia" target="Mexico">
+      <data key="d1">8.0</data>
+    </edge>
+    <edge source="Australia" target="Austria">
+      <data key="d1">7.0</data>
+    </edge>
+    <edge source="Australia" target="Greece">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Australia" target="Japan">
+      <data key="d1">78.0</data>
+    </edge>
+    <edge source="Australia" target="South Korea">
+      <data key="d1">10.0</data>
+    </edge>
+    <edge source="Iran" target="Japan">
+      <data key="d1">6.0</data>
+    </edge>
+    <edge source="Singapore" target="England">
+      <data key="d1">3.0</data>
+    </edge>
+    <edge source="Singapore" target="Taiwan">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Singapore" target="Peoples R China">
+      <data key="d1">15.0</data>
+    </edge>
+    <edge source="Singapore" target="South Korea">
+      <data key="d1">6.0</data>
+    </edge>
+    <edge source="Austria" target="England">
+      <data key="d1">10.0</data>
+    </edge>
+    <edge source="Austria" target="Denmark">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Austria" target="Poland">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="Austria" target="Belgium">
+      <data key="d1">18.0</data>
+    </edge>
+    <edge source="Austria" target="Sweden">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="Austria" target="Germany">
+      <data key="d1">27.0</data>
+    </edge>
+    <edge source="Austria" target="Switzerland">
+      <data key="d1">5.0</data>
+    </edge>
+    <edge source="Austria" target="Japan">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Austria" target="Peoples R China">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="Austria" target="Spain">
+      <data key="d1">3.0</data>
+    </edge>
+    <edge source="Slovenia" target="Netherlands">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="Germany" target="Turkey">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Germany" target="Chile">
+      <data key="d1">7.0</data>
+    </edge>
+    <edge source="Germany" target="Belgium">
+      <data key="d1">81.0</data>
+    </edge>
+    <edge source="Germany" target="Peoples R China">
+      <data key="d1">87.0</data>
+    </edge>
+    <edge source="Germany" target="Taiwan">
+      <data key="d1">7.0</data>
+    </edge>
+    <edge source="Germany" target="Spain">
+      <data key="d1">54.0</data>
+    </edge>
+    <edge source="Germany" target="Netherlands">
+      <data key="d1">71.0</data>
+    </edge>
+    <edge source="Germany" target="Denmark">
+      <data key="d1">30.0</data>
+    </edge>
+    <edge source="Germany" target="Poland">
+      <data key="d1">25.0</data>
+    </edge>
+    <edge source="Germany" target="Finland">
+      <data key="d1">25.0</data>
+    </edge>
+    <edge source="Germany" target="Saudi Arabia">
+      <data key="d1">6.0</data>
+    </edge>
+    <edge source="Germany" target="Sweden">
+      <data key="d1">47.0</data>
+    </edge>
+    <edge source="Germany" target="Croatia">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Germany" target="Hungary">
+      <data key="d1">26.0</data>
+    </edge>
+    <edge source="Germany" target="Switzerland">
+      <data key="d1">78.0</data>
+    </edge>
+    <edge source="Germany" target="New Zealand">
+      <data key="d1">3.0</data>
+    </edge>
+    <edge source="Germany" target="Russia">
+      <data key="d1">12.0</data>
+    </edge>
+    <edge source="Germany" target="England">
+      <data key="d1">197.0</data>
+    </edge>
+    <edge source="Germany" target="Estonia">
+      <data key="d1">3.0</data>
+    </edge>
+    <edge source="Germany" target="Portugal">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Germany" target="Mexico">
+      <data key="d1">10.0</data>
+    </edge>
+    <edge source="Germany" target="Japan">
+      <data key="d1">85.0</data>
+    </edge>
+    <edge source="Germany" target="South Korea">
+      <data key="d1">16.0</data>
+    </edge>
+    <edge source="Chile" target="Spain">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Belgium" target="Peoples R China">
+      <data key="d1">3.0</data>
+    </edge>
+    <edge source="Belgium" target="Philippines">
+      <data key="d1">3.0</data>
+    </edge>
+    <edge source="Belgium" target="Spain">
+      <data key="d1">20.0</data>
+    </edge>
+    <edge source="Belgium" target="Netherlands">
+      <data key="d1">61.0</data>
+    </edge>
+    <edge source="Belgium" target="Poland">
+      <data key="d1">9.0</data>
+    </edge>
+    <edge source="Belgium" target="Finland">
+      <data key="d1">6.0</data>
+    </edge>
+    <edge source="Belgium" target="Sweden">
+      <data key="d1">12.0</data>
+    </edge>
+    <edge source="Belgium" target="Japan">
+      <data key="d1">16.0</data>
+    </edge>
+    <edge source="Belgium" target="Switzerland">
+      <data key="d1">31.0</data>
+    </edge>
+    <edge source="Belgium" target="New Zealand">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="Belgium" target="Russia">
+      <data key="d1">9.0</data>
+    </edge>
+    <edge source="Belgium" target="England">
+      <data key="d1">52.0</data>
+    </edge>
+    <edge source="Belgium" target="Mexico">
+      <data key="d1">8.0</data>
+    </edge>
+    <edge source="Belgium" target="Hungary">
+      <data key="d1">8.0</data>
+    </edge>
+    <edge source="Belgium" target="South Korea">
+      <data key="d1">5.0</data>
+    </edge>
+    <edge source="Thailand" target="Japan">
+      <data key="d1">5.0</data>
+    </edge>
+    <edge source="Peoples R China" target="Turkey">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Peoples R China" target="Philippines">
+      <data key="d1">3.0</data>
+    </edge>
+    <edge source="Peoples R China" target="Spain">
+      <data key="d1">6.0</data>
+    </edge>
+    <edge source="Peoples R China" target="Netherlands">
+      <data key="d1">13.0</data>
+    </edge>
+    <edge source="Peoples R China" target="Denmark">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Peoples R China" target="Poland">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Peoples R China" target="Finland">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Peoples R China" target="Saudi Arabia">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Peoples R China" target="Sweden">
+      <data key="d1">7.0</data>
+    </edge>
+    <edge source="Peoples R China" target="South Korea">
+      <data key="d1">32.0</data>
+    </edge>
+    <edge source="Peoples R China" target="Russia">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Peoples R China" target="England">
+      <data key="d1">65.0</data>
+    </edge>
+    <edge source="Peoples R China" target="Estonia">
+      <data key="d1">3.0</data>
+    </edge>
+    <edge source="Peoples R China" target="Serbia">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Peoples R China" target="Japan">
+      <data key="d1">54.0</data>
+    </edge>
+    <edge source="Peoples R China" target="Taiwan">
+      <data key="d1">13.0</data>
+    </edge>
+    <edge source="Fr Polynesia" target="Denmark">
+      <data key="d1">5.0</data>
+    </edge>
+    <edge source="Spain" target="Netherlands">
+      <data key="d1">25.0</data>
+    </edge>
+    <edge source="Spain" target="Denmark">
+      <data key="d1">6.0</data>
+    </edge>
+    <edge source="Spain" target="Finland">
+      <data key="d1">5.0</data>
+    </edge>
+    <edge source="Spain" target="Sweden">
+      <data key="d1">5.0</data>
+    </edge>
+    <edge source="Spain" target="Switzerland">
+      <data key="d1">17.0</data>
+    </edge>
+    <edge source="Spain" target="New Zealand">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Spain" target="South Korea">
+      <data key="d1">6.0</data>
+    </edge>
+    <edge source="Spain" target="England">
+      <data key="d1">48.0</data>
+    </edge>
+    <edge source="Spain" target="Estonia">
+      <data key="d1">5.0</data>
+    </edge>
+    <edge source="Spain" target="Portugal">
+      <data key="d1">3.0</data>
+    </edge>
+    <edge source="Spain" target="Uruguay">
+      <data key="d1">5.0</data>
+    </edge>
+    <edge source="Spain" target="Mexico">
+      <data key="d1">8.0</data>
+    </edge>
+    <edge source="Spain" target="Greece">
+      <data key="d1">10.0</data>
+    </edge>
+    <edge source="Spain" target="Japan">
+      <data key="d1">18.0</data>
+    </edge>
+    <edge source="Spain" target="Taiwan">
+      <data key="d1">3.0</data>
+    </edge>
+    <edge source="Netherlands" target="Denmark">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Netherlands" target="Poland">
+      <data key="d1">6.0</data>
+    </edge>
+    <edge source="Netherlands" target="Indonesia">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Netherlands" target="Sweden">
+      <data key="d1">7.0</data>
+    </edge>
+    <edge source="Netherlands" target="Switzerland">
+      <data key="d1">10.0</data>
+    </edge>
+    <edge source="Netherlands" target="Russia">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="Netherlands" target="Romania">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Netherlands" target="England">
+      <data key="d1">88.0</data>
+    </edge>
+    <edge source="Netherlands" target="Portugal">
+      <data key="d1">6.0</data>
+    </edge>
+    <edge source="Netherlands" target="Japan">
+      <data key="d1">10.0</data>
+    </edge>
+    <edge source="Netherlands" target="South Korea">
+      <data key="d1">3.0</data>
+    </edge>
+    <edge source="Denmark" target="Poland">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Denmark" target="Sweden">
+      <data key="d1">15.0</data>
+    </edge>
+    <edge source="Denmark" target="Switzerland">
+      <data key="d1">7.0</data>
+    </edge>
+    <edge source="Denmark" target="New Zealand">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Denmark" target="England">
+      <data key="d1">19.0</data>
+    </edge>
+    <edge source="Denmark" target="Portugal">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Denmark" target="Colombia">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Denmark" target="Japan">
+      <data key="d1">16.0</data>
+    </edge>
+    <edge source="Turkey" target="England">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Saudi Arabia" target="Switzerland">
+      <data key="d1">3.0</data>
+    </edge>
+    <edge source="Saudi Arabia" target="South Korea">
+      <data key="d1">5.0</data>
+    </edge>
+    <edge source="Mexico" target="Portugal">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Mexico" target="Japan">
+      <data key="d1">7.0</data>
+    </edge>
+    <edge source="Mexico" target="South Korea">
+      <data key="d1">3.0</data>
+    </edge>
+    <edge source="Philippines" target="England">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Philippines" target="Japan">
+      <data key="d1">10.0</data>
+    </edge>
+    <edge source="Philippines" target="South Korea">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="Philippines" target="Taiwan">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Sweden" target="Poland">
+      <data key="d1">14.0</data>
+    </edge>
+    <edge source="Sweden" target="Finland">
+      <data key="d1">16.0</data>
+    </edge>
+    <edge source="Sweden" target="Hungary">
+      <data key="d1">3.0</data>
+    </edge>
+    <edge source="Sweden" target="Switzerland">
+      <data key="d1">16.0</data>
+    </edge>
+    <edge source="Sweden" target="New Zealand">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Sweden" target="Russia">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="Sweden" target="England">
+      <data key="d1">30.0</data>
+    </edge>
+    <edge source="Sweden" target="Estonia">
+      <data key="d1">5.0</data>
+    </edge>
+    <edge source="Sweden" target="Japan">
+      <data key="d1">24.0</data>
+    </edge>
+    <edge source="South Korea" target="Switzerland">
+      <data key="d1">11.0</data>
+    </edge>
+    <edge source="South Korea" target="England">
+      <data key="d1">7.0</data>
+    </edge>
+    <edge source="South Korea" target="Japan">
+      <data key="d1">72.0</data>
+    </edge>
+    <edge source="South Korea" target="Taiwan">
+      <data key="d1">10.0</data>
+    </edge>
+    <edge source="Finland" target="Estonia">
+      <data key="d1">11.0</data>
+    </edge>
+    <edge source="Finland" target="England">
+      <data key="d1">12.0</data>
+    </edge>
+    <edge source="Finland" target="Switzerland">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Finland" target="Hungary">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Finland" target="Japan">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="Finland" target="New Zealand">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="Japan" target="Russia">
+      <data key="d1">16.0</data>
+    </edge>
+    <edge source="Japan" target="Poland">
+      <data key="d1">7.0</data>
+    </edge>
+    <edge source="Japan" target="Switzerland">
+      <data key="d1">14.0</data>
+    </edge>
+    <edge source="Japan" target="New Zealand">
+      <data key="d1">3.0</data>
+    </edge>
+    <edge source="Japan" target="Taiwan">
+      <data key="d1">3.0</data>
+    </edge>
+    <edge source="Japan" target="Bulgaria">
+      <data key="d1">6.0</data>
+    </edge>
+    <edge source="Japan" target="England">
+      <data key="d1">76.0</data>
+    </edge>
+    <edge source="Japan" target="Estonia">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Japan" target="Hungary">
+      <data key="d1">14.0</data>
+    </edge>
+    <edge source="Switzerland" target="Poland">
+      <data key="d1">6.0</data>
+    </edge>
+    <edge source="Switzerland" target="Hungary">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Switzerland" target="Bulgaria">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Switzerland" target="England">
+      <data key="d1">30.0</data>
+    </edge>
+    <edge source="Switzerland" target="Taiwan">
+      <data key="d1">4.0</data>
+    </edge>
+    <edge source="New Zealand" target="England">
+      <data key="d1">7.0</data>
+    </edge>
+    <edge source="Poland" target="England">
+      <data key="d1">12.0</data>
+    </edge>
+    <edge source="Poland" target="Hungary">
+      <data key="d1">7.0</data>
+    </edge>
+    <edge source="Russia" target="England">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Bulgaria" target="Hungary">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="Pakistan" target="England">
+      <data key="d1">2.0</data>
+    </edge>
+    <edge source="England" target="Portugal">
+      <data key="d1">7.0</data>
+    </edge>
+    <edge source="England" target="South Africa">
+      <data key="d1">6.0</data>
+    </edge>
+    <edge source="England" target="Hungary">
+      <data key="d1">14.0</data>
+    </edge>
+    <edge source="England" target="Taiwan">
+      <data key="d1">4.0</data>
+    </edge>
+  </graph>
+</graphml>
