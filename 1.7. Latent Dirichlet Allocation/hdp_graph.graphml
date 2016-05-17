@@ -1,0 +1,1316 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="double" for="edge" id="d2" />
+  <key attr.name="weight" attr.type="double" for="node" id="d1" />
+  <key attr.name="name" attr.type="string" for="graph" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="abortion, thalidomide, franklin, woman, pregnancy">
+      <data key="d1">47.0</data>
+    </node>
+    <node id="aquinas, summa, theologica, soul, embryology">
+      <data key="d1">1.0</data>
+    </node>
+    <node id="regeneration, theory, regenerative, smith, organism">
+      <data key="d1">9.0</data>
+    </node>
+    <node id="pope, lecture, abortion, gregory, sixtus">
+      <data key="d1">3.0</data>
+    </node>
+    <node id="nucleus, gurdon, egg, nuclear, king">
+      <data key="d1">15.0</data>
+    </node>
+    <node id="jones, york, court, case, institute">
+      <data key="d1">4.0</data>
+    </node>
+    <node id="egg, morphogenesis, hertwig, loeb, process">
+      <data key="d1">5.0</data>
+    </node>
+    <node id="hyman, henrietta, dolores, libbie, conscious">
+      <data key="d1">1.0</data>
+    </node>
+    <node id="fabrici, fetus, heart, book, uterus">
+      <data key="d1">1.0</data>
+    </node>
+    <node id="corner, waddington, medical, chick, keenan">
+      <data key="d1">3.0</data>
+    </node>
+    <node id="steptoe, ger, pfl, egg, edward">
+      <data key="d1">2.0</data>
+    </node>
+    <node id="stem, tissue, adult, nih, type">
+      <data key="d1">1.0</data>
+    </node>
+    <node id="egg, image, vitro, fertilization, ivf">
+      <data key="d1">2.0</data>
+    </node>
+    <node id="trinkaus, john, fertilization, chang, egg">
+      <data key="d1">5.0</data>
+    </node>
+    <node id="roux, amniocentesis, fetus, procedure, blastomere">
+      <data key="d1">3.0</data>
+    </node>
+    <node id="carrel, tissue, culture, loeb, park">
+      <data key="d1">10.0</data>
+    </node>
+    <node id="blood, cord, stem, umbilical, banking">
+      <data key="d1">1.0</data>
+    </node>
+    <node id="induction, chemical, experiment, compound, organizer">
+      <data key="d1">1.0</data>
+    </node>
+    <node id="growth, thompson, form, ngf, nucleus">
+      <data key="d1">5.0</data>
+    </node>
+    <node id="department, embryology, carnegie, elli, sexuality">
+      <data key="d1">4.0</data>
+    </node>
+    <node id="court, case, law, ferguson, stone">
+      <data key="d1">11.0</data>
+    </node>
+    <node id="stem, bush, brook, grobstein, president">
+      <data key="d1">12.0</data>
+    </node>
+    <node id="court, preembryos, ivf, case, agreement">
+      <data key="d1">63.0</data>
+    </node>
+    <node id="diversity, russell, evolutionary, animal, theory">
+      <data key="d1">1.0</data>
+    </node>
+    <node id="west, leonardo, fetus, implantation, stem">
+      <data key="d1">4.0</data>
+    </node>
+    <node id="von, neumann, endoscopy, endoscope, surgery">
+      <data key="d1">3.0</data>
+    </node>
+    <node id="waddington, node, sperm, hensen, catenin">
+      <data key="d1">6.0</data>
+    </node>
+    <node id="bonner, mold, slime, film, fly">
+      <data key="d1">1.0</data>
+    </node>
+    <node id="child, viable, injury, fetus, case">
+      <data key="d1">1.0</data>
+    </node>
+    <node id="augustine, church, disposed, writing, displayed">
+      <data key="d1">1.0</data>
+    </node>
+    <node id="wilmut, dolly, ian, sheep, animal">
+      <data key="d1">1.0</data>
+    </node>
+    <node id="clinic, stopes, court, death, birth">
+      <data key="d1">2.0</data>
+    </node>
+    <node id="page, scrapbook, harvard, woman, housekeeper">
+      <data key="d1">1.0</data>
+    </node>
+    <node id="egg, dinosaur, system, cope, death">
+      <data key="d1">46.0</data>
+    </node>
+    <node id="harvey, william, physician, generation, chapter">
+      <data key="d1">1.0</data>
+    </node>
+    <node id="hartman, streeter, sheep, goat, carl">
+      <data key="d1">3.0</data>
+    </node>
+    <node id="carrel, culture, tissue, graaf, marriage">
+      <data key="d1">4.0</data>
+    </node>
+    <node id="russell, theory, interpretation, heredity, organism">
+      <data key="d1">1.0</data>
+    </node>
+    <node id="fertilization, order, stem, baby, tube">
+      <data key="d1">2.0</data>
+    </node>
+    <node id="loeb, gaur, egg, stem, researcher">
+      <data key="d1">10.0</data>
+    </node>
+    <node id="washington, department, hamburger, louis, hviden">
+      <data key="d1">1.0</data>
+    </node>
+    <node id="mendel, body, cuvier, anatomy, von">
+      <data key="d1">29.0</data>
+    </node>
+    <node id="sex, temperature, lewis, reproductive, gift">
+      <data key="d1">6.0</data>
+    </node>
+    <node id="genome, edward, jones, fire, vitro">
+      <data key="d1">12.0</data>
+    </node>
+    <node id="regeneration, morgan, plan, part, process">
+      <data key="d1">2.0</data>
+    </node>
+    <node id="leonardo, drawing, fetus, anatomy, womb">
+      <data key="d1">1.0</data>
+    </node>
+    <node id="limb, nerve, harrison, nerveless, ipscs">
+      <data key="d1">3.0</data>
+    </node>
+    <node id="ramsey, elizabeth, carnegie, yale, harmonious">
+      <data key="d1">1.0</data>
+    </node>
+    <node id="sperm, discoideum, model, organism, mold">
+      <data key="d1">2.0</data>
+    </node>
+    <node id="bonner, slime, mold, amoeba, bailli">
+      <data key="d1">1.0</data>
+    </node>
+    <node id="gene, network, abortion, form, protein">
+      <data key="d1">28.0</data>
+    </node>
+    <node id="streak, primitive, waddington, experiment, vitro">
+      <data key="d1">2.0</data>
+    </node>
+    <node id="nerve, growth, sarcoma, ganglion, tumor">
+      <data key="d1">10.0</data>
+    </node>
+    <node id="gene, theory, www, wilson, scientist">
+      <data key="d1">399.0</data>
+    </node>
+    <node id="pill, birth, woman, control, hormone">
+      <data key="d1">3.0</data>
+    </node>
+    <node id="abortion, pope, effraenatam, sixtus, document">
+      <data key="d1">1.0</data>
+    </node>
+    <node id="child, fetus, kanner, tiedemann, baby">
+      <data key="d1">70.0</data>
+    </node>
+    <node id="stopes, sex, woman, test, rock">
+      <data key="d1">15.0</data>
+    </node>
+    <node id="colborn, endocrine, chemical, effect, wildlife">
+      <data key="d1">24.0</data>
+    </node>
+    <node id="fate, map, organism, developmental, lineage">
+      <data key="d1">2.0</data>
+    </node>
+    <node id="balmaceda, clinic, fertility, chile, california">
+      <data key="d1">1.0</data>
+    </node>
+    <node id="shettles, driesch, photograph, ovum, egg">
+      <data key="d1">2.0</data>
+    </node>
+    <node id="ebert, abortion, quickening, james, embryology">
+      <data key="d1">4.0</data>
+    </node>
+    <node id="sperm, egg, body, nova, system">
+      <data key="d1">1.0</data>
+    </node>
+    <node id="game, counter, pattern, cellular, conway">
+      <data key="d1">1.0</data>
+    </node>
+    <node id="court, preembryos, organism, haeckel, russell">
+      <data key="d1">18.0</data>
+    </node>
+    <node id="holtfreter, theory, organizer, nerve, tissue">
+      <data key="d1">2.0</data>
+    </node>
+    <node id="fetal, surgery, stem, fetus, woman">
+      <data key="d1">8.0</data>
+    </node>
+    <node id="laboratory, jackson, mouse, little, endometriosis">
+      <data key="d1">1.0</data>
+    </node>
+    <node id="cv, villus, procedure, woman, pregnancy">
+      <data key="d1">1.0</data>
+    </node>
+    <node id="statute, case, court, ruling, law">
+      <data key="d1">1.0</data>
+    </node>
+    <node id="church, quickening, mangold, catholic, abortion">
+      <data key="d1">2.0</data>
+    </node>
+    <node id="waddington, gene, organizer, court, agreement">
+      <data key="d1">2.0</data>
+    </node>
+    <node id="leonardo, swammerdam, egg, homunculus, preformationism">
+      <data key="d1">5.0</data>
+    </node>
+    <node id="pre, litowitz, court, contract, disposition">
+      <data key="d1">1.0</data>
+    </node>
+    <node id="fistula, stem, autism, hamlin, campbell">
+      <data key="d1">66.0</data>
+    </node>
+    <node id="willier, chick, feather, hormone, sex">
+      <data key="d1">2.0</data>
+    </node>
+    <node id="conklin, wade, abortion, well, roe">
+      <data key="d1">2.0</data>
+    </node>
+    <node id="haeckel, egg, sand, dollar, sea">
+      <data key="d1">4.0</data>
+    </node>
+    <node id="agreement, contract, jones, york, case">
+      <data key="d1">1.0</data>
+    </node>
+    <node id="cocaine, drug, thalidomide, born, pregnancy">
+      <data key="d1">25.0</data>
+    </node>
+    <node id="trembley, polyp, mother, teresa, baird">
+      <data key="d1">3.0</data>
+    </node>
+    <node id="kurt, placenta, lab, biological, san">
+      <data key="d1">3.0</data>
+    </node>
+    <node id="fabrici, bonnet, organizer, preformationism, embryology">
+      <data key="d1">6.0</data>
+    </node>
+    <node id="developmental, crest, hall, evolutionary, neural">
+      <data key="d1">1.0</data>
+    </node>
+    <node id="gene, dna, kammerer, egg, called">
+      <data key="d1">191.0</data>
+    </node>
+    <node id="rice, sachs, golden, plant, ziegler">
+      <data key="d1">9.0</data>
+    </node>
+    <node id="gene, cftr, cystic, fibrosis, loeb">
+      <data key="d1">5.0</data>
+    </node>
+    <node id="child, democrat, born, medical, ivf">
+      <data key="d1">1.0</data>
+    </node>
+    <node id="chimera, musculus, rossant, mu, tissue">
+      <data key="d1">1.0</data>
+    </node>
+    <node id="court, case, agreement, preembryos, wife">
+      <data key="d1">2.0</data>
+    </node>
+    <node id="act, stem, cloning, technology, eukaryote">
+      <data key="d1">1.0</data>
+    </node>
+    <node id="mouse, hopkins, mintz, john, fertility">
+      <data key="d1">3.0</data>
+    </node>
+    <node id="organism, child, gradient, theory, process">
+      <data key="d1">2.0</data>
+    </node>
+    <node id="baby, hospital, case, doe, parent">
+      <data key="d1">3.0</data>
+    </node>
+    <node id="library, clomiphene, mbl, law, woman">
+      <data key="d1">3.0</data>
+    </node>
+    <node id="artificial, nerve, harrison, genetic, fiber">
+      <data key="d1">3.0</data>
+    </node>
+    <node id="stem, treatment, xii, pope, pius">
+      <data key="d1">2.0</data>
+    </node>
+    <node id="abortion, pope, briggs, paul, john">
+      <data key="d1">5.0</data>
+    </node>
+    <node id="eugenics, frog, kammerer, toad, egg">
+      <data key="d1">40.0</data>
+    </node>
+    <node id="loeb, mechanistic, metaphysical, romance, jacques">
+      <data key="d1">1.0</data>
+    </node>
+    <node id="pope, pius, church, abortion, catholic">
+      <data key="d1">1.0</data>
+    </node>
+    <node id="growth, factor, epidermal, cohen, tissue">
+      <data key="d1">2.0</data>
+    </node>
+    <edge source="abortion, thalidomide, franklin, woman, pregnancy" target="stopes, sex, woman, test, rock">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="abortion, thalidomide, franklin, woman, pregnancy" target="gene, theory, www, wilson, scientist">
+      <data key="d2">23.0</data>
+    </edge>
+    <edge source="abortion, thalidomide, franklin, woman, pregnancy" target="fistula, stem, autism, hamlin, campbell">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="abortion, thalidomide, franklin, woman, pregnancy" target="eugenics, frog, kammerer, toad, egg">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="abortion, thalidomide, franklin, woman, pregnancy" target="egg, dinosaur, system, cope, death">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="abortion, thalidomide, franklin, woman, pregnancy" target="waddington, node, sperm, hensen, catenin">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="abortion, thalidomide, franklin, woman, pregnancy" target="egg, image, vitro, fertilization, ivf">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="abortion, thalidomide, franklin, woman, pregnancy" target="cv, villus, procedure, woman, pregnancy">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="abortion, thalidomide, franklin, woman, pregnancy" target="fetal, surgery, stem, fetus, woman">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="abortion, thalidomide, franklin, woman, pregnancy" target="child, fetus, kanner, tiedemann, baby">
+      <data key="d2">5.0</data>
+    </edge>
+    <edge source="abortion, thalidomide, franklin, woman, pregnancy" target="trinkaus, john, fertilization, chang, egg">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="abortion, thalidomide, franklin, woman, pregnancy" target="gene, dna, kammerer, egg, called">
+      <data key="d2">19.0</data>
+    </edge>
+    <edge source="abortion, thalidomide, franklin, woman, pregnancy" target="colborn, endocrine, chemical, effect, wildlife">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="abortion, thalidomide, franklin, woman, pregnancy" target="gene, network, abortion, form, protein">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="abortion, thalidomide, franklin, woman, pregnancy" target="genome, edward, jones, fire, vitro">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="abortion, thalidomide, franklin, woman, pregnancy" target="roux, amniocentesis, fetus, procedure, blastomere">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="abortion, thalidomide, franklin, woman, pregnancy" target="library, clomiphene, mbl, law, woman">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="abortion, thalidomide, franklin, woman, pregnancy" target="conklin, wade, abortion, well, roe">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="abortion, thalidomide, franklin, woman, pregnancy" target="court, case, law, ferguson, stone">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="abortion, thalidomide, franklin, woman, pregnancy" target="court, preembryos, ivf, case, agreement">
+      <data key="d2">5.0</data>
+    </edge>
+    <edge source="abortion, thalidomide, franklin, woman, pregnancy" target="cocaine, drug, thalidomide, born, pregnancy">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="aquinas, summa, theologica, soul, embryology" target="gene, theory, www, wilson, scientist">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="regeneration, theory, regenerative, smith, organism" target="gene, theory, www, wilson, scientist">
+      <data key="d2">7.0</data>
+    </edge>
+    <edge source="regeneration, theory, regenerative, smith, organism" target="trembley, polyp, mother, teresa, baird">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="regeneration, theory, regenerative, smith, organism" target="waddington, node, sperm, hensen, catenin">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="regeneration, theory, regenerative, smith, organism" target="mendel, body, cuvier, anatomy, von">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="regeneration, theory, regenerative, smith, organism" target="gene, dna, kammerer, egg, called">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="regeneration, theory, regenerative, smith, organism" target="court, case, law, ferguson, stone">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="regeneration, theory, regenerative, smith, organism" target="court, preembryos, ivf, case, agreement">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="pope, lecture, abortion, gregory, sixtus" target="gene, theory, www, wilson, scientist">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="pope, lecture, abortion, gregory, sixtus" target="eugenics, frog, kammerer, toad, egg">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="nucleus, gurdon, egg, nuclear, king" target="gene, theory, www, wilson, scientist">
+      <data key="d2">14.0</data>
+    </edge>
+    <edge source="nucleus, gurdon, egg, nuclear, king" target="fistula, stem, autism, hamlin, campbell">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="nucleus, gurdon, egg, nuclear, king" target="abortion, pope, briggs, paul, john">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="nucleus, gurdon, egg, nuclear, king" target="eugenics, frog, kammerer, toad, egg">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="nucleus, gurdon, egg, nuclear, king" target="egg, dinosaur, system, cope, death">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="nucleus, gurdon, egg, nuclear, king" target="growth, thompson, form, ngf, nucleus">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="nucleus, gurdon, egg, nuclear, king" target="child, fetus, kanner, tiedemann, baby">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="nucleus, gurdon, egg, nuclear, king" target="gene, dna, kammerer, egg, called">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="nucleus, gurdon, egg, nuclear, king" target="gene, network, abortion, form, protein">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="nucleus, gurdon, egg, nuclear, king" target="fate, map, organism, developmental, lineage">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="jones, york, court, case, institute" target="gene, theory, www, wilson, scientist">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="jones, york, court, case, institute" target="agreement, contract, jones, york, case">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="jones, york, court, case, institute" target="court, preembryos, ivf, case, agreement">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="egg, morphogenesis, hertwig, loeb, process" target="gene, dna, kammerer, egg, called">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="egg, morphogenesis, hertwig, loeb, process" target="gene, theory, www, wilson, scientist">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="egg, morphogenesis, hertwig, loeb, process" target="willier, chick, feather, hormone, sex">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="egg, morphogenesis, hertwig, loeb, process" target="kurt, placenta, lab, biological, san">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="egg, morphogenesis, hertwig, loeb, process" target="egg, dinosaur, system, cope, death">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="hyman, henrietta, dolores, libbie, conscious" target="gene, theory, www, wilson, scientist">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="fabrici, fetus, heart, book, uterus" target="gene, theory, www, wilson, scientist">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="fabrici, fetus, heart, book, uterus" target="child, fetus, kanner, tiedemann, baby">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="corner, waddington, medical, chick, keenan" target="gene, dna, kammerer, egg, called">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="corner, waddington, medical, chick, keenan" target="gene, theory, www, wilson, scientist">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="steptoe, ger, pfl, egg, edward" target="gene, theory, www, wilson, scientist">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="stem, tissue, adult, nih, type" target="gene, theory, www, wilson, scientist">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="stem, tissue, adult, nih, type" target="fistula, stem, autism, hamlin, campbell">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="egg, image, vitro, fertilization, ivf" target="gene, theory, www, wilson, scientist">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="egg, image, vitro, fertilization, ivf" target="court, preembryos, ivf, case, agreement">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="egg, image, vitro, fertilization, ivf" target="child, fetus, kanner, tiedemann, baby">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="trinkaus, john, fertilization, chang, egg" target="gene, dna, kammerer, egg, called">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="trinkaus, john, fertilization, chang, egg" target="gene, theory, www, wilson, scientist">
+      <data key="d2">5.0</data>
+    </edge>
+    <edge source="trinkaus, john, fertilization, chang, egg" target="egg, dinosaur, system, cope, death">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="trinkaus, john, fertilization, chang, egg" target="court, preembryos, organism, haeckel, russell">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="roux, amniocentesis, fetus, procedure, blastomere" target="gene, theory, www, wilson, scientist">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="roux, amniocentesis, fetus, procedure, blastomere" target="child, fetus, kanner, tiedemann, baby">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="roux, amniocentesis, fetus, procedure, blastomere" target="stopes, sex, woman, test, rock">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="roux, amniocentesis, fetus, procedure, blastomere" target="gene, dna, kammerer, egg, called">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="roux, amniocentesis, fetus, procedure, blastomere" target="gene, network, abortion, form, protein">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="roux, amniocentesis, fetus, procedure, blastomere" target="fetal, surgery, stem, fetus, woman">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="roux, amniocentesis, fetus, procedure, blastomere" target="cocaine, drug, thalidomide, born, pregnancy">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="carrel, tissue, culture, loeb, park" target="gene, theory, www, wilson, scientist">
+      <data key="d2">8.0</data>
+    </edge>
+    <edge source="carrel, tissue, culture, loeb, park" target="loeb, gaur, egg, stem, researcher">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="carrel, tissue, culture, loeb, park" target="artificial, nerve, harrison, genetic, fiber">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="carrel, tissue, culture, loeb, park" target="carrel, culture, tissue, graaf, marriage">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="carrel, tissue, culture, loeb, park" target="gene, dna, kammerer, egg, called">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="carrel, tissue, culture, loeb, park" target="colborn, endocrine, chemical, effect, wildlife">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="carrel, tissue, culture, loeb, park" target="nerve, growth, sarcoma, ganglion, tumor">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="carrel, tissue, culture, loeb, park" target="court, preembryos, ivf, case, agreement">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="carrel, tissue, culture, loeb, park" target="child, democrat, born, medical, ivf">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="blood, cord, stem, umbilical, banking" target="gene, theory, www, wilson, scientist">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="induction, chemical, experiment, compound, organizer" target="gene, dna, kammerer, egg, called">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="induction, chemical, experiment, compound, organizer" target="gene, theory, www, wilson, scientist">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="growth, thompson, form, ngf, nucleus" target="gene, dna, kammerer, egg, called">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="growth, thompson, form, ngf, nucleus" target="gene, theory, www, wilson, scientist">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="growth, thompson, form, ngf, nucleus" target="egg, dinosaur, system, cope, death">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="department, embryology, carnegie, elli, sexuality" target="gene, dna, kammerer, egg, called">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="department, embryology, carnegie, elli, sexuality" target="gene, theory, www, wilson, scientist">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="department, embryology, carnegie, elli, sexuality" target="egg, dinosaur, system, cope, death">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="department, embryology, carnegie, elli, sexuality" target="child, fetus, kanner, tiedemann, baby">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="department, embryology, carnegie, elli, sexuality" target="mendel, body, cuvier, anatomy, von">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="court, case, law, ferguson, stone" target="gene, theory, www, wilson, scientist">
+      <data key="d2">5.0</data>
+    </edge>
+    <edge source="court, case, law, ferguson, stone" target="fistula, stem, autism, hamlin, campbell">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="court, case, law, ferguson, stone" target="child, fetus, kanner, tiedemann, baby">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="court, case, law, ferguson, stone" target="stopes, sex, woman, test, rock">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="court, case, law, ferguson, stone" target="balmaceda, clinic, fertility, chile, california">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="court, case, law, ferguson, stone" target="court, preembryos, ivf, case, agreement">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="court, case, law, ferguson, stone" target="cocaine, drug, thalidomide, born, pregnancy">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="stem, bush, brook, grobstein, president" target="gene, theory, www, wilson, scientist">
+      <data key="d2">12.0</data>
+    </edge>
+    <edge source="stem, bush, brook, grobstein, president" target="fistula, stem, autism, hamlin, campbell">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="stem, bush, brook, grobstein, president" target="egg, dinosaur, system, cope, death">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="stem, bush, brook, grobstein, president" target="fertilization, order, stem, baby, tube">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="stem, bush, brook, grobstein, president" target="child, fetus, kanner, tiedemann, baby">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="stem, bush, brook, grobstein, president" target="gene, dna, kammerer, egg, called">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="stem, bush, brook, grobstein, president" target="court, preembryos, ivf, case, agreement">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="court, preembryos, ivf, case, agreement" target="gene, theory, www, wilson, scientist">
+      <data key="d2">30.0</data>
+    </edge>
+    <edge source="court, preembryos, ivf, case, agreement" target="fistula, stem, autism, hamlin, campbell">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="court, preembryos, ivf, case, agreement" target="fetal, surgery, stem, fetus, woman">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="court, preembryos, ivf, case, agreement" target="child, fetus, kanner, tiedemann, baby">
+      <data key="d2">8.0</data>
+    </edge>
+    <edge source="court, preembryos, ivf, case, agreement" target="stopes, sex, woman, test, rock">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="court, preembryos, ivf, case, agreement" target="colborn, endocrine, chemical, effect, wildlife">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="court, preembryos, ivf, case, agreement" target="carrel, culture, tissue, graaf, marriage">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="court, preembryos, ivf, case, agreement" target="cocaine, drug, thalidomide, born, pregnancy">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="court, preembryos, ivf, case, agreement" target="trembley, polyp, mother, teresa, baird">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="court, preembryos, ivf, case, agreement" target="agreement, contract, jones, york, case">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="court, preembryos, ivf, case, agreement" target="pill, birth, woman, control, hormone">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="court, preembryos, ivf, case, agreement" target="ebert, abortion, quickening, james, embryology">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="court, preembryos, ivf, case, agreement" target="gene, dna, kammerer, egg, called">
+      <data key="d2">5.0</data>
+    </edge>
+    <edge source="court, preembryos, ivf, case, agreement" target="court, preembryos, organism, haeckel, russell">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="court, preembryos, ivf, case, agreement" target="clinic, stopes, court, death, birth">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="court, preembryos, ivf, case, agreement" target="child, democrat, born, medical, ivf">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="court, preembryos, ivf, case, agreement" target="mendel, body, cuvier, anatomy, von">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="court, preembryos, ivf, case, agreement" target="court, case, agreement, preembryos, wife">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="court, preembryos, ivf, case, agreement" target="baby, hospital, case, doe, parent">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="court, preembryos, ivf, case, agreement" target="library, clomiphene, mbl, law, woman">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="court, preembryos, ivf, case, agreement" target="conklin, wade, abortion, well, roe">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="court, preembryos, ivf, case, agreement" target="statute, case, court, ruling, law">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="court, preembryos, ivf, case, agreement" target="abortion, pope, briggs, paul, john">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="court, preembryos, ivf, case, agreement" target="eugenics, frog, kammerer, toad, egg">
+      <data key="d2">7.0</data>
+    </edge>
+    <edge source="court, preembryos, ivf, case, agreement" target="waddington, gene, organizer, court, agreement">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="court, preembryos, ivf, case, agreement" target="child, viable, injury, fetus, case">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="court, preembryos, ivf, case, agreement" target="gene, network, abortion, form, protein">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="court, preembryos, ivf, case, agreement" target="pre, litowitz, court, contract, disposition">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="court, preembryos, ivf, case, agreement" target="nerve, growth, sarcoma, ganglion, tumor">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="diversity, russell, evolutionary, animal, theory" target="gene, theory, www, wilson, scientist">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="west, leonardo, fetus, implantation, stem" target="gene, dna, kammerer, egg, called">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="west, leonardo, fetus, implantation, stem" target="gene, theory, www, wilson, scientist">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="west, leonardo, fetus, implantation, stem" target="fistula, stem, autism, hamlin, campbell">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="west, leonardo, fetus, implantation, stem" target="child, fetus, kanner, tiedemann, baby">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="von, neumann, endoscopy, endoscope, surgery" target="gene, theory, www, wilson, scientist">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="von, neumann, endoscopy, endoscope, surgery" target="fistula, stem, autism, hamlin, campbell">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="von, neumann, endoscopy, endoscope, surgery" target="child, fetus, kanner, tiedemann, baby">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="waddington, node, sperm, hensen, catenin" target="gene, dna, kammerer, egg, called">
+      <data key="d2">5.0</data>
+    </edge>
+    <edge source="waddington, node, sperm, hensen, catenin" target="gene, theory, www, wilson, scientist">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="waddington, node, sperm, hensen, catenin" target="egg, dinosaur, system, cope, death">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="bonner, mold, slime, film, fly" target="gene, theory, www, wilson, scientist">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="child, viable, injury, fetus, case" target="child, fetus, kanner, tiedemann, baby">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="augustine, church, disposed, writing, displayed" target="gene, theory, www, wilson, scientist">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="wilmut, dolly, ian, sheep, animal" target="gene, theory, www, wilson, scientist">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="wilmut, dolly, ian, sheep, animal" target="fistula, stem, autism, hamlin, campbell">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="clinic, stopes, court, death, birth" target="gene, theory, www, wilson, scientist">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="clinic, stopes, court, death, birth" target="stopes, sex, woman, test, rock">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="page, scrapbook, harvard, woman, housekeeper" target="gene, theory, www, wilson, scientist">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="egg, dinosaur, system, cope, death" target="gene, theory, www, wilson, scientist">
+      <data key="d2">26.0</data>
+    </edge>
+    <edge source="egg, dinosaur, system, cope, death" target="fistula, stem, autism, hamlin, campbell">
+      <data key="d2">6.0</data>
+    </edge>
+    <edge source="egg, dinosaur, system, cope, death" target="willier, chick, feather, hormone, sex">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="egg, dinosaur, system, cope, death" target="child, fetus, kanner, tiedemann, baby">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="egg, dinosaur, system, cope, death" target="fate, map, organism, developmental, lineage">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="egg, dinosaur, system, cope, death" target="cocaine, drug, thalidomide, born, pregnancy">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="egg, dinosaur, system, cope, death" target="kurt, placenta, lab, biological, san">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="egg, dinosaur, system, cope, death" target="gene, dna, kammerer, egg, called">
+      <data key="d2">19.0</data>
+    </edge>
+    <edge source="egg, dinosaur, system, cope, death" target="rice, sachs, golden, plant, ziegler">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="egg, dinosaur, system, cope, death" target="mendel, body, cuvier, anatomy, von">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="egg, dinosaur, system, cope, death" target="sex, temperature, lewis, reproductive, gift">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="egg, dinosaur, system, cope, death" target="eugenics, frog, kammerer, toad, egg">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="egg, dinosaur, system, cope, death" target="streak, primitive, waddington, experiment, vitro">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="egg, dinosaur, system, cope, death" target="nerve, growth, sarcoma, ganglion, tumor">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="harvey, william, physician, generation, chapter" target="gene, theory, www, wilson, scientist">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="harvey, william, physician, generation, chapter" target="child, fetus, kanner, tiedemann, baby">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="hartman, streeter, sheep, goat, carl" target="gene, dna, kammerer, egg, called">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="hartman, streeter, sheep, goat, carl" target="gene, theory, www, wilson, scientist">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="hartman, streeter, sheep, goat, carl" target="child, fetus, kanner, tiedemann, baby">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="hartman, streeter, sheep, goat, carl" target="mendel, body, cuvier, anatomy, von">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="carrel, culture, tissue, graaf, marriage" target="gene, theory, www, wilson, scientist">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="russell, theory, interpretation, heredity, organism" target="gene, theory, www, wilson, scientist">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="fertilization, order, stem, baby, tube" target="gene, theory, www, wilson, scientist">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="loeb, gaur, egg, stem, researcher" target="gene, theory, www, wilson, scientist">
+      <data key="d2">10.0</data>
+    </edge>
+    <edge source="loeb, gaur, egg, stem, researcher" target="fistula, stem, autism, hamlin, campbell">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="loeb, gaur, egg, stem, researcher" target="gene, dna, kammerer, egg, called">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="loeb, gaur, egg, stem, researcher" target="colborn, endocrine, chemical, effect, wildlife">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="loeb, gaur, egg, stem, researcher" target="gene, network, abortion, form, protein">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="washington, department, hamburger, louis, hviden" target="gene, theory, www, wilson, scientist">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="mendel, body, cuvier, anatomy, von" target="limb, nerve, harrison, nerveless, ipscs">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="mendel, body, cuvier, anatomy, von" target="gene, theory, www, wilson, scientist">
+      <data key="d2">22.0</data>
+    </edge>
+    <edge source="mendel, body, cuvier, anatomy, von" target="fistula, stem, autism, hamlin, campbell">
+      <data key="d2">6.0</data>
+    </edge>
+    <edge source="mendel, body, cuvier, anatomy, von" target="eugenics, frog, kammerer, toad, egg">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="mendel, body, cuvier, anatomy, von" target="child, fetus, kanner, tiedemann, baby">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="mendel, body, cuvier, anatomy, von" target="gene, dna, kammerer, egg, called">
+      <data key="d2">9.0</data>
+    </edge>
+    <edge source="mendel, body, cuvier, anatomy, von" target="colborn, endocrine, chemical, effect, wildlife">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="mendel, body, cuvier, anatomy, von" target="rice, sachs, golden, plant, ziegler">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="mendel, body, cuvier, anatomy, von" target="leonardo, swammerdam, egg, homunculus, preformationism">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="mendel, body, cuvier, anatomy, von" target="cocaine, drug, thalidomide, born, pregnancy">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="sex, temperature, lewis, reproductive, gift" target="gene, dna, kammerer, egg, called">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="sex, temperature, lewis, reproductive, gift" target="gene, theory, www, wilson, scientist">
+      <data key="d2">5.0</data>
+    </edge>
+    <edge source="sex, temperature, lewis, reproductive, gift" target="child, fetus, kanner, tiedemann, baby">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="genome, edward, jones, fire, vitro" target="gene, dna, kammerer, egg, called">
+      <data key="d2">5.0</data>
+    </edge>
+    <edge source="genome, edward, jones, fire, vitro" target="gene, theory, www, wilson, scientist">
+      <data key="d2">11.0</data>
+    </edge>
+    <edge source="genome, edward, jones, fire, vitro" target="fistula, stem, autism, hamlin, campbell">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="genome, edward, jones, fire, vitro" target="child, fetus, kanner, tiedemann, baby">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="regeneration, morgan, plan, part, process" target="gene, theory, www, wilson, scientist">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="leonardo, drawing, fetus, anatomy, womb" target="gene, theory, www, wilson, scientist">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="leonardo, drawing, fetus, anatomy, womb" target="child, fetus, kanner, tiedemann, baby">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="limb, nerve, harrison, nerveless, ipscs" target="gene, dna, kammerer, egg, called">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="limb, nerve, harrison, nerveless, ipscs" target="gene, theory, www, wilson, scientist">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="limb, nerve, harrison, nerveless, ipscs" target="fistula, stem, autism, hamlin, campbell">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="ramsey, elizabeth, carnegie, yale, harmonious" target="gene, dna, kammerer, egg, called">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="ramsey, elizabeth, carnegie, yale, harmonious" target="gene, theory, www, wilson, scientist">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="ramsey, elizabeth, carnegie, yale, harmonious" target="child, fetus, kanner, tiedemann, baby">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="sperm, discoideum, model, organism, mold" target="gene, dna, kammerer, egg, called">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="sperm, discoideum, model, organism, mold" target="gene, theory, www, wilson, scientist">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="bonner, slime, mold, amoeba, bailli" target="gene, dna, kammerer, egg, called">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="bonner, slime, mold, amoeba, bailli" target="gene, theory, www, wilson, scientist">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="gene, network, abortion, form, protein" target="gene, theory, www, wilson, scientist">
+      <data key="d2">12.0</data>
+    </edge>
+    <edge source="gene, network, abortion, form, protein" target="fistula, stem, autism, hamlin, campbell">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="gene, network, abortion, form, protein" target="eugenics, frog, kammerer, toad, egg">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="gene, network, abortion, form, protein" target="child, fetus, kanner, tiedemann, baby">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="gene, network, abortion, form, protein" target="stopes, sex, woman, test, rock">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="gene, network, abortion, form, protein" target="gene, dna, kammerer, egg, called">
+      <data key="d2">9.0</data>
+    </edge>
+    <edge source="gene, network, abortion, form, protein" target="colborn, endocrine, chemical, effect, wildlife">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="gene, network, abortion, form, protein" target="abortion, pope, briggs, paul, john">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="gene, network, abortion, form, protein" target="fetal, surgery, stem, fetus, woman">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="gene, network, abortion, form, protein" target="cocaine, drug, thalidomide, born, pregnancy">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="streak, primitive, waddington, experiment, vitro" target="gene, dna, kammerer, egg, called">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="nerve, growth, sarcoma, ganglion, tumor" target="gene, theory, www, wilson, scientist">
+      <data key="d2">5.0</data>
+    </edge>
+    <edge source="nerve, growth, sarcoma, ganglion, tumor" target="child, fetus, kanner, tiedemann, baby">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="nerve, growth, sarcoma, ganglion, tumor" target="gene, dna, kammerer, egg, called">
+      <data key="d2">6.0</data>
+    </edge>
+    <edge source="nerve, growth, sarcoma, ganglion, tumor" target="colborn, endocrine, chemical, effect, wildlife">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="nerve, growth, sarcoma, ganglion, tumor" target="growth, factor, epidermal, cohen, tissue">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="nerve, growth, sarcoma, ganglion, tumor" target="artificial, nerve, harrison, genetic, fiber">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="gene, theory, www, wilson, scientist" target="pill, birth, woman, control, hormone">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="gene, theory, www, wilson, scientist" target="abortion, pope, effraenatam, sixtus, document">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="gene, theory, www, wilson, scientist" target="child, fetus, kanner, tiedemann, baby">
+      <data key="d2">35.0</data>
+    </edge>
+    <edge source="gene, theory, www, wilson, scientist" target="stopes, sex, woman, test, rock">
+      <data key="d2">13.0</data>
+    </edge>
+    <edge source="gene, theory, www, wilson, scientist" target="colborn, endocrine, chemical, effect, wildlife">
+      <data key="d2">13.0</data>
+    </edge>
+    <edge source="gene, theory, www, wilson, scientist" target="fate, map, organism, developmental, lineage">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="gene, theory, www, wilson, scientist" target="balmaceda, clinic, fertility, chile, california">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="gene, theory, www, wilson, scientist" target="shettles, driesch, photograph, ovum, egg">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="gene, theory, www, wilson, scientist" target="ebert, abortion, quickening, james, embryology">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="gene, theory, www, wilson, scientist" target="sperm, egg, body, nova, system">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="gene, theory, www, wilson, scientist" target="game, counter, pattern, cellular, conway">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="gene, theory, www, wilson, scientist" target="court, preembryos, organism, haeckel, russell">
+      <data key="d2">15.0</data>
+    </edge>
+    <edge source="gene, theory, www, wilson, scientist" target="holtfreter, theory, organizer, nerve, tissue">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="gene, theory, www, wilson, scientist" target="fetal, surgery, stem, fetus, woman">
+      <data key="d2">6.0</data>
+    </edge>
+    <edge source="gene, theory, www, wilson, scientist" target="laboratory, jackson, mouse, little, endometriosis">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="gene, theory, www, wilson, scientist" target="cv, villus, procedure, woman, pregnancy">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="gene, theory, www, wilson, scientist" target="church, quickening, mangold, catholic, abortion">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="gene, theory, www, wilson, scientist" target="waddington, gene, organizer, court, agreement">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="gene, theory, www, wilson, scientist" target="leonardo, swammerdam, egg, homunculus, preformationism">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="gene, theory, www, wilson, scientist" target="fistula, stem, autism, hamlin, campbell">
+      <data key="d2">36.0</data>
+    </edge>
+    <edge source="gene, theory, www, wilson, scientist" target="willier, chick, feather, hormone, sex">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="gene, theory, www, wilson, scientist" target="conklin, wade, abortion, well, roe">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="gene, theory, www, wilson, scientist" target="haeckel, egg, sand, dollar, sea">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="gene, theory, www, wilson, scientist" target="agreement, contract, jones, york, case">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="gene, theory, www, wilson, scientist" target="cocaine, drug, thalidomide, born, pregnancy">
+      <data key="d2">17.0</data>
+    </edge>
+    <edge source="gene, theory, www, wilson, scientist" target="trembley, polyp, mother, teresa, baird">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="gene, theory, www, wilson, scientist" target="kurt, placenta, lab, biological, san">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="gene, theory, www, wilson, scientist" target="fabrici, bonnet, organizer, preformationism, embryology">
+      <data key="d2">5.0</data>
+    </edge>
+    <edge source="gene, theory, www, wilson, scientist" target="developmental, crest, hall, evolutionary, neural">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="gene, theory, www, wilson, scientist" target="gene, dna, kammerer, egg, called">
+      <data key="d2">85.0</data>
+    </edge>
+    <edge source="gene, theory, www, wilson, scientist" target="rice, sachs, golden, plant, ziegler">
+      <data key="d2">8.0</data>
+    </edge>
+    <edge source="gene, theory, www, wilson, scientist" target="gene, cftr, cystic, fibrosis, loeb">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="gene, theory, www, wilson, scientist" target="child, democrat, born, medical, ivf">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="gene, theory, www, wilson, scientist" target="chimera, musculus, rossant, mu, tissue">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="gene, theory, www, wilson, scientist" target="act, stem, cloning, technology, eukaryote">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="gene, theory, www, wilson, scientist" target="mouse, hopkins, mintz, john, fertility">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="gene, theory, www, wilson, scientist" target="organism, child, gradient, theory, process">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="gene, theory, www, wilson, scientist" target="baby, hospital, case, doe, parent">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="gene, theory, www, wilson, scientist" target="library, clomiphene, mbl, law, woman">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="gene, theory, www, wilson, scientist" target="artificial, nerve, harrison, genetic, fiber">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="gene, theory, www, wilson, scientist" target="stem, treatment, xii, pope, pius">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="gene, theory, www, wilson, scientist" target="abortion, pope, briggs, paul, john">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="gene, theory, www, wilson, scientist" target="eugenics, frog, kammerer, toad, egg">
+      <data key="d2">22.0</data>
+    </edge>
+    <edge source="gene, theory, www, wilson, scientist" target="loeb, mechanistic, metaphysical, romance, jacques">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="gene, theory, www, wilson, scientist" target="pope, pius, church, abortion, catholic">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="pill, birth, woman, control, hormone" target="stopes, sex, woman, test, rock">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="pill, birth, woman, control, hormone" target="eugenics, frog, kammerer, toad, egg">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="child, fetus, kanner, tiedemann, baby" target="fistula, stem, autism, hamlin, campbell">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="child, fetus, kanner, tiedemann, baby" target="stopes, sex, woman, test, rock">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="child, fetus, kanner, tiedemann, baby" target="fetal, surgery, stem, fetus, woman">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="child, fetus, kanner, tiedemann, baby" target="fabrici, bonnet, organizer, preformationism, embryology">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="child, fetus, kanner, tiedemann, baby" target="cocaine, drug, thalidomide, born, pregnancy">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="child, fetus, kanner, tiedemann, baby" target="shettles, driesch, photograph, ovum, egg">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="child, fetus, kanner, tiedemann, baby" target="trembley, polyp, mother, teresa, baird">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="child, fetus, kanner, tiedemann, baby" target="ebert, abortion, quickening, james, embryology">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="child, fetus, kanner, tiedemann, baby" target="gene, dna, kammerer, egg, called">
+      <data key="d2">16.0</data>
+    </edge>
+    <edge source="child, fetus, kanner, tiedemann, baby" target="rice, sachs, golden, plant, ziegler">
+      <data key="d2">4.0</data>
+    </edge>
+    <edge source="child, fetus, kanner, tiedemann, baby" target="sperm, egg, body, nova, system">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="child, fetus, kanner, tiedemann, baby" target="baby, hospital, case, doe, parent">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="child, fetus, kanner, tiedemann, baby" target="cv, villus, procedure, woman, pregnancy">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="child, fetus, kanner, tiedemann, baby" target="eugenics, frog, kammerer, toad, egg">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="child, fetus, kanner, tiedemann, baby" target="growth, factor, epidermal, cohen, tissue">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="stopes, sex, woman, test, rock" target="eugenics, frog, kammerer, toad, egg">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="stopes, sex, woman, test, rock" target="gene, dna, kammerer, egg, called">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="stopes, sex, woman, test, rock" target="fetal, surgery, stem, fetus, woman">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="stopes, sex, woman, test, rock" target="cocaine, drug, thalidomide, born, pregnancy">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="colborn, endocrine, chemical, effect, wildlife" target="eugenics, frog, kammerer, toad, egg">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="colborn, endocrine, chemical, effect, wildlife" target="gene, dna, kammerer, egg, called">
+      <data key="d2">8.0</data>
+    </edge>
+    <edge source="colborn, endocrine, chemical, effect, wildlife" target="cocaine, drug, thalidomide, born, pregnancy">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="fate, map, organism, developmental, lineage" target="gene, dna, kammerer, egg, called">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="fate, map, organism, developmental, lineage" target="eugenics, frog, kammerer, toad, egg">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="shettles, driesch, photograph, ovum, egg" target="court, preembryos, organism, haeckel, russell">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="ebert, abortion, quickening, james, embryology" target="abortion, pope, briggs, paul, john">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="ebert, abortion, quickening, james, embryology" target="eugenics, frog, kammerer, toad, egg">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="court, preembryos, organism, haeckel, russell" target="fistula, stem, autism, hamlin, campbell">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="court, preembryos, organism, haeckel, russell" target="gene, dna, kammerer, egg, called">
+      <data key="d2">5.0</data>
+    </edge>
+    <edge source="court, preembryos, organism, haeckel, russell" target="rice, sachs, golden, plant, ziegler">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="holtfreter, theory, organizer, nerve, tissue" target="gene, dna, kammerer, egg, called">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="fetal, surgery, stem, fetus, woman" target="fistula, stem, autism, hamlin, campbell">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="fetal, surgery, stem, fetus, woman" target="gene, dna, kammerer, egg, called">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="fetal, surgery, stem, fetus, woman" target="cocaine, drug, thalidomide, born, pregnancy">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="cv, villus, procedure, woman, pregnancy" target="gene, dna, kammerer, egg, called">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="waddington, gene, organizer, court, agreement" target="gene, dna, kammerer, egg, called">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="leonardo, swammerdam, egg, homunculus, preformationism" target="gene, dna, kammerer, egg, called">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="fistula, stem, autism, hamlin, campbell" target="fabrici, bonnet, organizer, preformationism, embryology">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="fistula, stem, autism, hamlin, campbell" target="gene, dna, kammerer, egg, called">
+      <data key="d2">12.0</data>
+    </edge>
+    <edge source="fistula, stem, autism, hamlin, campbell" target="baby, hospital, case, doe, parent">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="fistula, stem, autism, hamlin, campbell" target="stem, treatment, xii, pope, pius">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="fistula, stem, autism, hamlin, campbell" target="eugenics, frog, kammerer, toad, egg">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="willier, chick, feather, hormone, sex" target="kurt, placenta, lab, biological, san">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="cocaine, drug, thalidomide, born, pregnancy" target="gene, dna, kammerer, egg, called">
+      <data key="d2">10.0</data>
+    </edge>
+    <edge source="cocaine, drug, thalidomide, born, pregnancy" target="rice, sachs, golden, plant, ziegler">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="trembley, polyp, mother, teresa, baird" target="eugenics, frog, kammerer, toad, egg">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="fabrici, bonnet, organizer, preformationism, embryology" target="gene, dna, kammerer, egg, called">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="developmental, crest, hall, evolutionary, neural" target="gene, dna, kammerer, egg, called">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="gene, dna, kammerer, egg, called" target="gene, cftr, cystic, fibrosis, loeb">
+      <data key="d2">3.0</data>
+    </edge>
+    <edge source="gene, dna, kammerer, egg, called" target="growth, factor, epidermal, cohen, tissue">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="gene, dna, kammerer, egg, called" target="mouse, hopkins, mintz, john, fertility">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="gene, dna, kammerer, egg, called" target="organism, child, gradient, theory, process">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="gene, dna, kammerer, egg, called" target="artificial, nerve, harrison, genetic, fiber">
+      <data key="d2">2.0</data>
+    </edge>
+    <edge source="gene, dna, kammerer, egg, called" target="abortion, pope, briggs, paul, john">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="gene, dna, kammerer, egg, called" target="eugenics, frog, kammerer, toad, egg">
+      <data key="d2">10.0</data>
+    </edge>
+    <edge source="stem, treatment, xii, pope, pius" target="eugenics, frog, kammerer, toad, egg">
+      <data key="d2">1.0</data>
+    </edge>
+    <edge source="abortion, pope, briggs, paul, john" target="eugenics, frog, kammerer, toad, egg">
+      <data key="d2">2.0</data>
+    </edge>
+  </graph>
+</graphml>
